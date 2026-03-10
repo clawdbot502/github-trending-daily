@@ -1,101 +1,170 @@
-import Image from "next/image";
+import { DailyData } from '@/lib/types';
+import ProjectCard from '@/components/ProjectCard';
+import fs from 'fs';
+import path from 'path';
 
-export default function Home() {
+async function getData(): Promise<DailyData> {
+  const filePath = path.join(process.cwd(), 'data', 'latest.json');
+  const fileContent = fs.readFileSync(filePath, 'utf-8');
+  return JSON.parse(fileContent);
+}
+
+export default async function Home() {
+  const data = await getData();
+  const hotProjects = data.projects.filter(p => p.category === 'hot');
+  const gemProjects = data.projects.filter(p => p.category === 'gem');
+
   return (
-    <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
-      <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
-        <Image
-          className="dark:invert"
-          src="https://nextjs.org/icons/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
-        />
-        <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
-          <li className="mb-2">
-            Get started by editing{" "}
-            <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold">
-              app/page.tsx
-            </code>
-            .
-          </li>
-          <li>Save and see your changes instantly.</li>
-        </ol>
+    <main className="min-h-screen">
+      {/* Hero Section */}
+      <header className="relative overflow-hidden border-b border-white/10">
+        <div className="max-w-7xl mx-auto px-6 py-20">
+          {/* Background gradient */}
+          <div className="absolute inset-0 bg-gradient-to-br from-orange-500/10 via-transparent to-cyan-500/10 pointer-events-none" />
+          
+          <div className="relative z-10">
+            <div className="animate-slide-in-left opacity-0">
+              <h1 className="text-6xl md:text-8xl font-bold mb-6 leading-tight">
+                GitHub
+                <br />
+                <span className="gradient-text-hot">Trending</span>
+                <br />
+                Daily
+              </h1>
+            </div>
 
-        <div className="flex gap-4 items-center flex-col sm:flex-row">
-          <a
-            className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="https://nextjs.org/icons/vercel.svg"
-              alt="Vercel logomark"
-              width={20}
-              height={20}
-            />
-            Deploy now
-          </a>
-          <a
-            className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:min-w-44"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Read our docs
-          </a>
+            <div className="animate-fade-in-up opacity-0 delay-200">
+              <p className="text-xl text-gray-400 max-w-2xl mb-8">
+                每日自动抓取 GitHub 热门项目，AI 智能总结，安全评分
+                <br />
+                助你发现最有价值的开源项目
+              </p>
+            </div>
+
+            {/* Stats */}
+            <div className="flex flex-wrap gap-8 animate-fade-in-up opacity-0 delay-300">
+              <div>
+                <div className="text-4xl font-bold gradient-text-hot mono">
+                  {data.stats.total}
+                </div>
+                <div className="text-sm text-gray-500 mono">今日精选</div>
+              </div>
+              <div>
+                <div className="text-4xl font-bold gradient-text-hot mono">
+                  {data.stats.hot}
+                </div>
+                <div className="text-sm text-gray-500 mono">热门项目</div>
+              </div>
+              <div>
+                <div className="text-4xl font-bold gradient-text-gem mono">
+                  {data.stats.gem}
+                </div>
+                <div className="text-sm text-gray-500 mono">宝藏项目</div>
+              </div>
+            </div>
+
+            {/* Date */}
+            <div className="mt-8 animate-fade-in-up opacity-0 delay-400">
+              <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white/5 border border-white/10">
+                <span className="text-gray-500">📅</span>
+                <span className="mono text-sm">
+                  {new Date(data.date).toLocaleDateString('zh-CN', {
+                    year: 'numeric',
+                    month: 'long',
+                    day: 'numeric',
+                    weekday: 'long'
+                  })}
+                </span>
+              </div>
+            </div>
+          </div>
         </div>
-      </main>
-      <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="https://nextjs.org/icons/file.svg"
-            alt="File icon"
-            width={16}
-            height={16}
-          />
-          Learn
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="https://nextjs.org/icons/window.svg"
-            alt="Window icon"
-            width={16}
-            height={16}
-          />
-          Examples
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="https://nextjs.org/icons/globe.svg"
-            alt="Globe icon"
-            width={16}
-            height={16}
-          />
-          Go to nextjs.org →
-        </a>
+      </header>
+
+      {/* Hot Projects Section */}
+      {hotProjects.length > 0 && (
+        <section className="max-w-7xl mx-auto px-6 py-16">
+          <div className="mb-8">
+            <h2 className="text-4xl font-bold mb-2">
+              <span className="gradient-text-hot">🔥 热门项目</span>
+            </h2>
+            <p className="text-gray-400">
+              Star 增长迅速，社区活跃度高的项目
+            </p>
+          </div>
+
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+            {hotProjects.map((project, index) => (
+              <ProjectCard key={project.id} project={project} index={index} />
+            ))}
+          </div>
+        </section>
+      )}
+
+      {/* Gem Projects Section */}
+      {gemProjects.length > 0 && (
+        <section className="max-w-7xl mx-auto px-6 py-16">
+          <div className="mb-8">
+            <h2 className="text-4xl font-bold mb-2">
+              <span className="gradient-text-gem">💎 宝藏项目</span>
+            </h2>
+            <p className="text-gray-400">
+              小众但有价值，解决实际问题的创意项目
+            </p>
+          </div>
+
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+            {gemProjects.map((project, index) => (
+              <ProjectCard key={project.id} project={project} index={index} />
+            ))}
+          </div>
+        </section>
+      )}
+
+      {/* Tags Cloud */}
+      <section className="max-w-7xl mx-auto px-6 py-16 border-t border-white/10">
+        <div className="mb-8">
+          <h2 className="text-2xl font-bold mb-2">
+            <span className="text-gray-300">🏷️ 热门标签</span>
+          </h2>
+        </div>
+
+        <div className="flex flex-wrap gap-4">
+          {Object.entries(data.stats.by_tag)
+            .sort(([, a], [, b]) => b - a)
+            .map(([tag, count]) => (
+              <div
+                key={tag}
+                className="px-6 py-3 rounded-full bg-white/5 border border-white/10 hover:border-white/20 transition-all hover:scale-105"
+              >
+                <span className="font-bold">{tag}</span>
+                <span className="ml-2 text-gray-500 mono text-sm">×{count}</span>
+              </div>
+            ))}
+        </div>
+      </section>
+
+      {/* Footer */}
+      <footer className="border-t border-white/10 py-12">
+        <div className="max-w-7xl mx-auto px-6 text-center text-gray-500 text-sm">
+          <p className="mb-2">
+            每天香港时间 9:00 自动更新
+          </p>
+          <p>
+            数据来源：GitHub Trending | AI 总结：Kimi | 安全评分：启发式规则
+          </p>
+          <p className="mt-4">
+            <a
+              href="https://github.com/brucey0017-cloud/github-trending-daily"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-gray-300 transition-colors underline"
+            >
+              View on GitHub
+            </a>
+          </p>
+        </div>
       </footer>
-    </div>
+    </main>
   );
 }

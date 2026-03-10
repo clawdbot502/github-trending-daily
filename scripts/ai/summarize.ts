@@ -4,7 +4,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 import type { ClassifiedProject } from '../../lib/types';
-import { logError, logInfo, logWarn, safeText, withRetry } from '../../lib/utils';
+import { logInfo, logWarn, safeText, withRetry } from '../../lib/utils';
 
 interface KimiConfig {
   apiKey?: string;
@@ -19,6 +19,8 @@ interface KimiBatchSummary {
 
 const DEFAULT_BASE_URL = 'https://api.moonshot.cn/v1';
 const DEFAULT_MODEL = 'kimi-k2.5';
+const DEFAULT_BATCH_SIZE = 3;
+const MAX_BATCH_SIZE = 5;
 const MAX_SUMMARY_LENGTH = 60;
 
 function extractJsonPayload(rawText: string): string {
@@ -55,6 +57,35 @@ function fallbackSummary(project: ClassifiedProject): string {
   return toShortSummary(base, `${project.name} 提供实用开源能力。`);
 }
 
+function toErrorMessage(error: unknown): string {
+  if (axios.isAxiosError(error)) {
+    const status = error.response?.status;
+    const code = error.code;
+    const message = error.message;
+
+    if (status) {
+      return `axios status=${status} code=${code ?? 'N/A'} message=${message}`;
+    }
+
+    return `axios code=${code ?? 'N/A'} message=${message}`;
+  }
+
+  if (error instanceof Error) {
+    return error.message;
+  }
+
+  return String(error);
+}
+
+function resolveBatchSize(): number {
+  const parsed = Number.parseInt(process.env.KIMI_BATCH_SIZE ?? `${DEFAULT_BATCH_SIZE}`, 10);
+  if (!Number.isFinite(parsed)) {
+    return DEFAULT_BATCH_SIZE;
+  }
+
+  return Math.max(1, Math.min(MAX_BATCH_SIZE, parsed));
+}
+
 function loadOpenClawMoonshotConfig(): Partial<KimiConfig> {
   try {
     const configPath = process.env.OPENCLAW_CONFIG_PATH ?? '/root/.openclaw/openclaw.json';
@@ -85,7 +116,7 @@ function loadOpenClawMoonshotConfig(): Partial<KimiConfig> {
       model: moonshot.models?.[0]?.id,
     };
   } catch (error) {
-    logWarn('Failed to load moonshot config from openclaw.json, fallback to env config.', error);
+    logWarn(`Failed to load moonshot config from openclaw.json: ${toErrorMessage(error)}`);
     return {};
   }
 }
@@ -153,7 +184,7 @@ async function callKimiForBatch(batch: ClassifiedProject[], config: KimiConfig):
           };
         }>;
       }>(endpoint, payload, {
-        timeout: 30_000,
+        timeout: 25_000,
         headers: {
           'Content-Type': 'application/json',
           Authorization: `Bearer ${config.apiKey}`,
@@ -168,7 +199,7 @@ async function callKimiForBatch(batch: ClassifiedProject[], config: KimiConfig):
       return rawContent;
     },
     3,
-    3_000,
+    2_500,
   );
 
   const jsonPayload = extractJsonPayload(content);
@@ -208,6 +239,23 @@ function splitIntoBatches<T>(items: T[], batchSize: number): T[][] {
   return batches;
 }
 
+async function summarizeBatchOneByOne(
+  batch: ClassifiedProject[],
+  config: KimiConfig,
+  summaryMap: Map<string, string>,
+): Promise<void> {
+  for (const project of batch) {
+    try {
+      const oneResult = await callKimiForBatch([project], config);
+      const oneSummary = oneResult.find((item) => item.id === project.id)?.summary;
+      summaryMap.set(project.id, toShortSummary(oneSummary ?? '', fallbackSummary(project)));
+    } catch (error) {
+      logWarn(`AI single retry failed for ${project.id}, fallback summary applied: ${toErrorMessage(error)}`);
+      summaryMap.set(project.id, fallbackSummary(project));
+    }
+  }
+}
+
 export async function summarizeProjects(projects: ClassifiedProject[]): Promise<Map<string, string>> {
   const summaryMap = new Map<string, string>();
 
@@ -225,8 +273,9 @@ export async function summarizeProjects(projects: ClassifiedProject[]): Promise<
     return summaryMap;
   }
 
-  const batches = splitIntoBatches(projects, 5);
-  logInfo(`Start AI summarization in ${batches.length} batch(es).`);
+  const batchSize = resolveBatchSize();
+  const batches = splitIntoBatches(projects, batchSize);
+  logInfo(`Start AI summarization in ${batches.length} batch(es), batchSize=${batchSize}.`);
 
   for (let index = 0; index < batches.length; index += 1) {
     const batch = batches[index] as ClassifiedProject[];
@@ -242,10 +291,10 @@ export async function summarizeProjects(projects: ClassifiedProject[]): Promise<
 
       logInfo(`AI summary batch ${index + 1}/${batches.length} completed.`);
     } catch (error) {
-      logError(`AI summary batch ${index + 1}/${batches.length} failed, fallback applied.`, error);
-      for (const project of batch) {
-        summaryMap.set(project.id, fallbackSummary(project));
-      }
+      logWarn(
+        `AI summary batch ${index + 1}/${batches.length} failed, fallback to one-by-one retries: ${toErrorMessage(error)}`,
+      );
+      await summarizeBatchOneByOne(batch, config, summaryMap);
     }
   }
 

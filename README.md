@@ -27,6 +27,7 @@ cp .env.example .env.local
 - `KIMI_API_KEY`
 - `KIMI_BASE_URL`
 - `KIMI_MODEL`
+- `KIMI_BATCH_SIZE`（可选，默认 3）
 - `GITHUB_TOKEN`
 - `TELEGRAM_BOT_TOKEN`
 - `TELEGRAM_CHAT_ID`
@@ -66,6 +67,7 @@ npm run notify
 - `KIMI_API_KEY`
 - `KIMI_BASE_URL`
 - `KIMI_MODEL`
+- `KIMI_BATCH_SIZE`（可选，默认 3）
 - `GITHUB_TOKEN`
 - `TELEGRAM_BOT_TOKEN`
 - `TELEGRAM_CHAT_ID`

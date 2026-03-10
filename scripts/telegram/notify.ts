@@ -103,6 +103,8 @@ async function readLatestDailyData(): Promise<DailyData> {
 export async function sendTelegramDailyReport(dailyData?: DailyData): Promise<void> {
   const token = process.env.TELEGRAM_BOT_TOKEN;
   const chatId = process.env.TELEGRAM_CHAT_ID;
+  const threadIdRaw = process.env.TELEGRAM_THREAD_ID;
+  const threadId = threadIdRaw ? Number.parseInt(threadIdRaw, 10) : undefined;
   const appBaseUrl = process.env.APP_BASE_URL ?? 'https://your-vercel-app.vercel.app';
 
   if (!token || !chatId) {
@@ -124,6 +126,7 @@ export async function sendTelegramDailyReport(dailyData?: DailyData): Promise<vo
       async () => {
         await bot.sendMessage(chatId, message, {
           disable_web_page_preview: true,
+          ...(threadId && Number.isFinite(threadId) ? { message_thread_id: threadId } : {}),
         });
       },
       3,

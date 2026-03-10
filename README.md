@@ -28,6 +28,7 @@ cp .env.example .env.local
 - `GITHUB_TOKEN`
 - `TELEGRAM_BOT_TOKEN`
 - `TELEGRAM_CHAT_ID`
+- `TELEGRAM_THREAD_ID`（可选，Telegram 话题帖 thread id）
 - `APP_BASE_URL`（Telegram 消息中的页面链接）
 
 ## 本地命令

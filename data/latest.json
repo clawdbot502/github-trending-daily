@@ -1,0 +1,463 @@
+{
+  "date": "2026-03-10",
+  "generated_at": "2026-03-10T10:53:42.547Z",
+  "projects": [
+    {
+      "id": "openclaw/openclaw",
+      "name": "openclaw",
+      "owner": "openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "ai_summary": "Your own personal AI assistant. Any OS. Any Platform. The l…",
+      "language": "TypeScript",
+      "stars": 295592,
+      "forks": 55886,
+      "stars_today": 9164,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI"
+      ],
+      "security_score": 70,
+      "security_details": {
+        "author_age_days": 65,
+        "repo_age_days": 106,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 12028,
+        "pr_count": 23448,
+        "star_fork_ratio": 5.29
+      },
+      "trending_days": 1,
+      "first_seen": "2026-03-10T00:00:00.000Z"
+    },
+    {
+      "id": "msitarzewski/agency-agents",
+      "name": "agency-agents",
+      "owner": "msitarzewski",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "ai_summary": "A complete AI agency at your fingertips - From frontend wiz…",
+      "language": "Shell",
+      "stars": 21529,
+      "forks": 3368,
+      "stars_today": 4415,
+      "stars_this_week": 16812,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 90,
+      "security_details": {
+        "author_age_days": 4987,
+        "repo_age_days": 147,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 30,
+        "pr_count": 62,
+        "star_fork_ratio": 6.39
+      },
+      "trending_days": 1,
+      "first_seen": "2026-03-10T00:00:00.000Z"
+    },
+    {
+      "id": "bytedance/deer-flow",
+      "name": "deer-flow",
+      "owner": "bytedance",
+      "url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.",
+      "ai_summary": "An open-source SuperAgent harness that researches, codes, a…",
+      "language": "Python",
+      "stars": 27903,
+      "forks": 3328,
+      "stars_today": 1443,
+      "stars_this_week": 3555,
+      "category": "hot",
+      "tags": [
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 95,
+      "security_details": {
+        "author_age_days": 4712,
+        "repo_age_days": 307,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 245,
+        "pr_count": 536,
+        "star_fork_ratio": 8.38
+      },
+      "trending_days": 1,
+      "first_seen": "2026-03-10T00:00:00.000Z"
+    },
+    {
+      "id": "obra/superpowers",
+      "name": "superpowers",
+      "owner": "obra",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "ai_summary": "An agentic skills framework & software development methodol…",
+      "language": "Shell",
+      "stars": 75856,
+      "forks": 5874,
+      "stars_today": 1387,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 6268,
+        "repo_age_days": 151,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 188,
+        "pr_count": 319,
+        "star_fork_ratio": 12.91
+      },
+      "trending_days": 1,
+      "first_seen": "2026-03-10T00:00:00.000Z"
+    },
+    {
+      "id": "pbakaus/impeccable",
+      "name": "impeccable",
+      "owner": "pbakaus",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "ai_summary": "The design language that makes your AI harness better at de…",
+      "language": "JavaScript",
+      "stars": 3372,
+      "forks": 124,
+      "stars_today": 1288,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI"
+      ],
+      "security_score": 90,
+      "security_details": {
+        "author_age_days": 6280,
+        "repo_age_days": 114,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 10,
+        "pr_count": 8,
+        "star_fork_ratio": 27.19
+      },
+      "trending_days": 1,
+      "first_seen": "2026-03-10T00:00:00.000Z"
+    },
+    {
+      "id": "GoogleCloudPlatform/generative-ai",
+      "name": "generative-ai",
+      "owner": "GoogleCloudPlatform",
+      "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+      "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+      "ai_summary": "Sample code and notebooks for Generative AI on Google Cloud…",
+      "language": "Jupyter Notebook",
+      "stars": 15516,
+      "forks": 3981,
+      "stars_today": 1282,
+      "stars_this_week": 2328,
+      "category": "hot",
+      "tags": [
+        "AI"
+      ],
+      "security_score": 90,
+      "security_details": {
+        "author_age_days": 4862,
+        "repo_age_days": 1039,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 139,
+        "pr_count": 2310,
+        "star_fork_ratio": 3.9
+      },
+      "trending_days": 1,
+      "first_seen": "2026-03-10T00:00:00.000Z"
+    },
+    {
+      "id": "promptfoo/promptfoo",
+      "name": "promptfoo",
+      "owner": "promptfoo",
+      "url": "https://github.com/promptfoo/promptfoo",
+      "description": "Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
+      "ai_summary": "Test your prompts, agents, and RAGs. AI Red teaming, pentes…",
+      "language": "TypeScript",
+      "stars": 11531,
+      "forks": 1056,
+      "stars_today": 632,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 986,
+        "repo_age_days": 1046,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 246,
+        "pr_count": 6955,
+        "star_fork_ratio": 10.92
+      },
+      "trending_days": 1,
+      "first_seen": "2026-03-10T00:00:00.000Z"
+    },
+    {
+      "id": "alibaba/page-agent",
+      "name": "page-agent",
+      "owner": "alibaba",
+      "url": "https://github.com/alibaba/page-agent",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "ai_summary": "JavaScript in-page GUI agent. Control web interfaces with n…",
+      "language": "TypeScript",
+      "stars": 3007,
+      "forks": 232,
+      "stars_today": 465,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 4989,
+        "repo_age_days": 168,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 20,
+        "pr_count": 127,
+        "star_fork_ratio": 12.96
+      },
+      "trending_days": 1,
+      "first_seen": "2026-03-10T00:00:00.000Z"
+    },
+    {
+      "id": "NousResearch/hermes-agent",
+      "name": "hermes-agent",
+      "owner": "NousResearch",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "ai_summary": "The agent that grows with you",
+      "language": "Python",
+      "stars": 3295,
+      "forks": 434,
+      "stars_today": 377,
+      "stars_this_week": 1210,
+      "category": "hot",
+      "tags": [
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 85,
+      "security_details": {
+        "author_age_days": 1024,
+        "repo_age_days": 230,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 279,
+        "pr_count": 561,
+        "star_fork_ratio": 7.59
+      },
+      "trending_days": 1,
+      "first_seen": "2026-03-10T00:00:00.000Z"
+    },
+    {
+      "id": "karpathy/nanochat",
+      "name": "nanochat",
+      "owner": "karpathy",
+      "url": "https://github.com/karpathy/nanochat",
+      "description": "The best ChatGPT that $100 can buy.",
+      "ai_summary": "The best ChatGPT that $100 can buy.",
+      "language": "Python",
+      "stars": 45869,
+      "forks": 6056,
+      "stars_today": 355,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI"
+      ],
+      "security_score": 90,
+      "security_details": {
+        "author_age_days": 5812,
+        "repo_age_days": 147,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 71,
+        "pr_count": 375,
+        "star_fork_ratio": 7.57
+      },
+      "trending_days": 1,
+      "first_seen": "2026-03-10T00:00:00.000Z"
+    },
+    {
+      "id": "virattt/ai-hedge-fund",
+      "name": "ai-hedge-fund",
+      "owner": "virattt",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "ai_summary": "An AI Hedge Fund Team",
+      "language": "Python",
+      "stars": 47264,
+      "forks": 8228,
+      "stars_today": 316,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI"
+      ],
+      "security_score": 95,
+      "security_details": {
+        "author_age_days": 5359,
+        "repo_age_days": 465,
+        "has_license": false,
+        "has_readme": true,
+        "issue_count": 63,
+        "pr_count": 258,
+        "star_fork_ratio": 5.74
+      },
+      "trending_days": 1,
+      "first_seen": "2026-03-10T00:00:00.000Z"
+    },
+    {
+      "id": "moeru-ai/airi",
+      "name": "airi",
+      "owner": "moeru-ai",
+      "url": "https://github.com/moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "ai_summary": "💖🧸 Self hosted, you-owned Grok Companion, a container of …",
+      "language": "TypeScript",
+      "stars": 31998,
+      "forks": 3145,
+      "stars_today": 0,
+      "stars_this_week": 10661,
+      "category": "hot",
+      "tags": [
+        "AI"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 709,
+        "repo_age_days": 463,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 98,
+        "pr_count": 865,
+        "star_fork_ratio": 10.17
+      },
+      "trending_days": 1,
+      "first_seen": "2026-03-10T00:00:00.000Z"
+    },
+    {
+      "id": "shareAI-lab/learn-claude-code",
+      "name": "learn-claude-code",
+      "owner": "shareAI-lab",
+      "url": "https://github.com/shareAI-lab/learn-claude-code",
+      "description": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1",
+      "ai_summary": "Bash is all you need - A nano Claude Code–like agent, built…",
+      "language": "TypeScript",
+      "stars": 24740,
+      "forks": 4501,
+      "stars_today": 0,
+      "stars_this_week": 4177,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 85,
+      "security_details": {
+        "author_age_days": 474,
+        "repo_age_days": 253,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 25,
+        "pr_count": 39,
+        "star_fork_ratio": 5.5
+      },
+      "trending_days": 1,
+      "first_seen": "2026-03-10T00:00:00.000Z"
+    },
+    {
+      "id": "ItzCrazyKns/Vane",
+      "name": "Vane",
+      "owner": "ItzCrazyKns",
+      "url": "https://github.com/ItzCrazyKns/Vane",
+      "description": "Vane is an AI-powered answering engine.",
+      "ai_summary": "Vane is an AI-powered answering engine.",
+      "language": "TypeScript",
+      "stars": 32549,
+      "forks": 3494,
+      "stars_today": 0,
+      "stars_this_week": 3283,
+      "category": "hot",
+      "tags": [
+        "AI"
+      ],
+      "security_score": 90,
+      "security_details": {
+        "author_age_days": 1556,
+        "repo_age_days": 700,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 265,
+        "pr_count": 312,
+        "star_fork_ratio": 9.32
+      },
+      "trending_days": 1,
+      "first_seen": "2026-03-10T00:00:00.000Z"
+    },
+    {
+      "id": "alibaba/OpenSandbox",
+      "name": "OpenSandbox",
+      "owner": "alibaba",
+      "url": "https://github.com/alibaba/OpenSandbox",
+      "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.",
+      "ai_summary": "OpenSandbox is a general-purpose sandbox platform for AI ap…",
+      "language": "Python",
+      "stars": 7319,
+      "forks": 540,
+      "stars_today": 0,
+      "stars_this_week": 3262,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 4989,
+        "repo_age_days": 83,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 53,
+        "pr_count": 326,
+        "star_fork_ratio": 13.55
+      },
+      "trending_days": 1,
+      "first_seen": "2026-03-10T00:00:00.000Z"
+    }
+  ],
+  "stats": {
+    "total": 15,
+    "hot": 15,
+    "gem": 0,
+    "by_tag": {
+      "AI": 11,
+      "Skills": 8,
+      "Agent": 8
+    }
+  }
+}

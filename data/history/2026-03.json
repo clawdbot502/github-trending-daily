@@ -466,7 +466,7 @@
     },
     {
       "date": "2026-03-11",
-      "generated_at": "2026-03-11T03:48:04.107Z",
+      "generated_at": "2026-03-11T03:51:51.266Z",
       "projects": [
         {
           "id": "openclaw/openclaw",
@@ -476,8 +476,8 @@
           "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
           "ai_summary": "openclaw 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
           "language": "TypeScript",
-          "stars": 299668,
-          "forks": 56637,
+          "stars": 299686,
+          "forks": 56642,
           "stars_today": 9080,
           "stars_this_week": 0,
           "category": "hot",
@@ -490,11 +490,11 @@
             "repo_age_days": 106,
             "has_license": true,
             "has_readme": true,
-            "issue_count": 12366,
-            "pr_count": 23814,
+            "issue_count": 12369,
+            "pr_count": 23816,
             "star_fork_ratio": 5.29
           },
-          "trending_days": 6,
+          "trending_days": 7,
           "first_seen": "2026-03-10T00:00:00.000Z"
         },
         {
@@ -505,8 +505,8 @@
           "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
           "ai_summary": "agency-agents 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Shell 开发。",
           "language": "Shell",
-          "stars": 26106,
-          "forks": 4101,
+          "stars": 26121,
+          "forks": 4106,
           "stars_today": 6223,
           "stars_this_week": 19856,
           "category": "hot",
@@ -523,9 +523,9 @@
             "has_readme": true,
             "issue_count": 16,
             "pr_count": 86,
-            "star_fork_ratio": 6.37
+            "star_fork_ratio": 6.36
           },
-          "trending_days": 6,
+          "trending_days": 7,
           "first_seen": "2026-03-10T00:00:00.000Z"
         },
         {
@@ -536,7 +536,7 @@
           "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.",
           "ai_summary": "deer-flow 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
           "language": "Python",
-          "stars": 28741,
+          "stars": 28745,
           "forks": 3417,
           "stars_today": 1413,
           "stars_this_week": 4339,
@@ -555,7 +555,7 @@
             "pr_count": 546,
             "star_fork_ratio": 8.41
           },
-          "trending_days": 6,
+          "trending_days": 7,
           "first_seen": "2026-03-10T00:00:00.000Z"
         },
         {
@@ -566,8 +566,8 @@
           "description": "An agentic skills framework & software development methodology that works.",
           "ai_summary": "superpowers 是一个面向 Skills / Agent 场景的开源项目，使用 Shell 开发。",
           "language": "Shell",
-          "stars": 76815,
-          "forks": 5950,
+          "stars": 76816,
+          "forks": 5952,
           "stars_today": 1387,
           "stars_this_week": 0,
           "category": "hot",
@@ -581,11 +581,11 @@
             "repo_age_days": 152,
             "has_license": true,
             "has_readme": true,
-            "issue_count": 117,
-            "pr_count": 327,
+            "issue_count": 118,
+            "pr_count": 328,
             "star_fork_ratio": 12.91
           },
-          "trending_days": 6,
+          "trending_days": 7,
           "first_seen": "2026-03-10T00:00:00.000Z"
         },
         {
@@ -596,7 +596,7 @@
           "description": "The design language that makes your AI harness better at design.",
           "ai_summary": "impeccable 是一个面向 AI 场景的开源项目，使用 JavaScript 开发。",
           "language": "JavaScript",
-          "stars": 3749,
+          "stars": 3751,
           "forks": 139,
           "stars_today": 939,
           "stars_this_week": 0,
@@ -612,9 +612,9 @@
             "has_readme": true,
             "issue_count": 5,
             "pr_count": 9,
-            "star_fork_ratio": 26.97
+            "star_fork_ratio": 26.99
           },
-          "trending_days": 6,
+          "trending_days": 7,
           "first_seen": "2026-03-10T00:00:00.000Z"
         },
         {
@@ -625,7 +625,7 @@
           "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
           "ai_summary": "page-agent 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
           "language": "TypeScript",
-          "stars": 3808,
+          "stars": 3814,
           "forks": 295,
           "stars_today": 891,
           "stars_this_week": 0,
@@ -642,9 +642,9 @@
             "has_readme": true,
             "issue_count": 21,
             "pr_count": 129,
-            "star_fork_ratio": 12.91
+            "star_fork_ratio": 12.93
           },
-          "trending_days": 6,
+          "trending_days": 7,
           "first_seen": "2026-03-10T00:00:00.000Z"
         },
         {
@@ -655,8 +655,8 @@
           "description": "The agent that grows with you",
           "ai_summary": "hermes-agent 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
           "language": "Python",
-          "stars": 3992,
-          "forks": 499,
+          "stars": 4001,
+          "forks": 500,
           "stars_today": 781,
           "stars_this_week": 1814,
           "category": "hot",
@@ -674,7 +674,7 @@
             "pr_count": 604,
             "star_fork_ratio": 8
           },
-          "trending_days": 6,
+          "trending_days": 7,
           "first_seen": "2026-03-10T00:00:00.000Z"
         },
         {
@@ -685,7 +685,7 @@
           "description": "The best ChatGPT that $100 can buy.",
           "ai_summary": "nanochat 是一个面向 AI 场景的开源项目，使用 Python 开发。",
           "language": "Python",
-          "stars": 46323,
+          "stars": 46324,
           "forks": 6116,
           "stars_today": 705,
           "stars_this_week": 0,
@@ -703,7 +703,7 @@
             "pr_count": 381,
             "star_fork_ratio": 7.57
           },
-          "trending_days": 6,
+          "trending_days": 7,
           "first_seen": "2026-03-10T00:00:00.000Z"
         },
         {
@@ -714,7 +714,7 @@
           "description": "Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
           "ai_summary": "promptfoo 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScript 开…",
           "language": "TypeScript",
-          "stars": 12054,
+          "stars": 12057,
           "forks": 1118,
           "stars_today": 661,
           "stars_this_week": 0,
@@ -734,7 +734,7 @@
             "pr_count": 6971,
             "star_fork_ratio": 10.78
           },
-          "trending_days": 6,
+          "trending_days": 7,
           "first_seen": "2026-03-10T00:00:00.000Z"
         },
         {
@@ -745,7 +745,7 @@
           "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
           "ai_summary": "generative-ai 是一个面向 AI 场景的开源项目，使用 Jupyter Notebook 开发。",
           "language": "Jupyter Notebook",
-          "stars": 15817,
+          "stars": 15819,
           "forks": 4010,
           "stars_today": 530,
           "stars_this_week": 2810,
@@ -763,7 +763,7 @@
             "pr_count": 2314,
             "star_fork_ratio": 3.94
           },
-          "trending_days": 6,
+          "trending_days": 7,
           "first_seen": "2026-03-10T00:00:00.000Z"
         },
         {
@@ -774,7 +774,7 @@
           "description": "An AI Hedge Fund Team",
           "ai_summary": "ai-hedge-fund 是一个面向 AI 场景的开源项目，使用 Python 开发。",
           "language": "Python",
-          "stars": 47684,
+          "stars": 47688,
           "forks": 8300,
           "stars_today": 300,
           "stars_this_week": 0,
@@ -792,7 +792,7 @@
             "pr_count": 258,
             "star_fork_ratio": 5.75
           },
-          "trending_days": 6,
+          "trending_days": 7,
           "first_seen": "2026-03-10T00:00:00.000Z"
         },
         {
@@ -803,7 +803,7 @@
           "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
           "ai_summary": "airi 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
           "language": "TypeScript",
-          "stars": 32233,
+          "stars": 32234,
           "forks": 3167,
           "stars_today": 0,
           "stars_this_week": 10249,
@@ -821,7 +821,7 @@
             "pr_count": 871,
             "star_fork_ratio": 10.18
           },
-          "trending_days": 6,
+          "trending_days": 7,
           "first_seen": "2026-03-10T00:00:00.000Z"
         },
         {
@@ -832,7 +832,7 @@
           "description": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1",
           "ai_summary": "learn-claude-code 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Type…",
           "language": "TypeScript",
-          "stars": 24963,
+          "stars": 24964,
           "forks": 4521,
           "stars_today": 0,
           "stars_this_week": 4137,
@@ -852,7 +852,7 @@
             "pr_count": 41,
             "star_fork_ratio": 5.52
           },
-          "trending_days": 6,
+          "trending_days": 7,
           "first_seen": "2026-03-10T00:00:00.000Z"
         },
         {
@@ -863,7 +863,7 @@
           "description": "Vane is an AI-powered answering engine.",
           "ai_summary": "Vane 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
           "language": "TypeScript",
-          "stars": 32652,
+          "stars": 32653,
           "forks": 3508,
           "stars_today": 0,
           "stars_this_week": 3187,
@@ -881,7 +881,7 @@
             "pr_count": 313,
             "star_fork_ratio": 9.31
           },
-          "trending_days": 6,
+          "trending_days": 7,
           "first_seen": "2026-03-10T00:00:00.000Z"
         },
         {
@@ -912,7 +912,7 @@
             "pr_count": 332,
             "star_fork_ratio": 13.61
           },
-          "trending_days": 6,
+          "trending_days": 7,
           "first_seen": "2026-03-10T00:00:00.000Z"
         }
       ],

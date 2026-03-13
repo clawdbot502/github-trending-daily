@@ -1391,6 +1391,470 @@
           "Agent": 10
         }
       }
+    },
+    {
+      "date": "2026-03-13",
+      "generated_at": "2026-03-13T03:37:21.570Z",
+      "projects": [
+        {
+          "id": "msitarzewski/agency-agents",
+          "name": "agency-agents",
+          "owner": "msitarzewski",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+          "ai_summary": "agency-agents 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 35558,
+          "forks": 5418,
+          "stars_today": 4168,
+          "stars_this_week": 26046,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4990,
+            "repo_age_days": 150,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 20,
+            "pr_count": 120,
+            "star_fork_ratio": 6.56
+          },
+          "trending_days": 9,
+          "first_seen": "2026-03-10T00:00:00.000Z"
+        },
+        {
+          "id": "microsoft/BitNet",
+          "name": "BitNet",
+          "owner": "microsoft",
+          "url": "https://github.com/microsoft/BitNet",
+          "description": "Official inference framework for 1-bit LLMs",
+          "ai_summary": "BitNet 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 32573,
+          "forks": 2743,
+          "stars_today": 2149,
+          "stars_this_week": 2572,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4475,
+            "repo_age_days": 584,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 233,
+            "pr_count": 122,
+            "star_fork_ratio": 11.87
+          },
+          "trending_days": 1,
+          "first_seen": "2026-03-13T00:00:00.000Z"
+        },
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "superpowers 是一个面向 Skills / Agent 场景的开源项目，使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 80217,
+          "forks": 6209,
+          "stars_today": 1706,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6271,
+            "repo_age_days": 154,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 120,
+            "pr_count": 339,
+            "star_fork_ratio": 12.92
+          },
+          "trending_days": 9,
+          "first_seen": "2026-03-10T00:00:00.000Z"
+        },
+        {
+          "id": "NousResearch/hermes-agent",
+          "name": "hermes-agent",
+          "owner": "NousResearch",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "ai_summary": "hermes-agent 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 6256,
+          "forks": 705,
+          "stars_today": 1264,
+          "stars_this_week": 4144,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1027,
+            "repo_age_days": 233,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 333,
+            "pr_count": 799,
+            "star_fork_ratio": 8.87
+          },
+          "trending_days": 9,
+          "first_seen": "2026-03-10T00:00:00.000Z"
+        },
+        {
+          "id": "alibaba/page-agent",
+          "name": "page-agent",
+          "owner": "alibaba",
+          "url": "https://github.com/alibaba/page-agent",
+          "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+          "ai_summary": "page-agent 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 6314,
+          "forks": 491,
+          "stars_today": 1205,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4991,
+            "repo_age_days": 170,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 31,
+            "pr_count": 148,
+            "star_fork_ratio": 12.86
+          },
+          "trending_days": 9,
+          "first_seen": "2026-03-10T00:00:00.000Z"
+        },
+        {
+          "id": "InsForge/InsForge",
+          "name": "InsForge",
+          "owner": "InsForge",
+          "url": "https://github.com/InsForge/InsForge",
+          "description": "Give agents everything they need to ship fullstack apps. The backend built for agentic development.",
+          "ai_summary": "InsForge 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 3181,
+          "forks": 319,
+          "stars_today": 263,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 396,
+            "repo_age_days": 226,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 35,
+            "pr_count": 693,
+            "star_fork_ratio": 9.97
+          },
+          "trending_days": 1,
+          "first_seen": "2026-03-13T00:00:00.000Z"
+        },
+        {
+          "id": "vectorize-io/hindsight",
+          "name": "hindsight",
+          "owner": "vectorize-io",
+          "url": "https://github.com/vectorize-io/hindsight",
+          "description": "Hindsight: Agent Memory That Learns",
+          "ai_summary": "hindsight 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 3169,
+          "forks": 228,
+          "stars_today": 217,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1805,
+            "repo_age_days": 133,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 12,
+            "pr_count": 444,
+            "star_fork_ratio": 13.9
+          },
+          "trending_days": 1,
+          "first_seen": "2026-03-13T00:00:00.000Z"
+        },
+        {
+          "id": "anthropics/claude-plugins-official",
+          "name": "claude-plugins-official",
+          "owner": "anthropics",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+          "ai_summary": "claude-plugins-official 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 10349,
+          "forks": 1042,
+          "stars_today": 150,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1909,
+            "repo_age_days": 112,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 272,
+            "pr_count": 388,
+            "star_fork_ratio": 9.93
+          },
+          "trending_days": 1,
+          "first_seen": "2026-03-13T00:00:00.000Z"
+        },
+        {
+          "id": "moeru-ai/airi",
+          "name": "airi",
+          "owner": "moeru-ai",
+          "url": "https://github.com/moeru-ai/airi",
+          "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+          "ai_summary": "airi 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 33065,
+          "forks": 3254,
+          "stars_today": 0,
+          "stars_this_week": 6582,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 712,
+            "repo_age_days": 466,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 120,
+            "pr_count": 841,
+            "star_fork_ratio": 10.16
+          },
+          "trending_days": 9,
+          "first_seen": "2026-03-10T00:00:00.000Z"
+        },
+        {
+          "id": "bytedance/deer-flow",
+          "name": "deer-flow",
+          "owner": "bytedance",
+          "url": "https://github.com/bytedance/deer-flow",
+          "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.",
+          "ai_summary": "deer-flow 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 29929,
+          "forks": 3612,
+          "stars_today": 0,
+          "stars_this_week": 5125,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 4714,
+            "repo_age_days": 310,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 257,
+            "pr_count": 582,
+            "star_fork_ratio": 8.29
+          },
+          "trending_days": 9,
+          "first_seen": "2026-03-10T00:00:00.000Z"
+        },
+        {
+          "id": "GoogleCloudPlatform/generative-ai",
+          "name": "generative-ai",
+          "owner": "GoogleCloudPlatform",
+          "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+          "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+          "ai_summary": "generative-ai 是一个面向 AI 场景的开源项目，使用 Jupyter Notebook 开发。",
+          "language": "Jupyter Notebook",
+          "stars": 16089,
+          "forks": 4039,
+          "stars_today": 0,
+          "stars_this_week": 3254,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4864,
+            "repo_age_days": 1042,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 80,
+            "pr_count": 2315,
+            "star_fork_ratio": 3.98
+          },
+          "trending_days": 9,
+          "first_seen": "2026-03-10T00:00:00.000Z"
+        },
+        {
+          "id": "virattt/ai-hedge-fund",
+          "name": "ai-hedge-fund",
+          "owner": "virattt",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "ai_summary": "ai-hedge-fund 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 48555,
+          "forks": 8462,
+          "stars_today": 0,
+          "stars_this_week": 2347,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5362,
+            "repo_age_days": 468,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 78,
+            "pr_count": 271,
+            "star_fork_ratio": 5.74
+          },
+          "trending_days": 9,
+          "first_seen": "2026-03-10T00:00:00.000Z"
+        },
+        {
+          "id": "666ghj/BettaFish",
+          "name": "BettaFish",
+          "owner": "666ghj",
+          "url": "https://github.com/666ghj/BettaFish",
+          "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+          "ai_summary": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+          "language": "Python",
+          "stars": 38381,
+          "forks": 7177,
+          "stars_today": 0,
+          "stars_this_week": 2284,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1319,
+            "repo_age_days": 619,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 48,
+            "pr_count": 177,
+            "star_fork_ratio": 5.35
+          },
+          "trending_days": 2,
+          "first_seen": "2026-03-12T00:00:00.000Z"
+        },
+        {
+          "id": "teng-lin/notebooklm-py",
+          "name": "notebooklm-py",
+          "owner": "teng-lin",
+          "url": "https://github.com/teng-lin/notebooklm-py",
+          "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
+          "ai_summary": "notebooklm-py 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python 开…",
+          "language": "Python",
+          "stars": 5337,
+          "forks": 647,
+          "stars_today": 0,
+          "stars_this_week": 2283,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 5442,
+            "repo_age_days": 64,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 31,
+            "pr_count": 159,
+            "star_fork_ratio": 8.25
+          },
+          "trending_days": 2,
+          "first_seen": "2026-03-12T00:00:00.000Z"
+        },
+        {
+          "id": "promptfoo/promptfoo",
+          "name": "promptfoo",
+          "owner": "promptfoo",
+          "url": "https://github.com/promptfoo/promptfoo",
+          "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
+          "ai_summary": "promptfoo 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScript 开…",
+          "language": "TypeScript",
+          "stars": 13916,
+          "forks": 1279,
+          "stars_today": 0,
+          "stars_this_week": 2034,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 989,
+            "repo_age_days": 1049,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 252,
+            "pr_count": 7001,
+            "star_fork_ratio": 10.88
+          },
+          "trending_days": 9,
+          "first_seen": "2026-03-10T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 15,
+        "hot": 15,
+        "gem": 0,
+        "by_tag": {
+          "AI": 8,
+          "Skills": 10,
+          "Agent": 10
+        }
+      }
     }
   ]
 }

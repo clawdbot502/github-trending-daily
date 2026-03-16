@@ -2787,7 +2787,7 @@
     },
     {
       "date": "2026-03-16",
-      "generated_at": "2026-03-16T01:23:50.749Z",
+      "generated_at": "2026-03-16T04:12:17.902Z",
       "projects": [
         {
           "id": "volcengine/OpenViking",
@@ -2797,8 +2797,8 @@
           "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
           "ai_summary": "OpenViking 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python 开发。",
           "language": "Python",
-          "stars": 12432,
-          "forks": 856,
+          "stars": 12736,
+          "forks": 881,
           "stars_today": 1870,
           "stars_this_week": 6514,
           "category": "hot",
@@ -2813,11 +2813,11 @@
             "repo_age_days": 69,
             "has_license": true,
             "has_readme": true,
-            "issue_count": 68,
-            "pr_count": 444,
-            "star_fork_ratio": 14.52
+            "issue_count": 72,
+            "pr_count": 449,
+            "star_fork_ratio": 14.46
           },
-          "trending_days": 2,
+          "trending_days": 3,
           "first_seen": "2026-03-15T00:00:00.000Z"
         },
         {
@@ -2828,8 +2828,8 @@
           "description": "An agentic skills framework & software development methodology that works.",
           "ai_summary": "superpowers 是一个面向 Skills / Agent 场景的开源项目，使用 Shell 开发。",
           "language": "Shell",
-          "stars": 85929,
-          "forks": 6759,
+          "stars": 86431,
+          "forks": 6810,
           "stars_today": 1867,
           "stars_this_week": 0,
           "category": "hot",
@@ -2843,11 +2843,11 @@
             "repo_age_days": 157,
             "has_license": true,
             "has_readme": true,
-            "issue_count": 141,
-            "pr_count": 363,
-            "star_fork_ratio": 12.71
+            "issue_count": 144,
+            "pr_count": 366,
+            "star_fork_ratio": 12.69
           },
-          "trending_days": 12,
+          "trending_days": 13,
           "first_seen": "2026-03-10T00:00:00.000Z"
         },
         {
@@ -2858,8 +2858,8 @@
           "description": "Lightpanda: the headless browser designed for AI and automation",
           "ai_summary": "browser 是一个面向 AI / Skills 场景的开源项目，使用 Zig 开发。",
           "language": "Zig",
-          "stars": 18630,
-          "forks": 698,
+          "stars": 18977,
+          "forks": 715,
           "stars_today": 1335,
           "stars_this_week": 0,
           "category": "hot",
@@ -2873,11 +2873,11 @@
             "repo_age_days": 1132,
             "has_license": true,
             "has_readme": true,
-            "issue_count": 76,
-            "pr_count": 1539,
-            "star_fork_ratio": 26.69
+            "issue_count": 78,
+            "pr_count": 1540,
+            "star_fork_ratio": 26.54
           },
-          "trending_days": 3,
+          "trending_days": 4,
           "first_seen": "2026-03-14T00:00:00.000Z"
         },
         {
@@ -2888,8 +2888,8 @@
           "description": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1",
           "ai_summary": "learn-claude-code 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Type…",
           "language": "TypeScript",
-          "stars": 27934,
-          "forks": 4879,
+          "stars": 28250,
+          "forks": 4918,
           "stars_today": 872,
           "stars_this_week": 0,
           "category": "hot",
@@ -2904,11 +2904,11 @@
             "repo_age_days": 259,
             "has_license": true,
             "has_readme": true,
-            "issue_count": 41,
-            "pr_count": 53,
-            "star_fork_ratio": 5.73
+            "issue_count": 42,
+            "pr_count": 54,
+            "star_fork_ratio": 5.74
           },
-          "trending_days": 1,
+          "trending_days": 2,
           "first_seen": "2026-03-16T00:00:00.000Z"
         },
         {
@@ -2919,8 +2919,8 @@
           "description": "practice made claude perfect",
           "ai_summary": "claude-code-best-practice 是一个面向 AI 场景的开源项目，使用 HTML 开发。",
           "language": "HTML",
-          "stars": 17013,
-          "forks": 1509,
+          "stars": 17229,
+          "forks": 1521,
           "stars_today": 851,
           "stars_this_week": 0,
           "category": "hot",
@@ -2935,9 +2935,9 @@
             "has_readme": true,
             "issue_count": 7,
             "pr_count": 13,
-            "star_fork_ratio": 11.27
+            "star_fork_ratio": 11.33
           },
-          "trending_days": 1,
+          "trending_days": 2,
           "first_seen": "2026-03-16T00:00:00.000Z"
         },
         {
@@ -2948,8 +2948,8 @@
           "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
           "ai_summary": "claude-plugins-official 是一个面向 AI 场景的开源项目，使用 Python 开发。",
           "language": "Python",
-          "stars": 11941,
-          "forks": 1154,
+          "stars": 12040,
+          "forks": 1157,
           "stars_today": 604,
           "stars_this_week": 0,
           "category": "hot",
@@ -2962,11 +2962,11 @@
             "repo_age_days": 115,
             "has_license": false,
             "has_readme": true,
-            "issue_count": 259,
-            "pr_count": 409,
-            "star_fork_ratio": 10.35
+            "issue_count": 260,
+            "pr_count": 410,
+            "star_fork_ratio": 10.41
           },
-          "trending_days": 4,
+          "trending_days": 5,
           "first_seen": "2026-03-13T00:00:00.000Z"
         },
         {
@@ -2977,8 +2977,8 @@
           "description": "Give agents everything they need to ship fullstack apps. The backend built for agentic development.",
           "ai_summary": "InsForge 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
           "language": "TypeScript",
-          "stars": 4590,
-          "forks": 474,
+          "stars": 4649,
+          "forks": 479,
           "stars_today": 515,
           "stars_this_week": 0,
           "category": "hot",
@@ -2992,11 +2992,11 @@
             "repo_age_days": 229,
             "has_license": true,
             "has_readme": true,
-            "issue_count": 46,
-            "pr_count": 725,
-            "star_fork_ratio": 9.68
+            "issue_count": 47,
+            "pr_count": 727,
+            "star_fork_ratio": 9.71
           },
-          "trending_days": 4,
+          "trending_days": 5,
           "first_seen": "2026-03-13T00:00:00.000Z"
         },
         {
@@ -3007,8 +3007,8 @@
           "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
           "ai_summary": "GitNexus 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
           "language": "TypeScript",
-          "stars": 14332,
-          "forks": 1666,
+          "stars": 14556,
+          "forks": 1688,
           "stars_today": 451,
           "stars_this_week": 0,
           "category": "hot",
@@ -3022,11 +3022,11 @@
             "repo_age_days": 225,
             "has_license": true,
             "has_readme": true,
-            "issue_count": 130,
-            "pr_count": 176,
-            "star_fork_ratio": 8.6
+            "issue_count": 134,
+            "pr_count": 179,
+            "star_fork_ratio": 8.62
           },
-          "trending_days": 1,
+          "trending_days": 2,
           "first_seen": "2026-03-16T00:00:00.000Z"
         },
         {
@@ -3037,8 +3037,8 @@
           "description": "Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.",
           "ai_summary": "vite-plus 是一个面向 AI 场景的开源项目，使用 Rust 开发。",
           "language": "Rust",
-          "stars": 1723,
-          "forks": 55,
+          "stars": 1826,
+          "forks": 58,
           "stars_today": 300,
           "stars_this_week": 0,
           "category": "hot",
@@ -3047,15 +3047,15 @@
           ],
           "security_score": 100,
           "security_details": {
-            "author_age_days": 863,
+            "author_age_days": 864,
             "repo_age_days": 374,
             "has_license": true,
             "has_readme": true,
-            "issue_count": 78,
-            "pr_count": 775,
-            "star_fork_ratio": 31.33
+            "issue_count": 65,
+            "pr_count": 785,
+            "star_fork_ratio": 31.48
           },
-          "trending_days": 1,
+          "trending_days": 2,
           "first_seen": "2026-03-16T00:00:00.000Z"
         },
         {
@@ -3066,8 +3066,8 @@
           "description": "Knowledge Engine for AI Agent Memory in 6 lines of code",
           "ai_summary": "cognee 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python 开发。",
           "language": "Python",
-          "stars": 13916,
-          "forks": 1390,
+          "stars": 13996,
+          "forks": 1392,
           "stars_today": 270,
           "stars_this_week": 0,
           "category": "hot",
@@ -3082,11 +3082,11 @@
             "repo_age_days": 942,
             "has_license": true,
             "has_readme": true,
-            "issue_count": 86,
-            "pr_count": 1831,
-            "star_fork_ratio": 10.01
+            "issue_count": 87,
+            "pr_count": 1832,
+            "star_fork_ratio": 10.05
           },
-          "trending_days": 1,
+          "trending_days": 2,
           "first_seen": "2026-03-16T00:00:00.000Z"
         },
         {
@@ -3097,8 +3097,8 @@
           "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
           "ai_summary": "project-nomad 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
           "language": "TypeScript",
-          "stars": 1120,
-          "forks": 118,
+          "stars": 1224,
+          "forks": 127,
           "stars_today": 205,
           "stars_this_week": 0,
           "category": "hot",
@@ -3111,11 +3111,11 @@
             "repo_age_days": 264,
             "has_license": true,
             "has_readme": true,
-            "issue_count": 51,
+            "issue_count": 52,
             "pr_count": 166,
-            "star_fork_ratio": 9.49
+            "star_fork_ratio": 9.64
           },
-          "trending_days": 1,
+          "trending_days": 2,
           "first_seen": "2026-03-16T00:00:00.000Z"
         },
         {
@@ -3126,8 +3126,8 @@
           "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
           "ai_summary": "agency-agents 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Shell 开发。",
           "language": "Shell",
-          "stars": 46548,
-          "forks": 6948,
+          "stars": 47041,
+          "forks": 7014,
           "stars_today": 0,
           "stars_this_week": 34355,
           "category": "hot",
@@ -3142,11 +3142,11 @@
             "repo_age_days": 153,
             "has_license": true,
             "has_readme": true,
-            "issue_count": 42,
+            "issue_count": 43,
             "pr_count": 155,
-            "star_fork_ratio": 6.7
+            "star_fork_ratio": 6.71
           },
-          "trending_days": 12,
+          "trending_days": 13,
           "first_seen": "2026-03-10T00:00:00.000Z"
         },
         {
@@ -3157,7 +3157,7 @@
           "description": "Official inference framework for 1-bit LLMs",
           "ai_summary": "BitNet 是一个面向 AI 场景的开源项目，使用 Python 开发。",
           "language": "Python",
-          "stars": 34724,
+          "stars": 34747,
           "forks": 2947,
           "stars_today": 0,
           "stars_this_week": 6028,
@@ -3173,9 +3173,9 @@
             "has_readme": true,
             "issue_count": 262,
             "pr_count": 144,
-            "star_fork_ratio": 11.78
+            "star_fork_ratio": 11.79
           },
-          "trending_days": 4,
+          "trending_days": 5,
           "first_seen": "2026-03-13T00:00:00.000Z"
         },
         {
@@ -3186,8 +3186,8 @@
           "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
           "ai_summary": "promptfoo 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScript 开…",
           "language": "TypeScript",
-          "stars": 16423,
-          "forks": 1438,
+          "stars": 16485,
+          "forks": 1443,
           "stars_today": 0,
           "stars_this_week": 5337,
           "category": "hot",
@@ -3202,11 +3202,11 @@
             "repo_age_days": 1052,
             "has_license": true,
             "has_readme": true,
-            "issue_count": 270,
-            "pr_count": 7043,
+            "issue_count": 272,
+            "pr_count": 7045,
             "star_fork_ratio": 11.42
           },
-          "trending_days": 12,
+          "trending_days": 13,
           "first_seen": "2026-03-10T00:00:00.000Z"
         },
         {
@@ -3217,8 +3217,8 @@
           "description": "The agent that grows with you",
           "ai_summary": "hermes-agent 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
           "language": "Python",
-          "stars": 7590,
-          "forks": 878,
+          "stars": 7657,
+          "forks": 889,
           "stars_today": 0,
           "stars_this_week": 5152,
           "category": "hot",
@@ -3232,11 +3232,11 @@
             "repo_age_days": 236,
             "has_license": true,
             "has_readme": true,
-            "issue_count": 304,
-            "pr_count": 1093,
-            "star_fork_ratio": 8.64
+            "issue_count": 291,
+            "pr_count": 1108,
+            "star_fork_ratio": 8.61
           },
-          "trending_days": 12,
+          "trending_days": 13,
           "first_seen": "2026-03-10T00:00:00.000Z"
         }
       ],

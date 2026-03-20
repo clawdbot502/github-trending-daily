@@ -4655,6 +4655,472 @@
           "AI": 10
         }
       }
+    },
+    {
+      "date": "2026-03-20",
+      "generated_at": "2026-03-20T03:39:06.984Z",
+      "projects": [
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "superpowers 是一个面向 Skills / Agent 场景的开源项目，使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 99617,
+          "forks": 7938,
+          "stars_today": 3494,
+          "stars_this_week": 19176,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6278,
+            "repo_age_days": 161,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 150,
+            "pr_count": 408,
+            "star_fork_ratio": 12.55
+          },
+          "trending_days": 17,
+          "first_seen": "2026-03-10T00:00:00.000Z"
+        },
+        {
+          "id": "jarrodwatts/claude-hud",
+          "name": "claude-hud",
+          "owner": "jarrodwatts",
+          "url": "https://github.com/jarrodwatts/claude-hud",
+          "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+          "ai_summary": "claude-hud 是一个面向 AI / Skills / Agent 场景的开源项目，使用 JavaScript …",
+          "language": "JavaScript",
+          "stars": 8660,
+          "forks": 356,
+          "stars_today": 1851,
+          "stars_this_week": 3674,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2979,
+            "repo_age_days": 77,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 12,
+            "pr_count": 156,
+            "star_fork_ratio": 24.33
+          },
+          "trending_days": 3,
+          "first_seen": "2026-03-18T00:00:00.000Z"
+        },
+        {
+          "id": "gsd-build/get-shit-done",
+          "name": "get-shit-done",
+          "owner": "gsd-build",
+          "url": "https://github.com/gsd-build/get-shit-done",
+          "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.",
+          "ai_summary": "get-shit-done 是一个面向 AI 场景的开源项目，使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 36313,
+          "forks": 2968,
+          "stars_today": 1491,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 75,
+          "security_details": {
+            "author_age_days": 38,
+            "repo_age_days": 95,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 10,
+            "pr_count": 594,
+            "star_fork_ratio": 12.23
+          },
+          "trending_days": 1,
+          "first_seen": "2026-03-20T00:00:00.000Z"
+        },
+        {
+          "id": "shareAI-lab/learn-claude-code",
+          "name": "learn-claude-code",
+          "owner": "shareAI-lab",
+          "url": "https://github.com/shareAI-lab/learn-claude-code",
+          "description": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
+          "ai_summary": "learn-claude-code 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Type…",
+          "language": "TypeScript",
+          "stars": 33883,
+          "forks": 5502,
+          "stars_today": 1448,
+          "stars_this_week": 7836,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 483,
+            "repo_age_days": 263,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 56,
+            "pr_count": 68,
+            "star_fork_ratio": 6.16
+          },
+          "trending_days": 2,
+          "first_seen": "2026-03-19T00:00:00.000Z"
+        },
+        {
+          "id": "opendataloader-project/opendataloader-pdf",
+          "name": "opendataloader-pdf",
+          "owner": "opendataloader-project",
+          "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+          "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+          "ai_summary": "opendataloader-pdf 是一个面向 AI 场景的开源项目，使用 Java 开发。",
+          "language": "Java",
+          "stars": 5955,
+          "forks": 429,
+          "stars_today": 1416,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 312,
+            "repo_age_days": 310,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 28,
+            "pr_count": 244,
+            "star_fork_ratio": 13.88
+          },
+          "trending_days": 1,
+          "first_seen": "2026-03-20T00:00:00.000Z"
+        },
+        {
+          "id": "unslothai/unsloth",
+          "name": "unsloth",
+          "owner": "unslothai",
+          "url": "https://github.com/unslothai/unsloth",
+          "description": "Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.",
+          "ai_summary": "unsloth 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 56803,
+          "forks": 4767,
+          "stars_today": 1262,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 855,
+            "repo_age_days": 841,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 997,
+            "pr_count": 1274,
+            "star_fork_ratio": 11.92
+          },
+          "trending_days": 2,
+          "first_seen": "2026-03-19T00:00:00.000Z"
+        },
+        {
+          "id": "langchain-ai/open-swe",
+          "name": "open-swe",
+          "owner": "langchain-ai",
+          "url": "https://github.com/langchain-ai/open-swe",
+          "description": "An Open-Source Asynchronous Coding Agent",
+          "ai_summary": "open-swe 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 7127,
+          "forks": 877,
+          "stars_today": 965,
+          "stars_this_week": 1463,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1114,
+            "repo_age_days": 302,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 29,
+            "pr_count": 737,
+            "star_fork_ratio": 8.13
+          },
+          "trending_days": 2,
+          "first_seen": "2026-03-19T00:00:00.000Z"
+        },
+        {
+          "id": "louis-e/arnis",
+          "name": "arnis",
+          "owner": "louis-e",
+          "url": "https://github.com/louis-e/arnis",
+          "description": "Generate any location from the real world in Minecraft with a high level of detail.",
+          "ai_summary": "arnis 是一个面向 AI 场景的开源项目，使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 10879,
+          "forks": 966,
+          "stars_today": 946,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2695,
+            "repo_age_days": 1286,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 75,
+            "pr_count": 397,
+            "star_fork_ratio": 11.26
+          },
+          "trending_days": 1,
+          "first_seen": "2026-03-20T00:00:00.000Z"
+        },
+        {
+          "id": "mobile-dev-inc/Maestro",
+          "name": "Maestro",
+          "owner": "mobile-dev-inc",
+          "url": "https://github.com/mobile-dev-inc/Maestro",
+          "description": "Painless E2E Automation for Mobile and Web",
+          "ai_summary": "Maestro 是一个面向 AI / Skills 场景的开源项目，使用 Kotlin 开发。",
+          "language": "Kotlin",
+          "stars": 12536,
+          "forks": 709,
+          "stars_today": 492,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2125,
+            "repo_age_days": 1449,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 491,
+            "pr_count": 1553,
+            "star_fork_ratio": 17.68
+          },
+          "trending_days": 1,
+          "first_seen": "2026-03-20T00:00:00.000Z"
+        },
+        {
+          "id": "msitarzewski/agency-agents",
+          "name": "agency-agents",
+          "owner": "msitarzewski",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+          "ai_summary": "agency-agents 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 55668,
+          "forks": 8335,
+          "stars_today": 0,
+          "stars_this_week": 23185,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4997,
+            "repo_age_days": 157,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 77,
+            "pr_count": 187,
+            "star_fork_ratio": 6.68
+          },
+          "trending_days": 17,
+          "first_seen": "2026-03-10T00:00:00.000Z"
+        },
+        {
+          "id": "affaan-m/everything-claude-code",
+          "name": "everything-claude-code",
+          "owner": "affaan-m",
+          "url": "https://github.com/affaan-m/everything-claude-code",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "ai_summary": "everything-claude-code 是一个面向 AI / Skills / Agent 场景的开源项目，使用…",
+          "language": "JavaScript",
+          "stars": 88593,
+          "forks": 11602,
+          "stars_today": 0,
+          "stars_this_week": 14298,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1139,
+            "repo_age_days": 61,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 69,
+            "pr_count": 366,
+            "star_fork_ratio": 7.64
+          },
+          "trending_days": 1,
+          "first_seen": "2026-03-20T00:00:00.000Z"
+        },
+        {
+          "id": "volcengine/OpenViking",
+          "name": "OpenViking",
+          "owner": "volcengine",
+          "url": "https://github.com/volcengine/OpenViking",
+          "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
+          "ai_summary": "OpenViking 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 16481,
+          "forks": 1121,
+          "stars_today": 0,
+          "stars_this_week": 10158,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2094,
+            "repo_age_days": 73,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 93,
+            "pr_count": 554,
+            "star_fork_ratio": 14.7
+          },
+          "trending_days": 7,
+          "first_seen": "2026-03-15T00:00:00.000Z"
+        },
+        {
+          "id": "lightpanda-io/browser",
+          "name": "browser",
+          "owner": "lightpanda-io",
+          "url": "https://github.com/lightpanda-io/browser",
+          "description": "Lightpanda: the headless browser designed for AI and automation",
+          "ai_summary": "browser 是一个面向 AI / Skills 场景的开源项目，使用 Zig 开发。",
+          "language": "Zig",
+          "stars": 22290,
+          "forks": 853,
+          "stars_today": 0,
+          "stars_this_week": 9984,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 906,
+            "repo_age_days": 1136,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 83,
+            "pr_count": 1604,
+            "star_fork_ratio": 26.13
+          },
+          "trending_days": 8,
+          "first_seen": "2026-03-14T00:00:00.000Z"
+        },
+        {
+          "id": "pbakaus/impeccable",
+          "name": "impeccable",
+          "owner": "pbakaus",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description": "The design language that makes your AI harness better at design.",
+          "ai_summary": "impeccable 是一个面向 AI 场景的开源项目，使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 11011,
+          "forks": 420,
+          "stars_today": 0,
+          "stars_this_week": 6432,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6290,
+            "repo_age_days": 124,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 14,
+            "pr_count": 30,
+            "star_fork_ratio": 26.22
+          },
+          "trending_days": 4,
+          "first_seen": "2026-03-17T00:00:00.000Z"
+        },
+        {
+          "id": "alibaba/page-agent",
+          "name": "page-agent",
+          "owner": "alibaba",
+          "url": "https://github.com/alibaba/page-agent",
+          "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+          "ai_summary": "page-agent 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 11902,
+          "forks": 904,
+          "stars_today": 0,
+          "stars_this_week": 6243,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4998,
+            "repo_age_days": 177,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 50,
+            "pr_count": 179,
+            "star_fork_ratio": 13.17
+          },
+          "trending_days": 4,
+          "first_seen": "2026-03-17T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 15,
+        "hot": 15,
+        "gem": 0,
+        "by_tag": {
+          "Skills": 10,
+          "Agent": 8,
+          "AI": 12
+        }
+      }
     }
   ]
 }

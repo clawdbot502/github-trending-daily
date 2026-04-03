@@ -125,7 +125,10 @@ export async function runPipeline(): Promise<DailyData> {
   logInfo(`Pipeline started for ${today}.`);
 
   const scraped = await scrapeTrending();
-  const filtered = filterAndClassifyProjects(scraped).slice(0, 15);
+  // 只取 hot 分类的项目，最多 10 条
+  const filtered = filterAndClassifyProjects(scraped)
+    .filter((p) => p.category === 'hot')
+    .slice(0, 10);
 
   if (filtered.length === 0) {
     throw new Error('No project selected after filter. Pipeline aborted.');

@@ -63,3 +63,20 @@ export function parseNumber(input: string | undefined | null): number {
 export function safeText(input: string | undefined | null): string {
   return (input ?? '').replace(/\s+/g, ' ').trim();
 }
+
+/**
+ * 转义 HTML 特殊字符，防止 XSS 攻击
+ * 用于将不受信任的内容安全地插入到 HTML 中
+ */
+export function escapeHtml(input: string | undefined | null): string {
+  if (!input) {
+    return '';
+  }
+
+  return input
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#039;');
+}

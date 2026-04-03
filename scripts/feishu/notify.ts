@@ -8,8 +8,8 @@ import { logError, logInfo, withRetry } from '../../lib/utils';
 interface FeishuConfig {
   appId: string;
   appSecret: string;
-  // 接收消息的 chat_id（群聊或私聊）
-  chatId?: string;
+  // 接收消息的 chat_id（群聊或私聊）- 必须设置
+  chatId: string;
 }
 
 interface WeeklyProjectStats {
@@ -30,16 +30,21 @@ let cachedToken: { token: string; expireAt: number } | null = null;
 function getFeishuConfig(): FeishuConfig {
   const appId = process.env.FEISHU_APP_ID;
   const appSecret = process.env.FEISHU_APP_SECRET;
+  const chatId = process.env.FEISHU_CHAT_ID;
 
   if (!appId || !appSecret) {
     throw new Error('FEISHU_APP_ID 和 FEISHU_APP_SECRET 环境变量必须设置');
   }
 
-  return {
-    appId,
-    appSecret,
-    chatId: process.env.FEISHU_CHAT_ID,
-  };
+  if (!chatId) {
+    throw new Error(
+      'FEISHU_CHAT_ID 环境变量必须设置\n' +
+      '请设置目标群聊的 chat_id，格式如：oc_xxxxxxxxxxxxxxxx\n' +
+      '获取方式：飞书开放平台 -> 群组详情 -> 查看 chat_id'
+    );
+  }
+
+  return { appId, appSecret, chatId };
 }
 
 /**
@@ -271,54 +276,16 @@ async function calculateWeeklyStats(): Promise<WeeklyProjectStats[]> {
 }
 
 /**
- * 获取默认的 chat_id
- * 如果没有配置，尝试获取机器人的默认群聊
- */
-async function getDefaultChatId(config: FeishuConfig): Promise<string> {
-  if (config.chatId) {
-    return config.chatId;
-  }
-
-  // 尝试获取机器人所在的群聊列表
-  const token = await getAccessToken(config);
-
-  const response = await axios.get(
-    'https://open.feishu.cn/open-apis/im/v1/chats',
-    {
-      headers: {
-        Authorization: `Bearer ${token}`,
-      },
-      params: {
-        page_size: 10,
-      },
-      timeout: 10000,
-    }
-  );
-
-  if (response.data?.code !== 0) {
-    throw new Error(`获取群聊列表失败: ${response.data?.msg}`);
-  }
-
-  const chats = response.data?.data?.items || [];
-  if (chats.length === 0) {
-    throw new Error('未找到可用的群聊，请手动设置 FEISHU_CHAT_ID');
-  }
-
-  return chats[0].chat_id;
-}
-
-/**
  * 发送日报
  */
 export async function sendFeishuDailyReport(): Promise<void> {
   const config = getFeishuConfig();
-  const chatId = await getDefaultChatId(config);
   const data = await readLatestDailyData();
 
   const card = buildDailyCard(data);
-  await sendFeishuMessage(chatId, card, config);
+  await sendFeishuMessage(config.chatId, card, config);
 
-  logInfo(`Feishu daily report sent to chat ${chatId}`);
+  logInfo(`Feishu daily report sent to chat ${config.chatId}`);
 }
 
 /**
@@ -326,13 +293,12 @@ export async function sendFeishuDailyReport(): Promise<void> {
  */
 export async function sendFeishuWeeklyReport(): Promise<void> {
   const config = getFeishuConfig();
-  const chatId = await getDefaultChatId(config);
   const stats = await calculateWeeklyStats();
 
   const card = buildWeeklyCard(stats);
-  await sendFeishuMessage(chatId, card, config);
+  await sendFeishuMessage(config.chatId, card, config);
 
-  logInfo(`Feishu weekly report sent to chat ${chatId}`);
+  logInfo(`Feishu weekly report sent to chat ${config.chatId}`);
 }
 
 // CLI 入口

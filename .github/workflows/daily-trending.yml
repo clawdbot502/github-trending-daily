@@ -47,6 +47,9 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           TELEGRAM_THREAD_ID: ${{ secrets.TELEGRAM_THREAD_ID }}
+          # Optional: restrict sending to specific chat/thread for security
+          REQUIRED_TELEGRAM_CHAT_ID: ${{ secrets.REQUIRED_TELEGRAM_CHAT_ID }}
+          REQUIRED_TELEGRAM_THREAD_ID: ${{ secrets.REQUIRED_TELEGRAM_THREAD_ID }}
         run: npm run scrape
 
       - name: Notify Telegram
@@ -55,6 +58,9 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           TELEGRAM_THREAD_ID: ${{ secrets.TELEGRAM_THREAD_ID }}
+          # Optional: restrict sending to specific chat/thread for security
+          REQUIRED_TELEGRAM_CHAT_ID: ${{ secrets.REQUIRED_TELEGRAM_CHAT_ID }}
+          REQUIRED_TELEGRAM_THREAD_ID: ${{ secrets.REQUIRED_TELEGRAM_THREAD_ID }}
         run: npm run notify
 
       - name: Commit and push data updates

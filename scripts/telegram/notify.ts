@@ -8,8 +8,11 @@ import { logError, logInfo, sleep, withRetry } from '../../lib/utils';
 const TELEGRAM_MAX_MESSAGE_LENGTH = 4096;
 const SAFE_MESSAGE_LIMIT = 3800;
 
-const REQUIRED_CHAT_ID = '-1003826061483';
-const REQUIRED_THREAD_ID = 29;
+// 从环境变量读取目标 Chat ID 和 Thread ID，避免硬编码敏感信息
+const REQUIRED_CHAT_ID = process.env.REQUIRED_TELEGRAM_CHAT_ID;
+const REQUIRED_THREAD_ID = process.env.REQUIRED_TELEGRAM_THREAD_ID
+  ? Number.parseInt(process.env.REQUIRED_TELEGRAM_THREAD_ID, 10)
+  : Number.NaN;
 
 function formatNumber(value: number): string {
   return new Intl.NumberFormat('en-US').format(value);
@@ -114,11 +117,13 @@ export async function sendTelegramDailyReport(dailyData?: DailyData): Promise<vo
     throw new Error('TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID / TELEGRAM_THREAD_ID 缺失，已阻止发送。');
   }
 
-  if (chatId !== REQUIRED_CHAT_ID) {
+  // 如果配置了 REQUIRED_TELEGRAM_CHAT_ID，则进行校验
+  if (REQUIRED_CHAT_ID && chatId !== REQUIRED_CHAT_ID) {
     throw new Error(`TELEGRAM_CHAT_ID 不符合固定目标，收到 ${chatId}，期望 ${REQUIRED_CHAT_ID}`);
   }
 
-  if (!Number.isFinite(threadId) || threadId !== REQUIRED_THREAD_ID) {
+  // 如果配置了 REQUIRED_TELEGRAM_THREAD_ID，则进行校验
+  if (Number.isFinite(REQUIRED_THREAD_ID) && threadId !== REQUIRED_THREAD_ID) {
     throw new Error(`TELEGRAM_THREAD_ID 不符合固定目标，收到 ${threadIdRaw}，期望 ${REQUIRED_THREAD_ID}`);
   }
 

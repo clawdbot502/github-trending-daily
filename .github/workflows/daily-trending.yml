@@ -80,17 +80,19 @@ jobs:
         run: npm run notify:weekly
 
       - name: Notify Feishu Daily
-        if: github.event.schedule != '19 2 * * 1' && env.FEISHU_WEBHOOK_URL != ''
+        if: github.event.schedule != '19 2 * * 1' && env.FEISHU_APP_ID != ''
         env:
-          FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
-          FEISHU_SECRET: ${{ secrets.FEISHU_SECRET }}
+          FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
+          FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
+          FEISHU_CHAT_ID: ${{ secrets.FEISHU_CHAT_ID }}
         run: npm run notify:feishu
 
       - name: Notify Feishu Weekly
-        if: github.event.schedule == '19 2 * * 1' && env.FEISHU_WEBHOOK_URL != ''
+        if: github.event.schedule == '19 2 * * 1' && env.FEISHU_APP_ID != ''
         env:
-          FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
-          FEISHU_SECRET: ${{ secrets.FEISHU_SECRET }}
+          FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
+          FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
+          FEISHU_CHAT_ID: ${{ secrets.FEISHU_CHAT_ID }}
         run: npm run notify:feishu:weekly
 
       - name: Commit and push data updates

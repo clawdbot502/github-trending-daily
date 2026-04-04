@@ -1194,6 +1194,412 @@
           "AI": 6
         }
       }
+    },
+    {
+      "date": "2026-04-04",
+      "generated_at": "2026-04-04T03:42:38.662Z",
+      "projects": [
+        {
+          "id": "Yeachan-Heo/oh-my-codex",
+          "name": "oh-my-codex",
+          "owner": "Yeachan-Heo",
+          "url": "https://github.com/Yeachan-Heo/oh-my-codex",
+          "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+          "ai_summary": "oh-my-codex 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 14304,
+          "forks": 1316,
+          "stars_today": 3047,
+          "stars_this_week": 10578,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2407,
+            "repo_age_days": 60,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 22,
+            "pr_count": 725,
+            "star_fork_ratio": 10.87
+          },
+          "trending_days": 2,
+          "first_seen": "2026-04-03T00:00:00.000Z"
+        },
+        {
+          "id": "onyx-dot-app/onyx",
+          "name": "onyx",
+          "owner": "onyx-dot-app",
+          "url": "https://github.com/onyx-dot-app/onyx",
+          "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+          "ai_summary": "onyx 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 23392,
+          "forks": 3142,
+          "stars_today": 1852,
+          "stars_this_week": 4006,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1072,
+            "repo_age_days": 1072,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 314,
+            "pr_count": 8757,
+            "star_fork_ratio": 7.44
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-04T00:00:00.000Z"
+        },
+        {
+          "id": "google-research/timesfm",
+          "name": "timesfm",
+          "owner": "google-research",
+          "url": "https://github.com/google-research/timesfm",
+          "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+          "ai_summary": "timesfm 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 14186,
+          "forks": 1219,
+          "stars_today": 916,
+          "stars_this_week": 3632,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2739,
+            "repo_age_days": 704,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 186,
+            "pr_count": 157,
+            "star_fork_ratio": 11.64
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-04T00:00:00.000Z"
+        },
+        {
+          "id": "dmtrKovalenko/fff.nvim",
+          "name": "fff.nvim",
+          "owner": "dmtrKovalenko",
+          "url": "https://github.com/dmtrKovalenko/fff.nvim",
+          "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
+          "ai_summary": "fff.nvim 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 3297,
+          "forks": 131,
+          "stars_today": 750,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3719,
+            "repo_age_days": 246,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 47,
+            "pr_count": 166,
+            "star_fork_ratio": 25.17
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-04T00:00:00.000Z"
+        },
+        {
+          "id": "f/prompts.chat",
+          "name": "prompts.chat",
+          "owner": "f",
+          "url": "https://github.com/f/prompts.chat",
+          "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+          "ai_summary": "prompts.chat 是一个面向 AI 场景的开源项目，使用 HTML 开发。",
+          "language": "HTML",
+          "stars": 157225,
+          "forks": 20608,
+          "stars_today": 375,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5902,
+            "repo_age_days": 1215,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 43,
+            "pr_count": 847,
+            "star_fork_ratio": 7.63
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-04T00:00:00.000Z"
+        },
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "superpowers 是一个面向 Skills / Agent 场景的开源项目，使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 134154,
+          "forks": 11176,
+          "stars_today": 0,
+          "stars_this_week": 16229,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6293,
+            "repo_age_days": 176,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 213,
+            "pr_count": 518,
+            "star_fork_ratio": 12
+          },
+          "trending_days": 32,
+          "first_seen": "2026-03-10T00:00:00.000Z"
+        },
+        {
+          "id": "luongnv89/claude-howto",
+          "name": "claude-howto",
+          "owner": "luongnv89",
+          "url": "https://github.com/luongnv89/claude-howto",
+          "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+          "ai_summary": "claude-howto 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 17861,
+          "forks": 2125,
+          "stars_today": 0,
+          "stars_this_week": 14996,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4825,
+            "repo_age_days": 147,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 26,
+            "pr_count": 28,
+            "star_fork_ratio": 8.41
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-04T00:00:00.000Z"
+        },
+        {
+          "id": "microsoft/VibeVoice",
+          "name": "VibeVoice",
+          "owner": "microsoft",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "description": "Open-Source Frontier Voice AI",
+          "ai_summary": "VibeVoice 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 35724,
+          "forks": 4076,
+          "stars_today": 0,
+          "stars_this_week": 11264,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 4497,
+            "repo_age_days": 221,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 135,
+            "pr_count": 123,
+            "star_fork_ratio": 8.76
+          },
+          "trending_days": 6,
+          "first_seen": "2026-03-30T00:00:00.000Z"
+        },
+        {
+          "id": "Yeachan-Heo/oh-my-claudecode",
+          "name": "oh-my-claudecode",
+          "owner": "Yeachan-Heo",
+          "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+          "description": "Teams-first Multi-agent orchestration for Claude Code",
+          "ai_summary": "oh-my-claudecode 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeS…",
+          "language": "TypeScript",
+          "stars": 23232,
+          "forks": 2075,
+          "stars_today": 0,
+          "stars_this_week": 9465,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2407,
+            "repo_age_days": 85,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 24,
+            "pr_count": 1325,
+            "star_fork_ratio": 11.2
+          },
+          "trending_days": 4,
+          "first_seen": "2026-04-01T00:00:00.000Z"
+        },
+        {
+          "id": "NousResearch/hermes-agent",
+          "name": "hermes-agent",
+          "owner": "NousResearch",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "ai_summary": "hermes-agent 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 23978,
+          "forks": 3090,
+          "stars_today": 0,
+          "stars_this_week": 9193,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1049,
+            "repo_age_days": 255,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1445,
+            "pr_count": 3894,
+            "star_fork_ratio": 7.76
+          },
+          "trending_days": 12,
+          "first_seen": "2026-03-24T00:00:00.000Z"
+        },
+        {
+          "id": "mvanhorn/last30days-skill",
+          "name": "last30days-skill",
+          "owner": "mvanhorn",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+          "ai_summary": "last30days-skill 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Pytho…",
+          "language": "Python",
+          "stars": 18099,
+          "forks": 1448,
+          "stars_today": 0,
+          "stars_this_week": 6214,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5638,
+            "repo_age_days": 70,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 75,
+            "pr_count": 96,
+            "star_fork_ratio": 12.5
+          },
+          "trending_days": 11,
+          "first_seen": "2026-03-25T00:00:00.000Z"
+        },
+        {
+          "id": "SakanaAI/AI-Scientist-v2",
+          "name": "AI-Scientist-v2",
+          "owner": "SakanaAI",
+          "url": "https://github.com/SakanaAI/AI-Scientist-v2",
+          "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
+          "ai_summary": "AI-Scientist-v2 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python…",
+          "language": "Python",
+          "stars": 4680,
+          "forks": 653,
+          "stars_today": 0,
+          "stars_this_week": 1964,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 978,
+            "repo_age_days": 360,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 64,
+            "pr_count": 40,
+            "star_fork_ratio": 7.17
+          },
+          "trending_days": 3,
+          "first_seen": "2026-04-02T00:00:00.000Z"
+        },
+        {
+          "id": "vas3k/TaxHacker",
+          "name": "TaxHacker",
+          "owner": "vas3k",
+          "url": "https://github.com/vas3k/TaxHacker",
+          "description": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",
+          "ai_summary": "TaxHacker 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 4405,
+          "forks": 696,
+          "stars_today": 0,
+          "stars_this_week": 1861,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5933,
+            "repo_age_days": 389,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 41,
+            "pr_count": 45,
+            "star_fork_ratio": 6.33
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-04T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 13,
+        "hot": 13,
+        "gem": 0,
+        "by_tag": {
+          "Skills": 8,
+          "Agent": 8,
+          "AI": 10
+        }
+      }
     }
   ]
 }

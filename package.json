@@ -16,7 +16,8 @@
     "notify": "tsx scripts/telegram/notify.ts",
     "notify:weekly": "tsx scripts/telegram/weekly.ts",
     "notify:feishu": "tsx scripts/feishu/notify.ts",
-    "notify:feishu:weekly": "tsx scripts/feishu/notify.ts weekly"
+    "notify:feishu:weekly": "tsx scripts/feishu/notify.ts weekly",
+    "sync:feishu": "tsx scripts/feishu/sync.ts"
   },
   "dependencies": {
     "axios": "^1.13.6",

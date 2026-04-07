@@ -57,6 +57,7 @@ export class FeishuSDK {
       return this.token;
     }
 
+    console.log('Getting Feishu token...');
     const response = await this.http.post<FeishuResponse<TokenResponse>>(
       '/auth/v3/tenant_access_token/internal',
       {
@@ -65,12 +66,19 @@ export class FeishuSDK {
       }
     );
 
+    console.log('Token response:', JSON.stringify(response.data, null, 2));
+
     if (response.data.code !== 0) {
-      throw new Error(`Failed to get token: ${response.data.msg}`);
+      throw new Error(`Failed to get token: ${response.data.msg} (code: ${response.data.code})`);
     }
 
-    this.token = response.data.data!.tenant_access_token;
-    this.tokenExpireTime = Date.now() + response.data.data!.expire * 1000;
+    if (!response.data.data) {
+      throw new Error('Token response data is undefined');
+    }
+
+    this.token = response.data.data.tenant_access_token;
+    this.tokenExpireTime = Date.now() + response.data.data.expire * 1000;
+    console.log('Token obtained successfully');
     return this.token;
   }
 

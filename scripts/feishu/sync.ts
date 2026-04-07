@@ -65,7 +65,7 @@ function convertToBaseRecord(
     仓库ID: project.id,
     仓库名: project.name,
     所有者: project.owner,
-    链接: project.url,
+    链接: { text: project.url, link: project.url },
     描述: project.description || '',
     AI总结: project.ai_summary || '',
     语言: project.language || 'Unknown',

@@ -68,16 +68,23 @@ export class FeishuSDK {
 
     console.log('Token response:', JSON.stringify(response.data, null, 2));
 
-    if (response.data.code !== 0) {
-      throw new Error(`Failed to get token: ${response.data.msg} (code: ${response.data.code})`);
+    // 飞书 API 返回格式可能是直接的 tenant_access_token，也可能嵌套在 data 中
+    const tokenData = response.data;
+
+    if (tokenData.code !== 0) {
+      throw new Error(`Failed to get token: ${tokenData.msg} (code: ${tokenData.code})`);
     }
 
-    if (!response.data.data) {
-      throw new Error('Token response data is undefined');
+    // 处理两种格式：直接返回 或 嵌套在 data 中
+    const tenantToken = tokenData.tenant_access_token || tokenData.data?.tenant_access_token;
+    const expire = tokenData.expire || tokenData.data?.expire;
+
+    if (!tenantToken) {
+      throw new Error('Token response tenant_access_token is undefined');
     }
 
-    this.token = response.data.data.tenant_access_token;
-    this.tokenExpireTime = Date.now() + response.data.data.expire * 1000;
+    this.token = tenantToken;
+    this.tokenExpireTime = Date.now() + expire * 1000;
     console.log('Token obtained successfully');
     return this.token;
   }

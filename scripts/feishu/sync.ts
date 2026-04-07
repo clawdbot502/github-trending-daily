@@ -113,38 +113,36 @@ function getHotTopN(data: DailyData, n: number): GitHubProject[] {
 
 /**
  * 生成 Markdown 消息
+ * 只发送 Hot 项目，使用 description 作为摘要
  */
-function generateMessage(data: DailyData, top5: GitHubProject[]): string {
+function generateMessage(data: DailyData): string {
+  // 只取 Hot 项目，按 stars_today 降序
+  const hotProjects = data.projects
+    .filter((p) => p.category === 'hot')
+    .sort((a, b) => b.stars_today - a.stars_today);
+
   const lines: string[] = [
     `## GitHub Trending Daily - ${data.date}`,
     '',
-    '### Top 5 Hot Projects',
+    `### Hot Projects (${hotProjects.length}个)`,
     '',
   ];
 
-  top5.forEach((project, index) => {
-    const summary = project.ai_summary
-      ? project.ai_summary.replace(new RegExp(`^${project.name} 是`), '这是一个')
-      : project.description || '暂无描述';
+  hotProjects.forEach((project, index) => {
+    const summary = project.description || '暂无描述';
+    const tags = project.tags?.join(' / ') || '';
 
     lines.push(
       `**${index + 1}. [${project.id}](${project.url})** ⭐ +${project.stars_today}`,
+      `📌 ${project.language || 'Unknown'}${tags ? ' | ' + tags : ''}`,
       `> ${summary}`,
       ''
     );
   });
 
-  // 添加统计信息
-  const hotCount = data.projects.filter((p) => p.category === 'hot').length;
-  const gemCount = data.projects.filter((p) => p.category === 'gem').length;
-
-  lines.push(
-    '---',
-    '',
-    `**今日统计**: Hot ${hotCount} 个 | Gem ${gemCount} 个`,
-    '',
-    `[查看完整数据](https://base.feishu.cn/${CONFIG.feishuBaseToken})`
-  );
+  // 底部链接使用正确的 Wiki URL
+  const baseUrl = process.env.FEISHU_BASE_URL || `https://base.feishu.cn/${CONFIG.feishuBaseToken}`;
+  lines.push('---', '', `[查看完整数据](${baseUrl})`);
 
   return lines.join('\n');
 }
@@ -210,12 +208,8 @@ async function main(): Promise<void> {
     const syncedCount = await withRetry(() => syncToBase(data), 3, 2000);
     console.log(`Synced ${syncedCount} records to Feishu Base`);
 
-    // 获取 Top 5 Hot
-    const top5 = getHotTopN(data, 5);
-    console.log(`Selected top ${top5.length} hot projects`);
-
-    // 生成并发送消息
-    const message = generateMessage(data, top5);
+    // 生成并发送消息（全部 Hot 项目）
+    const message = generateMessage(data);
     await withRetry(() => sendNotification(message), 3, 1000);
 
     console.log('=== Feishu Base Sync Completed ===');

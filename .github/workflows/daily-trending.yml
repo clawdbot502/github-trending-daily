@@ -49,6 +49,7 @@ jobs:
           FEISHU_BASE_TOKEN: ${{ secrets.FEISHU_BASE_TOKEN }}
           FEISHU_TABLE_ID: ${{ secrets.FEISHU_TABLE_ID }}
           FEISHU_CHAT_ID: ${{ secrets.FEISHU_CHAT_ID }}
+          FEISHU_BASE_URL: ${{ secrets.FEISHU_BASE_URL }}
         run: npm run sync:feishu
 
       - name: Commit and push data updates

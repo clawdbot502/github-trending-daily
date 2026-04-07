@@ -4,8 +4,6 @@ on:
   schedule:
     # 每日早上 9:19 (香港时间) = UTC 1:19
     - cron: '19 1 * * *'
-    # 周一早上 10:19 (香港时间) = UTC 2:19
-    - cron: '19 2 * * 1'
   workflow_dispatch:
 
 permissions:
@@ -41,59 +39,17 @@ jobs:
           SUMMARY_BASE_URL: ${{ secrets.SUMMARY_BASE_URL }}
           SUMMARY_MODEL: ${{ secrets.SUMMARY_MODEL }}
           SUMMARY_BATCH_SIZE: ${{ secrets.SUMMARY_BATCH_SIZE }}
-          # Backward compatibility (kept for emergency rollback)
-          KIMI_API_KEY: ${{ secrets.KIMI_API_KEY }}
-          KIMI_BASE_URL: ${{ secrets.KIMI_BASE_URL }}
-          KIMI_MODEL: ${{ secrets.KIMI_MODEL }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          APP_BASE_URL: ${{ secrets.APP_BASE_URL }}
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          TELEGRAM_THREAD_ID: ${{ secrets.TELEGRAM_THREAD_ID }}
-          # Optional: restrict sending to specific chat/thread for security
-          REQUIRED_TELEGRAM_CHAT_ID: ${{ secrets.REQUIRED_TELEGRAM_CHAT_ID }}
-          REQUIRED_TELEGRAM_THREAD_ID: ${{ secrets.REQUIRED_TELEGRAM_THREAD_ID }}
         run: npm run scrape
 
-      - name: Notify Telegram Daily
-        if: github.event.schedule != '19 2 * * 1'
-        env:
-          APP_BASE_URL: ${{ secrets.APP_BASE_URL }}
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          TELEGRAM_THREAD_ID: ${{ secrets.TELEGRAM_THREAD_ID }}
-          # Optional: restrict sending to specific chat/thread for security
-          REQUIRED_TELEGRAM_CHAT_ID: ${{ secrets.REQUIRED_TELEGRAM_CHAT_ID }}
-          REQUIRED_TELEGRAM_THREAD_ID: ${{ secrets.REQUIRED_TELEGRAM_THREAD_ID }}
-        run: npm run notify
-
-      - name: Notify Telegram Weekly
-        if: github.event.schedule == '19 2 * * 1'
-        env:
-          APP_BASE_URL: ${{ secrets.APP_BASE_URL }}
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          TELEGRAM_THREAD_ID: ${{ secrets.TELEGRAM_THREAD_ID }}
-          # Optional: restrict sending to specific chat/thread for security
-          REQUIRED_TELEGRAM_CHAT_ID: ${{ secrets.REQUIRED_TELEGRAM_CHAT_ID }}
-          REQUIRED_TELEGRAM_THREAD_ID: ${{ secrets.REQUIRED_TELEGRAM_THREAD_ID }}
-        run: npm run notify:weekly
-
-      - name: Notify Feishu Daily
-        if: github.event.schedule != '19 2 * * 1' && env.FEISHU_APP_ID != '' && env.FEISHU_CHAT_ID != ''
+      - name: Sync to Feishu Base and notify
         env:
           FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
           FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
+          FEISHU_BASE_TOKEN: ${{ secrets.FEISHU_BASE_TOKEN }}
+          FEISHU_TABLE_ID: ${{ secrets.FEISHU_TABLE_ID }}
           FEISHU_CHAT_ID: ${{ secrets.FEISHU_CHAT_ID }}
-        run: npm run notify:feishu
-
-      - name: Notify Feishu Weekly
-        if: github.event.schedule == '19 2 * * 1' && env.FEISHU_APP_ID != '' && env.FEISHU_CHAT_ID != ''
-        env:
-          FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
-          FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
-          FEISHU_CHAT_ID: ${{ secrets.FEISHU_CHAT_ID }}
-        run: npm run notify:feishu:weekly
+        run: npm run sync:feishu
 
       - name: Commit and push data updates
         run: |

@@ -61,7 +61,7 @@ function convertToBaseRecord(
   date: string
 ): Record<string, unknown> {
   return {
-    日期: date,
+    日期: new Date(date).getTime(), // 转换为毫秒时间戳
     仓库ID: project.id,
     仓库名: project.name,
     所有者: project.owner,

@@ -21,7 +21,7 @@ const DEFAULT_BASE_URL = 'https://open.bigmodel.cn/api/coding/paas/v4';
 const DEFAULT_MODEL = 'glm-5';
 const DEFAULT_BATCH_SIZE = 3;
 const MAX_BATCH_SIZE = 5;
-const MAX_SUMMARY_LENGTH = 60;
+const MAX_SUMMARY_LENGTH = 120; // 增加到120字符以容纳两段式总结
 
 function extractJsonPayload(rawText: string): string {
   const trimmed = rawText.trim();
@@ -164,12 +164,14 @@ function buildBatchPrompt(batch: ClassifiedProject[]): string {
     .join('\n\n');
 
   return [
-    '你是一个资深技术编辑。请为每个 GitHub 项目生成一句高质量中文总结。',
+    '你是一个资深技术编辑。请为每个 GitHub 项目生成高质量中文总结。',
     '要求：',
-    '1) 每条总结 <= 50 字，直接说明“做什么 + 价值点”',
-    '2) 不要营销口吻，不要空话',
-    '3) 保持技术语义准确',
-    '4) 必须输出 JSON 数组，格式严格为：[{"id":"owner/repo","summary":"..."}]',
+    '1) 每个项目生成两段式总结，用” | “分隔：',
+    '   - 第一段(提炼核心)：基于原始 description 提炼项目的核心功能和用途，30字以内',
+    '   - 第二段(突出亮点)：分析项目的技术特点、差异化优势或适用场景，30字以内',
+    '2) 总长度控制在80字以内',
+    '3) 不要营销口吻，不要空话，保持技术语义准确',
+    '4) 必须输出 JSON 数组，格式严格为：[{“id”:”owner/repo”,”summary”:”核心功能 | 亮点特色”}]',
     '5) 输出里不能缺项目，id 必须原样返回',
     '',
     '待总结项目：',

@@ -205,6 +205,18 @@ async function callSummaryApiForBatch(batch: ClassifiedProject[], config: Summar
 
   const endpoint = `${config.baseUrl.replace(/\/$/, '')}/chat/completions`;
 
+  // 构建请求头，支持 OpenRouter 等第三方服务
+  const headers: Record<string, string> = {
+    'Content-Type': 'application/json',
+    Authorization: `Bearer ${config.apiKey}`,
+  };
+
+  // 如果是 OpenRouter，添加推荐的请求头
+  if (config.baseUrl.includes('openrouter.ai')) {
+    headers['HTTP-Referer'] = 'https://github.com/clawdbot502/github-trending-daily';
+    headers['X-Title'] = 'GitHub Trending Daily';
+  }
+
   const content = await withRetry(
     async () => {
       const response = await axios.post<{
@@ -215,10 +227,7 @@ async function callSummaryApiForBatch(batch: ClassifiedProject[], config: Summar
         }>;
       }>(endpoint, payload, {
         timeout: 25_000,
-        headers: {
-          'Content-Type': 'application/json',
-          Authorization: `Bearer ${config.apiKey}`,
-        },
+        headers,
       });
 
       const rawContent = response.data.choices?.[0]?.message?.content;

@@ -1,6 +1,6 @@
 {
   "date": "2026-04-08",
-  "generated_at": "2026-04-08T10:55:06.658Z",
+  "generated_at": "2026-04-08T11:01:13.436Z",
   "projects": [
     {
       "id": "obra/superpowers",
@@ -8,9 +8,9 @@
       "owner": "obra",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "ai_summary": "superpowers 是一个面向 Skills / Agent 场景的开源项目，使用 Shell 开发。",
+      "ai_summary": "superpowers - An agentic skills framework & software development methodology that works. 使用 Shell 开发。",
       "language": "Shell",
-      "stars": 140444,
+      "stars": 140454,
       "forks": 11974,
       "stars_today": 1926,
       "stars_this_week": 0,
@@ -29,7 +29,7 @@
         "pr_count": 539,
         "star_fork_ratio": 11.73
       },
-      "trending_days": 2,
+      "trending_days": 3,
       "first_seen": "2026-04-08T00:00:00.000Z"
     },
     {
@@ -38,9 +38,9 @@
       "owner": "abhigyanpatwari",
       "url": "https://github.com/abhigyanpatwari/GitNexus",
       "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-      "ai_summary": "GitNexus 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+      "ai_summary": "GitNexus - GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k... 使用 TypeScript 开发。",
       "language": "TypeScript",
-      "stars": 24987,
+      "stars": 24989,
       "forks": 2787,
       "stars_today": 1195,
       "stars_this_week": 0,
@@ -59,7 +59,7 @@
         "pr_count": 424,
         "star_fork_ratio": 8.97
       },
-      "trending_days": 6,
+      "trending_days": 7,
       "first_seen": "2026-04-07T00:00:00.000Z"
     },
     {
@@ -68,7 +68,7 @@
       "owner": "google-ai-edge",
       "url": "https://github.com/google-ai-edge/gallery",
       "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
-      "ai_summary": "gallery 是一个面向 AI 场景的开源项目，使用 Kotlin 开发。",
+      "ai_summary": "gallery - A gallery that showcases on-device ML/GenAI use cases and allows people to try a... 使用 Kotlin 开发。",
       "language": "Kotlin",
       "stars": 19174,
       "forks": 1790,
@@ -88,7 +88,7 @@
         "pr_count": 261,
         "star_fork_ratio": 10.71
       },
-      "trending_days": 6,
+      "trending_days": 7,
       "first_seen": "2026-04-07T00:00:00.000Z"
     },
     {
@@ -97,9 +97,9 @@
       "owner": "TheCraigHewitt",
       "url": "https://github.com/TheCraigHewitt/seomachine",
       "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
-      "ai_summary": "seomachine 是一个面向 AI / 内容创作 场景的开源项目，使用 Python 开发。",
+      "ai_summary": "seomachine - A specialized Claude Code workspace for creating long-form, SEO-optimized blog c... 使用 Python 开发。",
       "language": "Python",
-      "stars": 4184,
+      "stars": 4188,
       "forks": 678,
       "stars_today": 215,
       "stars_this_week": 0,
@@ -116,9 +116,9 @@
         "has_readme": true,
         "issue_count": 19,
         "pr_count": 20,
-        "star_fork_ratio": 6.17
+        "star_fork_ratio": 6.18
       },
-      "trending_days": 6,
+      "trending_days": 7,
       "first_seen": "2026-04-07T00:00:00.000Z"
     },
     {
@@ -127,9 +127,9 @@
       "owner": "virattt",
       "url": "https://github.com/virattt/ai-hedge-fund",
       "description": "An AI Hedge Fund Team",
-      "ai_summary": "ai-hedge-fund 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+      "ai_summary": "ai-hedge-fund - An AI Hedge Fund Team 使用 Python 开发。",
       "language": "Python",
-      "stars": 50428,
+      "stars": 50430,
       "forks": 8760,
       "stars_today": 123,
       "stars_this_week": 0,
@@ -147,7 +147,7 @@
         "pr_count": 303,
         "star_fork_ratio": 5.76
       },
-      "trending_days": 2,
+      "trending_days": 3,
       "first_seen": "2026-04-08T00:00:00.000Z"
     },
     {
@@ -156,9 +156,9 @@
       "owner": "Yeachan-Heo",
       "url": "https://github.com/Yeachan-Heo/oh-my-codex",
       "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
-      "ai_summary": "oh-my-codex 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+      "ai_summary": "oh-my-codex - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so... 使用 TypeScript 开发。",
       "language": "TypeScript",
-      "stars": 18714,
+      "stars": 18716,
       "forks": 1741,
       "stars_today": 0,
       "stars_this_week": 14101,
@@ -177,7 +177,7 @@
         "pr_count": 845,
         "star_fork_ratio": 10.75
       },
-      "trending_days": 4,
+      "trending_days": 5,
       "first_seen": "2026-04-08T00:00:00.000Z"
     },
     {
@@ -186,9 +186,9 @@
       "owner": "luongnv89",
       "url": "https://github.com/luongnv89/claude-howto",
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "ai_summary": "claude-howto 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python 开发。",
+      "ai_summary": "claude-howto - A visual, example-driven guide to Claude Code — from basic concepts to advanced ... 使用 Python 开发。",
       "language": "Python",
-      "stars": 22855,
+      "stars": 22858,
       "forks": 2754,
       "stars_today": 0,
       "stars_this_week": 10745,
@@ -208,7 +208,7 @@
         "pr_count": 44,
         "star_fork_ratio": 8.3
       },
-      "trending_days": 6,
+      "trending_days": 7,
       "first_seen": "2026-04-07T00:00:00.000Z"
     },
     {
@@ -217,10 +217,10 @@
       "owner": "NousResearch",
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "ai_summary": "hermes-agent 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
+      "ai_summary": "hermes-agent - The agent that grows with you 使用 Python 开发。",
       "language": "Python",
-      "stars": 34877,
-      "forks": 4444,
+      "stars": 34900,
+      "forks": 4447,
       "stars_today": 0,
       "stars_this_week": 10487,
       "category": "hot",
@@ -234,11 +234,11 @@
         "repo_age_days": 259,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 2050,
-        "pr_count": 4761,
+        "issue_count": 2051,
+        "pr_count": 4762,
         "star_fork_ratio": 7.85
       },
-      "trending_days": 17,
+      "trending_days": 18,
       "first_seen": "2026-03-24T00:00:00.000Z"
     },
     {
@@ -247,9 +247,9 @@
       "owner": "Yeachan-Heo",
       "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
       "description": "Teams-first Multi-agent orchestration for Claude Code",
-      "ai_summary": "oh-my-claudecode 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+      "ai_summary": "oh-my-claudecode - Teams-first Multi-agent orchestration for Claude Code 使用 TypeScript 开发。",
       "language": "TypeScript",
-      "stars": 26051,
+      "stars": 26054,
       "forks": 2398,
       "stars_today": 0,
       "stars_this_week": 7543,
@@ -265,11 +265,11 @@
         "repo_age_days": 89,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 10,
+        "issue_count": 7,
         "pr_count": 1468,
         "star_fork_ratio": 10.86
       },
-      "trending_days": 9,
+      "trending_days": 10,
       "first_seen": "2026-04-01T00:00:00.000Z"
     },
     {
@@ -278,7 +278,7 @@
       "owner": "onyx-dot-app",
       "url": "https://github.com/onyx-dot-app/onyx",
       "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-      "ai_summary": "onyx 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+      "ai_summary": "onyx - Open Source AI Platform - AI Chat with advanced features that works with every L... 使用 Python 开发。",
       "language": "Python",
       "stars": 25935,
       "forks": 3458,
@@ -294,11 +294,11 @@
         "repo_age_days": 1077,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 330,
+        "issue_count": 329,
         "pr_count": 8824,
         "star_fork_ratio": 7.5
       },
-      "trending_days": 6,
+      "trending_days": 7,
       "first_seen": "2026-04-07T00:00:00.000Z"
     }
   ],

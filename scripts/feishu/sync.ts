@@ -5,7 +5,7 @@
 
 import * as fs from 'fs';
 import * as path from 'path';
-import { FeishuSDK } from './sdk';
+import axios from 'axios';
 import type { DailyData, GitHubProject } from '../../lib/types';
 
 // 配置
@@ -16,6 +16,8 @@ const CONFIG = {
   feishuTableId: process.env.FEISHU_TABLE_ID || '',
   feishuChatId: process.env.FEISHU_CHAT_ID || '',
 };
+
+let cachedToken: { token: string; expireAt: number } | null = null;
 
 /**
  * 验证配置
@@ -80,83 +82,207 @@ function convertToBaseRecord(
 }
 
 /**
+ * 获取飞书 tenant_access_token
+ */
+async function getAccessToken(): Promise<string> {
+  // 检查缓存
+  if (cachedToken && cachedToken.expireAt > Date.now()) {
+    return cachedToken.token;
+  }
+
+  const response = await axios.post(
+    'https://open.feishu.cn/open-apis/auth/v3/tenant_access_token/internal',
+    {
+      app_id: CONFIG.feishuAppId,
+      app_secret: CONFIG.feishuAppSecret,
+    },
+    {
+      headers: { 'Content-Type': 'application/json' },
+      timeout: 10000,
+    }
+  );
+
+  if (response.data.code !== 0) {
+    throw new Error(`获取 access token 失败: ${response.data.msg}`);
+  }
+
+  const token = response.data.tenant_access_token!;
+  // 提前 5 分钟过期
+  const expireAt = Date.now() + (response.data.expire! - 300) * 1000;
+  cachedToken = { token, expireAt };
+
+  return token;
+}
+
+/**
  * 同步数据到飞书 Base
  */
 async function syncToBase(data: DailyData): Promise<number> {
   console.log(`Syncing ${data.projects.length} projects to Feishu Base...`);
 
-  const sdk = new FeishuSDK(CONFIG.feishuAppId, CONFIG.feishuAppSecret);
+  const token = await getAccessToken();
 
   const records = data.projects.map((project) => ({
     fields: convertToBaseRecord(project, data.date),
   }));
 
-  const recordIds = await sdk.batchCreateRecords(
-    CONFIG.feishuBaseToken,
-    CONFIG.feishuTableId,
-    records
-  );
+  // 批量创建记录（飞书限制 500 条/次）
+  const batchSize = 500;
+  const recordIds: string[] = [];
+
+  for (let i = 0; i < records.length; i += batchSize) {
+    const batch = records.slice(i, i + batchSize);
+
+    const response = await axios.post(
+      `https://open.feishu.cn/open-apis/bitable/v1/apps/${CONFIG.feishuBaseToken}/tables/${CONFIG.feishuTableId}/records/batch_create`,
+      { records: batch },
+      {
+        headers: {
+          Authorization: `Bearer ${token}`,
+          'Content-Type': 'application/json',
+        },
+      }
+    );
+
+    if (response.data.code !== 0) {
+      throw new Error(`Failed to create records: ${response.data.msg}`);
+    }
+
+    recordIds.push(...response.data.data.records.map((r: { record_id: string }) => r.record_id));
+
+    // 批次间延迟 500ms，避免限流
+    if (i + batchSize < records.length) {
+      await new Promise((resolve) => setTimeout(resolve, 500));
+    }
+  }
 
   console.log(`Successfully created ${recordIds.length} records`);
   return recordIds.length;
 }
 
-/**
- * 筛选 Hot 项目 Top N
- */
-function getHotTopN(data: DailyData, n: number): GitHubProject[] {
-  const hotProjects = data.projects.filter((p) => p.category === 'hot');
-  return hotProjects
-    .sort((a, b) => b.stars_today - a.stars_today)
-    .slice(0, n);
+function formatNumber(value: number): string {
+  return new Intl.NumberFormat('en-US').format(value);
 }
 
 /**
- * 生成 Markdown 消息
- * 只发送 Hot 项目，使用 description 作为摘要
+ * 构建 Interactive Card 消息
  */
-function generateMessage(data: DailyData): string {
-  // 只取 Hot 项目，按 stars_today 降序
-  const hotProjects = data.projects
-    .filter((p) => p.category === 'hot')
-    .sort((a, b) => b.stars_today - a.stars_today);
+function buildDailyCard(data: DailyData): unknown {
+  const hotProjects = data.projects.filter((p) => p.category === 'hot');
 
-  const lines: string[] = [
-    `## GitHub Trending Daily - ${data.date}`,
-    '',
-    `### Hot Projects (${hotProjects.length}个)`,
-    '',
-  ];
+  // 为每个项目构建卡片元素
+  const projectElements: unknown[] = [];
 
-  hotProjects.forEach((project, index) => {
-    const summary = project.description || '暂无描述';
-    const tags = project.tags?.join(' / ') || '';
+  hotProjects.slice(0, 10).forEach((project, index) => {
+    // 添加分隔线（第一个除外）
+    if (index > 0) {
+      projectElements.push({ tag: 'hr' });
+    }
 
-    lines.push(
-      `**${index + 1}. [${project.id}](${project.url})** ⭐ +${project.stars_today}`,
-      `📌 ${project.language || 'Unknown'}${tags ? ' | ' + tags : ''}`,
-      `> ${summary}`,
-      ''
-    );
+    // 项目标题
+    projectElements.push({
+      tag: 'div',
+      text: {
+        tag: 'lark_md',
+        content: `**${index + 1}. ${project.id}**`,
+      },
+    });
+
+    // 使用 AI 总结（如果有）
+    const summary = project.ai_summary || project.description || '暂无描述';
+    projectElements.push({
+      tag: 'div',
+      text: {
+        tag: 'lark_md',
+        content: `💡 ${summary}`,
+      },
+    });
+
+    // 技术信息：语言 + Star 数（突出总星标）
+    projectElements.push({
+      tag: 'div',
+      text: {
+        tag: 'lark_md',
+        content: `🔧 ${project.language || 'Unknown'} | ⭐ 总星标: ${formatNumber(project.stars)} | 今日新增: +${formatNumber(project.stars_today)}`,
+      },
+    });
+
+    // 查看仓库按钮
+    projectElements.push({
+      tag: 'action',
+      actions: [
+        {
+          tag: 'button',
+          text: {
+            tag: 'plain_text',
+            content: '🔗 查看仓库',
+          },
+          type: 'primary',
+          url: project.url,
+        },
+      ],
+    });
   });
 
-  // 底部链接使用正确的 Wiki URL
-  const baseUrl = process.env.FEISHU_BASE_URL || `https://base.feishu.cn/${CONFIG.feishuBaseToken}`;
-  lines.push('---', '', `[查看完整数据](${baseUrl})`);
-
-  return lines.join('\n');
+  return {
+    config: {
+      wide_screen_mode: true,
+    },
+    header: {
+      title: {
+        tag: 'plain_text',
+        content: `🔥 GitHub 热门项目日报 - ${data.date}`,
+      },
+      template: 'orange',
+    },
+    elements: [
+      {
+        tag: 'div',
+        text: {
+          tag: 'lark_md',
+          content: `**📊 今日 GitHub 趋势榜 Top ${Math.min(10, hotProjects.length)}**`,
+        },
+      },
+      {
+        tag: 'hr',
+      },
+      ...projectElements,
+    ],
+  };
 }
 
 /**
- * 发送群消息
+ * 发送群消息（使用 Interactive Card）
  */
-async function sendNotification(message: string): Promise<void> {
+async function sendNotification(data: DailyData): Promise<void> {
   console.log('Sending notification to Feishu group...');
 
-  const sdk = new FeishuSDK(CONFIG.feishuAppId, CONFIG.feishuAppSecret);
-  const messageId = await sdk.sendMessage(CONFIG.feishuChatId, message, 'post');
+  const token = await getAccessToken();
+  const card = buildDailyCard(data);
 
-  console.log('Message sent successfully, message_id:', messageId);
+  const response = await axios.post(
+    'https://open.feishu.cn/open-apis/im/v1/messages',
+    {
+      receive_id: CONFIG.feishuChatId,
+      content: JSON.stringify(card),
+      msg_type: 'interactive',
+    },
+    {
+      headers: {
+        Authorization: `Bearer ${token}`,
+        'Content-Type': 'application/json',
+      },
+      params: {
+        receive_id_type: 'chat_id',
+      },
+    }
+  );
+
+  if (response.data?.code !== 0) {
+    throw new Error(`发送消息失败: ${response.data?.msg}`);
+  }
+
+  console.log('Message sent successfully, message_id:', response.data.data?.message_id);
 }
 
 /**
@@ -208,9 +334,8 @@ async function main(): Promise<void> {
     const syncedCount = await withRetry(() => syncToBase(data), 3, 2000);
     console.log(`Synced ${syncedCount} records to Feishu Base`);
 
-    // 生成并发送消息（全部 Hot 项目）
-    const message = generateMessage(data);
-    await withRetry(() => sendNotification(message), 3, 1000);
+    // 发送 Interactive Card 消息
+    await withRetry(() => sendNotification(data), 3, 1000);
 
     console.log('=== Feishu Base Sync Completed ===');
     process.exit(0);

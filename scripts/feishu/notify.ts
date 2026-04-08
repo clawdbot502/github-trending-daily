@@ -133,13 +133,72 @@ function formatNumber(value: number): string {
 function buildDailyCard(data: DailyData): unknown {
   const hotProjects = data.projects.filter((p) => p.category === 'hot');
 
-  const projectDivs = hotProjects.slice(0, 10).map((project, index) => ({
-    tag: 'div',
-    text: {
-      tag: 'lark_md',
-      content: `**${index + 1}. [${project.id}](${project.url})**\n💡 ${project.ai_summary}\n⭐ ${formatNumber(project.stars)} (+${formatNumber(project.stars_today)} today)`,
-    },
-  }));
+  // 为每个项目构建卡片元素（包含分隔线、项目内容、操作按钮）
+  const projectElements: unknown[] = [];
+
+  hotProjects.slice(0, 10).forEach((project, index) => {
+    // 添加分隔线（第一个除外）
+    if (index > 0) {
+      projectElements.push({ tag: 'hr' });
+    }
+
+    // 项目标题和链接
+    projectElements.push({
+      tag: 'div',
+      text: {
+        tag: 'lark_md',
+        content: `**${index + 1}. ${project.id}**`,
+      },
+    });
+
+    // 原始描述（截断显示）
+    const shortDesc = project.description
+      ? project.description.length > 100
+        ? project.description.slice(0, 100) + '...'
+        : project.description
+      : '暂无描述';
+    projectElements.push({
+      tag: 'div',
+      text: {
+        tag: 'lark_md',
+        content: `📝 ${shortDesc}`,
+      },
+    });
+
+    // AI 总结
+    projectElements.push({
+      tag: 'div',
+      text: {
+        tag: 'lark_md',
+        content: `💡 ${project.ai_summary || 'AI 总结生成中...'}`,
+      },
+    });
+
+    // 技术信息：语言 + Star 数
+    projectElements.push({
+      tag: 'div',
+      text: {
+        tag: 'lark_md',
+        content: `🔧 ${project.language || 'Unknown'} | ⭐ 总星标: ${formatNumber(project.stars)} | 今日新增: +${formatNumber(project.stars_today)}`,
+      },
+    });
+
+    // 查看仓库按钮
+    projectElements.push({
+      tag: 'action',
+      actions: [
+        {
+          tag: 'button',
+          text: {
+            tag: 'plain_text',
+            content: '🔗 查看仓库',
+          },
+          type: 'primary',
+          url: project.url,
+        },
+      ],
+    });
+  });
 
   return {
     config: {
@@ -148,7 +207,7 @@ function buildDailyCard(data: DailyData): unknown {
     header: {
       title: {
         tag: 'plain_text',
-        content: `🔥 GitHub Trending Daily - ${data.date}`,
+        content: `🔥 GitHub 热门项目日报 - ${data.date}`,
       },
       template: 'orange',
     },
@@ -157,13 +216,13 @@ function buildDailyCard(data: DailyData): unknown {
         tag: 'div',
         text: {
           tag: 'lark_md',
-          content: `**今日最热 Top ${Math.min(10, hotProjects.length)} 项目**`,
+          content: `**📊 今日 GitHub 趋势榜 Top ${Math.min(10, hotProjects.length)}**`,
         },
       },
       {
         tag: 'hr',
       },
-      ...projectDivs,
+      ...projectElements,
     ],
   };
 }
@@ -183,13 +242,74 @@ function buildWeeklyCard(stats: WeeklyProjectStats[]): unknown {
   const formatDate = (d: Date) => d.toISOString().slice(0, 10);
   const weekRange = `${formatDate(monday)} ~ ${formatDate(sunday)}`;
 
-  const projectDivs = stats.slice(0, 10).map((stat, index) => ({
-    tag: 'div',
-    text: {
-      tag: 'lark_md',
-      content: `**${index + 1}. [${stat.project.id}](${stat.project.url})**\n💡 ${stat.project.ai_summary}\n⭐ ${formatNumber(stat.project.stars)} (本周新增 +${formatNumber(stat.totalStarsToday)})\n📅 本周上榜 ${stat.appearDays} 天`,
-    },
-  }));
+  // 为每个项目构建卡片元素
+  const projectElements: unknown[] = [];
+
+  stats.slice(0, 10).forEach((stat, index) => {
+    const project = stat.project;
+
+    // 添加分隔线（第一个除外）
+    if (index > 0) {
+      projectElements.push({ tag: 'hr' });
+    }
+
+    // 项目标题
+    projectElements.push({
+      tag: 'div',
+      text: {
+        tag: 'lark_md',
+        content: `**${index + 1}. ${project.id}**`,
+      },
+    });
+
+    // 原始描述
+    const shortDesc = project.description
+      ? project.description.length > 100
+        ? project.description.slice(0, 100) + '...'
+        : project.description
+      : '暂无描述';
+    projectElements.push({
+      tag: 'div',
+      text: {
+        tag: 'lark_md',
+        content: `📝 ${shortDesc}`,
+      },
+    });
+
+    // AI 总结
+    projectElements.push({
+      tag: 'div',
+      text: {
+        tag: 'lark_md',
+        content: `💡 ${project.ai_summary || 'AI 总结生成中...'}`,
+      },
+    });
+
+    // 技术信息
+    projectElements.push({
+      tag: 'div',
+      text: {
+        tag: 'lark_md',
+        content: `🔧 ${project.language || 'Unknown'} | ⭐ 总星标: ${formatNumber(project.stars)} | 本周上榜: ${stat.appearDays} 天 | 本周新增: +${formatNumber(stat.totalStarsToday)}`,
+      },
+    });
+
+    // 查看仓库按钮
+    projectElements.push({
+      tag: 'action',
+      actions: [
+        {
+          tag: 'button',
+          text: {
+            tag: 'plain_text',
+            content: '🔗 查看仓库',
+          },
+          type: 'primary',
+          url: project.url,
+        },
+      ],
+    });
+  });
 
   return {
     config: {
@@ -198,7 +318,7 @@ function buildWeeklyCard(stats: WeeklyProjectStats[]): unknown {
     header: {
       title: {
         tag: 'plain_text',
-        content: `📊 GitHub Trending Weekly - ${weekRange}`,
+        content: `📊 GitHub 本周热门榜 - ${weekRange}`,
       },
       template: 'blue',
     },
@@ -207,13 +327,13 @@ function buildWeeklyCard(stats: WeeklyProjectStats[]): unknown {
         tag: 'div',
         text: {
           tag: 'lark_md',
-          content: `**本周出现次数最多的 Top ${Math.min(10, stats.length)} 项目**`,
+          content: `**📈 本周 GitHub 趋势榜 Top ${Math.min(10, stats.length)}**`,
         },
       },
       {
         tag: 'hr',
       },
-      ...projectDivs,
+      ...projectElements,
     ],
   };
 }

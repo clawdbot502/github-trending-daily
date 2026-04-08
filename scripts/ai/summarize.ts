@@ -21,7 +21,7 @@ const DEFAULT_BASE_URL = 'https://open.bigmodel.cn/api/coding/paas/v4';
 const DEFAULT_MODEL = 'glm-5';
 const DEFAULT_BATCH_SIZE = 3;
 const MAX_BATCH_SIZE = 5;
-const MAX_SUMMARY_LENGTH = 120; // 增加到120字符以容纳两段式总结
+const MAX_SUMMARY_LENGTH = 200; // 增加到200字符以容纳两句话总结
 
 function extractJsonPayload(rawText: string): string {
   const trimmed = rawText.trim();
@@ -55,13 +55,20 @@ function toShortSummary(text: string, fallback: string): string {
 function fallbackSummary(project: ClassifiedProject): string {
   const description = safeText(project.description);
 
+  // 如果有中文描述，尝试提取核心内容
   if (description && /[\u4e00-\u9fff]/.test(description)) {
     return toShortSummary(description, `${project.name} 提供实用开源能力。`);
   }
 
-  const tagText = project.tags.length > 0 ? project.tags.join(' / ') : '开源工具';
+  // 基于英文 description 生成简单的兜底摘要
+  const shortDesc = description
+    ? description.length > 80
+      ? description.slice(0, 80) + '...'
+    : description
+    : '开源项目';
+
   const language = project.language || '多语言';
-  const chineseFallback = `${project.name} 是一个面向 ${tagText} 场景的开源项目，使用 ${language} 开发。`;
+  const chineseFallback = `${project.name} - ${shortDesc} 使用 ${language} 开发。`;
 
   return toShortSummary(chineseFallback, `${project.name} 提供实用开源能力。`);
 }
@@ -71,12 +78,13 @@ function toErrorMessage(error: unknown): string {
     const status = error.response?.status;
     const code = error.code;
     const message = error.message;
+    const responseData = error.response?.data ? JSON.stringify(error.response.data) : 'N/A';
 
     if (status) {
-      return `axios status=${status} code=${code ?? 'N/A'} message=${message}`;
+      return `axios status=${status} code=${code ?? 'N/A'} message=${message} response=${responseData}`;
     }
 
-    return `axios code=${code ?? 'N/A'} message=${message}`;
+    return `axios code=${code ?? 'N/A'} message=${message} response=${responseData}`;
   }
 
   if (error instanceof Error) {
@@ -166,12 +174,12 @@ function buildBatchPrompt(batch: ClassifiedProject[]): string {
   return [
     '你是一个资深技术编辑。请为每个 GitHub 项目生成高质量中文总结。',
     '要求：',
-    '1) 每个项目生成两段式总结，用” | “分隔：',
-    '   - 第一段(提炼核心)：基于原始 description 提炼项目的核心功能和用途，30字以内',
-    '   - 第二段(突出亮点)：分析项目的技术特点、差异化优势或适用场景，30字以内',
-    '2) 总长度控制在80字以内',
-    '3) 不要营销口吻，不要空话，保持技术语义准确',
-    '4) 必须输出 JSON 数组，格式严格为：[{“id”:”owner/repo”,”summary”:”核心功能 | 亮点特色”}]',
+    '1) 用不超过两句话概括项目：',
+    '   - 第一句话：核心功能（这个项目是什么，解决什么问题）',
+    '   - 第二句话：技术特点（使用什么技术、架构亮点或实现方式）',
+    '2) 总字数控制在 150 字以内',
+    '3) 语言简洁专业，不要营销口吻，不要空话',
+    '4) 必须输出 JSON 数组，格式：[{“id”:”owner/repo”,”summary”:”第一句。第二句。”}]',
     '5) 输出里不能缺项目，id 必须原样返回',
     '',
     '待总结项目：',

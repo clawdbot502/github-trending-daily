@@ -9,7 +9,7 @@ import { logInfo, logWarn, safeText, withRetry } from '../../lib/utils';
 interface SummaryConfig {
   apiKey?: string;
   baseUrl: string;
-  model: string;
+  models: string[]; // 支持多个模型，主模型在前，备用模型在后
 }
 
 interface BatchSummary {
@@ -152,10 +152,15 @@ function loadOpenClawSummaryConfig(): Partial<SummaryConfig> {
 function resolveSummaryConfig(): SummaryConfig {
   const fileConfig = loadOpenClawSummaryConfig();
 
+  // 解析主模型和备用模型列表
+  const primaryModel = process.env.SUMMARY_MODEL ?? process.env.KIMI_MODEL ?? fileConfig.model ?? DEFAULT_MODEL;
+  const fallbackModels = process.env.SUMMARY_FALLBACK_MODELS?.split(',').map(m => m.trim()).filter(Boolean) ?? [];
+  const models = [primaryModel, ...fallbackModels];
+
   return {
     apiKey: process.env.SUMMARY_API_KEY ?? process.env.KIMI_API_KEY ?? fileConfig.apiKey,
     baseUrl: process.env.SUMMARY_BASE_URL ?? process.env.KIMI_BASE_URL ?? fileConfig.baseUrl ?? DEFAULT_BASE_URL,
-    model: process.env.SUMMARY_MODEL ?? process.env.KIMI_MODEL ?? fileConfig.model ?? DEFAULT_MODEL,
+    models,
   };
 }
 
@@ -187,9 +192,14 @@ function buildBatchPrompt(batch: ClassifiedProject[]): string {
   ].join('\n');
 }
 
-async function callSummaryApiForBatch(batch: ClassifiedProject[], config: SummaryConfig): Promise<BatchSummary[]> {
+async function callSummaryApiForBatch(
+  batch: ClassifiedProject[],
+  config: SummaryConfig,
+  modelOverride?: string
+): Promise<BatchSummary[]> {
+  const model = modelOverride ?? config.models[0];
   const payload = {
-    model: config.model,
+    model,
     temperature: 0.2,
     messages: [
       {
@@ -270,6 +280,43 @@ async function callSummaryApiForBatch(batch: ClassifiedProject[], config: Summar
   return result;
 }
 
+/**
+ * 多模型轮询调用
+ * 当主模型限流时，自动切换到备用模型
+ */
+async function callSummaryApiWithFallback(
+  batch: ClassifiedProject[],
+  config: SummaryConfig
+): Promise<BatchSummary[]> {
+  const models = config.models;
+
+  for (let i = 0; i < models.length; i++) {
+    const model = models[i];
+    try {
+      const result = await callSummaryApiForBatch(batch, config, model);
+      if (i > 0) {
+        logInfo(`Model ${model} succeeded after fallback from ${models[0]}`);
+      }
+      return result;
+    } catch (error) {
+      const errMessage = toErrorMessage(error);
+      const isRateLimited = errMessage.includes('429') || errMessage.includes('rate-limit');
+
+      if (isRateLimited && i < models.length - 1) {
+        logWarn(`Model ${model} rate limited, trying fallback model ${models[i + 1]}...`);
+        // 添加短暂延时再尝试下一个模型
+        await new Promise(resolve => setTimeout(resolve, 500));
+        continue;
+      }
+
+      // 如果不是限流或没有更多备用模型，抛出错误
+      throw error;
+    }
+  }
+
+  throw new Error('All models failed');
+}
+
 function splitIntoBatches<T>(items: T[], batchSize: number): T[][] {
   const batches: T[][] = [];
   for (let i = 0; i < items.length; i += batchSize) {
@@ -285,7 +332,7 @@ async function summarizeBatchOneByOne(
 ): Promise<void> {
   for (const project of batch) {
     try {
-      const oneResult = await callSummaryApiForBatch([project], config);
+      const oneResult = await callSummaryApiWithFallback([project], config);
       const oneSummary = oneResult.find((item) => item.id === project.id)?.summary;
       summaryMap.set(project.id, toShortSummary(oneSummary ?? '', fallbackSummary(project)));
     } catch (error) {
@@ -314,13 +361,13 @@ export async function summarizeProjects(projects: ClassifiedProject[]): Promise<
 
   const batchSize = resolveBatchSize();
   const batches = splitIntoBatches(projects, batchSize);
-  logInfo(`Start AI summarization with model=${config.model} in ${batches.length} batch(es), batchSize=${batchSize}.`);
+  logInfo(`Start AI summarization with models=[${config.models.join(', ')}] in ${batches.length} batch(es), batchSize=${batchSize}.`);
 
   for (let index = 0; index < batches.length; index += 1) {
     const batch = batches[index] as ClassifiedProject[];
 
     try {
-      const batchResult = await callSummaryApiForBatch(batch, config);
+      const batchResult = await callSummaryApiWithFallback(batch, config);
       const batchMap = new Map(batchResult.map((item) => [item.id, item.summary]));
 
       for (const project of batch) {
@@ -334,7 +381,7 @@ export async function summarizeProjects(projects: ClassifiedProject[]): Promise<
 
       if (errMessage.includes('ECONNABORTED') || errMessage.toLowerCase().includes('timeout')) {
         logWarn(
-          `AI summary batch ${index + 1}/${batches.length} timeout. model=${config.model} endpoint 当前不可用，剩余项目统一使用中文兜底摘要。`,
+          `AI summary batch ${index + 1}/${batches.length} timeout. models=[${config.models.join(', ')}] endpoint 当前不可用，剩余项目统一使用中文兜底摘要。`,
         );
 
         for (let rest = index; rest < batches.length; rest += 1) {

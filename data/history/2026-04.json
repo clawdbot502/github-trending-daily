@@ -1512,7 +1512,7 @@
     },
     {
       "date": "2026-04-08",
-      "generated_at": "2026-04-08T11:40:16.531Z",
+      "generated_at": "2026-04-08T11:55:13.611Z",
       "projects": [
         {
           "id": "obra/superpowers",
@@ -1520,9 +1520,9 @@
           "owner": "obra",
           "url": "https://github.com/obra/superpowers",
           "description": "An agentic skills framework & software development methodology that works.",
-          "ai_summary": "superpowers - An agentic skills framework & software development methodology that works. 使用 Shell 开发。",
+          "ai_summary": "Superpowers 是一个代理技能框架和软件开发方法论，旨在提升开发效率。它基于 Shell 脚本实现，强调自动化与模块化设计。",
           "language": "Shell",
-          "stars": 140531,
+          "stars": 140564,
           "forks": 11982,
           "stars_today": 1926,
           "stars_this_week": 0,
@@ -1541,7 +1541,7 @@
             "pr_count": 540,
             "star_fork_ratio": 11.73
           },
-          "trending_days": 5,
+          "trending_days": 6,
           "first_seen": "2026-04-08T00:00:00.000Z"
         },
         {
@@ -1550,9 +1550,9 @@
           "owner": "abhigyanpatwari",
           "url": "https://github.com/abhigyanpatwari/GitNexus",
           "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-          "ai_summary": "GitNexus是一个纯客户端的代码智能引擎，用于在浏览器中直接对代码库进行交互式探索与理解。它基于TypeScript实现，通过构建代码知识图谱并集成Graph RAG代理来提供智能分析能力。",
+          "ai_summary": "GitNexus 是一个零服务器代码智能引擎，用于在浏览器中生成交互式知识图谱。它采用 TypeScript 开发，支持本地代码分析并集成图 RAG 代理功能。",
           "language": "TypeScript",
-          "stars": 25008,
+          "stars": 25009,
           "forks": 2790,
           "stars_today": 981,
           "stars_this_week": 0,
@@ -1571,7 +1571,7 @@
             "pr_count": 426,
             "star_fork_ratio": 8.96
           },
-          "trending_days": 9,
+          "trending_days": 10,
           "first_seen": "2026-04-07T00:00:00.000Z"
         },
         {
@@ -1580,9 +1580,9 @@
           "owner": "google-ai-edge",
           "url": "https://github.com/google-ai-edge/gallery",
           "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
-          "ai_summary": "一个展示设备端机器学习与生成式AI用例的应用，允许用户本地体验和试用模型。基于Kotlin开发，专注于端侧模型部署与交互演示。",
+          "ai_summary": "Gallery 是一个展示设备端 ML/GenAI 用例的应用，支持本地模型试用。基于 Kotlin 实现，专注于移动端高效推理与交互体验。",
           "language": "Kotlin",
-          "stars": 19190,
+          "stars": 19197,
           "forks": 1791,
           "stars_today": 853,
           "stars_this_week": 2934,
@@ -1598,9 +1598,9 @@
             "has_readme": true,
             "issue_count": 225,
             "pr_count": 261,
-            "star_fork_ratio": 10.71
+            "star_fork_ratio": 10.72
           },
-          "trending_days": 9,
+          "trending_days": 10,
           "first_seen": "2026-04-07T00:00:00.000Z"
         },
         {
@@ -1609,9 +1609,9 @@
           "owner": "forrestchang",
           "url": "https://github.com/forrestchang/andrej-karpathy-skills",
           "description": "",
-          "ai_summary": "andrej-karpathy-skills - 开源项目 使用 多语言 开发。",
+          "ai_summary": "该项目整理归纳了AI研究员Andrej Karpathy的技术栈与核心能力。通过系统化分类展示其机器学习、编程语言和工程实践等领域的专业技能。",
           "language": "",
-          "stars": 8399,
+          "stars": 8413,
           "forks": 584,
           "stars_today": 686,
           "stars_this_week": 0,
@@ -1627,9 +1627,9 @@
             "has_readme": true,
             "issue_count": 13,
             "pr_count": 13,
-            "star_fork_ratio": 14.38
+            "star_fork_ratio": 14.41
           },
-          "trending_days": 2,
+          "trending_days": 3,
           "first_seen": "2026-04-08T00:00:00.000Z"
         },
         {
@@ -1638,9 +1638,9 @@
           "owner": "TheCraigHewitt",
           "url": "https://github.com/TheCraigHewitt/seomachine",
           "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
-          "ai_summary": "seomachine - A specialized Claude Code workspace for creating long-form, SEO-optimized blog c... 使用 Python 开发。",
+          "ai_summary": "基于Claude AI的SEO内容生成系统，自动化生产符合搜索引擎优化的长文博客内容。采用Python实现内容研究、撰写与分析的全流程优化，集成NLP技术提升内容质量。",
           "language": "Python",
-          "stars": 4205,
+          "stars": 4210,
           "forks": 679,
           "stars_today": 645,
           "stars_this_week": 0,
@@ -1657,9 +1657,9 @@
             "has_readme": true,
             "issue_count": 19,
             "pr_count": 20,
-            "star_fork_ratio": 6.19
+            "star_fork_ratio": 6.2
           },
-          "trending_days": 9,
+          "trending_days": 10,
           "first_seen": "2026-04-07T00:00:00.000Z"
         },
         {
@@ -1668,9 +1668,9 @@
           "owner": "virattt",
           "url": "https://github.com/virattt/ai-hedge-fund",
           "description": "An AI Hedge Fund Team",
-          "ai_summary": "ai-hedge-fund - An AI Hedge Fund Team 使用 Python 开发。",
+          "ai_summary": "基于人工智能算法的对冲基金量化交易系统。使用Python构建包含数据处理、特征工程和机器学习模型的完整量化投资流水线。",
           "language": "Python",
-          "stars": 50447,
+          "stars": 50453,
           "forks": 8764,
           "stars_today": 123,
           "stars_this_week": 0,
@@ -1688,7 +1688,7 @@
             "pr_count": 303,
             "star_fork_ratio": 5.76
           },
-          "trending_days": 5,
+          "trending_days": 6,
           "first_seen": "2026-04-08T00:00:00.000Z"
         },
         {
@@ -1697,9 +1697,9 @@
           "owner": "Yeachan-Heo",
           "url": "https://github.com/Yeachan-Heo/oh-my-codex",
           "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
-          "ai_summary": "Oh My codeX是一个为Claude Code添加hooks、agent团队和HUDs等功能的扩展工具集。基于TypeScript的模块化系统，支持可视化组件与多代理协作框架。",
+          "ai_summary": "Oh My CodeX 是一个增强代码功能的工具，通过添加钩子、代理团队和HUD等功能提升开发体验。采用 TypeScript 实现，支持模块化扩展和自定义集成。",
           "language": "TypeScript",
-          "stars": 18734,
+          "stars": 18739,
           "forks": 1742,
           "stars_today": 0,
           "stars_this_week": 14101,
@@ -1716,9 +1716,9 @@
             "has_readme": true,
             "issue_count": 6,
             "pr_count": 845,
-            "star_fork_ratio": 10.75
+            "star_fork_ratio": 10.76
           },
-          "trending_days": 7,
+          "trending_days": 8,
           "first_seen": "2026-04-08T00:00:00.000Z"
         },
         {
@@ -1727,10 +1727,10 @@
           "owner": "luongnv89",
           "url": "https://github.com/luongnv89/claude-howto",
           "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-          "ai_summary": "claude-howto是一个视觉化、示例驱动的Claude Code指南，提供从基础到高级agent的复制粘贴模板。采用交互式教程结构，包含即用代码示例以加速开发。",
+          "ai_summary": "Claude-howto 是 Claude Code 的视觉化教程，提供从基础到高级概念的示例和即用模板。基于 Python 实现，注重实用性和快速上手。",
           "language": "Python",
-          "stars": 22888,
-          "forks": 2753,
+          "stars": 22896,
+          "forks": 2754,
           "stars_today": 0,
           "stars_this_week": 10745,
           "category": "hot",
@@ -1749,7 +1749,7 @@
             "pr_count": 44,
             "star_fork_ratio": 8.31
           },
-          "trending_days": 9,
+          "trending_days": 10,
           "first_seen": "2026-04-07T00:00:00.000Z"
         },
         {
@@ -1758,10 +1758,10 @@
           "owner": "NousResearch",
           "url": "https://github.com/NousResearch/hermes-agent",
           "description": "The agent that grows with you",
-          "ai_summary": "hermes-agent是一个能随用户需求增长的AI代理框架。通过模块化设计实现功能动态扩展，支持可插拔组件与持续能力演进。",
+          "ai_summary": "Hermes-agent 是一个可成长的智能代理系统，能够根据用户需求动态扩展功能。使用 Python 开发，支持灵活配置和持续学习。",
           "language": "Python",
-          "stars": 35042,
-          "forks": 4461,
+          "stars": 35105,
+          "forks": 4465,
           "stars_today": 0,
           "stars_this_week": 10487,
           "category": "hot",
@@ -1775,11 +1775,11 @@
             "repo_age_days": 259,
             "has_license": true,
             "has_readme": true,
-            "issue_count": 2057,
-            "pr_count": 4772,
+            "issue_count": 2056,
+            "pr_count": 4773,
             "star_fork_ratio": 7.86
           },
-          "trending_days": 20,
+          "trending_days": 21,
           "first_seen": "2026-03-24T00:00:00.000Z"
         },
         {
@@ -1788,9 +1788,9 @@
           "owner": "Yeachan-Heo",
           "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
           "description": "Teams-first Multi-agent orchestration for Claude Code",
-          "ai_summary": "oh-my-claudecode - Teams-first Multi-agent orchestration for Claude Code 使用 TypeScript 开发。",
+          "ai_summary": "这是一个面向Teams的多智能体编排系统，专为Claude Code设计，旨在优化团队协作中的代码管理流程。采用TypeScript开发，支持多智能体协同工作，提供灵活的编排机制。",
           "language": "TypeScript",
-          "stars": 26061,
+          "stars": 26064,
           "forks": 2399,
           "stars_today": 0,
           "stars_this_week": 7543,
@@ -1810,7 +1810,7 @@
             "pr_count": 1468,
             "star_fork_ratio": 10.86
           },
-          "trending_days": 12,
+          "trending_days": 13,
           "first_seen": "2026-04-01T00:00:00.000Z"
         }
       ],

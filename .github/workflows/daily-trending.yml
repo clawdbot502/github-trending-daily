@@ -2,8 +2,8 @@ name: Daily GitHub Trending
 
 on:
   schedule:
-    # UTC 01:41 = 北京时间 09:41，提前30分钟调度，代码内等待到 10:11 执行
-    - cron: '41 1 * * *'
+    # UTC 09:17 = 北京时间 17:17，准时调度执行
+    - cron: '17 9 * * *'
   workflow_dispatch:
 
 permissions:
@@ -32,33 +32,6 @@ jobs:
 
       - name: Install dependencies
         run: npm ci --no-audit --no-fund
-
-      - name: Wait until Beijing Time 10:11
-        run: |
-          # 计算北京时间 10:11 对应的 UTC 时间
-          # 北京时间 = UTC + 8 小时
-          # 10:11 北京时间 = 02:11 UTC
-          target_utc_hour=2
-          target_utc_min=11
-          
-          current_epoch=$(date +%s)
-          current_hour=$(date -u +%H)
-          current_min=$(date -u +%M)
-          
-          # 构建目标时间的 epoch（今天）
-          target_epoch=$(date -u -d "today ${target_utc_hour}:${target_utc_min}:00" +%s 2>/dev/null || date -u -v${target_utc_hour}H -v${target_utc_min}M -v0S +%s)
-          
-          # 如果目标时间已过，说明是手动触发或调度延迟，直接执行
-          if [ $current_epoch -ge $target_epoch ]; then
-            echo "Current time is past target time (UTC 02:11), proceeding immediately."
-            exit 0
-          fi
-          
-          wait_seconds=$((target_epoch - current_epoch))
-          echo "Waiting for $(date -u -d "@${target_epoch}" "+%H:%M UTC") (Beijing Time 10:11)..."
-          echo "Sleeping for ${wait_seconds} seconds..."
-          sleep $wait_seconds
-          echo "Target time reached, proceeding with pipeline."
 
       - name: Run daily pipeline
         env:

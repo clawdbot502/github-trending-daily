@@ -1828,7 +1828,7 @@
     },
     {
       "date": "2026-04-09",
-      "generated_at": "2026-04-09T11:51:53.325Z",
+      "generated_at": "2026-04-09T12:06:17.258Z",
       "projects": [
         {
           "id": "NousResearch/hermes-agent",
@@ -1836,10 +1836,10 @@
           "owner": "NousResearch",
           "url": "https://github.com/NousResearch/hermes-agent",
           "description": "The agent that grows with you",
-          "ai_summary": "Hermes-agent 是一个可成长的智能代理，旨在通过持续学习适应用户需求。采用 Python 实现，支持模块化扩展和动态技能获取。",
+          "ai_summary": "Hermes-agent 是一个能够随用户需求成长的智能代理。采用 Python 实现，通过动态学习和适应性架构实现持续进化。",
           "language": "Python",
-          "stars": 41429,
-          "forks": 5295,
+          "stars": 41532,
+          "forks": 5310,
           "stars_today": 5794,
           "stars_this_week": 14811,
           "category": "hot",
@@ -1853,11 +1853,11 @@
             "repo_age_days": 260,
             "has_license": true,
             "has_readme": true,
-            "issue_count": 2318,
-            "pr_count": 5101,
+            "issue_count": 2326,
+            "pr_count": 5108,
             "star_fork_ratio": 7.82
           },
-          "trending_days": 22,
+          "trending_days": 23,
           "first_seen": "2026-03-24T00:00:00.000Z"
         },
         {
@@ -1866,11 +1866,11 @@
           "owner": "obra",
           "url": "https://github.com/obra/superpowers",
           "description": "An agentic skills framework & software development methodology that works.",
-          "ai_summary": "Superpowers 是一个代理技能框架和软件开发方法论，用于构建高效能代理系统。基于 Shell 脚本实现，强调组合式技能编排和轻量化架构。",
+          "ai_summary": "Superpowers 是一个代理技能框架和软件开发方法论。基于 Shell 脚本实现，提供模块化技能组合和自动化工作流。",
           "language": "Shell",
-          "stars": 142813,
-          "forks": 12177,
-          "stars_today": 2028,
+          "stars": 142832,
+          "forks": 12178,
+          "stars_today": 2318,
           "stars_this_week": 0,
           "category": "hot",
           "tags": [
@@ -1887,7 +1887,37 @@
             "pr_count": 550,
             "star_fork_ratio": 11.73
           },
-          "trending_days": 7,
+          "trending_days": 8,
+          "first_seen": "2026-04-08T00:00:00.000Z"
+        },
+        {
+          "id": "forrestchang/andrej-karpathy-skills",
+          "name": "andrej-karpathy-skills",
+          "owner": "forrestchang",
+          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "ai_summary": "该项目通过单个 CLAUDE.md 文件改进 Claude 代码行为。基于 Andrej Karpathy 对 LLM 编码缺陷的观察，提炼出针对性优化策略。",
+          "language": "",
+          "stars": 9782,
+          "forks": 667,
+          "stars_today": 1371,
+          "stars_this_week": 1387,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4320,
+            "repo_age_days": 72,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 17,
+            "pr_count": 17,
+            "star_fork_ratio": 14.67
+          },
+          "trending_days": 5,
           "first_seen": "2026-04-08T00:00:00.000Z"
         },
         {
@@ -1896,10 +1926,10 @@
           "owner": "HKUDS",
           "url": "https://github.com/HKUDS/DeepTutor",
           "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
-          "ai_summary": "DeepTutor 是原生代理式个性化学习助手，通过深度学习方法提供定制化教育支持。采用 Python 开发，整合了强化学习和知识图谱技术。",
+          "ai_summary": "DeepTutor是一个基于代理的个性化学习助手，旨在提供定制化的学习体验。该项目采用Python实现，利用深度学习技术构建智能代理，实现个性化学习路径推荐。",
           "language": "Python",
-          "stars": 14078,
-          "forks": 1918,
+          "stars": 14110,
+          "forks": 1920,
           "stars_today": 1306,
           "stars_this_week": 2256,
           "category": "hot",
@@ -1915,9 +1945,9 @@
             "has_readme": true,
             "issue_count": 13,
             "pr_count": 162,
-            "star_fork_ratio": 7.34
+            "star_fork_ratio": 7.35
           },
-          "trending_days": 1,
+          "trending_days": 2,
           "first_seen": "2026-04-09T00:00:00.000Z"
         },
         {
@@ -1926,10 +1956,10 @@
           "owner": "opendataloader-project",
           "url": "https://github.com/opendataloader-project/opendataloader-pdf",
           "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
-          "ai_summary": "该项目是一个用于解析PDF文件的开源工具，旨在将PDF内容转换为AI可用的数据格式并自动化PDF可访问性处理。基于Java实现，支持高效解析和结构化输出。",
+          "ai_summary": "opendataloader-pdf是一个PDF解析工具，专注于为AI应用准备数据并自动化PDF可访问性处理。该项目基于Java开发，提供开源解决方案，支持高效PDF内容提取和结构化处理。",
           "language": "Java",
-          "stars": 13096,
-          "forks": 1108,
+          "stars": 13112,
+          "forks": 1110,
           "stars_today": 1012,
           "stars_this_week": 0,
           "category": "hot",
@@ -1944,40 +1974,10 @@
             "has_readme": true,
             "issue_count": 25,
             "pr_count": 285,
-            "star_fork_ratio": 11.82
+            "star_fork_ratio": 11.81
           },
-          "trending_days": 1,
+          "trending_days": 2,
           "first_seen": "2026-04-09T00:00:00.000Z"
-        },
-        {
-          "id": "forrestchang/andrej-karpathy-skills",
-          "name": "andrej-karpathy-skills",
-          "owner": "forrestchang",
-          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-          "ai_summary": "该项目提供了一份改进Claude代码行为的指南文件，总结了Andrej Karpathy关于大型语言模型编码常见问题的观察。采用简洁的Markdown格式，直接针对LLM编码优化提供实用建议。",
-          "language": "",
-          "stars": 9772,
-          "forks": 667,
-          "stars_today": 702,
-          "stars_this_week": 1387,
-          "category": "hot",
-          "tags": [
-            "AI",
-            "Skills"
-          ],
-          "security_score": 90,
-          "security_details": {
-            "author_age_days": 4320,
-            "repo_age_days": 72,
-            "has_license": false,
-            "has_readme": true,
-            "issue_count": 17,
-            "pr_count": 17,
-            "star_fork_ratio": 14.65
-          },
-          "trending_days": 4,
-          "first_seen": "2026-04-08T00:00:00.000Z"
         },
         {
           "id": "TheCraigHewitt/seomachine",
@@ -1985,11 +1985,11 @@
           "owner": "TheCraigHewitt",
           "url": "https://github.com/TheCraigHewitt/seomachine",
           "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
-          "ai_summary": "这是一个基于Claude代码的SEO内容生成系统，专门用于创建长篇、SEO优化的博客内容。采用Python实现，整合了内容研究、撰写、分析和优化功能，帮助生成高排名内容。",
+          "ai_summary": "seomachine是一个专为Claude Code设计的SEO优化长文生成工具，帮助用户研究、撰写和分析排名优化的商业内容。该项目使用Python实现，结合自然语言处理和SEO技术，自动化内容创作流程。",
           "language": "Python",
-          "stars": 4926,
-          "forks": 733,
-          "stars_today": 649,
+          "stars": 4932,
+          "forks": 734,
+          "stars_today": 725,
           "stars_this_week": 0,
           "category": "hot",
           "tags": [
@@ -2006,7 +2006,7 @@
             "pr_count": 24,
             "star_fork_ratio": 6.72
           },
-          "trending_days": 11,
+          "trending_days": 12,
           "first_seen": "2026-04-07T00:00:00.000Z"
         },
         {
@@ -2017,7 +2017,7 @@
           "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
           "ai_summary": "这是一个Obsidian插件，将Claude Code作为AI协作者嵌入到知识库中。采用TypeScript开发，通过插件机制实现与Obsidian的无缝集成。",
           "language": "TypeScript",
-          "stars": 6522,
+          "stars": 6524,
           "forks": 383,
           "stars_today": 174,
           "stars_this_week": 0,
@@ -2027,7 +2027,7 @@
           ],
           "security_score": 90,
           "security_details": {
-            "author_age_days": 1053,
+            "author_age_days": 1054,
             "repo_age_days": 124,
             "has_license": true,
             "has_readme": true,
@@ -2035,7 +2035,7 @@
             "pr_count": 179,
             "star_fork_ratio": 17.03
           },
-          "trending_days": 1,
+          "trending_days": 2,
           "first_seen": "2026-04-09T00:00:00.000Z"
         },
         {
@@ -2046,8 +2046,8 @@
           "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
           "ai_summary": "首个开源AI编程工具链构建器，使AI编程过程可确定且可重复。基于TypeScript实现，提供标准化构建流程和可扩展架构。",
           "language": "TypeScript",
-          "stars": 14062,
-          "forks": 2418,
+          "stars": 14072,
+          "forks": 2419,
           "stars_today": 138,
           "stars_this_week": 0,
           "category": "hot",
@@ -2064,7 +2064,7 @@
             "pr_count": 391,
             "star_fork_ratio": 5.82
           },
-          "trending_days": 1,
+          "trending_days": 2,
           "first_seen": "2026-04-09T00:00:00.000Z"
         },
         {
@@ -2073,10 +2073,10 @@
           "owner": "Yeachan-Heo",
           "url": "https://github.com/Yeachan-Heo/oh-my-codex",
           "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
-          "ai_summary": "增强代码开发环境的工具，为Codex添加钩子、智能体团队和HUD等功能。使用TypeScript开发，通过模块化设计实现功能扩展。",
+          "ai_summary": "增强代码开发环境的工具，为代码库添加钩子、智能代理团队和HUD等功能。使用TypeScript开发，支持模块化扩展和团队协作特性。",
           "language": "TypeScript",
-          "stars": 19615,
-          "forks": 1791,
+          "stars": 19619,
+          "forks": 1792,
           "stars_today": 0,
           "stars_this_week": 11503,
           "category": "hot",
@@ -2094,7 +2094,7 @@
             "pr_count": 878,
             "star_fork_ratio": 10.95
           },
-          "trending_days": 9,
+          "trending_days": 10,
           "first_seen": "2026-04-08T00:00:00.000Z"
         },
         {
@@ -2103,9 +2103,9 @@
           "owner": "luongnv89",
           "url": "https://github.com/luongnv89/claude-howto",
           "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-          "ai_summary": "该项目是一个针对Claude Code的视觉化示例驱动指南，涵盖从基础概念到高级代理的使用方法。通过提供可直接复用的代码模板，采用Python实现并注重实用性与快速上手。",
+          "ai_summary": "该项目是Claude代码的视觉化示例教程，涵盖从基础概念到高级代理的开发指南，提供可直接复用的代码模板。采用Python实现，通过结构化示例和模板化代码降低学习门槛。",
           "language": "Python",
-          "stars": 23719,
+          "stars": 23729,
           "forks": 2848,
           "stars_today": 0,
           "stars_this_week": 8317,
@@ -2125,7 +2125,7 @@
             "pr_count": 45,
             "star_fork_ratio": 8.33
           },
-          "trending_days": 11,
+          "trending_days": 12,
           "first_seen": "2026-04-07T00:00:00.000Z"
         }
       ],

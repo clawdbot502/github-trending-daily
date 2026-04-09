@@ -40,6 +40,11 @@ jobs:
           SUMMARY_MODEL: ${{ secrets.SUMMARY_MODEL }}
           SUMMARY_BATCH_SIZE: ${{ secrets.SUMMARY_BATCH_SIZE }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
+          FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
+          FEISHU_CHAT_ID: ${{ secrets.FEISHU_CHAT_ID }}
         run: npm run scrape
 
       - name: Sync to Feishu Base and notify

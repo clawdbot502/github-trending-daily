@@ -7,6 +7,17 @@ import { summarizeProjects } from './ai/summarize';
 import { filterAndClassifyProjects } from './filter/index';
 import { scrapeTrending } from './scraper/index';
 import { scoreProjectSecurity } from './security/score';
+import { syncDailyData } from '../lib/supabase';
+import {
+  generateWeeklyReport,
+  generateMonthlyReport,
+  shouldGenerateWeeklyReport,
+  shouldGenerateMonthlyReport,
+} from './db/reports';
+import {
+  sendWeeklyReportToFeishu,
+  sendMonthlyReportToFeishu,
+} from './feishu/weekly-notify';
 
 interface MonthlyArchive {
   month: string;
@@ -183,6 +194,39 @@ export async function runPipeline(): Promise<DailyData> {
 
   await saveDailyData(dailyData);
   await updateMonthlyArchive(dailyData);
+
+  // 同步到 Supabase
+  try {
+    await syncDailyData(dailyData);
+    logInfo('Data synced to Supabase successfully');
+  } catch (error) {
+    logError('Failed to sync data to Supabase', error);
+    // 不影响主流程，继续执行
+  }
+
+  // 生成周报（周日）
+  if (shouldGenerateWeeklyReport(now)) {
+    try {
+      logInfo('Generating weekly report...');
+      const weeklyReport = await generateWeeklyReport(now);
+      await sendWeeklyReportToFeishu(weeklyReport);
+      logInfo('Weekly report sent successfully');
+    } catch (error) {
+      logError('Failed to generate/send weekly report', error);
+    }
+  }
+
+  // 生成月报（每月1日）
+  if (shouldGenerateMonthlyReport(now)) {
+    try {
+      logInfo('Generating monthly report...');
+      const monthlyReport = await generateMonthlyReport(now.getFullYear(), now.getMonth() + 1);
+      await sendMonthlyReportToFeishu(monthlyReport);
+      logInfo('Monthly report sent successfully');
+    } catch (error) {
+      logError('Failed to generate/send monthly report', error);
+    }
+  }
 
   logInfo(
     `Pipeline completed. projects=${dailyData.projects.length}, hot=${dailyData.stats.hot}, gem=${dailyData.stats.gem}, month=${monthStamp(now)}`,

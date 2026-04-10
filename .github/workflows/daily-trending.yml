@@ -2,19 +2,55 @@ name: Daily GitHub Trending
 
 on:
   schedule:
-    # UTC 09:17 = 北京时间 17:17，准时调度执行
+    # 多重 cron 冗余：fork 仓库 schedule 容易 miss，设置 3 个触发窗口兜底
+    # UTC 09:17 / 10:17 / 11:17 = 北京时间 17:17 / 18:17 / 19:17
     - cron: '17 9 * * *'
+    - cron: '17 10 * * *'
+    - cron: '17 11 * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
+  actions: read
 
 concurrency:
   group: daily-trending-${{ github.ref }}
   cancel-in-progress: false
 
 jobs:
+  check:
+    runs-on: ubuntu-latest
+    outputs:
+      should_run: ${{ steps.check.outputs.should_run }}
+    steps:
+      - name: Idempotency check (skip duplicate schedule runs)
+        id: check
+        run: |
+          # 手动触发永远放行
+          if [ "${{ github.event_name }}" != "schedule" ]; then
+            echo "should_run=true" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+
+          TODAY=$(date -u +%Y-%m-%d)
+          echo "Checking for successful schedule runs today ($TODAY)..."
+
+          COUNT=$(gh api "repos/${{ github.repository }}/actions/runs?per_page=30" \
+            --jq "[.workflow_runs[] | select(.name == \"Daily GitHub Trending\" and .event == \"schedule\" and (.created_at | startswith(\"$TODAY\")) and .conclusion == \"success\")] | length")
+
+          echo "Found $COUNT successful schedule run(s) today."
+
+          if [ "$COUNT" -gt 0 ]; then
+            echo "should_run=false" >> $GITHUB_OUTPUT
+          else
+            echo "should_run=true" >> $GITHUB_OUTPUT
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
   scrape:
+    needs: check
+    if: needs.check.outputs.should_run == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 30
 

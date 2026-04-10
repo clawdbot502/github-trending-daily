@@ -15,6 +15,18 @@ GitHub 热门项目日报系统（MVP）。
 - axios + cheerio
 - node-telegram-bot-api
 
+## 作为 Claude Code Skill 使用
+
+本仓库已包含 `SKILL.md`，可被任何支持 Anthropic skill 规范的 agent（包括 Claude Code）直接识别和调用。
+
+当 agent 加载此 skill 后，可通过以下入口与用户交互：
+
+- **抓取今日 Trending**：自动运行 `npm run scrape` 完成从抓取到落盘的全流程
+- **发送日报**：运行 `npm run notify`（Telegram）或 `npm run notify:feishu` / `npm run sync:feishu`（飞书）
+- **发送周报/月报**：运行 `npm run notify:feishu:weekly` 或等待 pipeline 在周日/每月 1 日自动生成并推送
+
+Skill 描述文件中已完整标注了各脚本的作用、所需环境变量及数据输出路径，agent 无需再通读源码即可正确调用。
+
 ## 环境变量
 
 复制 `.env.example` 并填充：

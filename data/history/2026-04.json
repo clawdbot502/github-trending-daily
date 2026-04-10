@@ -2140,6 +2140,318 @@
           "内容创作": 1
         }
       }
+    },
+    {
+      "date": "2026-04-10",
+      "generated_at": "2026-04-10T12:00:19.704Z",
+      "projects": [
+        {
+          "id": "NousResearch/hermes-agent",
+          "name": "hermes-agent",
+          "owner": "NousResearch",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "ai_summary": "Hermes-agent 是一个能够随用户需求成长的智能代理工具。它基于 Python 实现，采用动态学习机制以适应不同场景需求。",
+          "language": "Python",
+          "stars": 49096,
+          "forks": 6317,
+          "stars_today": 6485,
+          "stars_this_week": 19765,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1055,
+            "repo_age_days": 261,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 2645,
+            "pr_count": 5547,
+            "star_fork_ratio": 7.77
+          },
+          "trending_days": 24,
+          "first_seen": "2026-03-24T00:00:00.000Z"
+        },
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "Superpowers 是一个代理技能框架和软件开发方法论工具。通过 Shell 脚本实现，提供模块化技能组合和高效开发流程。",
+          "language": "Shell",
+          "stars": 144889,
+          "forks": 12411,
+          "stars_today": 2299,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6299,
+            "repo_age_days": 182,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 262,
+            "pr_count": 560,
+            "star_fork_ratio": 11.67
+          },
+          "trending_days": 9,
+          "first_seen": "2026-04-08T00:00:00.000Z"
+        },
+        {
+          "id": "multica-ai/multica",
+          "name": "multica",
+          "owner": "multica-ai",
+          "url": "https://github.com/multica-ai/multica",
+          "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+          "ai_summary": "Multica 是一个开源托管代理平台，可将编码代理转化为团队协作成员。基于 TypeScript 构建，支持任务分配、进度追踪和技能复合功能。",
+          "language": "TypeScript",
+          "stars": 5099,
+          "forks": 634,
+          "stars_today": 1680,
+          "stars_this_week": 3201,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 70,
+          "security_details": {
+            "author_age_days": 86,
+            "repo_age_days": 86,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 91,
+            "pr_count": 549,
+            "star_fork_ratio": 8.04
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-10T00:00:00.000Z"
+        },
+        {
+          "id": "forrestchang/andrej-karpathy-skills",
+          "name": "andrej-karpathy-skills",
+          "owner": "forrestchang",
+          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "ai_summary": "该项目通过一个CLAUDE.md文件优化Claude代码生成行为，解决LLM编码常见问题。基于Andrej Karpathy对LLM编码缺陷的观察总结，采用Markdown格式集中呈现最佳实践。",
+          "language": "",
+          "stars": 11228,
+          "forks": 742,
+          "stars_today": 1364,
+          "stars_this_week": 2230,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 4321,
+            "repo_age_days": 73,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 25,
+            "pr_count": 21,
+            "star_fork_ratio": 15.13
+          },
+          "trending_days": 6,
+          "first_seen": "2026-04-08T00:00:00.000Z"
+        },
+        {
+          "id": "HKUDS/DeepTutor",
+          "name": "DeepTutor",
+          "owner": "HKUDS",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+          "ai_summary": "DeepTutor是面向个性化学习的智能辅导代理系统。基于Python实现，采用深度学习方法构建代理原生架构，实现自适应教学路径规划。",
+          "language": "Python",
+          "stars": 15537,
+          "forks": 2056,
+          "stars_today": 1310,
+          "stars_this_week": 3233,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1243,
+            "repo_age_days": 102,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 17,
+            "pr_count": 165,
+            "star_fork_ratio": 7.56
+          },
+          "trending_days": 3,
+          "first_seen": "2026-04-09T00:00:00.000Z"
+        },
+        {
+          "id": "shanraisshan/claude-code-best-practice",
+          "name": "claude-code-best-practice",
+          "owner": "shanraisshan",
+          "url": "https://github.com/shanraisshan/claude-code-best-practice",
+          "description": "practice made claude perfect",
+          "ai_summary": "该项目收集Claude代码生成的最佳实践案例。通过HTML文档形式组织典型场景，展示提示工程优化方法。",
+          "language": "HTML",
+          "stars": 34992,
+          "forks": 3302,
+          "stars_today": 1248,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 4028,
+            "repo_age_days": 160,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 6,
+            "pr_count": 27,
+            "star_fork_ratio": 10.6
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-10T00:00:00.000Z"
+        },
+        {
+          "id": "rowboatlabs/rowboat",
+          "name": "rowboat",
+          "owner": "rowboatlabs",
+          "url": "https://github.com/rowboatlabs/rowboat",
+          "description": "Open-source AI coworker, with memory",
+          "ai_summary": "开源AI协作者工具，支持记忆功能，提升人机协作效率。基于TypeScript开发，具备上下文记忆和持续学习能力。",
+          "language": "TypeScript",
+          "stars": 11395,
+          "forks": 1073,
+          "stars_today": 1187,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 666,
+            "repo_age_days": 452,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 77,
+            "pr_count": 366,
+            "star_fork_ratio": 10.62
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-10T00:00:00.000Z"
+        },
+        {
+          "id": "opendataloader-project/opendataloader-pdf",
+          "name": "opendataloader-pdf",
+          "owner": "opendataloader-project",
+          "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+          "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+          "ai_summary": "PDF解析工具，自动化处理PDF文件使其适配AI数据需求。采用Java实现，支持开源定制化PDF可访问性处理。",
+          "language": "Java",
+          "stars": 14411,
+          "forks": 1223,
+          "stars_today": 1124,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 333,
+            "repo_age_days": 332,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 34,
+            "pr_count": 291,
+            "star_fork_ratio": 11.78
+          },
+          "trending_days": 3,
+          "first_seen": "2026-04-09T00:00:00.000Z"
+        },
+        {
+          "id": "coleam00/Archon",
+          "name": "Archon",
+          "owner": "coleam00",
+          "url": "https://github.com/coleam00/Archon",
+          "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+          "ai_summary": "首个开源AI编码工具链构建器，实现确定性、可重复的AI编程流程。基于TypeScript设计，提供标准化AI编码框架。",
+          "language": "TypeScript",
+          "stars": 14788,
+          "forks": 2498,
+          "stars_today": 185,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2623,
+            "repo_age_days": 426,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 47,
+            "pr_count": 414,
+            "star_fork_ratio": 5.92
+          },
+          "trending_days": 3,
+          "first_seen": "2026-04-09T00:00:00.000Z"
+        },
+        {
+          "id": "Yeachan-Heo/oh-my-codex",
+          "name": "oh-my-codex",
+          "owner": "Yeachan-Heo",
+          "url": "https://github.com/Yeachan-Heo/oh-my-codex",
+          "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+          "ai_summary": "Oh My CodeX 是一个增强代码交互体验的工具，通过插件化功能扩展编辑器能力。采用 TypeScript 实现，支持钩子机制、智能代理团队协作和可视化 HUD 界面。",
+          "language": "TypeScript",
+          "stars": 20300,
+          "forks": 1826,
+          "stars_today": 0,
+          "stars_this_week": 9737,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2413,
+            "repo_age_days": 66,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 8,
+            "pr_count": 898,
+            "star_fork_ratio": 11.12
+          },
+          "trending_days": 11,
+          "first_seen": "2026-04-08T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "Skills": 6,
+          "Agent": 5,
+          "AI": 5
+        }
+      }
     }
   ]
 }

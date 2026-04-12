@@ -2765,6 +2765,320 @@
           "AI": 6
         }
       }
+    },
+    {
+      "date": "2026-04-12",
+      "generated_at": "2026-04-12T11:21:58.510Z",
+      "projects": [
+        {
+          "id": "NousResearch/hermes-agent",
+          "name": "hermes-agent",
+          "owner": "NousResearch",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "ai_summary": "Hermes-agent 是一个能够随用户需求成长的智能代理工具。基于 Python 实现，采用自适应学习机制来持续优化代理行为。",
+          "language": "Python",
+          "stars": 62595,
+          "forks": 8394,
+          "stars_today": 6438,
+          "stars_this_week": 32572,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1057,
+            "repo_age_days": 263,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 3288,
+            "pr_count": 6385,
+            "star_fork_ratio": 7.46
+          },
+          "trending_days": 26,
+          "first_seen": "2026-03-24T00:00:00.000Z"
+        },
+        {
+          "id": "multica-ai/multica",
+          "name": "multica",
+          "owner": "multica-ai",
+          "url": "https://github.com/multica-ai/multica",
+          "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+          "ai_summary": "Multica 是开源的多代理管理平台，可将编码代理转化为协作队友。使用 TypeScript 开发，支持任务分配、进度追踪和技能组合等团队化功能。",
+          "language": "TypeScript",
+          "stars": 8625,
+          "forks": 1107,
+          "stars_today": 1948,
+          "stars_this_week": 5362,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 70,
+          "security_details": {
+            "author_age_days": 88,
+            "repo_age_days": 88,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 127,
+            "pr_count": 633,
+            "star_fork_ratio": 7.79
+          },
+          "trending_days": 3,
+          "first_seen": "2026-04-10T00:00:00.000Z"
+        },
+        {
+          "id": "shanraisshan/claude-code-best-practice",
+          "name": "claude-code-best-practice",
+          "owner": "shanraisshan",
+          "url": "https://github.com/shanraisshan/claude-code-best-practice",
+          "description": "practice made claude perfect",
+          "ai_summary": "该项目整理了 Claude 模型的代码最佳实践指南。以 HTML 形式呈现经过验证的代码优化方案和使用技巧。",
+          "language": "HTML",
+          "stars": 37894,
+          "forks": 3567,
+          "stars_today": 1475,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 4030,
+            "repo_age_days": 162,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 10,
+            "pr_count": 27,
+            "star_fork_ratio": 10.62
+          },
+          "trending_days": 3,
+          "first_seen": "2026-04-10T00:00:00.000Z"
+        },
+        {
+          "id": "coleam00/Archon",
+          "name": "Archon",
+          "owner": "coleam00",
+          "url": "https://github.com/coleam00/Archon",
+          "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+          "ai_summary": "Archon 是首个开源的 AI 编码工具链构建器，旨在使 AI 编码过程具备确定性和可重复性。该项目基于 TypeScript 实现，通过模块化设计提供可扩展的 AI 编码工作流。",
+          "language": "TypeScript",
+          "stars": 16712,
+          "forks": 2673,
+          "stars_today": 1346,
+          "stars_this_week": 2410,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2625,
+            "repo_age_days": 428,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 84,
+            "pr_count": 457,
+            "star_fork_ratio": 6.25
+          },
+          "trending_days": 5,
+          "first_seen": "2026-04-09T00:00:00.000Z"
+        },
+        {
+          "id": "forrestchang/andrej-karpathy-skills",
+          "name": "andrej-karpathy-skills",
+          "owner": "forrestchang",
+          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "ai_summary": "该项目整理了 Andrej Karpathy 对 LLM 编码缺陷的观察，形成 CLAUDE.md 指导文件以优化 Claude 的代码生成行为。采用 Markdown 格式集中呈现关键改进点，实现轻量级知识传递。",
+          "language": "",
+          "stars": 14502,
+          "forks": 1015,
+          "stars_today": 1066,
+          "stars_this_week": 4969,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 4323,
+            "repo_age_days": 75,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 24,
+            "pr_count": 21,
+            "star_fork_ratio": 14.29
+          },
+          "trending_days": 8,
+          "first_seen": "2026-04-08T00:00:00.000Z"
+        },
+        {
+          "id": "virattt/ai-hedge-fund",
+          "name": "ai-hedge-fund",
+          "owner": "virattt",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "ai_summary": "该项目构建了一个基于 Python 的 AI 对冲基金系统框架。通过整合机器学习算法与量化交易策略，实现自动化金融决策流程。",
+          "language": "Python",
+          "stars": 51844,
+          "forks": 8999,
+          "stars_today": 696,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5392,
+            "repo_age_days": 498,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 95,
+            "pr_count": 307,
+            "star_fork_ratio": 5.76
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-12T00:00:00.000Z"
+        },
+        {
+          "id": "thedotmack/claude-mem",
+          "name": "claude-mem",
+          "owner": "thedotmack",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+          "ai_summary": "Claude-mem 是一个 Claude 代码插件，能自动记录编码会话中 Claude 的所有操作，并通过 AI 压缩存储。它利用 Claude 的 agent-sdk 实现上下文压缩，并在后续会话中智能注入相关上下文。",
+          "language": "TypeScript",
+          "stars": 48483,
+          "forks": 3784,
+          "stars_today": 671,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5499,
+            "repo_age_days": 223,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 204,
+            "pr_count": 743,
+            "star_fork_ratio": 12.81
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-12T00:00:00.000Z"
+        },
+        {
+          "id": "snarktank/ralph",
+          "name": "ralph",
+          "owner": "snarktank",
+          "url": "https://github.com/snarktank/ralph",
+          "description": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.",
+          "ai_summary": "Ralph 是一个自主运行的 AI 代理循环系统，持续执行直到完成所有产品需求文档(PRD)条目。该工具采用 TypeScript 实现自动化任务处理流程。",
+          "language": "TypeScript",
+          "stars": 15604,
+          "forks": 1574,
+          "stars_today": 112,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 868,
+            "repo_age_days": 94,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 63,
+            "pr_count": 95,
+            "star_fork_ratio": 9.91
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-12T00:00:00.000Z"
+        },
+        {
+          "id": "HKUDS/DeepTutor",
+          "name": "DeepTutor",
+          "owner": "HKUDS",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+          "ai_summary": "DeepTutor 是基于代理架构的个性化学习助手，专注于提供定制化教育支持。该项目使用 Python 实现深度学习的智能辅导系统。",
+          "language": "Python",
+          "stars": 17059,
+          "forks": 2234,
+          "stars_today": 0,
+          "stars_this_week": 5560,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1245,
+            "repo_age_days": 104,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 20,
+            "pr_count": 179,
+            "star_fork_ratio": 7.64
+          },
+          "trending_days": 5,
+          "first_seen": "2026-04-09T00:00:00.000Z"
+        },
+        {
+          "id": "google-ai-edge/gallery",
+          "name": "gallery",
+          "owner": "google-ai-edge",
+          "url": "https://github.com/google-ai-edge/gallery",
+          "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+          "ai_summary": "该项目是一个展示设备端机器学习和生成式AI用例的演示库，支持用户本地试用模型。采用Kotlin开发，重点优化了模型在边缘设备上的部署与执行效率。",
+          "language": "Kotlin",
+          "stars": 20543,
+          "forks": 1933,
+          "stars_today": 0,
+          "stars_this_week": 4369,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 880,
+            "repo_age_days": 376,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 247,
+            "pr_count": 272,
+            "star_fork_ratio": 10.63
+          },
+          "trending_days": 2,
+          "first_seen": "2026-04-11T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "Skills": 6,
+          "Agent": 5,
+          "AI": 7
+        }
+      }
     }
   ]
 }

@@ -3,10 +3,11 @@ name: Daily GitHub Trending
 on:
   schedule:
     # 多重 cron 冗余：fork 仓库 schedule 容易 miss，设置 3 个触发窗口兜底
-    # UTC 09:17 / 10:17 / 11:17 = 北京时间 17:17 / 18:17 / 19:17
-    - cron: '17 9 * * *'
-    - cron: '17 10 * * *'
-    - cron: '17 11 * * *'
+    # 提前 2.5h 以补偿 GitHub 系统性调度延迟
+    # UTC 06:47 / 07:47 / 08:47 ≈ 北京时间 17:17 实际落地
+    - cron: '47 6 * * *'
+    - cron: '47 7 * * *'
+    - cron: '47 8 * * *'
   workflow_dispatch:
 
 permissions:

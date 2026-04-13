@@ -3079,6 +3079,319 @@
           "AI": 7
         }
       }
+    },
+    {
+      "date": "2026-04-13",
+      "generated_at": "2026-04-13T11:49:54.776Z",
+      "projects": [
+        {
+          "id": "NousResearch/hermes-agent",
+          "name": "hermes-agent",
+          "owner": "NousResearch",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "ai_summary": "Hermes-agent 是一个能随用户需求成长的智能代理工具。采用 Python 实现，具备自适应学习能力，可根据使用场景动态调整功能。",
+          "language": "Python",
+          "stars": 73903,
+          "forks": 9828,
+          "stars_today": 7454,
+          "stars_this_week": 38426,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1058,
+            "repo_age_days": 264,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 3716,
+            "pr_count": 6863,
+            "star_fork_ratio": 7.52
+          },
+          "trending_days": 27,
+          "first_seen": "2026-03-24T00:00:00.000Z"
+        },
+        {
+          "id": "forrestchang/andrej-karpathy-skills",
+          "name": "andrej-karpathy-skills",
+          "owner": "forrestchang",
+          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "ai_summary": "该项目通过 CLAUDE.md 文件优化 Claude 代码生成行为。基于 Andrej Karpathy 对 LLM 编码缺陷的研究，提炼出针对性改进方案。",
+          "language": "",
+          "stars": 20044,
+          "forks": 1605,
+          "stars_today": 2369,
+          "stars_this_week": 7319,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 4324,
+            "repo_age_days": 76,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 31,
+            "pr_count": 25,
+            "star_fork_ratio": 12.49
+          },
+          "trending_days": 9,
+          "first_seen": "2026-04-08T00:00:00.000Z"
+        },
+        {
+          "id": "multica-ai/multica",
+          "name": "multica",
+          "owner": "multica-ai",
+          "url": "https://github.com/multica-ai/multica",
+          "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+          "ai_summary": "Multica 是开源托管代理平台，可将编码代理转化为协作队友。基于 TypeScript 构建，支持任务分配、进度追踪和技能组合等团队协作功能。",
+          "language": "TypeScript",
+          "stars": 10332,
+          "forks": 1295,
+          "stars_today": 1609,
+          "stars_this_week": 6846,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 70,
+          "security_details": {
+            "author_age_days": 89,
+            "repo_age_days": 89,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 142,
+            "pr_count": 693,
+            "star_fork_ratio": 7.98
+          },
+          "trending_days": 4,
+          "first_seen": "2026-04-10T00:00:00.000Z"
+        },
+        {
+          "id": "shanraisshan/claude-code-best-practice",
+          "name": "claude-code-best-practice",
+          "owner": "shanraisshan",
+          "url": "https://github.com/shanraisshan/claude-code-best-practice",
+          "description": "practice made claude perfect",
+          "ai_summary": "该项目通过HTML实践案例展示如何优化Claude代码交互效果。采用结构化示例演示提示工程的最佳实践方法。",
+          "language": "HTML",
+          "stars": 40360,
+          "forks": 3806,
+          "stars_today": 1548,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 4031,
+            "repo_age_days": 163,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 9,
+            "pr_count": 28,
+            "star_fork_ratio": 10.6
+          },
+          "trending_days": 4,
+          "first_seen": "2026-04-10T00:00:00.000Z"
+        },
+        {
+          "id": "thedotmack/claude-mem",
+          "name": "claude-mem",
+          "owner": "thedotmack",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+          "ai_summary": "开发基于TypeScript的Claude插件，自动记录编码会话内容。利用Claude agent-sdk实现会话内容AI压缩及智能上下文注入。",
+          "language": "TypeScript",
+          "stars": 51583,
+          "forks": 4068,
+          "stars_today": 753,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5500,
+            "repo_age_days": 224,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 222,
+            "pr_count": 750,
+            "star_fork_ratio": 12.68
+          },
+          "trending_days": 2,
+          "first_seen": "2026-04-12T00:00:00.000Z"
+        },
+        {
+          "id": "virattt/ai-hedge-fund",
+          "name": "ai-hedge-fund",
+          "owner": "virattt",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "ai_summary": "构建基于Python的AI对冲基金决策系统。整合机器学习算法实现自动化金融投资分析。",
+          "language": "Python",
+          "stars": 52635,
+          "forks": 9147,
+          "stars_today": 663,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5393,
+            "repo_age_days": 499,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 100,
+            "pr_count": 311,
+            "star_fork_ratio": 5.75
+          },
+          "trending_days": 2,
+          "first_seen": "2026-04-12T00:00:00.000Z"
+        },
+        {
+          "id": "gsd-build/get-shit-done",
+          "name": "get-shit-done",
+          "owner": "gsd-build",
+          "url": "https://github.com/gsd-build/get-shit-done",
+          "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.",
+          "ai_summary": "一个轻量级强大的元提示、上下文工程和规范驱动开发系统，专为Claude Code设计。采用JavaScript实现，通过结构化提示和规范驱动流程提升开发效率。",
+          "language": "JavaScript",
+          "stars": 51659,
+          "forks": 4340,
+          "stars_today": 630,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 62,
+            "repo_age_days": 119,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 23,
+            "pr_count": 1075,
+            "star_fork_ratio": 11.9
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-13T00:00:00.000Z"
+        },
+        {
+          "id": "coleam00/Archon",
+          "name": "Archon",
+          "owner": "coleam00",
+          "url": "https://github.com/coleam00/Archon",
+          "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+          "ai_summary": "首个开源的AI编码工具链构建框架，旨在使AI编码过程具备确定性和可重复性。基于TypeScript开发，提供标准化接口和流程控制能力。",
+          "language": "TypeScript",
+          "stars": 17384,
+          "forks": 2743,
+          "stars_today": 612,
+          "stars_this_week": 2962,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2626,
+            "repo_age_days": 429,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 126,
+            "pr_count": 486,
+            "star_fork_ratio": 6.34
+          },
+          "trending_days": 6,
+          "first_seen": "2026-04-09T00:00:00.000Z"
+        },
+        {
+          "id": "snarktank/ralph",
+          "name": "ralph",
+          "owner": "snarktank",
+          "url": "https://github.com/snarktank/ralph",
+          "description": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.",
+          "ai_summary": "自主运行的AI代理循环系统，持续执行直至完成所有产品需求项。使用TypeScript实现，采用自动化任务分解和闭环执行机制。",
+          "language": "TypeScript",
+          "stars": 16299,
+          "forks": 1615,
+          "stars_today": 463,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 869,
+            "repo_age_days": 95,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 65,
+            "pr_count": 96,
+            "star_fork_ratio": 10.09
+          },
+          "trending_days": 2,
+          "first_seen": "2026-04-12T00:00:00.000Z"
+        },
+        {
+          "id": "anthropics/claude-cookbooks",
+          "name": "claude-cookbooks",
+          "owner": "anthropics",
+          "url": "https://github.com/anthropics/claude-cookbooks",
+          "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+          "ai_summary": "该项目提供了一系列Jupyter Notebook示例，展示Claude模型的各种有趣且高效的用法。通过具体代码案例演示了如何利用Claude的API和功能解决实际问题。",
+          "language": "Jupyter Notebook",
+          "stars": 38953,
+          "forks": 4342,
+          "stars_today": 328,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 1940,
+            "repo_age_days": 971,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 114,
+            "pr_count": 356,
+            "star_fork_ratio": 8.97
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-13T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "Skills": 5,
+          "Agent": 4,
+          "AI": 8
+        }
+      }
     }
   ]
 }

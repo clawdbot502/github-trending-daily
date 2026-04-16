@@ -4024,6 +4024,325 @@
           "内容创作": 1
         }
       }
+    },
+    {
+      "date": "2026-04-16",
+      "generated_at": "2026-04-16T10:47:43.296Z",
+      "projects": [
+        {
+          "id": "forrestchang/andrej-karpathy-skills",
+          "name": "andrej-karpathy-skills",
+          "owner": "forrestchang",
+          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "ai_summary": "该项目通过一个CLAUDE.md文件总结了Andrej Karpathy关于LLM编码常见问题的观察，旨在优化Claude代码生成行为。采用简洁的Markdown文档形式，集中呈现关键改进点。",
+          "language": "",
+          "stars": 46447,
+          "forks": 3800,
+          "stars_today": 9646,
+          "stars_this_week": 30919,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 4327,
+            "repo_age_days": 79,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 61,
+            "pr_count": 43,
+            "star_fork_ratio": 12.22
+          },
+          "trending_days": 12,
+          "first_seen": "2026-04-08T00:00:00.000Z"
+        },
+        {
+          "id": "thedotmack/claude-mem",
+          "name": "claude-mem",
+          "owner": "thedotmack",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+          "ai_summary": "这是一个Claude代码插件，能自动记录编码会话内容并通过AI压缩存储，为后续会话提供相关上下文。基于TypeScript开发，利用Claude的agent-sdk实现智能上下文管理。",
+          "language": "TypeScript",
+          "stars": 58592,
+          "forks": 4768,
+          "stars_today": 2305,
+          "stars_this_week": 10779,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5503,
+            "repo_age_days": 227,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 140,
+            "pr_count": 783,
+            "star_fork_ratio": 12.29
+          },
+          "trending_days": 5,
+          "first_seen": "2026-04-12T00:00:00.000Z"
+        },
+        {
+          "id": "Lordog/dive-into-llms",
+          "name": "dive-into-llms",
+          "owner": "Lordog",
+          "url": "https://github.com/Lordog/dive-into-llms",
+          "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+          "ai_summary": "《动手学大模型》系列提供大模型编程实践教程，帮助开发者深入理解LLM技术。采用Jupyter Notebook形式，结合理论与实践演示大模型应用开发。",
+          "language": "Jupyter Notebook",
+          "stars": 30267,
+          "forks": 3666,
+          "stars_today": 941,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 2283,
+            "repo_age_days": 737,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 8,
+            "pr_count": 17,
+            "star_fork_ratio": 8.26
+          },
+          "trending_days": 2,
+          "first_seen": "2026-04-15T00:00:00.000Z"
+        },
+        {
+          "id": "vercel-labs/open-agents",
+          "name": "open-agents",
+          "owner": "vercel-labs",
+          "url": "https://github.com/vercel-labs/open-agents",
+          "description": "An open source template for building cloud agents.",
+          "ai_summary": "该项目是一个开源模板，用于构建云端智能代理。采用TypeScript开发，提供模块化架构和可扩展的代理功能实现。",
+          "language": "TypeScript",
+          "stars": 2924,
+          "forks": 314,
+          "stars_today": 915,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1384,
+            "repo_age_days": 110,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 31,
+            "pr_count": 770,
+            "star_fork_ratio": 9.31
+          },
+          "trending_days": 2,
+          "first_seen": "2026-04-15T00:00:00.000Z"
+        },
+        {
+          "id": "EvoMap/evolver",
+          "name": "evolver",
+          "owner": "EvoMap",
+          "url": "https://github.com/EvoMap/evolver",
+          "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
+          "ai_summary": "这是一个基于基因组进化协议(GEP)的AI代理自进化引擎。通过JavaScript实现遗传算法，支持代理的自主演化与适应能力提升。",
+          "language": "JavaScript",
+          "stars": 2820,
+          "forks": 308,
+          "stars_today": 866,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 70,
+          "security_details": {
+            "author_age_days": 53,
+            "repo_age_days": 74,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 29,
+            "pr_count": 32,
+            "star_fork_ratio": 9.16
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-16T00:00:00.000Z"
+        },
+        {
+          "id": "google/magika",
+          "name": "magika",
+          "owner": "google",
+          "url": "https://github.com/google/magika",
+          "description": "Fast and accurate AI powered file content types detection",
+          "ai_summary": "Magika是Google开源的AI驱动文件内容类型检测工具。基于Python和深度学习模型，实现高速且精准的文件类型识别。",
+          "language": "Python",
+          "stars": 14149,
+          "forks": 741,
+          "stars_today": 768,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "内容创作"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5202,
+            "repo_age_days": 968,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 125,
+            "pr_count": 733,
+            "star_fork_ratio": 19.09
+          },
+          "trending_days": 2,
+          "first_seen": "2026-04-15T00:00:00.000Z"
+        },
+        {
+          "id": "BasedHardware/omi",
+          "name": "omi",
+          "owner": "BasedHardware",
+          "url": "https://github.com/BasedHardware/omi",
+          "description": "AI that sees your screen, listens to your conversations and tells you what to do",
+          "ai_summary": "omi是一个通过屏幕和语音交互指导用户操作的AI助手。采用Dart语言开发，结合计算机视觉和语音识别技术实现实时环境感知与响应。",
+          "language": "Dart",
+          "stars": 8620,
+          "forks": 1582,
+          "stars_today": 448,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 770,
+            "repo_age_days": 754,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 517,
+            "pr_count": 4491,
+            "star_fork_ratio": 5.45
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-16T00:00:00.000Z"
+        },
+        {
+          "id": "lsdefine/GenericAgent",
+          "name": "GenericAgent",
+          "owner": "lsdefine",
+          "url": "https://github.com/lsdefine/GenericAgent",
+          "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+          "ai_summary": "GenericAgent是具备自我进化能力的AI代理，通过3300行种子代码扩展技能树。基于Python实现系统控制优化，相比基线降低6倍token消耗。",
+          "language": "Python",
+          "stars": 2362,
+          "forks": 281,
+          "stars_today": 446,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4829,
+            "repo_age_days": 89,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 38,
+            "pr_count": 40,
+            "star_fork_ratio": 8.41
+          },
+          "trending_days": 2,
+          "first_seen": "2026-04-15T00:00:00.000Z"
+        },
+        {
+          "id": "topoteretes/cognee",
+          "name": "cognee",
+          "owner": "topoteretes",
+          "url": "https://github.com/topoteretes/cognee",
+          "description": "Knowledge Engine for AI Agent Memory in 6 lines of code",
+          "ai_summary": "cognee是为AI代理设计的轻量级知识记忆引擎。通过Python实现极简API（6行代码），支持高效的知识存储与检索。",
+          "language": "Python",
+          "stars": 15563,
+          "forks": 1606,
+          "stars_today": 156,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1155,
+            "repo_age_days": 973,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 73,
+            "pr_count": 2008,
+            "star_fork_ratio": 9.69
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-16T00:00:00.000Z"
+        },
+        {
+          "id": "openai/openai-agents-python",
+          "name": "openai-agents-python",
+          "owner": "openai",
+          "url": "https://github.com/openai/openai-agents-python",
+          "description": "A lightweight, powerful framework for multi-agent workflows",
+          "ai_summary": "该项目是一个轻量级框架，用于构建和管理多智能体工作流，解决复杂任务分解与协作问题。基于Python实现，采用模块化设计支持智能体间通信与任务编排。",
+          "language": "Python",
+          "stars": 20902,
+          "forks": 3427,
+          "stars_today": 110,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3847,
+            "repo_age_days": 401,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 70,
+            "pr_count": 1674,
+            "star_fork_ratio": 6.1
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-16T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 8,
+          "Skills": 7,
+          "Agent": 6,
+          "内容创作": 1
+        }
+      }
     }
   ]
 }

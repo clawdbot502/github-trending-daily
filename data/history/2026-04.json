@@ -4661,6 +4661,324 @@
           "内容创作": 1
         }
       }
+    },
+    {
+      "date": "2026-04-18",
+      "generated_at": "2026-04-18T09:34:40.827Z",
+      "projects": [
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "Superpowers 是一个代理技能框架和软件开发方法论，旨在提升开发效率。它基于 Shell 脚本实现，强调模块化和可组合的技能设计。",
+          "language": "Shell",
+          "stars": 158233,
+          "forks": 13771,
+          "stars_today": 1713,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6307,
+            "repo_age_days": 190,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 303,
+            "pr_count": 623,
+            "star_fork_ratio": 11.49
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-18T00:00:00.000Z"
+        },
+        {
+          "id": "google/magika",
+          "name": "magika",
+          "owner": "google",
+          "url": "https://github.com/google/magika",
+          "description": "Fast and accurate AI powered file content types detection",
+          "ai_summary": "Magika 是 Google 开源的 AI 文件内容类型检测工具，能快速准确识别文件类型。采用 Python 实现，利用深度学习模型进行高效推理。",
+          "language": "Python",
+          "stars": 15668,
+          "forks": 872,
+          "stars_today": 956,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "内容创作"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5204,
+            "repo_age_days": 969,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 135,
+            "pr_count": 744,
+            "star_fork_ratio": 17.97
+          },
+          "trending_days": 4,
+          "first_seen": "2026-04-15T00:00:00.000Z"
+        },
+        {
+          "id": "Lordog/dive-into-llms",
+          "name": "dive-into-llms",
+          "owner": "Lordog",
+          "url": "https://github.com/Lordog/dive-into-llms",
+          "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+          "ai_summary": "《动手学大模型》是系列大模型编程实践教程，帮助开发者掌握 LLM 技术。通过 Jupyter Notebook 提供交互式学习体验，涵盖核心算法与应用场景。",
+          "language": "Jupyter Notebook",
+          "stars": 31759,
+          "forks": 3872,
+          "stars_today": 944,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 2285,
+            "repo_age_days": 739,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 10,
+            "pr_count": 18,
+            "star_fork_ratio": 8.2
+          },
+          "trending_days": 4,
+          "first_seen": "2026-04-15T00:00:00.000Z"
+        },
+        {
+          "id": "lsdefine/GenericAgent",
+          "name": "GenericAgent",
+          "owner": "lsdefine",
+          "url": "https://github.com/lsdefine/GenericAgent",
+          "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+          "ai_summary": "这是一个自进化代理，通过3.3K行种子代码扩展技能树，实现全系统控制。采用高效token消耗策略，相比传统方法减少6倍消耗。",
+          "language": "Python",
+          "stars": 3975,
+          "forks": 421,
+          "stars_today": 845,
+          "stars_this_week": 2375,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4831,
+            "repo_age_days": 91,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 42,
+            "pr_count": 51,
+            "star_fork_ratio": 9.44
+          },
+          "trending_days": 4,
+          "first_seen": "2026-04-15T00:00:00.000Z"
+        },
+        {
+          "id": "BasedHardware/omi",
+          "name": "omi",
+          "owner": "BasedHardware",
+          "url": "https://github.com/BasedHardware/omi",
+          "description": "AI that sees your screen, listens to your conversations and tells you what to do",
+          "ai_summary": "这是一个基于屏幕和语音交互的AI助手，能实时分析用户环境并提供操作建议。使用Dart语言开发，支持多模态输入处理。",
+          "language": "Dart",
+          "stars": 10036,
+          "forks": 1685,
+          "stars_today": 824,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 772,
+            "repo_age_days": 756,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 544,
+            "pr_count": 4571,
+            "star_fork_ratio": 5.96
+          },
+          "trending_days": 3,
+          "first_seen": "2026-04-16T00:00:00.000Z"
+        },
+        {
+          "id": "EvoMap/evolver",
+          "name": "evolver",
+          "owner": "EvoMap",
+          "url": "https://github.com/EvoMap/evolver",
+          "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
+          "ai_summary": "这是一个基于基因组进化协议(GEP)的AI代理自进化引擎。采用JavaScript实现，通过基因算法驱动智能体自主演化。",
+          "language": "JavaScript",
+          "stars": 4637,
+          "forks": 451,
+          "stars_today": 737,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 75,
+          "security_details": {
+            "author_age_days": 55,
+            "repo_age_days": 76,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 8,
+            "pr_count": 45,
+            "star_fork_ratio": 10.28
+          },
+          "trending_days": 3,
+          "first_seen": "2026-04-16T00:00:00.000Z"
+        },
+        {
+          "id": "openai/openai-agents-python",
+          "name": "openai-agents-python",
+          "owner": "openai",
+          "url": "https://github.com/openai/openai-agents-python",
+          "description": "A lightweight, powerful framework for multi-agent workflows",
+          "ai_summary": "该项目是一个轻量级多智能体工作流框架，用于构建和协调多个AI代理的协作任务。采用Python实现，支持灵活的任务编排和代理间通信。",
+          "language": "Python",
+          "stars": 21994,
+          "forks": 3507,
+          "stars_today": 625,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3849,
+            "repo_age_days": 403,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 56,
+            "pr_count": 1695,
+            "star_fork_ratio": 6.27
+          },
+          "trending_days": 3,
+          "first_seen": "2026-04-16T00:00:00.000Z"
+        },
+        {
+          "id": "SimoneAvogadro/android-reverse-engineering-skill",
+          "name": "android-reverse-engineering-skill",
+          "owner": "SimoneAvogadro",
+          "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
+          "description": "Claude Code skill to support Android app's reverse engineering",
+          "ai_summary": "该项目是专为Android应用逆向工程设计的Claude Code技能集合。通过Shell脚本实现，提供自动化逆向分析工具链和常见任务处理能力。",
+          "language": "Shell",
+          "stars": 2905,
+          "forks": 295,
+          "stars_today": 538,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 4777,
+            "repo_age_days": 74,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 6,
+            "pr_count": 3,
+            "star_fork_ratio": 9.85
+          },
+          "trending_days": 2,
+          "first_seen": "2026-04-17T00:00:00.000Z"
+        },
+        {
+          "id": "Donchitos/Claude-Code-Game-Studios",
+          "name": "Claude-Code-Game-Studios",
+          "owner": "Donchitos",
+          "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+          "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+          "ai_summary": "该项目将Claude Code扩展为完整的游戏开发工作室模拟系统，包含49个AI代理和72个工作流技能。采用分层架构模拟真实工作室的组织结构和工作流程。",
+          "language": "Shell",
+          "stars": 12122,
+          "forks": 1751,
+          "stars_today": 311,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 75,
+          "security_details": {
+            "author_age_days": 893,
+            "repo_age_days": 65,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 11,
+            "pr_count": 3,
+            "star_fork_ratio": 6.92
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-18T00:00:00.000Z"
+        },
+        {
+          "id": "ChromeDevTools/chrome-devtools-mcp",
+          "name": "chrome-devtools-mcp",
+          "owner": "ChromeDevTools",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "description": "Chrome DevTools for coding agents",
+          "ai_summary": "该项目是Chrome DevTools的扩展版本，专为编码代理设计，提供自动化调试能力。基于TypeScript开发，采用模块化架构实现与Chrome DevTools协议的高效交互。",
+          "language": "TypeScript",
+          "stars": 35997,
+          "forks": 2200,
+          "stars_today": 196,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4065,
+            "repo_age_days": 218,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 107,
+            "pr_count": 988,
+            "star_fork_ratio": 16.36
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-18T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "Skills": 7,
+          "Agent": 6,
+          "AI": 7,
+          "内容创作": 1
+        }
+      }
     }
   ]
 }

@@ -4979,6 +4979,322 @@
           "内容创作": 1
         }
       }
+    },
+    {
+      "date": "2026-04-19",
+      "generated_at": "2026-04-19T09:33:44.896Z",
+      "projects": [
+        {
+          "id": "EvoMap/evolver",
+          "name": "evolver",
+          "owner": "EvoMap",
+          "url": "https://github.com/EvoMap/evolver",
+          "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
+          "ai_summary": "这是一个基于GEP（基因组进化协议）的自进化AI代理引擎，旨在通过进化算法优化AI代理的性能。项目采用JavaScript实现，核心是通过基因编程模拟自然选择过程，实现AI模型的自我迭代与优化。",
+          "language": "JavaScript",
+          "stars": 5197,
+          "forks": 503,
+          "stars_today": 1131,
+          "stars_this_week": 2964,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 75,
+          "security_details": {
+            "author_age_days": 56,
+            "repo_age_days": 77,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 6,
+            "pr_count": 49,
+            "star_fork_ratio": 10.33
+          },
+          "trending_days": 4,
+          "first_seen": "2026-04-16T00:00:00.000Z"
+        },
+        {
+          "id": "BasedHardware/omi",
+          "name": "omi",
+          "owner": "BasedHardware",
+          "url": "https://github.com/BasedHardware/omi",
+          "description": "AI that sees your screen, listens to your conversations and tells you what to do",
+          "ai_summary": "omi是一个能够实时分析屏幕内容和语音输入的AI助手，为用户提供操作建议。项目使用Dart开发，结合计算机视觉和语音识别技术，实现多模态交互的智能辅助功能。",
+          "language": "Dart",
+          "stars": 10680,
+          "forks": 1743,
+          "stars_today": 609,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 773,
+            "repo_age_days": 757,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 556,
+            "pr_count": 4591,
+            "star_fork_ratio": 6.13
+          },
+          "trending_days": 4,
+          "first_seen": "2026-04-16T00:00:00.000Z"
+        },
+        {
+          "id": "Lordog/dive-into-llms",
+          "name": "dive-into-llms",
+          "owner": "Lordog",
+          "url": "https://github.com/Lordog/dive-into-llms",
+          "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+          "ai_summary": "《动手学大模型》是一系列针对大语言模型（LLMs）的编程实践教程，帮助开发者深入理解与应用LLMs技术。教程以Jupyter Notebook形式呈现，涵盖从基础理论到实际代码实现的完整学习路径。",
+          "language": "Jupyter Notebook",
+          "stars": 32234,
+          "forks": 3913,
+          "stars_today": 547,
+          "stars_this_week": 5265,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 2286,
+            "repo_age_days": 740,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 9,
+            "pr_count": 18,
+            "star_fork_ratio": 8.24
+          },
+          "trending_days": 5,
+          "first_seen": "2026-04-15T00:00:00.000Z"
+        },
+        {
+          "id": "openai/openai-agents-python",
+          "name": "openai-agents-python",
+          "owner": "openai",
+          "url": "https://github.com/openai/openai-agents-python",
+          "description": "A lightweight, powerful framework for multi-agent workflows",
+          "ai_summary": "该项目是用于构建多智能体工作流的轻量级框架。采用Python实现，支持灵活的任务编排与智能体间通信。",
+          "language": "Python",
+          "stars": 22672,
+          "forks": 3581,
+          "stars_today": 470,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3850,
+            "repo_age_days": 404,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 61,
+            "pr_count": 1709,
+            "star_fork_ratio": 6.33
+          },
+          "trending_days": 4,
+          "first_seen": "2026-04-16T00:00:00.000Z"
+        },
+        {
+          "id": "thunderbird/thunderbolt",
+          "name": "thunderbolt",
+          "owner": "thunderbird",
+          "url": "https://github.com/thunderbird/thunderbolt",
+          "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
+          "ai_summary": "提供可自主选择AI模型的数据控制平台。基于TypeScript开发，实现模型解耦与数据主权保障。",
+          "language": "TypeScript",
+          "stars": 1823,
+          "forks": 96,
+          "stars_today": 447,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3835,
+            "repo_age_days": 269,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 24,
+            "pr_count": 587,
+            "star_fork_ratio": 18.99
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-19T00:00:00.000Z"
+        },
+        {
+          "id": "SimoneAvogadro/android-reverse-engineering-skill",
+          "name": "android-reverse-engineering-skill",
+          "owner": "SimoneAvogadro",
+          "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
+          "description": "Claude Code skill to support Android app's reverse engineering",
+          "ai_summary": "Claude代码技能插件，辅助Android应用逆向工程分析。通过Shell脚本集成常用逆向工具链。",
+          "language": "Shell",
+          "stars": 3329,
+          "forks": 335,
+          "stars_today": 403,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 4778,
+            "repo_age_days": 75,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 5,
+            "pr_count": 3,
+            "star_fork_ratio": 9.94
+          },
+          "trending_days": 3,
+          "first_seen": "2026-04-17T00:00:00.000Z"
+        },
+        {
+          "id": "multica-ai/andrej-karpathy-skills",
+          "name": "andrej-karpathy-skills",
+          "owner": "multica-ai",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "ai_summary": "该项目通过一个CLAUDE.md文件优化Claude代码行为，基于Andrej Karpathy对LLM编码常见问题的观察。采用简洁的Markdown文档形式，集中总结关键改进点以提升AI编码效率。",
+          "language": "",
+          "stars": 59283,
+          "forks": 5113,
+          "stars_today": 0,
+          "stars_this_week": 44465,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 75,
+          "security_details": {
+            "author_age_days": 95,
+            "repo_age_days": 82,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 63,
+            "pr_count": 52,
+            "star_fork_ratio": 11.59
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-19T00:00:00.000Z"
+        },
+        {
+          "id": "NousResearch/hermes-agent",
+          "name": "hermes-agent",
+          "owner": "NousResearch",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "ai_summary": "Hermes-agent是一个可成长的AI代理系统，旨在通过持续学习适应用户需求。基于Python构建，采用模块化设计支持功能动态扩展。",
+          "language": "Python",
+          "stars": 100473,
+          "forks": 14285,
+          "stars_today": 0,
+          "stars_this_week": 42612,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1064,
+            "repo_age_days": 270,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 5597,
+            "pr_count": 9496,
+            "star_fork_ratio": 7.03
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-19T00:00:00.000Z"
+        },
+        {
+          "id": "thedotmack/claude-mem",
+          "name": "claude-mem",
+          "owner": "thedotmack",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+          "ai_summary": "该TypeScript插件自动记录Claude编码会话内容，通过AI压缩存储并智能注入后续会话。利用Claude的agent-sdk实现上下文感知的持续学习机制。",
+          "language": "TypeScript",
+          "stars": 62779,
+          "forks": 5257,
+          "stars_today": 0,
+          "stars_this_week": 14371,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5506,
+            "repo_age_days": 230,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 160,
+            "pr_count": 803,
+            "star_fork_ratio": 11.94
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-19T00:00:00.000Z"
+        },
+        {
+          "id": "multica-ai/multica",
+          "name": "multica",
+          "owner": "multica-ai",
+          "url": "https://github.com/multica-ai/multica",
+          "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+          "ai_summary": "Multica 是一个开源托管代理平台，旨在将编码代理转化为可协作的虚拟团队成员，支持任务分配、进度跟踪和技能组合。该项目基于 TypeScript 实现，采用模块化架构设计，提供可扩展的代理管理和任务编排能力。",
+          "language": "TypeScript",
+          "stars": 16394,
+          "forks": 2024,
+          "stars_today": 0,
+          "stars_this_week": 8756,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 70,
+          "security_details": {
+            "author_age_days": 95,
+            "repo_age_days": 95,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 236,
+            "pr_count": 998,
+            "star_fork_ratio": 8.1
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-19T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 8,
+          "Skills": 7,
+          "Agent": 5
+        }
+      }
     }
   ]
 }

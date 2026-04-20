@@ -5295,6 +5295,320 @@
           "Agent": 5
         }
       }
+    },
+    {
+      "date": "2026-04-20",
+      "generated_at": "2026-04-20T11:52:27.831Z",
+      "projects": [
+        {
+          "id": "Fincept-Corporation/FinceptTerminal",
+          "name": "FinceptTerminal",
+          "owner": "Fincept-Corporation",
+          "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+          "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+          "ai_summary": "FinceptTerminal 是一款现代金融应用，提供高级市场分析、投资研究和经济数据工具，旨在以用户友好的环境支持交互式探索和数据驱动决策。该项目基于 Python 构建，专注于数据可视化和实时分析功能。",
+          "language": "Python",
+          "stars": 8236,
+          "forks": 1183,
+          "stars_today": 1254,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 609,
+            "repo_age_days": 598,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 19,
+            "pr_count": 101,
+            "star_fork_ratio": 6.96
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-20T00:00:00.000Z"
+        },
+        {
+          "id": "openai/openai-agents-python",
+          "name": "openai-agents-python",
+          "owner": "openai",
+          "url": "https://github.com/openai/openai-agents-python",
+          "description": "A lightweight, powerful framework for multi-agent workflows",
+          "ai_summary": "openai-agents-python 是一个轻量级框架，用于构建多智能体工作流。该项目采用 Python 实现，支持灵活的任务编排和智能体间通信。",
+          "language": "Python",
+          "stars": 23661,
+          "forks": 3670,
+          "stars_today": 752,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3851,
+            "repo_age_days": 405,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 65,
+            "pr_count": 1716,
+            "star_fork_ratio": 6.45
+          },
+          "trending_days": 5,
+          "first_seen": "2026-04-16T00:00:00.000Z"
+        },
+        {
+          "id": "thunderbird/thunderbolt",
+          "name": "thunderbolt",
+          "owner": "thunderbird",
+          "url": "https://github.com/thunderbird/thunderbolt",
+          "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
+          "ai_summary": "thunderbolt 是一个让用户自主选择模型并拥有数据的 AI 平台，旨在消除供应商锁定。该项目使用 TypeScript 开发，强调模块化设计和数据隐私保护。",
+          "language": "TypeScript",
+          "stars": 2547,
+          "forks": 146,
+          "stars_today": 695,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3836,
+            "repo_age_days": 270,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 31,
+            "pr_count": 593,
+            "star_fork_ratio": 17.45
+          },
+          "trending_days": 2,
+          "first_seen": "2026-04-19T00:00:00.000Z"
+        },
+        {
+          "id": "koala73/worldmonitor",
+          "name": "worldmonitor",
+          "owner": "koala73",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+          "ai_summary": "这是一个实时全球情报仪表板，提供AI驱动的新闻聚合、地缘政治监控和基础设施追踪，集成于统一态势感知界面。采用TypeScript开发，结合AI技术实现多源数据实时分析与可视化。",
+          "language": "TypeScript",
+          "stars": 49458,
+          "forks": 8102,
+          "stars_today": 343,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 5354,
+            "repo_age_days": 101,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 122,
+            "pr_count": 2745,
+            "star_fork_ratio": 6.1
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-20T00:00:00.000Z"
+        },
+        {
+          "id": "deepseek-ai/DeepGEMM",
+          "name": "DeepGEMM",
+          "owner": "deepseek-ai",
+          "url": "https://github.com/deepseek-ai/DeepGEMM",
+          "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
+          "ai_summary": "该项目提供高效且干净的FP8通用矩阵乘法(GEMM)核函数，支持细粒度缩放。基于CUDA实现，针对深度学习场景优化了低精度矩阵运算性能。",
+          "language": "Cuda",
+          "stars": 6727,
+          "forks": 893,
+          "stars_today": 155,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 915,
+            "repo_age_days": 431,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 66,
+            "pr_count": 156,
+            "star_fork_ratio": 7.53
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-20T00:00:00.000Z"
+        },
+        {
+          "id": "forrestchang/andrej-karpathy-skills",
+          "name": "andrej-karpathy-skills",
+          "owner": "forrestchang",
+          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "ai_summary": "这是一个改进Claude代码行为的单文件指南，基于Andrej Karpathy对LLM编码缺陷的观察。通过结构化提示工程方法优化AI编程助手输出质量。",
+          "language": "",
+          "stars": 64180,
+          "forks": 5600,
+          "stars_today": 0,
+          "stars_this_week": 45381,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 4331,
+            "repo_age_days": 83,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 62,
+            "pr_count": 52,
+            "star_fork_ratio": 11.46
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-20T00:00:00.000Z"
+        },
+        {
+          "id": "NousResearch/hermes-agent",
+          "name": "hermes-agent",
+          "owner": "NousResearch",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "ai_summary": "Hermes-agent 是一个能随用户需求成长的智能代理。它基于 Python 实现，采用动态学习机制适应不同场景需求。",
+          "language": "Python",
+          "stars": 104107,
+          "forks": 14837,
+          "stars_today": 0,
+          "stars_this_week": 38194,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1065,
+            "repo_age_days": 271,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 5705,
+            "pr_count": 9885,
+            "star_fork_ratio": 7.02
+          },
+          "trending_days": 2,
+          "first_seen": "2026-04-19T00:00:00.000Z"
+        },
+        {
+          "id": "thedotmack/claude-mem",
+          "name": "claude-mem",
+          "owner": "thedotmack",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+          "ai_summary": "claude-mem 是 Claude 代码插件的会话记忆系统，自动记录编码会话内容。通过 TypeScript 实现，利用 Claude agent-sdk 进行 AI 压缩和上下文智能注入。",
+          "language": "TypeScript",
+          "stars": 63830,
+          "forks": 5356,
+          "stars_today": 0,
+          "stars_this_week": 14556,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5507,
+            "repo_age_days": 231,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 123,
+            "pr_count": 811,
+            "star_fork_ratio": 11.92
+          },
+          "trending_days": 2,
+          "first_seen": "2026-04-19T00:00:00.000Z"
+        },
+        {
+          "id": "multica-ai/multica",
+          "name": "multica",
+          "owner": "multica-ai",
+          "url": "https://github.com/multica-ai/multica",
+          "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+          "ai_summary": "Multica 是开源托管代理平台，可将编码代理转化为协作队友。基于 TypeScript 构建，提供任务分配、进度追踪和技能组合等团队化功能。",
+          "language": "TypeScript",
+          "stars": 17266,
+          "forks": 2121,
+          "stars_today": 0,
+          "stars_this_week": 7831,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 70,
+          "security_details": {
+            "author_age_days": 96,
+            "repo_age_days": 96,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 261,
+            "pr_count": 1032,
+            "star_fork_ratio": 8.14
+          },
+          "trending_days": 2,
+          "first_seen": "2026-04-19T00:00:00.000Z"
+        },
+        {
+          "id": "Lordog/dive-into-llms",
+          "name": "dive-into-llms",
+          "owner": "Lordog",
+          "url": "https://github.com/Lordog/dive-into-llms",
+          "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+          "ai_summary": "《动手学大模型Dive into LLMs》是一系列编程实践教程，旨在帮助开发者深入理解和实践大语言模型（LLMs）。采用Jupyter Notebook形式，结合理论讲解与代码示例，涵盖从基础到进阶的LLM应用开发。",
+          "language": "Jupyter Notebook",
+          "stars": 32780,
+          "forks": 4001,
+          "stars_today": 0,
+          "stars_this_week": 5497,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 2287,
+            "repo_age_days": 741,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 9,
+            "pr_count": 18,
+            "star_fork_ratio": 8.19
+          },
+          "trending_days": 6,
+          "first_seen": "2026-04-15T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "金融": 1,
+          "AI": 7,
+          "Skills": 5,
+          "Agent": 4
+        }
+      }
     }
   ]
 }

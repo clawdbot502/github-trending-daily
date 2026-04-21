@@ -5609,6 +5609,322 @@
           "Agent": 4
         }
       }
+    },
+    {
+      "date": "2026-04-21",
+      "generated_at": "2026-04-21T10:53:45.144Z",
+      "projects": [
+        {
+          "id": "Fincept-Corporation/FinceptTerminal",
+          "name": "FinceptTerminal",
+          "owner": "Fincept-Corporation",
+          "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+          "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+          "ai_summary": "FinceptTerminal 是一款现代金融应用，提供高级市场分析、投资研究和经济数据工具，旨在以用户友好的环境支持交互式探索和数据驱动决策。基于 Python 开发，整合多种金融数据源和分析工具，支持高效数据处理和可视化。",
+          "language": "Python",
+          "stars": 10730,
+          "forks": 1430,
+          "stars_today": 3109,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 610,
+            "repo_age_days": 599,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 18,
+            "pr_count": 107,
+            "star_fork_ratio": 7.5
+          },
+          "trending_days": 2,
+          "first_seen": "2026-04-20T00:00:00.000Z"
+        },
+        {
+          "id": "thunderbird/thunderbolt",
+          "name": "thunderbolt",
+          "owner": "thunderbird",
+          "url": "https://github.com/thunderbird/thunderbolt",
+          "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
+          "ai_summary": "Thunderbolt 是一个用户可控的 AI 平台，允许用户自由选择模型并完全掌控数据，避免供应商锁定。采用 TypeScript 实现，强调模块化设计和开放架构，支持灵活集成第三方模型与本地部署。",
+          "language": "TypeScript",
+          "stars": 3088,
+          "forks": 187,
+          "stars_today": 675,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3837,
+            "repo_age_days": 271,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 38,
+            "pr_count": 599,
+            "star_fork_ratio": 16.51
+          },
+          "trending_days": 3,
+          "first_seen": "2026-04-19T00:00:00.000Z"
+        },
+        {
+          "id": "sansan0/TrendRadar",
+          "name": "TrendRadar",
+          "owner": "sansan0",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
+          "ai_summary": "TrendRadar 是 AI 驱动的舆情与趋势监控工具，聚合多平台热点并提供智能筛选、翻译及分析推送。基于 Python 构建，支持 Docker 部署和 MCP 架构集成，实现本地/云端数据管理及多渠道通知。",
+          "language": "Python",
+          "stars": 53197,
+          "forks": 23491,
+          "stars_today": 604,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1928,
+            "repo_age_days": 357,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 40,
+            "pr_count": 620,
+            "star_fork_ratio": 2.26
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-21T00:00:00.000Z"
+        },
+        {
+          "id": "microsoft/ai-agents-for-beginners",
+          "name": "ai-agents-for-beginners",
+          "owner": "microsoft",
+          "url": "https://github.com/microsoft/ai-agents-for-beginners",
+          "description": "12 Lessons to Get Started Building AI Agents",
+          "ai_summary": "该项目提供12节入门课程，帮助初学者构建AI代理。采用Jupyter Notebook形式，通过实践案例讲解基础概念与实现方法。",
+          "language": "Jupyter Notebook",
+          "stars": 57167,
+          "forks": 19819,
+          "stars_today": 131,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 4514,
+            "repo_age_days": 509,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 5,
+            "pr_count": 421,
+            "star_fork_ratio": 2.88
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-21T00:00:00.000Z"
+        },
+        {
+          "id": "forrestchang/andrej-karpathy-skills",
+          "name": "andrej-karpathy-skills",
+          "owner": "forrestchang",
+          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "ai_summary": "基于Andrej Karpathy对LLM编码缺陷的观察，提炼出优化Claude代码行为的指导方案。以单文件形式集中呈现关键改进策略。",
+          "language": "",
+          "stars": 69726,
+          "forks": 6313,
+          "stars_today": 0,
+          "stars_this_week": 44394,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 4332,
+            "repo_age_days": 84,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 65,
+            "pr_count": 57,
+            "star_fork_ratio": 11.04
+          },
+          "trending_days": 2,
+          "first_seen": "2026-04-20T00:00:00.000Z"
+        },
+        {
+          "id": "NousResearch/hermes-agent",
+          "name": "hermes-agent",
+          "owner": "NousResearch",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "ai_summary": "设计为可成长的AI代理系统，支持持续学习与能力扩展。使用Python实现，采用模块化架构便于功能迭代。",
+          "language": "Python",
+          "stars": 106926,
+          "forks": 15324,
+          "stars_today": 0,
+          "stars_this_week": 30630,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1066,
+            "repo_age_days": 272,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 5873,
+            "pr_count": 10268,
+            "star_fork_ratio": 6.98
+          },
+          "trending_days": 3,
+          "first_seen": "2026-04-19T00:00:00.000Z"
+        },
+        {
+          "id": "thedotmack/claude-mem",
+          "name": "claude-mem",
+          "owner": "thedotmack",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+          "ai_summary": "Claude-mem 是一个 Claude 代码插件，自动记录编码会话中 Claude 的所有操作，并通过 AI 压缩存储。它利用 Claude 的 agent-sdk 提取关键上下文，在后续会话中智能注入相关历史信息。",
+          "language": "TypeScript",
+          "stars": 64778,
+          "forks": 5450,
+          "stars_today": 0,
+          "stars_this_week": 12472,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5508,
+            "repo_age_days": 232,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 123,
+            "pr_count": 814,
+            "star_fork_ratio": 11.89
+          },
+          "trending_days": 3,
+          "first_seen": "2026-04-19T00:00:00.000Z"
+        },
+        {
+          "id": "multica-ai/multica",
+          "name": "multica",
+          "owner": "multica-ai",
+          "url": "https://github.com/multica-ai/multica",
+          "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+          "ai_summary": "Multica 是开源托管智能体平台，将编码智能体转化为可协作的虚拟队友。采用 TypeScript 实现任务分配、进度追踪和技能组合机制，支持智能体能力持续进化。",
+          "language": "TypeScript",
+          "stars": 18106,
+          "forks": 2227,
+          "stars_today": 0,
+          "stars_this_week": 7009,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 70,
+          "security_details": {
+            "author_age_days": 97,
+            "repo_age_days": 97,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 276,
+            "pr_count": 1079,
+            "star_fork_ratio": 8.13
+          },
+          "trending_days": 3,
+          "first_seen": "2026-04-19T00:00:00.000Z"
+        },
+        {
+          "id": "Lordog/dive-into-llms",
+          "name": "dive-into-llms",
+          "owner": "Lordog",
+          "url": "https://github.com/Lordog/dive-into-llms",
+          "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+          "ai_summary": "《动手学大模型》是以 Jupyter Notebook 编写的实践教程，系统讲解大模型核心技术。通过可运行的代码示例演示模型训练、微调及部署等关键环节的实现方法。",
+          "language": "Jupyter Notebook",
+          "stars": 33186,
+          "forks": 4052,
+          "stars_today": 0,
+          "stars_this_week": 5703,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 2288,
+            "repo_age_days": 742,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 8,
+            "pr_count": 18,
+            "star_fork_ratio": 8.19
+          },
+          "trending_days": 7,
+          "first_seen": "2026-04-15T00:00:00.000Z"
+        },
+        {
+          "id": "EvoMap/evolver",
+          "name": "evolver",
+          "owner": "EvoMap",
+          "url": "https://github.com/EvoMap/evolver",
+          "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
+          "ai_summary": "Evolver是一个基于基因组进化协议（GEP）的AI智能体自进化引擎，旨在通过进化算法优化智能体的性能和行为。该项目采用JavaScript实现，结合GEP协议实现智能体的自主突变和选择，支持动态适应复杂任务环境。",
+          "language": "JavaScript",
+          "stars": 6160,
+          "forks": 589,
+          "stars_today": 0,
+          "stars_this_week": 4032,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 75,
+          "security_details": {
+            "author_age_days": 58,
+            "repo_age_days": 79,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 7,
+            "pr_count": 60,
+            "star_fork_ratio": 10.46
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-21T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "金融": 1,
+          "AI": 7,
+          "Skills": 6,
+          "Agent": 5
+        }
+      }
     }
   ]
 }

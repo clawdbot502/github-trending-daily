@@ -5925,6 +5925,321 @@
           "Agent": 5
         }
       }
+    },
+    {
+      "date": "2026-04-22",
+      "generated_at": "2026-04-22T10:50:26.365Z",
+      "projects": [
+        {
+          "id": "Fincept-Corporation/FinceptTerminal",
+          "name": "FinceptTerminal",
+          "owner": "Fincept-Corporation",
+          "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+          "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+          "ai_summary": "FinceptTerminal 是一款现代金融应用，提供高级市场分析、投资研究和经济数据工具，旨在以用户友好的环境支持交互式探索和数据驱动决策。基于 Python 构建，采用模块化架构实现高效数据处理和可视化。",
+          "language": "Python",
+          "stars": 12475,
+          "forks": 1637,
+          "stars_today": 2548,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 611,
+            "repo_age_days": 600,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 30,
+            "pr_count": 117,
+            "star_fork_ratio": 7.62
+          },
+          "trending_days": 3,
+          "first_seen": "2026-04-20T00:00:00.000Z"
+        },
+        {
+          "id": "koala73/worldmonitor",
+          "name": "worldmonitor",
+          "owner": "koala73",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+          "ai_summary": "worldmonitor 是实时全球情报仪表盘，整合 AI 驱动的新闻聚合、地缘政治监控和基础设施追踪功能。使用 TypeScript 开发，采用微前端架构实现多源数据融合与动态可视化。",
+          "language": "TypeScript",
+          "stars": 51011,
+          "forks": 8248,
+          "stars_today": 1187,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 5356,
+            "repo_age_days": 103,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 151,
+            "pr_count": 2792,
+            "star_fork_ratio": 6.18
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-22T00:00:00.000Z"
+        },
+        {
+          "id": "sansan0/TrendRadar",
+          "name": "TrendRadar",
+          "owner": "sansan0",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
+          "ai_summary": "TrendRadar 是 AI 驱动的舆情监测工具，支持多平台热点聚合、智能筛选及多通道推送。基于 Python 的 MCP 架构实现 NLP 分析，集成 Docker 部署与主流消息平台接口。",
+          "language": "Python",
+          "stars": 54139,
+          "forks": 23623,
+          "stars_today": 534,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1929,
+            "repo_age_days": 358,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 44,
+            "pr_count": 624,
+            "star_fork_ratio": 2.29
+          },
+          "trending_days": 2,
+          "first_seen": "2026-04-21T00:00:00.000Z"
+        },
+        {
+          "id": "KeygraphHQ/shannon",
+          "name": "shannon",
+          "owner": "KeygraphHQ",
+          "url": "https://github.com/KeygraphHQ/shannon",
+          "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
+          "ai_summary": "Shannon Lite 是一款自主、白盒的 AI 渗透测试工具，用于检测 Web 应用和 API 的安全漏洞。它通过静态代码分析和动态漏洞利用验证，在代码部署前识别并证明潜在攻击向量。",
+          "language": "TypeScript",
+          "stars": 39210,
+          "forks": 4332,
+          "stars_today": 346,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 580,
+            "repo_age_days": 207,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 41,
+            "pr_count": 179,
+            "star_fork_ratio": 9.05
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-22T00:00:00.000Z"
+        },
+        {
+          "id": "vercel-labs/skills",
+          "name": "skills",
+          "owner": "vercel-labs",
+          "url": "https://github.com/vercel-labs/skills",
+          "description": "The open agent skills tool - npx skills",
+          "ai_summary": "Skills 是一个开源的智能体技能工具，支持通过命令行快速调用。该项目基于 TypeScript 实现，提供模块化的技能扩展机制。",
+          "language": "TypeScript",
+          "stars": 15153,
+          "forks": 1255,
+          "stars_today": 317,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1390,
+            "repo_age_days": 97,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 502,
+            "pr_count": 472,
+            "star_fork_ratio": 12.07
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-22T00:00:00.000Z"
+        },
+        {
+          "id": "AIDC-AI/Pixelle-Video",
+          "name": "Pixelle-Video",
+          "owner": "AIDC-AI",
+          "url": "https://github.com/AIDC-AI/Pixelle-Video",
+          "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+          "ai_summary": "Pixelle-Video 是基于 AI 的全自动短视频生成引擎，实现从素材处理到成片的自动化流程。采用 Python 技术栈，整合多模态 AI 模型实现智能剪辑与内容生成。",
+          "language": "Python",
+          "stars": 5123,
+          "forks": 851,
+          "stars_today": 237,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 75,
+          "security_details": {
+            "author_age_days": 678,
+            "repo_age_days": 166,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 54,
+            "pr_count": 17,
+            "star_fork_ratio": 6.02
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-22T00:00:00.000Z"
+        },
+        {
+          "id": "zilliztech/claude-context",
+          "name": "claude-context",
+          "owner": "zilliztech",
+          "url": "https://github.com/zilliztech/claude-context",
+          "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+          "ai_summary": "为Claude Code提供代码搜索MCP功能，使整个代码库成为任何编码代理的上下文。采用TypeScript实现，通过高效索引和检索技术实现大规模代码库的快速查询。",
+          "language": "TypeScript",
+          "stars": 7016,
+          "forks": 590,
+          "stars_today": 169,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3662,
+            "repo_age_days": 320,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 109,
+            "pr_count": 201,
+            "star_fork_ratio": 11.89
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-22T00:00:00.000Z"
+        },
+        {
+          "id": "forrestchang/andrej-karpathy-skills",
+          "name": "andrej-karpathy-skills",
+          "owner": "forrestchang",
+          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "ai_summary": "基于Andrej Karpathy对LLM编码缺陷的观察，提供优化Claude Code行为的指导文档。通过集中式Markdown文件总结关键改进点，帮助提升模型编码表现。",
+          "language": "",
+          "stars": 74362,
+          "forks": 6885,
+          "stars_today": 0,
+          "stars_this_week": 40732,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 4333,
+            "repo_age_days": 85,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 66,
+            "pr_count": 58,
+            "star_fork_ratio": 10.8
+          },
+          "trending_days": 3,
+          "first_seen": "2026-04-20T00:00:00.000Z"
+        },
+        {
+          "id": "NousResearch/hermes-agent",
+          "name": "hermes-agent",
+          "owner": "NousResearch",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "ai_summary": "开发可随用户需求成长的智能代理系统。使用Python构建，采用模块化设计支持功能动态扩展和个性化适配。",
+          "language": "Python",
+          "stars": 109548,
+          "forks": 15844,
+          "stars_today": 0,
+          "stars_this_week": 25081,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1067,
+            "repo_age_days": 273,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 6184,
+            "pr_count": 10623,
+            "star_fork_ratio": 6.91
+          },
+          "trending_days": 4,
+          "first_seen": "2026-04-19T00:00:00.000Z"
+        },
+        {
+          "id": "thedotmack/claude-mem",
+          "name": "claude-mem",
+          "owner": "thedotmack",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+          "ai_summary": "Claude代码插件，自动记录编码会话中Claude的所有操作，并通过AI压缩存储。利用Claude的agent-sdk实现上下文智能注入，提升后续会话效率。",
+          "language": "TypeScript",
+          "stars": 65455,
+          "forks": 5533,
+          "stars_today": 0,
+          "stars_this_week": 10356,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5509,
+            "repo_age_days": 233,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 123,
+            "pr_count": 814,
+            "star_fork_ratio": 11.83
+          },
+          "trending_days": 4,
+          "first_seen": "2026-04-19T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "金融": 1,
+          "AI": 7,
+          "Agent": 5,
+          "Skills": 5
+        }
+      }
     }
   ]
 }

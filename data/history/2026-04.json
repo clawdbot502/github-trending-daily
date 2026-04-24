@@ -6553,6 +6553,325 @@
           "Agent": 4
         }
       }
+    },
+    {
+      "date": "2026-04-24",
+      "generated_at": "2026-04-24T08:35:51.064Z",
+      "projects": [
+        {
+          "id": "Alishahryar1/free-claude-code",
+          "name": "free-claude-code",
+          "owner": "Alishahryar1",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+          "ai_summary": "该项目提供免费使用Claude Code的终端工具、VSCode扩展和Discord集成。基于Python实现，通过API封装实现类似OpenClaw的功能调用。",
+          "language": "Python",
+          "stars": 6168,
+          "forks": 1028,
+          "stars_today": 1962,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3569,
+            "repo_age_days": 85,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 23,
+            "pr_count": 75,
+            "star_fork_ratio": 6
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-24T00:00:00.000Z"
+        },
+        {
+          "id": "zilliztech/claude-context",
+          "name": "claude-context",
+          "owner": "zilliztech",
+          "url": "https://github.com/zilliztech/claude-context",
+          "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+          "ai_summary": "为Claude Code设计的代码搜索中间件，可将整个代码库作为上下文提供给编码代理。采用TypeScript开发，实现高效的代码检索与上下文管理。",
+          "language": "TypeScript",
+          "stars": 8687,
+          "forks": 675,
+          "stars_today": 1011,
+          "stars_this_week": 2183,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3663,
+            "repo_age_days": 322,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 112,
+            "pr_count": 208,
+            "star_fork_ratio": 12.87
+          },
+          "trending_days": 3,
+          "first_seen": "2026-04-22T00:00:00.000Z"
+        },
+        {
+          "id": "huggingface/ml-intern",
+          "name": "ml-intern",
+          "owner": "huggingface",
+          "url": "https://github.com/huggingface/ml-intern",
+          "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
+          "ai_summary": "开源机器学习工程师工具，能自动阅读论文、训练模型并部署ML模型。基于Python构建，整合了文献解析、模型训练和部署的完整流程。",
+          "language": "Python",
+          "stars": 4314,
+          "forks": 365,
+          "stars_today": 720,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 3357,
+            "repo_age_days": 175,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 40,
+            "pr_count": 80,
+            "star_fork_ratio": 11.82
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-24T00:00:00.000Z"
+        },
+        {
+          "id": "Anil-matcha/Open-Generative-AI",
+          "name": "Open-Generative-AI",
+          "owner": "Anil-matcha",
+          "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+          "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+          "ai_summary": "开源无审查的AI图像与视频生成平台，提供200+模型支持，替代商业AI工具。采用自托管架构，MIT许可，无内容过滤限制。",
+          "language": "JavaScript",
+          "stars": 7288,
+          "forks": 1370,
+          "stars_today": 316,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "内容创作"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4739,
+            "repo_age_days": 1080,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 6,
+            "pr_count": 43,
+            "star_fork_ratio": 5.32
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-24T00:00:00.000Z"
+        },
+        {
+          "id": "coreyhaines31/marketingskills",
+          "name": "marketingskills",
+          "owner": "coreyhaines31",
+          "url": "https://github.com/coreyhaines31/marketingskills",
+          "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+          "ai_summary": "面向Claude Code和AI代理的营销技能库，涵盖转化优化、文案写作等核心领域。基于JavaScript实现模块化技能封装。",
+          "language": "JavaScript",
+          "stars": 24183,
+          "forks": 3836,
+          "stars_today": 285,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3043,
+            "repo_age_days": 98,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 19,
+            "pr_count": 162,
+            "star_fork_ratio": 6.3
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-24T00:00:00.000Z"
+        },
+        {
+          "id": "mksglu/context-mode",
+          "name": "context-mode",
+          "owner": "mksglu",
+          "url": "https://github.com/mksglu/context-mode",
+          "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 12 platforms",
+          "ai_summary": "AI编程代理的上下文窗口优化工具，通过沙箱隔离实现98%输出精简。采用TypeScript开发，支持12种开发平台。",
+          "language": "TypeScript",
+          "stars": 9630,
+          "forks": 662,
+          "stars_today": 238,
+          "stars_this_week": 1797,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4528,
+            "repo_age_days": 60,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 34,
+            "pr_count": 169,
+            "star_fork_ratio": 14.55
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-24T00:00:00.000Z"
+        },
+        {
+          "id": "VoltAgent/awesome-agent-skills",
+          "name": "awesome-agent-skills",
+          "owner": "VoltAgent",
+          "url": "https://github.com/VoltAgent/awesome-agent-skills",
+          "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+          "ai_summary": "该项目整理了1000多种AI代理技能，兼容Claude Code、Codex、Gemini CLI等多种平台。通过社区贡献和官方开发团队维护，提供全面的技能资源集合。",
+          "language": "",
+          "stars": 18449,
+          "forks": 1958,
+          "stars_today": 228,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 419,
+            "repo_age_days": 177,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 15,
+            "pr_count": 427,
+            "star_fork_ratio": 9.42
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-24T00:00:00.000Z"
+        },
+        {
+          "id": "chiphuyen/aie-book",
+          "name": "aie-book",
+          "owner": "chiphuyen",
+          "url": "https://github.com/chiphuyen/aie-book",
+          "description": "[WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)",
+          "ai_summary": "该项目为AI工程师提供学习资源，支持Chip Huyen的《AI Engineering》书籍。采用Jupyter Notebook形式，包含实践代码和教程材料。",
+          "language": "Jupyter Notebook",
+          "stars": 15290,
+          "forks": 2196,
+          "stars_today": 215,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4024,
+            "repo_age_days": 506,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 19,
+            "pr_count": 11,
+            "star_fork_ratio": 6.96
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-24T00:00:00.000Z"
+        },
+        {
+          "id": "microsoft/ai-agents-for-beginners",
+          "name": "ai-agents-for-beginners",
+          "owner": "microsoft",
+          "url": "https://github.com/microsoft/ai-agents-for-beginners",
+          "description": "12 Lessons to Get Started Building AI Agents",
+          "ai_summary": "该项目提供12节入门课程，帮助初学者构建AI代理。基于Jupyter Notebook实现，包含实践案例和分步指导。",
+          "language": "Jupyter Notebook",
+          "stars": 59075,
+          "forks": 20062,
+          "stars_today": 208,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 4517,
+            "repo_age_days": 511,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 7,
+            "pr_count": 422,
+            "star_fork_ratio": 2.94
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-24T00:00:00.000Z"
+        },
+        {
+          "id": "cline/cline",
+          "name": "cline",
+          "owner": "cline",
+          "url": "https://github.com/cline/cline",
+          "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
+          "ai_summary": "Cline 是一个集成在 IDE 中的自主编码代理，可在用户逐步授权下创建/编辑文件、执行命令和使用浏览器。该项目基于 TypeScript 实现，通过模块化设计支持安全可控的自动化操作。",
+          "language": "TypeScript",
+          "stars": 60921,
+          "forks": 6265,
+          "stars_today": 123,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 563,
+            "repo_age_days": 657,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 703,
+            "pr_count": 5198,
+            "star_fork_ratio": 9.72
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-24T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 9,
+          "Skills": 6,
+          "Agent": 6,
+          "内容创作": 1
+        }
+      }
     }
   ]
 }

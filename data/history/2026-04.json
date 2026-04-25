@@ -6872,6 +6872,322 @@
           "内容创作": 1
         }
       }
+    },
+    {
+      "date": "2026-04-25",
+      "generated_at": "2026-04-25T07:54:37.797Z",
+      "projects": [
+        {
+          "id": "huggingface/ml-intern",
+          "name": "ml-intern",
+          "owner": "huggingface",
+          "url": "https://github.com/huggingface/ml-intern",
+          "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
+          "ai_summary": "这是一个开源机器学习工程师助手，能够阅读论文、训练模型并部署ML模型。基于Python实现，整合了Hugging Face生态系统的工具链，自动化机器学习工作流程。",
+          "language": "Python",
+          "stars": 5684,
+          "forks": 504,
+          "stars_today": 2985,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 3358,
+            "repo_age_days": 176,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 46,
+            "pr_count": 90,
+            "star_fork_ratio": 11.28
+          },
+          "trending_days": 2,
+          "first_seen": "2026-04-24T00:00:00.000Z"
+        },
+        {
+          "id": "Alishahryar1/free-claude-code",
+          "name": "free-claude-code",
+          "owner": "Alishahryar1",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+          "ai_summary": "提供免费使用Claude代码模型的终端工具，支持VSCode扩展和Discord集成。通过Python实现API封装，模拟OpenClaw的交互方式。",
+          "language": "Python",
+          "stars": 9975,
+          "forks": 1468,
+          "stars_today": 2638,
+          "stars_this_week": 5160,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3570,
+            "repo_age_days": 86,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 28,
+            "pr_count": 92,
+            "star_fork_ratio": 6.79
+          },
+          "trending_days": 2,
+          "first_seen": "2026-04-24T00:00:00.000Z"
+        },
+        {
+          "id": "Anil-matcha/Open-Generative-AI",
+          "name": "Open-Generative-AI",
+          "owner": "Anil-matcha",
+          "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+          "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+          "ai_summary": "开源无审查的生成式AI平台，支持200+模型进行图像/视频生成。采用JavaScript实现自托管架构，集成Flux/Midjourney等模型并移除内容过滤器。",
+          "language": "JavaScript",
+          "stars": 7868,
+          "forks": 1443,
+          "stars_today": 842,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "内容创作"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4740,
+            "repo_age_days": 1081,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 6,
+            "pr_count": 44,
+            "star_fork_ratio": 5.45
+          },
+          "trending_days": 2,
+          "first_seen": "2026-04-24T00:00:00.000Z"
+        },
+        {
+          "id": "zilliztech/claude-context",
+          "name": "claude-context",
+          "owner": "zilliztech",
+          "url": "https://github.com/zilliztech/claude-context",
+          "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+          "ai_summary": "为Claude Code提供代码搜索MCP功能，使整个代码库成为任何编码代理的上下文。采用TypeScript实现，通过高效索引和检索技术实现大规模代码库的快速查询。",
+          "language": "TypeScript",
+          "stars": 9141,
+          "forks": 701,
+          "stars_today": 706,
+          "stars_this_week": 2878,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3664,
+            "repo_age_days": 323,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 108,
+            "pr_count": 211,
+            "star_fork_ratio": 13.04
+          },
+          "trending_days": 4,
+          "first_seen": "2026-04-22T00:00:00.000Z"
+        },
+        {
+          "id": "forrestchang/andrej-karpathy-skills",
+          "name": "andrej-karpathy-skills",
+          "owner": "forrestchang",
+          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "ai_summary": "通过单个CLAUDE.md文件改进Claude Code的行为，基于Andrej Karpathy对LLM编码缺陷的观察。采用简洁的Markdown格式集中记录优化策略，直接指导模型行为调整。",
+          "language": "",
+          "stars": 84920,
+          "forks": 8125,
+          "stars_today": 0,
+          "stars_this_week": 29435,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 4336,
+            "repo_age_days": 88,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 72,
+            "pr_count": 66,
+            "star_fork_ratio": 10.45
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-25T00:00:00.000Z"
+        },
+        {
+          "id": "NousResearch/hermes-agent",
+          "name": "hermes-agent",
+          "owner": "NousResearch",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "ai_summary": "开发可随用户需求成长的智能代理系统。基于Python构建，采用模块化设计支持功能动态扩展和持续学习能力。",
+          "language": "Python",
+          "stars": 115677,
+          "forks": 17011,
+          "stars_today": 0,
+          "stars_this_week": 19019,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1070,
+            "repo_age_days": 276,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 6881,
+            "pr_count": 11827,
+            "star_fork_ratio": 6.8
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-25T00:00:00.000Z"
+        },
+        {
+          "id": "thedotmack/claude-mem",
+          "name": "claude-mem",
+          "owner": "thedotmack",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+          "ai_summary": "Claude-mem 是一个 Claude Code 插件，能自动记录编码会话中 Claude 的所有操作，并通过 AI 压缩存储。它利用 Claude 的 agent-sdk 将相关上下文智能注入后续会话，提升交互连贯性。",
+          "language": "TypeScript",
+          "stars": 67149,
+          "forks": 5712,
+          "stars_today": 0,
+          "stars_this_week": 5961,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5512,
+            "repo_age_days": 236,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 107,
+            "pr_count": 818,
+            "star_fork_ratio": 11.76
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-25T00:00:00.000Z"
+        },
+        {
+          "id": "multica-ai/multica",
+          "name": "multica",
+          "owner": "multica-ai",
+          "url": "https://github.com/multica-ai/multica",
+          "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+          "ai_summary": "Multica 是开源托管代理平台，可将编码代理转化为虚拟团队成员。采用任务分配与进度追踪机制，通过技能组合实现自动化协作。",
+          "language": "TypeScript",
+          "stars": 20778,
+          "forks": 2528,
+          "stars_today": 0,
+          "stars_this_week": 5421,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 70,
+          "security_details": {
+            "author_age_days": 101,
+            "repo_age_days": 101,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 336,
+            "pr_count": 1208,
+            "star_fork_ratio": 8.22
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-25T00:00:00.000Z"
+        },
+        {
+          "id": "jamiepine/voicebox",
+          "name": "voicebox",
+          "owner": "jamiepine",
+          "url": "https://github.com/jamiepine/voicebox",
+          "description": "The open-source AI voice studio. Clone, dictate, create.",
+          "ai_summary": "Voicebox 是开源 AI 语音工作室，支持语音克隆、听写和合成功能。基于 TypeScript 实现模块化音频处理管线，提供低延迟实时渲染。",
+          "language": "TypeScript",
+          "stars": 23204,
+          "forks": 2732,
+          "stars_today": 0,
+          "stars_this_week": 3540,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3107,
+            "repo_age_days": 89,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 275,
+            "pr_count": 150,
+            "star_fork_ratio": 8.49
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-25T00:00:00.000Z"
+        },
+        {
+          "id": "lsdefine/GenericAgent",
+          "name": "GenericAgent",
+          "owner": "lsdefine",
+          "url": "https://github.com/lsdefine/GenericAgent",
+          "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+          "ai_summary": "GenericAgent 是一个自进化代理系统，通过 3.3K 行种子代码构建技能树，实现完整系统控制。采用动态技能树架构，相比传统方法减少 6 倍 token 消耗。",
+          "language": "Python",
+          "stars": 6960,
+          "forks": 781,
+          "stars_today": 0,
+          "stars_this_week": 3483,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4838,
+            "repo_age_days": 98,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 81,
+            "pr_count": 109,
+            "star_fork_ratio": 8.91
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-25T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 7,
+          "内容创作": 1,
+          "Skills": 6,
+          "Agent": 5
+        }
+      }
     }
   ]
 }

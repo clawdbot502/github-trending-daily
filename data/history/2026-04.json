@@ -7188,6 +7188,320 @@
           "Agent": 5
         }
       }
+    },
+    {
+      "date": "2026-04-26",
+      "generated_at": "2026-04-26T08:07:44.366Z",
+      "projects": [
+        {
+          "id": "Alishahryar1/free-claude-code",
+          "name": "free-claude-code",
+          "owner": "Alishahryar1",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+          "ai_summary": "该项目提供免费使用Claude Code的终端工具、VSCode扩展和Discord集成方案。基于Python实现，通过模拟API调用绕过付费限制。",
+          "language": "Python",
+          "stars": 11946,
+          "forks": 1786,
+          "stars_today": 4007,
+          "stars_this_week": 8668,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3571,
+            "repo_age_days": 87,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 27,
+            "pr_count": 98,
+            "star_fork_ratio": 6.69
+          },
+          "trending_days": 3,
+          "first_seen": "2026-04-24T00:00:00.000Z"
+        },
+        {
+          "id": "huggingface/ml-intern",
+          "name": "ml-intern",
+          "owner": "huggingface",
+          "url": "https://github.com/huggingface/ml-intern",
+          "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
+          "ai_summary": "开源ML工程师工具链，支持论文解析、模型训练和部署全流程。采用Python构建，集成HuggingFace生态的预训练模型和数据集。",
+          "language": "Python",
+          "stars": 6458,
+          "forks": 586,
+          "stars_today": 1240,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 3359,
+            "repo_age_days": 177,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 64,
+            "pr_count": 109,
+            "star_fork_ratio": 11.02
+          },
+          "trending_days": 3,
+          "first_seen": "2026-04-24T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "My personal directory of skills, straight from my .claude directory.",
+          "ai_summary": "个人技能目录管理系统，直接同步.claude目录内容。使用Shell脚本实现快速检索和分类管理。",
+          "language": "Shell",
+          "stars": 20745,
+          "forks": 1722,
+          "stars_today": 1139,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3280,
+            "repo_age_days": 81,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 16,
+            "pr_count": 23,
+            "star_fork_ratio": 12.05
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-26T00:00:00.000Z"
+        },
+        {
+          "id": "PostHog/posthog",
+          "name": "posthog",
+          "owner": "PostHog",
+          "url": "https://github.com/PostHog/posthog",
+          "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
+          "ai_summary": "PostHog 是一个全栈开发者平台，提供产品分析、会话回放、功能标志等工具，帮助开发者构建和优化产品。采用 Python 开发，整合了数据分析、AI 辅助调试等功能，支持一站式用户行为追踪和产品迭代。",
+          "language": "Python",
+          "stars": 33604,
+          "forks": 2615,
+          "stars_today": 471,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2281,
+            "repo_age_days": 2284,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 3738,
+            "pr_count": 46732,
+            "star_fork_ratio": 12.85
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-26T00:00:00.000Z"
+        },
+        {
+          "id": "ComposioHQ/awesome-codex-skills",
+          "name": "awesome-codex-skills",
+          "owner": "ComposioHQ",
+          "url": "https://github.com/ComposioHQ/awesome-codex-skills",
+          "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+          "ai_summary": "该项目整理了实用的 Codex 技能列表，用于自动化 Codex CLI 和 API 的工作流程。基于 Python 实现，聚焦于提升开发效率的自动化脚本和最佳实践。",
+          "language": "Python",
+          "stars": 1646,
+          "forks": 139,
+          "stars_today": 188,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1131,
+            "repo_age_days": 103,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 21,
+            "pr_count": 28,
+            "star_fork_ratio": 11.84
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-26T00:00:00.000Z"
+        },
+        {
+          "id": "forrestchang/andrej-karpathy-skills",
+          "name": "andrej-karpathy-skills",
+          "owner": "forrestchang",
+          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "ai_summary": "该项目通过单个 CLAUDE.md 文件总结 Andrej Karpathy 对 LLM 编码缺陷的观察，旨在优化 Claude 的代码生成行为。内容提炼自实践洞察，直接应用于提示工程改进。",
+          "language": "",
+          "stars": 88643,
+          "forks": 8450,
+          "stars_today": 0,
+          "stars_this_week": 29917,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 4337,
+            "repo_age_days": 89,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 72,
+            "pr_count": 66,
+            "star_fork_ratio": 10.49
+          },
+          "trending_days": 2,
+          "first_seen": "2026-04-25T00:00:00.000Z"
+        },
+        {
+          "id": "NousResearch/hermes-agent",
+          "name": "hermes-agent",
+          "owner": "NousResearch",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "ai_summary": "Hermes-agent 是一个能够随用户需求成长的智能代理。它采用 Python 实现，通过动态学习和适应机制提升代理能力。",
+          "language": "Python",
+          "stars": 117205,
+          "forks": 17320,
+          "stars_today": 0,
+          "stars_this_week": 18223,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1071,
+            "repo_age_days": 277,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 7099,
+            "pr_count": 12126,
+            "star_fork_ratio": 6.77
+          },
+          "trending_days": 2,
+          "first_seen": "2026-04-25T00:00:00.000Z"
+        },
+        {
+          "id": "multica-ai/multica",
+          "name": "multica",
+          "owner": "multica-ai",
+          "url": "https://github.com/multica-ai/multica",
+          "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+          "ai_summary": "Multica 是一个开源托管代理平台，可将编码代理转化为团队协作成员。基于 TypeScript 构建，支持任务分配、进度跟踪和技能复合。",
+          "language": "TypeScript",
+          "stars": 21188,
+          "forks": 2579,
+          "stars_today": 0,
+          "stars_this_week": 5118,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 70,
+          "security_details": {
+            "author_age_days": 102,
+            "repo_age_days": 102,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 343,
+            "pr_count": 1237,
+            "star_fork_ratio": 8.22
+          },
+          "trending_days": 2,
+          "first_seen": "2026-04-25T00:00:00.000Z"
+        },
+        {
+          "id": "zilliztech/claude-context",
+          "name": "claude-context",
+          "owner": "zilliztech",
+          "url": "https://github.com/zilliztech/claude-context",
+          "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+          "ai_summary": "Claude-context 是为 Claude Code 设计的代码搜索 MCP 系统。使用 TypeScript 开发，能将整个代码库作为上下文提供给编码代理。",
+          "language": "TypeScript",
+          "stars": 9458,
+          "forks": 723,
+          "stars_today": 0,
+          "stars_this_week": 3301,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3665,
+            "repo_age_days": 324,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 111,
+            "pr_count": 223,
+            "star_fork_ratio": 13.08
+          },
+          "trending_days": 5,
+          "first_seen": "2026-04-22T00:00:00.000Z"
+        },
+        {
+          "id": "openai/openai-agents-python",
+          "name": "openai-agents-python",
+          "owner": "openai",
+          "url": "https://github.com/openai/openai-agents-python",
+          "description": "A lightweight, powerful framework for multi-agent workflows",
+          "ai_summary": "该项目是一个轻量级框架，专为构建多智能体工作流设计，旨在简化复杂任务中多个智能体的协作流程。采用Python实现，支持灵活的任务分配与通信机制，核心通过异步消息传递协调智能体间的交互。",
+          "language": "Python",
+          "stars": 25216,
+          "forks": 3853,
+          "stars_today": 0,
+          "stars_this_week": 3061,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3857,
+            "repo_age_days": 411,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 66,
+            "pr_count": 1771,
+            "star_fork_ratio": 6.54
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-26T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 7,
+          "Skills": 7,
+          "Agent": 4
+        }
+      }
     }
   ]
 }

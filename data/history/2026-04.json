@@ -7502,6 +7502,320 @@
           "Agent": 4
         }
       }
+    },
+    {
+      "date": "2026-04-27",
+      "generated_at": "2026-04-27T09:09:33.901Z",
+      "projects": [
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Agent Skills for real engineers. Straight from my .claude directory.",
+          "ai_summary": "该项目提供工程师实用的Agent Skills工具集，直接来自作者的.claude目录。采用Shell脚本实现，轻量且易于集成到开发环境。",
+          "language": "Shell",
+          "stars": 26010,
+          "forks": 2089,
+          "stars_today": 2519,
+          "stars_this_week": 5013,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3282,
+            "repo_age_days": 82,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 22,
+            "pr_count": 32,
+            "star_fork_ratio": 12.45
+          },
+          "trending_days": 2,
+          "first_seen": "2026-04-26T00:00:00.000Z"
+        },
+        {
+          "id": "Alishahryar1/free-claude-code",
+          "name": "free-claude-code",
+          "owner": "Alishahryar1",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+          "ai_summary": "实现免费使用claude-code的工具，支持终端、VSCode插件和Discord交互。基于Python开发，提供类似openclaw的多平台接入方案。",
+          "language": "Python",
+          "stars": 14841,
+          "forks": 2064,
+          "stars_today": 1701,
+          "stars_this_week": 10335,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3572,
+            "repo_age_days": 88,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 45,
+            "pr_count": 110,
+            "star_fork_ratio": 7.19
+          },
+          "trending_days": 4,
+          "first_seen": "2026-04-24T00:00:00.000Z"
+        },
+        {
+          "id": "abhigyanpatwari/GitNexus",
+          "name": "GitNexus",
+          "owner": "abhigyanpatwari",
+          "url": "https://github.com/abhigyanpatwari/GitNexus",
+          "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+          "ai_summary": "GitNexus是零服务器的代码智能引擎，在浏览器端构建代码知识图谱。采用TypeScript开发，支持GitHub仓库/ZIP文件导入，集成Graph RAG Agent实现交互式代码探索。",
+          "language": "TypeScript",
+          "stars": 30572,
+          "forks": 3535,
+          "stars_today": 700,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1157,
+            "repo_age_days": 267,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 307,
+            "pr_count": 641,
+            "star_fork_ratio": 8.65
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-27T00:00:00.000Z"
+        },
+        {
+          "id": "openclaw/openclaw",
+          "name": "openclaw",
+          "owner": "openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "ai_summary": "OpenClaw 是一个跨操作系统和平台的个人 AI 助手。采用 TypeScript 开发，强调灵活性和可扩展性，支持多种使用场景。",
+          "language": "TypeScript",
+          "stars": 365031,
+          "forks": 74746,
+          "stars_today": 627,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 60,
+          "security_details": {
+            "author_age_days": 113,
+            "repo_age_days": 153,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 7086,
+            "pr_count": 39061,
+            "star_fork_ratio": 4.88
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-27T00:00:00.000Z"
+        },
+        {
+          "id": "ComposioHQ/awesome-codex-skills",
+          "name": "awesome-codex-skills",
+          "owner": "ComposioHQ",
+          "url": "https://github.com/ComposioHQ/awesome-codex-skills",
+          "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+          "ai_summary": "该项目整理了实用的 Codex 技能，用于自动化 Codex CLI 和 API 的工作流。基于 Python 实现，提供高效的工作流自动化解决方案。",
+          "language": "Python",
+          "stars": 2285,
+          "forks": 168,
+          "stars_today": 517,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1133,
+            "repo_age_days": 104,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 19,
+            "pr_count": 30,
+            "star_fork_ratio": 13.6
+          },
+          "trending_days": 2,
+          "first_seen": "2026-04-26T00:00:00.000Z"
+        },
+        {
+          "id": "PostHog/posthog",
+          "name": "posthog",
+          "owner": "PostHog",
+          "url": "https://github.com/PostHog/posthog",
+          "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
+          "ai_summary": "PostHog 是一个全栈开发者平台，集成了产品分析、会话回放、功能标志等多种工具。采用 Python 开发，支持数据仓库和 AI 辅助调试，帮助开发者高效构建和优化产品。",
+          "language": "Python",
+          "stars": 34022,
+          "forks": 2644,
+          "stars_today": 337,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2282,
+            "repo_age_days": 2285,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 3782,
+            "pr_count": 46799,
+            "star_fork_ratio": 12.87
+          },
+          "trending_days": 2,
+          "first_seen": "2026-04-26T00:00:00.000Z"
+        },
+        {
+          "id": "trycua/cua",
+          "name": "cua",
+          "owner": "trycua",
+          "url": "https://github.com/trycua/cua",
+          "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+          "ai_summary": "CUA 是一个开源基础设施项目，旨在为计算机使用代理（AI agents）提供训练和评估环境，支持 macOS、Linux 和 Windows 全桌面控制。项目包含沙盒环境、SDK 和基准测试工具，采用模块化设计，便于扩展和集成不同 AI 模型。",
+          "language": "HTML",
+          "stars": 14599,
+          "forks": 915,
+          "stars_today": 182,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 503,
+            "repo_age_days": 450,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 227,
+            "pr_count": 1064,
+            "star_fork_ratio": 15.96
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-27T00:00:00.000Z"
+        },
+        {
+          "id": "gastownhall/beads",
+          "name": "beads",
+          "owner": "gastownhall",
+          "url": "https://github.com/gastownhall/beads",
+          "description": "Beads - A memory upgrade for your coding agent",
+          "ai_summary": "Beads 是为编码代理设计的内存增强工具，通过优化内存管理提升 AI 代理的代码生成效率。该项目使用 Go 语言实现，采用轻量级架构，可无缝集成到现有编码代理工作流中。",
+          "language": "Go",
+          "stars": 21885,
+          "forks": 1445,
+          "stars_today": 152,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 97,
+            "repo_age_days": 197,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 156,
+            "pr_count": 2019,
+            "star_fork_ratio": 15.15
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-27T00:00:00.000Z"
+        },
+        {
+          "id": "forrestchang/andrej-karpathy-skills",
+          "name": "andrej-karpathy-skills",
+          "owner": "forrestchang",
+          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "ai_summary": "该项目是 Andrej Karpathy 对 LLM 编码常见问题的观察总结，旨在改进 Claude 代码生成行为。以单文件 CLAUDE.md 形式提供，内容精炼实用，可直接应用于提示工程优化。",
+          "language": "",
+          "stars": 92128,
+          "forks": 8839,
+          "stars_today": 0,
+          "stars_this_week": 29944,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 4338,
+            "repo_age_days": 90,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 73,
+            "pr_count": 68,
+            "star_fork_ratio": 10.42
+          },
+          "trending_days": 3,
+          "first_seen": "2026-04-25T00:00:00.000Z"
+        },
+        {
+          "id": "Fincept-Corporation/FinceptTerminal",
+          "name": "FinceptTerminal",
+          "owner": "Fincept-Corporation",
+          "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+          "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+          "ai_summary": "FinceptTerminal 是一款现代金融应用，提供高级市场分析、投资研究和经济数据工具，旨在以用户友好的环境支持交互式探索和数据驱动决策。该项目基于 Python 构建，结合了数据可视化与实时分析技术，实现高效的金融数据处理与展示。",
+          "language": "Python",
+          "stars": 15836,
+          "forks": 2160,
+          "stars_today": 0,
+          "stars_this_week": 10070,
+          "category": "hot",
+          "tags": [
+            "金融"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 616,
+            "repo_age_days": 605,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 20,
+            "pr_count": 127,
+            "star_fork_ratio": 7.33
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-27T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 6,
+          "Skills": 6,
+          "Agent": 4,
+          "金融": 1
+        }
+      }
     }
   ]
 }

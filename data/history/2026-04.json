@@ -7816,6 +7816,319 @@
           "金融": 1
         }
       }
+    },
+    {
+      "date": "2026-04-28",
+      "generated_at": "2026-04-28T09:09:07.334Z",
+      "projects": [
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "ai_summary": "该项目提供工程师实用技能集合，直接来自作者的.claude目录。采用Shell脚本实现，内容精炼且可直接执行。",
+          "language": "Shell",
+          "stars": 32873,
+          "forks": 2584,
+          "stars_today": 5645,
+          "stars_this_week": 10757,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3283,
+            "repo_age_days": 83,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 28,
+            "pr_count": 39,
+            "star_fork_ratio": 12.72
+          },
+          "trending_days": 3,
+          "first_seen": "2026-04-26T00:00:00.000Z"
+        },
+        {
+          "id": "Alishahryar1/free-claude-code",
+          "name": "free-claude-code",
+          "owner": "Alishahryar1",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+          "ai_summary": "实现免费使用claude-code的工具，支持终端、VSCode插件和Discord交互。基于Python开发，模拟openclaw的功能接口。",
+          "language": "Python",
+          "stars": 16714,
+          "forks": 2343,
+          "stars_today": 2949,
+          "stars_this_week": 13415,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3573,
+            "repo_age_days": 89,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 47,
+            "pr_count": 105,
+            "star_fork_ratio": 7.13
+          },
+          "trending_days": 5,
+          "first_seen": "2026-04-24T00:00:00.000Z"
+        },
+        {
+          "id": "abhigyanpatwari/GitNexus",
+          "name": "GitNexus",
+          "owner": "abhigyanpatwari",
+          "url": "https://github.com/abhigyanpatwari/GitNexus",
+          "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+          "ai_summary": "构建零服务器代码智能引擎，在浏览器中生成交互式知识图谱。采用TypeScript开发，支持GitHub仓库/ZIP文件导入并集成Graph RAG代理。",
+          "language": "TypeScript",
+          "stars": 32118,
+          "forks": 3655,
+          "stars_today": 1102,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1158,
+            "repo_age_days": 268,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 314,
+            "pr_count": 617,
+            "star_fork_ratio": 8.79
+          },
+          "trending_days": 2,
+          "first_seen": "2026-04-27T00:00:00.000Z"
+        },
+        {
+          "id": "microsoft/VibeVoice",
+          "name": "VibeVoice",
+          "owner": "microsoft",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "description": "Open-Source Frontier Voice AI",
+          "ai_summary": "VibeVoice 是一个前沿的开源语音 AI 项目，专注于提供高质量的语音生成与处理能力。该项目基于 Python 实现，采用了先进的深度学习模型来处理语音合成与识别任务。",
+          "language": "Python",
+          "stars": 43581,
+          "forks": 4924,
+          "stars_today": 757,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 4521,
+            "repo_age_days": 245,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 141,
+            "pr_count": 121,
+            "star_fork_ratio": 8.85
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-28T00:00:00.000Z"
+        },
+        {
+          "id": "ComposioHQ/awesome-codex-skills",
+          "name": "awesome-codex-skills",
+          "owner": "ComposioHQ",
+          "url": "https://github.com/ComposioHQ/awesome-codex-skills",
+          "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+          "ai_summary": "awesome-codex-skills 是一个精选的 Codex 技能集合，旨在帮助用户通过 Codex CLI 和 API 自动化工作流程。该项目使用 Python 实现，提供了丰富的实用示例和最佳实践。",
+          "language": "Python",
+          "stars": 3209,
+          "forks": 226,
+          "stars_today": 638,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1134,
+            "repo_age_days": 105,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 19,
+            "pr_count": 32,
+            "star_fork_ratio": 14.2
+          },
+          "trending_days": 3,
+          "first_seen": "2026-04-26T00:00:00.000Z"
+        },
+        {
+          "id": "gastownhall/beads",
+          "name": "beads",
+          "owner": "gastownhall",
+          "url": "https://github.com/gastownhall/beads",
+          "description": "Beads - A memory upgrade for your coding agent",
+          "ai_summary": "Beads 是一个为编程代理设计的内存增强工具，旨在提升代理的代码处理与记忆能力。该项目使用 Go 语言开发，通过高效的内存管理机制优化代理性能。",
+          "language": "Go",
+          "stars": 22388,
+          "forks": 1467,
+          "stars_today": 498,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 98,
+            "repo_age_days": 198,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 151,
+            "pr_count": 1776,
+            "star_fork_ratio": 15.26
+          },
+          "trending_days": 2,
+          "first_seen": "2026-04-27T00:00:00.000Z"
+        },
+        {
+          "id": "TauricResearch/TradingAgents",
+          "name": "TradingAgents",
+          "owner": "TauricResearch",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "ai_summary": "TradingAgents 是一个基于多智能体 LLM 的金融交易框架，旨在通过智能体协作优化交易决策。采用 Python 实现，结合大型语言模型（LLM）与多智能体系统架构，实现动态市场分析与交易策略生成。",
+          "language": "Python",
+          "stars": 54180,
+          "forks": 9812,
+          "stars_today": 248,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "AI",
+            "Skills"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 487,
+            "repo_age_days": 486,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 274,
+            "pr_count": 326,
+            "star_fork_ratio": 5.52
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-28T00:00:00.000Z"
+        },
+        {
+          "id": "davila7/claude-code-templates",
+          "name": "claude-code-templates",
+          "owner": "davila7",
+          "url": "https://github.com/davila7/claude-code-templates",
+          "description": "CLI tool for configuring and monitoring Claude Code",
+          "ai_summary": "claude-code-templates 是一个 CLI 工具，用于配置和监控 Claude Code 的运行状态。基于 Python 开发，提供命令行界面与配置管理功能，简化 Claude Code 的部署与运维流程。",
+          "language": "Python",
+          "stars": 25929,
+          "forks": 2599,
+          "stars_today": 154,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 4513,
+            "repo_age_days": 298,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 146,
+            "pr_count": 290,
+            "star_fork_ratio": 9.98
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-28T00:00:00.000Z"
+        },
+        {
+          "id": "CJackHwang/ds2api",
+          "name": "ds2api",
+          "owner": "CJackHwang",
+          "url": "https://github.com/CJackHwang/ds2api",
+          "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
+          "ai_summary": "ds2api 是一个轻量级高性能全栈中间件，实现客户端协议到通用 API 的转换，支持多账号轮换和多种部署方式。采用 Go 语言开发，兼容 Google、Claude 和 OpenAI API 格式，支持编译二进制、Vercel Serverless 和 Docker 部署。",
+          "language": "Go",
+          "stars": 2043,
+          "forks": 608,
+          "stars_today": 138,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 65,
+          "security_details": {
+            "author_age_days": 842,
+            "repo_age_days": 96,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 6,
+            "pr_count": 222,
+            "star_fork_ratio": 3.36
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-28T00:00:00.000Z"
+        },
+        {
+          "id": "forrestchang/andrej-karpathy-skills",
+          "name": "andrej-karpathy-skills",
+          "owner": "forrestchang",
+          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "ai_summary": "该项目通过一个CLAUDE.md文件总结了Andrej Karpathy对大型语言模型编码常见问题的观察，旨在优化Claude代码生成行为。采用Markdown格式整理技术要点，直接针对LLM编码实践中的痛点提出改进建议。",
+          "language": "",
+          "stars": 95332,
+          "forks": 9241,
+          "stars_today": 0,
+          "stars_this_week": 28522,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 4339,
+            "repo_age_days": 91,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 75,
+            "pr_count": 64,
+            "star_fork_ratio": 10.32
+          },
+          "trending_days": 4,
+          "first_seen": "2026-04-25T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 7,
+          "Skills": 6,
+          "Agent": 2,
+          "金融": 1
+        }
+      }
     }
   ]
 }

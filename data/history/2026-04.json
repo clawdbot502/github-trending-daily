@@ -8129,6 +8129,315 @@
           "金融": 1
         }
       }
+    },
+    {
+      "date": "2026-04-29",
+      "generated_at": "2026-04-29T09:01:40.300Z",
+      "projects": [
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "ai_summary": "提供真实工程师所需的实用技能脚本，直接来自作者的.claude目录。采用Shell脚本实现，便于快速部署和使用。",
+          "language": "Shell",
+          "stars": 40332,
+          "forks": 3156,
+          "stars_today": 7321,
+          "stars_this_week": 18218,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 3283,
+            "repo_age_days": 84,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 6,
+            "pr_count": 41,
+            "star_fork_ratio": 12.78
+          },
+          "trending_days": 4,
+          "first_seen": "2026-04-26T00:00:00.000Z"
+        },
+        {
+          "id": "Alishahryar1/free-claude-code",
+          "name": "free-claude-code",
+          "owner": "Alishahryar1",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "description": "Use claude-code for free in the terminal, VSCode extension or discord like openclaw",
+          "ai_summary": "实现免费使用claude-code的工具，支持终端、VSCode扩展和Discord平台。基于Python开发，提供类似openclaw的功能接口。",
+          "language": "Python",
+          "stars": 17945,
+          "forks": 2529,
+          "stars_today": 1741,
+          "stars_this_week": 15110,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3574,
+            "repo_age_days": 90,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 60,
+            "pr_count": 109,
+            "star_fork_ratio": 7.1
+          },
+          "trending_days": 6,
+          "first_seen": "2026-04-24T00:00:00.000Z"
+        },
+        {
+          "id": "abhigyanpatwari/GitNexus",
+          "name": "GitNexus",
+          "owner": "abhigyanpatwari",
+          "url": "https://github.com/abhigyanpatwari/GitNexus",
+          "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+          "ai_summary": "零服务器代码智能引擎，在浏览器中构建代码知识图谱。采用TypeScript开发，支持GitHub仓库或ZIP文件导入，集成Graph RAG代理实现交互式代码探索。",
+          "language": "TypeScript",
+          "stars": 32940,
+          "forks": 3738,
+          "stars_today": 1607,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1159,
+            "repo_age_days": 269,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 345,
+            "pr_count": 635,
+            "star_fork_ratio": 8.81
+          },
+          "trending_days": 3,
+          "first_seen": "2026-04-27T00:00:00.000Z"
+        },
+        {
+          "id": "microsoft/VibeVoice",
+          "name": "VibeVoice",
+          "owner": "microsoft",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "description": "Open-Source Frontier Voice AI",
+          "ai_summary": "开源前沿语音AI项目，提供高质量的语音生成与识别能力。基于Python实现，采用先进的深度学习模型优化语音合成与处理效果。",
+          "language": "Python",
+          "stars": 45271,
+          "forks": 5013,
+          "stars_today": 1483,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 4522,
+            "repo_age_days": 246,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 147,
+            "pr_count": 123,
+            "star_fork_ratio": 9.03
+          },
+          "trending_days": 2,
+          "first_seen": "2026-04-28T00:00:00.000Z"
+        },
+        {
+          "id": "ComposioHQ/awesome-codex-skills",
+          "name": "awesome-codex-skills",
+          "owner": "ComposioHQ",
+          "url": "https://github.com/ComposioHQ/awesome-codex-skills",
+          "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+          "ai_summary": "精选Codex实用技能集合，用于自动化Codex CLI和API的工作流程。使用Python编写，涵盖多种场景下的高效自动化解决方案。",
+          "language": "Python",
+          "stars": 4386,
+          "forks": 275,
+          "stars_today": 953,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1135,
+            "repo_age_days": 106,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 22,
+            "pr_count": 35,
+            "star_fork_ratio": 15.95
+          },
+          "trending_days": 4,
+          "first_seen": "2026-04-26T00:00:00.000Z"
+        },
+        {
+          "id": "CJackHwang/ds2api",
+          "name": "ds2api",
+          "owner": "CJackHwang",
+          "url": "https://github.com/CJackHwang/ds2api",
+          "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
+          "ai_summary": "轻量高性能全栈中间件，将客户端协议转换为通用API接口。采用Go语言开发，支持多账号轮换、Vercel Serverless和Docker部署，兼容主流API格式。",
+          "language": "Go",
+          "stars": 2503,
+          "forks": 689,
+          "stars_today": 417,
+          "stars_this_week": 997,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 65,
+          "security_details": {
+            "author_age_days": 843,
+            "repo_age_days": 97,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 10,
+            "pr_count": 232,
+            "star_fork_ratio": 3.63
+          },
+          "trending_days": 2,
+          "first_seen": "2026-04-28T00:00:00.000Z"
+        },
+        {
+          "id": "davila7/claude-code-templates",
+          "name": "claude-code-templates",
+          "owner": "davila7",
+          "url": "https://github.com/davila7/claude-code-templates",
+          "description": "CLI tool for configuring and monitoring Claude Code",
+          "ai_summary": "这是一个用于配置和监控Claude Code的CLI工具。基于Python实现，提供命令行界面简化配置流程。",
+          "language": "Python",
+          "stars": 26338,
+          "forks": 2622,
+          "stars_today": 346,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4514,
+            "repo_age_days": 299,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 147,
+            "pr_count": 291,
+            "star_fork_ratio": 10.05
+          },
+          "trending_days": 2,
+          "first_seen": "2026-04-28T00:00:00.000Z"
+        },
+        {
+          "id": "fspecii/ace-step-ui",
+          "name": "ace-step-ui",
+          "owner": "fspecii",
+          "url": "https://github.com/fspecii/ace-step-ui",
+          "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
+          "ai_summary": "开源AI音乐生成工具ACE-Step 1.5的专业UI界面。采用JavaScript开发，支持本地免费无限量音乐生成。",
+          "language": "JavaScript",
+          "stars": 1987,
+          "forks": 281,
+          "stars_today": 162,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 4698,
+            "repo_age_days": 84,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 20,
+            "pr_count": 7,
+            "star_fork_ratio": 7.07
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-29T00:00:00.000Z"
+        },
+        {
+          "id": "EbookFoundation/free-programming-books",
+          "name": "free-programming-books",
+          "owner": "EbookFoundation",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": "📚 Freely available programming books",
+          "ai_summary": "收集整理免费编程书籍资源的开源项目。主要使用Python维护，涵盖多种编程语言的电子书资料。",
+          "language": "Python",
+          "stars": 386879,
+          "forks": 66175,
+          "stars_today": 147,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3889,
+            "repo_age_days": 4583,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 79,
+            "pr_count": 10597,
+            "star_fork_ratio": 5.85
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-29T00:00:00.000Z"
+        },
+        {
+          "id": "forrestchang/andrej-karpathy-skills",
+          "name": "andrej-karpathy-skills",
+          "owner": "forrestchang",
+          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "ai_summary": "该项目通过整理Andrej Karpathy对大型语言模型编码缺陷的观察，提供了一份优化Claude代码行为的指南。采用简洁的Markdown文档形式，集中呈现关键改进点与实用技巧。",
+          "language": "",
+          "stars": 97967,
+          "forks": 9516,
+          "stars_today": 0,
+          "stars_this_week": 25836,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 4340,
+            "repo_age_days": 92,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 77,
+            "pr_count": 68,
+            "star_fork_ratio": 10.29
+          },
+          "trending_days": 5,
+          "first_seen": "2026-04-25T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 8,
+          "Skills": 4,
+          "Agent": 1
+        }
+      }
     }
   ]
 }

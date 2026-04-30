@@ -8438,6 +8438,318 @@
           "Agent": 1
         }
       }
+    },
+    {
+      "date": "2026-04-30",
+      "generated_at": "2026-04-30T09:03:43.015Z",
+      "projects": [
+        {
+          "id": "warpdotdev/warp",
+          "name": "warp",
+          "owner": "warpdotdev",
+          "url": "https://github.com/warpdotdev/warp",
+          "description": "Warp is an agentic development environment, born out of the terminal.",
+          "ai_summary": "Warp 是一个基于终端的智能开发环境，旨在提升开发效率。采用 Rust 实现，具备高性能和现代化的用户交互体验。",
+          "language": "Rust",
+          "stars": 46581,
+          "forks": 2907,
+          "stars_today": 12822,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2043,
+            "repo_age_days": 1756,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 3244,
+            "pr_count": 309,
+            "star_fork_ratio": 16.02
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-30T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "ai_summary": "该项目提供工程师实用技能集合，包含 shell 脚本等开发工具。通过简洁的 shell 脚本实现高效开发工作流。",
+          "language": "Shell",
+          "stars": 46854,
+          "forks": 3812,
+          "stars_today": 7280,
+          "stars_this_week": 24702,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3284,
+            "repo_age_days": 85,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 12,
+            "pr_count": 41,
+            "star_fork_ratio": 12.29
+          },
+          "trending_days": 5,
+          "first_seen": "2026-04-26T00:00:00.000Z"
+        },
+        {
+          "id": "microsoft/VibeVoice",
+          "name": "VibeVoice",
+          "owner": "microsoft",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "description": "Open-Source Frontier Voice AI",
+          "ai_summary": "VibeVoice 是开源的语音 AI 项目，专注于前沿语音技术研发。基于 Python 实现，提供高质量的语音合成与识别能力。",
+          "language": "Python",
+          "stars": 45911,
+          "forks": 5069,
+          "stars_today": 1690,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 4523,
+            "repo_age_days": 247,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 149,
+            "pr_count": 141,
+            "star_fork_ratio": 9.06
+          },
+          "trending_days": 3,
+          "first_seen": "2026-04-28T00:00:00.000Z"
+        },
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "Superpowers 是一个代理技能框架和软件开发方法论，旨在提升开发效率。它基于 Shell 脚本实现，提供了一套系统化的技能组合和工作流程优化方案。",
+          "language": "Shell",
+          "stars": 173831,
+          "forks": 15328,
+          "stars_today": 1653,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6319,
+            "repo_age_days": 202,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 282,
+            "pr_count": 676,
+            "star_fork_ratio": 11.34
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-30T00:00:00.000Z"
+        },
+        {
+          "id": "ComposioHQ/awesome-codex-skills",
+          "name": "awesome-codex-skills",
+          "owner": "ComposioHQ",
+          "url": "https://github.com/ComposioHQ/awesome-codex-skills",
+          "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+          "ai_summary": "该项目收集了实用的 Codex 技能，用于自动化 Codex CLI 和 API 的工作流程。采用 Python 实现，提供了丰富的现成技能示例和集成方案。",
+          "language": "Python",
+          "stars": 5049,
+          "forks": 309,
+          "stars_today": 1177,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1136,
+            "repo_age_days": 107,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 23,
+            "pr_count": 36,
+            "star_fork_ratio": 16.34
+          },
+          "trending_days": 5,
+          "first_seen": "2026-04-26T00:00:00.000Z"
+        },
+        {
+          "id": "abhigyanpatwari/GitNexus",
+          "name": "GitNexus",
+          "owner": "abhigyanpatwari",
+          "url": "https://github.com/abhigyanpatwari/GitNexus",
+          "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+          "ai_summary": "GitNexus 是一个零服务器代码智能引擎，在浏览器中创建交互式知识图谱。使用 TypeScript 开发，支持 GitHub 仓库或 ZIP 文件输入，集成了 Graph RAG 代理功能。",
+          "language": "TypeScript",
+          "stars": 33563,
+          "forks": 3814,
+          "stars_today": 774,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1160,
+            "repo_age_days": 270,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 373,
+            "pr_count": 692,
+            "star_fork_ratio": 8.8
+          },
+          "trending_days": 4,
+          "first_seen": "2026-04-27T00:00:00.000Z"
+        },
+        {
+          "id": "EbookFoundation/free-programming-books",
+          "name": "free-programming-books",
+          "owner": "EbookFoundation",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": "📚 Freely available programming books",
+          "ai_summary": "收集整理免费编程书籍资源，为开发者提供系统化学习资料。采用社区协作模式维护，通过GitHub实现多语言书籍资源的集中管理。",
+          "language": "Python",
+          "stars": 387372,
+          "forks": 66202,
+          "stars_today": 604,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3890,
+            "repo_age_days": 4584,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 78,
+            "pr_count": 11393,
+            "star_fork_ratio": 5.85
+          },
+          "trending_days": 2,
+          "first_seen": "2026-04-29T00:00:00.000Z"
+        },
+        {
+          "id": "CJackHwang/ds2api",
+          "name": "ds2api",
+          "owner": "CJackHwang",
+          "url": "https://github.com/CJackHwang/ds2api",
+          "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
+          "ai_summary": "将客户端协议转换为通用API的全栈中间件，支持多账号轮换和主流AI服务兼容。基于Go语言开发，提供编译二进制、Serverless和Docker多种部署方式。",
+          "language": "Go",
+          "stars": 2859,
+          "forks": 748,
+          "stars_today": 465,
+          "stars_this_week": 1415,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 70,
+          "security_details": {
+            "author_age_days": 844,
+            "repo_age_days": 98,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 17,
+            "pr_count": 274,
+            "star_fork_ratio": 3.82
+          },
+          "trending_days": 3,
+          "first_seen": "2026-04-28T00:00:00.000Z"
+        },
+        {
+          "id": "1jehuang/jcode",
+          "name": "jcode",
+          "owner": "1jehuang",
+          "url": "https://github.com/1jehuang/jcode",
+          "description": "Coding Agent Harness",
+          "ai_summary": "实现代码生成与处理的自动化代理工具，提升开发效率。采用Rust编写，注重性能与可靠性。",
+          "language": "Rust",
+          "stars": 1626,
+          "forks": 146,
+          "stars_today": 411,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1628,
+            "repo_age_days": 114,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 47,
+            "pr_count": 16,
+            "star_fork_ratio": 11.14
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-30T00:00:00.000Z"
+        },
+        {
+          "id": "lukilabs/craft-agents-oss",
+          "name": "craft-agents-oss",
+          "owner": "lukilabs",
+          "url": "https://github.com/lukilabs/craft-agents-oss",
+          "description": "",
+          "ai_summary": "该项目是一个开源代理工具，用于管理和优化网络请求的代理服务。采用TypeScript编写，支持模块化设计和灵活的代理规则配置。",
+          "language": "TypeScript",
+          "stars": 5449,
+          "forks": 730,
+          "stars_today": 393,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2442,
+            "repo_age_days": 100,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 328,
+            "pr_count": 164,
+            "star_fork_ratio": 7.46
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-30T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "Skills": 7,
+          "Agent": 5,
+          "AI": 4
+        }
+      }
     }
   ]
 }

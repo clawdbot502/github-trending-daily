@@ -315,6 +315,323 @@
           "金融": 1
         }
       }
+    },
+    {
+      "date": "2026-05-02",
+      "generated_at": "2026-05-02T08:13:13.070Z",
+      "projects": [
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "ai_summary": "该项目提供实用工程师技能集合，直接来自作者的.claude目录。采用Shell脚本实现，内容聚焦实际工程需求，无冗余配置。",
+          "language": "Shell",
+          "stars": 53391,
+          "forks": 4494,
+          "stars_today": 3645,
+          "stars_this_week": 33628,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 3286,
+            "repo_age_days": 87,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 8,
+            "pr_count": 41,
+            "star_fork_ratio": 11.88
+          },
+          "trending_days": 7,
+          "first_seen": "2026-04-26T00:00:00.000Z"
+        },
+        {
+          "id": "warpdotdev/warp",
+          "name": "warp",
+          "owner": "warpdotdev",
+          "url": "https://github.com/warpdotdev/warp",
+          "description": "Warp is an agentic development environment, born out of the terminal.",
+          "ai_summary": "Warp是基于终端的智能开发环境，旨在提升开发者效率。使用Rust构建，采用代理架构实现环境自动化管理。",
+          "language": "Rust",
+          "stars": 51956,
+          "forks": 3522,
+          "stars_today": 3401,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2045,
+            "repo_age_days": 1758,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 3414,
+            "pr_count": 468,
+            "star_fork_ratio": 14.75
+          },
+          "trending_days": 3,
+          "first_seen": "2026-04-30T00:00:00.000Z"
+        },
+        {
+          "id": "TauricResearch/TradingAgents",
+          "name": "TradingAgents",
+          "owner": "TauricResearch",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "ai_summary": "该项目是面向金融交易的LLM多智能体框架，解决量化交易策略开发问题。基于Python实现，整合大语言模型与多智能体协同机制。",
+          "language": "Python",
+          "stars": 60451,
+          "forks": 11652,
+          "stars_today": 2112,
+          "stars_this_week": 6152,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "AI",
+            "Skills"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 491,
+            "repo_age_days": 490,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 301,
+            "pr_count": 366,
+            "star_fork_ratio": 5.19
+          },
+          "trending_days": 2,
+          "first_seen": "2026-05-01T00:00:00.000Z"
+        },
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "Superpowers 是一个智能技能框架和软件开发方法论，旨在提升开发效率。采用 Shell 脚本实现，强调代理式技能组合与模块化开发流程。",
+          "language": "Shell",
+          "stars": 175974,
+          "forks": 15564,
+          "stars_today": 1096,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6321,
+            "repo_age_days": 204,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 289,
+            "pr_count": 684,
+            "star_fork_ratio": 11.31
+          },
+          "trending_days": 3,
+          "first_seen": "2026-04-30T00:00:00.000Z"
+        },
+        {
+          "id": "soxoj/maigret",
+          "name": "maigret",
+          "owner": "soxoj",
+          "url": "https://github.com/soxoj/maigret",
+          "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+          "ai_summary": "Maigret 是通过用户名从 3000+ 网站收集个人档案的开源情报工具。基于 Python 构建，采用异步爬虫技术实现高效数据聚合。",
+          "language": "Python",
+          "stars": 21965,
+          "forks": 1547,
+          "stars_today": 535,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3182,
+            "repo_age_days": 2134,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 60,
+            "pr_count": 1000,
+            "star_fork_ratio": 14.2
+          },
+          "trending_days": 2,
+          "first_seen": "2026-05-01T00:00:00.000Z"
+        },
+        {
+          "id": "1jehuang/jcode",
+          "name": "jcode",
+          "owner": "1jehuang",
+          "url": "https://github.com/1jehuang/jcode",
+          "description": "Coding Agent Harness",
+          "ai_summary": "JCode 是 Rust 编写的编码代理工具链，用于自动化代码生成任务。利用 Rust 的高性能特性实现低延迟代码分析与转换。",
+          "language": "Rust",
+          "stars": 2499,
+          "forks": 224,
+          "stars_today": 403,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1630,
+            "repo_age_days": 116,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 54,
+            "pr_count": 23,
+            "star_fork_ratio": 11.16
+          },
+          "trending_days": 3,
+          "first_seen": "2026-04-30T00:00:00.000Z"
+        },
+        {
+          "id": "browserbase/skills",
+          "name": "skills",
+          "owner": "browserbase",
+          "url": "https://github.com/browserbase/skills",
+          "description": "Claude Agent SDK with a web browsing tool",
+          "ai_summary": "这是一个Claude代理SDK，提供网页浏览工具功能。基于JavaScript实现，支持开发者快速集成网页交互能力。",
+          "language": "JavaScript",
+          "stars": 1271,
+          "forks": 90,
+          "stars_today": 334,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 822,
+            "repo_age_days": 201,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 32,
+            "pr_count": 81,
+            "star_fork_ratio": 14.12
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-02T00:00:00.000Z"
+        },
+        {
+          "id": "forrestchang/andrej-karpathy-skills",
+          "name": "andrej-karpathy-skills",
+          "owner": "forrestchang",
+          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "ai_summary": "该项目通过单个CLAUDE.md文件优化Claude的代码生成行为。基于Andrej Karpathy对LLM编码缺陷的研究，提炼出改进建议。",
+          "language": "",
+          "stars": 105311,
+          "forks": 10428,
+          "stars_today": 0,
+          "stars_this_week": 21896,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 4343,
+            "repo_age_days": 95,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 79,
+            "pr_count": 78,
+            "star_fork_ratio": 10.1
+          },
+          "trending_days": 2,
+          "first_seen": "2026-05-01T00:00:00.000Z"
+        },
+        {
+          "id": "Alishahryar1/free-claude-code",
+          "name": "free-claude-code",
+          "owner": "Alishahryar1",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+          "ai_summary": "提供免费使用claude-code的工具，支持终端、VSCode扩展和Discord等场景。采用Python开发，具备语音交互功能。",
+          "language": "Python",
+          "stars": 19837,
+          "forks": 2836,
+          "stars_today": 0,
+          "stars_this_week": 12928,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3577,
+            "repo_age_days": 93,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 72,
+            "pr_count": 135,
+            "star_fork_ratio": 6.99
+          },
+          "trending_days": 2,
+          "first_seen": "2026-05-01T00:00:00.000Z"
+        },
+        {
+          "id": "abhigyanpatwari/GitNexus",
+          "name": "GitNexus",
+          "owner": "abhigyanpatwari",
+          "url": "https://github.com/abhigyanpatwari/GitNexus",
+          "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+          "ai_summary": "GitNexus 是一个零服务器代码智能引擎，在浏览器中创建代码知识图谱，支持 GitHub 仓库或 ZIP 文件直接导入。采用客户端计算架构，基于 TypeScript 实现交互式知识图谱与内置 Graph RAG 代理，实现高效代码探索。",
+          "language": "TypeScript",
+          "stars": 34207,
+          "forks": 3883,
+          "stars_today": 0,
+          "stars_this_week": 5376,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1162,
+            "repo_age_days": 272,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 367,
+            "pr_count": 718,
+            "star_fork_ratio": 8.81
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-02T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 6,
+          "Skills": 8,
+          "Agent": 5,
+          "金融": 1
+        }
+      }
     }
   ]
 }

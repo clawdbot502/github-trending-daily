@@ -632,6 +632,323 @@
           "金融": 1
         }
       }
+    },
+    {
+      "date": "2026-05-03",
+      "generated_at": "2026-05-03T08:26:29.977Z",
+      "projects": [
+        {
+          "id": "TauricResearch/TradingAgents",
+          "name": "TradingAgents",
+          "owner": "TauricResearch",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "ai_summary": "TradingAgents 是一个基于多智能体 LLM 的金融交易框架，用于自动化金融交易决策。采用 Python 实现，结合大型语言模型与多智能体协作架构，优化交易策略执行。",
+          "language": "Python",
+          "stars": 63665,
+          "forks": 12329,
+          "stars_today": 2225,
+          "stars_this_week": 8489,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "AI",
+            "Skills"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 492,
+            "repo_age_days": 491,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 320,
+            "pr_count": 381,
+            "star_fork_ratio": 5.16
+          },
+          "trending_days": 3,
+          "first_seen": "2026-05-01T00:00:00.000Z"
+        },
+        {
+          "id": "ruvnet/ruflo",
+          "name": "ruflo",
+          "owner": "ruvnet",
+          "url": "https://github.com/ruvnet/ruflo",
+          "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+          "ai_summary": "ruflo 是面向 Claude 的智能体编排平台，支持部署多智能体集群与自动化工作流。基于 TypeScript 构建，具备企业级分布式架构，集成 RAG 和 Claude Code 原生支持。",
+          "language": "TypeScript",
+          "stars": 37240,
+          "forks": 4259,
+          "stars_today": 1299,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 4901,
+            "repo_age_days": 334,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 489,
+            "pr_count": 524,
+            "star_fork_ratio": 8.74
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-03T00:00:00.000Z"
+        },
+        {
+          "id": "soxoj/maigret",
+          "name": "maigret",
+          "owner": "soxoj",
+          "url": "https://github.com/soxoj/maigret",
+          "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+          "ai_summary": "maigret 是通过用户名从 3000+ 网站收集个人信息的开源工具。采用 Python 开发，通过自动化爬取与数据聚合技术实现高效信息整合。",
+          "language": "Python",
+          "stars": 23076,
+          "forks": 1621,
+          "stars_today": 1064,
+          "stars_this_week": 2678,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3183,
+            "repo_age_days": 2135,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 73,
+            "pr_count": 1018,
+            "star_fork_ratio": 14.24
+          },
+          "trending_days": 3,
+          "first_seen": "2026-05-01T00:00:00.000Z"
+        },
+        {
+          "id": "1jehuang/jcode",
+          "name": "jcode",
+          "owner": "1jehuang",
+          "url": "https://github.com/1jehuang/jcode",
+          "description": "Coding Agent Harness",
+          "ai_summary": "jcode 是一个编码代理工具，用于管理和执行代码任务。采用 Rust 实现，注重性能和安全性。",
+          "language": "Rust",
+          "stars": 3049,
+          "forks": 271,
+          "stars_today": 482,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1631,
+            "repo_age_days": 117,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 62,
+            "pr_count": 27,
+            "star_fork_ratio": 11.25
+          },
+          "trending_days": 4,
+          "first_seen": "2026-04-30T00:00:00.000Z"
+        },
+        {
+          "id": "browserbase/skills",
+          "name": "skills",
+          "owner": "browserbase",
+          "url": "https://github.com/browserbase/skills",
+          "description": "Claude Agent SDK with a web browsing tool",
+          "ai_summary": "这是一个 Claude 代理 SDK，提供网页浏览工具功能。基于 JavaScript 实现，便于集成到 Web 应用中。",
+          "language": "JavaScript",
+          "stars": 1603,
+          "forks": 107,
+          "stars_today": 346,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 823,
+            "repo_age_days": 202,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 34,
+            "pr_count": 83,
+            "star_fork_ratio": 14.98
+          },
+          "trending_days": 2,
+          "first_seen": "2026-05-02T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "ai_summary": "该项目收集了实用的工程师技能脚本。使用 Shell 脚本实现，可直接从 .claude 目录运行。",
+          "language": "Shell",
+          "stars": 55693,
+          "forks": 4732,
+          "stars_today": 0,
+          "stars_this_week": 35324,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 3287,
+            "repo_age_days": 88,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 8,
+            "pr_count": 41,
+            "star_fork_ratio": 11.77
+          },
+          "trending_days": 8,
+          "first_seen": "2026-04-26T00:00:00.000Z"
+        },
+        {
+          "id": "forrestchang/andrej-karpathy-skills",
+          "name": "andrej-karpathy-skills",
+          "owner": "forrestchang",
+          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "ai_summary": "该项目通过一个CLAUDE.md文件优化Claude代码生成行为，解决LLM编码常见问题。基于Andrej Karpathy对大型语言模型编码缺陷的观察总结，提炼出针对性改进策略。",
+          "language": "",
+          "stars": 107237,
+          "forks": 10652,
+          "stars_today": 0,
+          "stars_this_week": 20079,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 4344,
+            "repo_age_days": 96,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 78,
+            "pr_count": 78,
+            "star_fork_ratio": 10.07
+          },
+          "trending_days": 3,
+          "first_seen": "2026-05-01T00:00:00.000Z"
+        },
+        {
+          "id": "Alishahryar1/free-claude-code",
+          "name": "free-claude-code",
+          "owner": "Alishahryar1",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+          "ai_summary": "提供Claude代码模型的免费终端调用方案，支持VSCode扩展和Discord集成。采用Python实现，包含OpenClaw语音交互功能，实现多平台无缝接入。",
+          "language": "Python",
+          "stars": 20378,
+          "forks": 2915,
+          "stars_today": 0,
+          "stars_this_week": 9364,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3578,
+            "repo_age_days": 94,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 82,
+            "pr_count": 139,
+            "star_fork_ratio": 6.99
+          },
+          "trending_days": 3,
+          "first_seen": "2026-05-01T00:00:00.000Z"
+        },
+        {
+          "id": "abhigyanpatwari/GitNexus",
+          "name": "GitNexus",
+          "owner": "abhigyanpatwari",
+          "url": "https://github.com/abhigyanpatwari/GitNexus",
+          "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+          "ai_summary": "构建浏览器端代码知识图谱引擎，实现无服务器化代码智能分析。基于TypeScript开发，通过GitHub仓库/ZIP文件自动生成交互式图谱，集成Graph RAG代理增强代码探索能力。",
+          "language": "TypeScript",
+          "stars": 34910,
+          "forks": 3959,
+          "stars_today": 0,
+          "stars_this_week": 5465,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1163,
+            "repo_age_days": 273,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 364,
+            "pr_count": 727,
+            "star_fork_ratio": 8.82
+          },
+          "trending_days": 2,
+          "first_seen": "2026-05-02T00:00:00.000Z"
+        },
+        {
+          "id": "AIDC-AI/Pixelle-Video",
+          "name": "Pixelle-Video",
+          "owner": "AIDC-AI",
+          "url": "https://github.com/AIDC-AI/Pixelle-Video",
+          "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+          "ai_summary": "Pixelle-Video 是一个基于 AI 的全自动短视频生成引擎，能够自动化完成短视频的创作和编辑。该项目采用 Python 实现，结合了多种 AI 技术（如计算机视觉和自然语言处理）来智能生成和优化视频内容。",
+          "language": "Python",
+          "stars": 9314,
+          "forks": 1477,
+          "stars_today": 0,
+          "stars_this_week": 2315,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 689,
+            "repo_age_days": 177,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 81,
+            "pr_count": 30,
+            "star_fork_ratio": 6.31
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-03T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "金融": 1,
+          "AI": 8,
+          "Skills": 7,
+          "Agent": 4
+        }
+      }
     }
   ]
 }

@@ -949,6 +949,324 @@
           "Agent": 4
         }
       }
+    },
+    {
+      "date": "2026-05-04",
+      "generated_at": "2026-05-04T09:06:48.711Z",
+      "projects": [
+        {
+          "id": "TauricResearch/TradingAgents",
+          "name": "TradingAgents",
+          "owner": "TauricResearch",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "ai_summary": "TradingAgents 是一个基于多智能体 LLM 的金融交易框架，用于自动化金融交易决策。采用 Python 实现，结合大型语言模型与多智能体协同架构，实现市场分析与交易执行。",
+          "language": "Python",
+          "stars": 65975,
+          "forks": 12773,
+          "stars_today": 3313,
+          "stars_this_week": 11252,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "AI",
+            "Skills"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 493,
+            "repo_age_days": 492,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 341,
+            "pr_count": 399,
+            "star_fork_ratio": 5.17
+          },
+          "trending_days": 4,
+          "first_seen": "2026-05-01T00:00:00.000Z"
+        },
+        {
+          "id": "ruvnet/ruflo",
+          "name": "ruflo",
+          "owner": "ruvnet",
+          "url": "https://github.com/ruvnet/ruflo",
+          "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+          "ai_summary": "ruflo 是面向 Claude 的智能体编排平台，支持部署多智能体集群与自动化工作流。基于 TypeScript 构建，提供企业级架构、自学习集群智能和原生 Claude 代码集成能力。",
+          "language": "TypeScript",
+          "stars": 39783,
+          "forks": 4503,
+          "stars_today": 1840,
+          "stars_this_week": 4321,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 4902,
+            "repo_age_days": 335,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 498,
+            "pr_count": 537,
+            "star_fork_ratio": 8.83
+          },
+          "trending_days": 2,
+          "first_seen": "2026-05-03T00:00:00.000Z"
+        },
+        {
+          "id": "soxoj/maigret",
+          "name": "maigret",
+          "owner": "soxoj",
+          "url": "https://github.com/soxoj/maigret",
+          "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+          "ai_summary": "maigret 是通过用户名从 3000+ 网站收集个人信息的开源情报工具。采用 Python 开发，通过自动化爬取与数据聚合技术实现高效信息收集。",
+          "language": "Python",
+          "stars": 24197,
+          "forks": 1707,
+          "stars_today": 1119,
+          "stars_this_week": 3729,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3184,
+            "repo_age_days": 2136,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 72,
+            "pr_count": 1020,
+            "star_fork_ratio": 14.18
+          },
+          "trending_days": 4,
+          "first_seen": "2026-05-01T00:00:00.000Z"
+        },
+        {
+          "id": "1jehuang/jcode",
+          "name": "jcode",
+          "owner": "1jehuang",
+          "url": "https://github.com/1jehuang/jcode",
+          "description": "Coding Agent Harness",
+          "ai_summary": "jcode 是一个编码代理工具，旨在简化和自动化编码任务。采用 Rust 语言实现，提供高效且安全的执行环境。",
+          "language": "Rust",
+          "stars": 3606,
+          "forks": 342,
+          "stars_today": 591,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1632,
+            "repo_age_days": 118,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 72,
+            "pr_count": 30,
+            "star_fork_ratio": 10.54
+          },
+          "trending_days": 5,
+          "first_seen": "2026-04-30T00:00:00.000Z"
+        },
+        {
+          "id": "AIDC-AI/Pixelle-Video",
+          "name": "Pixelle-Video",
+          "owner": "AIDC-AI",
+          "url": "https://github.com/AIDC-AI/Pixelle-Video",
+          "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+          "ai_summary": "Pixelle-Video 是一个全自动短视频生成引擎，利用 AI 技术快速生成短视频内容。基于 Python 实现，整合了多种 AI 模型以实现自动化流程。",
+          "language": "Python",
+          "stars": 10425,
+          "forks": 1620,
+          "stars_today": 497,
+          "stars_this_week": 2659,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 690,
+            "repo_age_days": 178,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 84,
+            "pr_count": 30,
+            "star_fork_ratio": 6.44
+          },
+          "trending_days": 2,
+          "first_seen": "2026-05-03T00:00:00.000Z"
+        },
+        {
+          "id": "Hmbown/DeepSeek-TUI",
+          "name": "DeepSeek-TUI",
+          "owner": "Hmbown",
+          "url": "https://github.com/Hmbown/DeepSeek-TUI",
+          "description": "Coding agent for DeepSeek models that runs in your terminal",
+          "ai_summary": "DeepSeek-TUI 是一个终端运行的 DeepSeek 模型编码代理，方便开发者在命令行中直接使用模型。使用 Rust 开发，具有高性能和低资源占用的特点。",
+          "language": "Rust",
+          "stars": 2836,
+          "forks": 182,
+          "stars_today": 343,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1515,
+            "repo_age_days": 104,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 80,
+            "pr_count": 91,
+            "star_fork_ratio": 15.58
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-04T00:00:00.000Z"
+        },
+        {
+          "id": "browserbase/skills",
+          "name": "skills",
+          "owner": "browserbase",
+          "url": "https://github.com/browserbase/skills",
+          "description": "Claude Agent SDK with a web browsing tool",
+          "ai_summary": "这是一个为Claude Agent提供网页浏览工具的SDK。基于JavaScript实现，封装了浏览器自动化操作能力。",
+          "language": "JavaScript",
+          "stars": 1935,
+          "forks": 127,
+          "stars_today": 322,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 824,
+            "repo_age_days": 204,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 34,
+            "pr_count": 83,
+            "star_fork_ratio": 15.24
+          },
+          "trending_days": 3,
+          "first_seen": "2026-05-02T00:00:00.000Z"
+        },
+        {
+          "id": "czlonkowski/n8n-mcp",
+          "name": "n8n-mcp",
+          "owner": "czlonkowski",
+          "url": "https://github.com/czlonkowski/n8n-mcp",
+          "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+          "ai_summary": "为Claude系列工具提供n8n工作流构建的中间控制程序。采用TypeScript开发，实现自动化流程编排功能。",
+          "language": "TypeScript",
+          "stars": 19681,
+          "forks": 3254,
+          "stars_today": 282,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2384,
+            "repo_age_days": 330,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 75,
+            "pr_count": 352,
+            "star_fork_ratio": 6.05
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-04T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "ai_summary": "提供工程师实用技能脚本的集合项目。通过Shell脚本实现各类开发环境配置和工具链优化。",
+          "language": "Shell",
+          "stars": 57697,
+          "forks": 4936,
+          "stars_today": 0,
+          "stars_this_week": 34848,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3289,
+            "repo_age_days": 89,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 11,
+            "pr_count": 41,
+            "star_fork_ratio": 11.69
+          },
+          "trending_days": 9,
+          "first_seen": "2026-04-26T00:00:00.000Z"
+        },
+        {
+          "id": "forrestchang/andrej-karpathy-skills",
+          "name": "andrej-karpathy-skills",
+          "owner": "forrestchang",
+          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "ai_summary": "该项目通过整理Andrej Karpathy对LLM编码缺陷的观察，提供了一份优化Claude代码行为的指南。采用单文件Markdown形式，集中呈现关键改进点与实用技巧。",
+          "language": "",
+          "stars": 110057,
+          "forks": 10969,
+          "stars_today": 0,
+          "stars_this_week": 18662,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 4345,
+            "repo_age_days": 97,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 84,
+            "pr_count": 84,
+            "star_fork_ratio": 10.03
+          },
+          "trending_days": 4,
+          "first_seen": "2026-05-01T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "金融": 1,
+          "AI": 8,
+          "Skills": 8,
+          "Agent": 4
+        }
+      }
     }
   ]
 }

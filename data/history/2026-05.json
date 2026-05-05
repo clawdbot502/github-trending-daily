@@ -1267,6 +1267,325 @@
           "Agent": 4
         }
       }
+    },
+    {
+      "date": "2026-05-05",
+      "generated_at": "2026-05-05T09:01:25.466Z",
+      "projects": [
+        {
+          "id": "ruvnet/ruflo",
+          "name": "ruflo",
+          "owner": "ruvnet",
+          "url": "https://github.com/ruvnet/ruflo",
+          "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+          "ai_summary": "Ruflo 是一个面向 Claude 的智能体编排平台，用于部署多智能体集群和协调自主工作流。采用企业级架构，集成自学习集群智能、RAG 和原生 Claude Code/Codex 技术。",
+          "language": "TypeScript",
+          "stars": 42198,
+          "forks": 4710,
+          "stars_today": 2598,
+          "stars_this_week": 6838,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 4903,
+            "repo_age_days": 336,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 507,
+            "pr_count": 547,
+            "star_fork_ratio": 8.96
+          },
+          "trending_days": 3,
+          "first_seen": "2026-05-03T00:00:00.000Z"
+        },
+        {
+          "id": "TauricResearch/TradingAgents",
+          "name": "TradingAgents",
+          "owner": "TauricResearch",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "ai_summary": "TradingAgents 是基于多智能体 LLM 的金融交易框架，用于自动化金融交易策略。使用 Python 实现，支持多智能体协同决策和交易执行。",
+          "language": "Python",
+          "stars": 68336,
+          "forks": 13149,
+          "stars_today": 2182,
+          "stars_this_week": 13293,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "AI",
+            "Skills"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 494,
+            "repo_age_days": 493,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 364,
+            "pr_count": 413,
+            "star_fork_ratio": 5.2
+          },
+          "trending_days": 5,
+          "first_seen": "2026-05-01T00:00:00.000Z"
+        },
+        {
+          "id": "Hmbown/DeepSeek-TUI",
+          "name": "DeepSeek-TUI",
+          "owner": "Hmbown",
+          "url": "https://github.com/Hmbown/DeepSeek-TUI",
+          "description": "Coding agent for DeepSeek models that runs in your terminal",
+          "ai_summary": "DeepSeek-TUI 是终端运行的 DeepSeek 模型编程助手，提供命令行交互式代码生成功能。基于 Rust 实现，具有高效的终端界面和模型交互能力。",
+          "language": "Rust",
+          "stars": 4990,
+          "forks": 359,
+          "stars_today": 1274,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1516,
+            "repo_age_days": 105,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 166,
+            "pr_count": 200,
+            "star_fork_ratio": 13.9
+          },
+          "trending_days": 2,
+          "first_seen": "2026-05-04T00:00:00.000Z"
+        },
+        {
+          "id": "msitarzewski/agency-agents",
+          "name": "agency-agents",
+          "owner": "msitarzewski",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+          "ai_summary": "提供一套完整的AI代理解决方案，涵盖从前端开发到社区管理的多种角色。每个代理均采用Shell脚本实现，具备个性化处理流程和已验证的输出能力。",
+          "language": "Shell",
+          "stars": 93029,
+          "forks": 15307,
+          "stars_today": 1189,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5043,
+            "repo_age_days": 203,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 120,
+            "pr_count": 329,
+            "star_fork_ratio": 6.08
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-05T00:00:00.000Z"
+        },
+        {
+          "id": "soxoj/maigret",
+          "name": "maigret",
+          "owner": "soxoj",
+          "url": "https://github.com/soxoj/maigret",
+          "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+          "ai_summary": "通过用户名从3000多个网站收集个人信息的开源情报工具。基于Python实现，支持多平台数据聚合与关联分析。",
+          "language": "Python",
+          "stars": 25213,
+          "forks": 1745,
+          "stars_today": 1119,
+          "stars_this_week": 4789,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3185,
+            "repo_age_days": 2137,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 62,
+            "pr_count": 1025,
+            "star_fork_ratio": 14.45
+          },
+          "trending_days": 5,
+          "first_seen": "2026-05-01T00:00:00.000Z"
+        },
+        {
+          "id": "1jehuang/jcode",
+          "name": "jcode",
+          "owner": "1jehuang",
+          "url": "https://github.com/1jehuang/jcode",
+          "description": "Coding Agent Harness",
+          "ai_summary": "一个用Rust编写的代码生成与管理工具。采用现代系统语言实现，提供高效的代码处理与自动化能力。",
+          "language": "Rust",
+          "stars": 4043,
+          "forks": 379,
+          "stars_today": 548,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1633,
+            "repo_age_days": 119,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 75,
+            "pr_count": 35,
+            "star_fork_ratio": 10.67
+          },
+          "trending_days": 6,
+          "first_seen": "2026-04-30T00:00:00.000Z"
+        },
+        {
+          "id": "czlonkowski/n8n-mcp",
+          "name": "n8n-mcp",
+          "owner": "czlonkowski",
+          "url": "https://github.com/czlonkowski/n8n-mcp",
+          "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+          "ai_summary": "这是一个为Claude Desktop/Claude Code/Windsurf/Cursor设计的MCP工具，用于自动构建n8n工作流。采用TypeScript开发，通过模块化设计实现与多种开发环境的无缝集成。",
+          "language": "TypeScript",
+          "stars": 20034,
+          "forks": 3276,
+          "stars_today": 496,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2385,
+            "repo_age_days": 331,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 76,
+            "pr_count": 352,
+            "star_fork_ratio": 6.12
+          },
+          "trending_days": 2,
+          "first_seen": "2026-05-04T00:00:00.000Z"
+        },
+        {
+          "id": "virattt/dexter",
+          "name": "dexter",
+          "owner": "virattt",
+          "url": "https://github.com/virattt/dexter",
+          "description": "An autonomous agent for deep financial research",
+          "ai_summary": "这是一个专注于深度金融研究的自主代理系统。基于TypeScript构建，采用自动化数据采集和分析算法实现金融数据挖掘。",
+          "language": "TypeScript",
+          "stars": 23393,
+          "forks": 2865,
+          "stars_today": 409,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 5415,
+            "repo_age_days": 202,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 86,
+            "pr_count": 156,
+            "star_fork_ratio": 8.17
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-05T00:00:00.000Z"
+        },
+        {
+          "id": "browserbase/skills",
+          "name": "skills",
+          "owner": "browserbase",
+          "url": "https://github.com/browserbase/skills",
+          "description": "Claude Agent SDK with a web browsing tool",
+          "ai_summary": "这是Claude Agent的SDK开发工具包，提供网页浏览功能。使用JavaScript开发，通过轻量级架构实现高效的网页内容抓取和处理。",
+          "language": "JavaScript",
+          "stars": 2233,
+          "forks": 142,
+          "stars_today": 320,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 825,
+            "repo_age_days": 205,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 36,
+            "pr_count": 85,
+            "star_fork_ratio": 15.73
+          },
+          "trending_days": 4,
+          "first_seen": "2026-05-02T00:00:00.000Z"
+        },
+        {
+          "id": "fspecii/ace-step-ui",
+          "name": "ace-step-ui",
+          "owner": "fspecii",
+          "url": "https://github.com/fspecii/ace-step-ui",
+          "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
+          "ai_summary": "该项目是ACE-Step 1.5 AI音乐生成模型的开源专业界面，提供本地化、免费的Suno替代方案。基于JavaScript实现，支持无限制音乐生成，无需依赖云端服务。",
+          "language": "JavaScript",
+          "stars": 3011,
+          "forks": 434,
+          "stars_today": 237,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 4704,
+            "repo_age_days": 90,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 28,
+            "pr_count": 9,
+            "star_fork_ratio": 6.94
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-05T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 7,
+          "Skills": 8,
+          "Agent": 6,
+          "金融": 1
+        }
+      }
     }
   ]
 }

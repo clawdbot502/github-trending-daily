@@ -1586,6 +1586,324 @@
           "金融": 1
         }
       }
+    },
+    {
+      "date": "2026-05-06",
+      "generated_at": "2026-05-06T09:10:59.535Z",
+      "projects": [
+        {
+          "id": "Hmbown/DeepSeek-TUI",
+          "name": "DeepSeek-TUI",
+          "owner": "Hmbown",
+          "url": "https://github.com/Hmbown/DeepSeek-TUI",
+          "description": "Coding agent for DeepSeek models that runs in your terminal",
+          "ai_summary": "DeepSeek-TUI 是一个在终端运行的 DeepSeek 模型编码助手。采用 Rust 实现，提供高效的命令行交互体验。",
+          "language": "Rust",
+          "stars": 10603,
+          "forks": 809,
+          "stars_today": 2434,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1517,
+            "repo_age_days": 106,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 207,
+            "pr_count": 264,
+            "star_fork_ratio": 13.11
+          },
+          "trending_days": 3,
+          "first_seen": "2026-05-04T00:00:00.000Z"
+        },
+        {
+          "id": "ruvnet/ruflo",
+          "name": "ruflo",
+          "owner": "ruvnet",
+          "url": "https://github.com/ruvnet/ruflo",
+          "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+          "ai_summary": "ruflo 是面向 Claude 模型的智能多代理编排平台，支持自主工作流协调和对话系统构建。基于 TypeScript 实现，具有企业级架构、自学习群体智能和 RAG 集成能力。",
+          "language": "TypeScript",
+          "stars": 44481,
+          "forks": 4932,
+          "stars_today": 2432,
+          "stars_this_week": 9159,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 4904,
+            "repo_age_days": 337,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 515,
+            "pr_count": 572,
+            "star_fork_ratio": 9.02
+          },
+          "trending_days": 4,
+          "first_seen": "2026-05-03T00:00:00.000Z"
+        },
+        {
+          "id": "forrestchang/andrej-karpathy-skills",
+          "name": "andrej-karpathy-skills",
+          "owner": "forrestchang",
+          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "ai_summary": "该项目通过 CLAUDE.md 文件优化 Claude 代码生成行为。基于 Andrej Karpathy 对 LLM 编码缺陷的观察提炼而成。",
+          "language": "",
+          "stars": 115315,
+          "forks": 11528,
+          "stars_today": 2409,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 4347,
+            "repo_age_days": 99,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 86,
+            "pr_count": 87,
+            "star_fork_ratio": 10
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-06T00:00:00.000Z"
+        },
+        {
+          "id": "msitarzewski/agency-agents",
+          "name": "agency-agents",
+          "owner": "msitarzewski",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+          "ai_summary": "提供一套完整的AI代理解决方案，涵盖从前端开发到社区管理的多种专业角色。基于Shell脚本实现，每个代理具备个性化特性和标准化流程，可快速部署。",
+          "language": "Shell",
+          "stars": 94072,
+          "forks": 15473,
+          "stars_today": 1218,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5044,
+            "repo_age_days": 204,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 123,
+            "pr_count": 332,
+            "star_fork_ratio": 6.08
+          },
+          "trending_days": 2,
+          "first_seen": "2026-05-05T00:00:00.000Z"
+        },
+        {
+          "id": "AIDC-AI/Pixelle-Video",
+          "name": "Pixelle-Video",
+          "owner": "AIDC-AI",
+          "url": "https://github.com/AIDC-AI/Pixelle-Video",
+          "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+          "ai_summary": "实现AI驱动的全自动短视频生成引擎，解决内容创作效率问题。采用Python技术栈，支持端到端的视频生产流水线。",
+          "language": "Python",
+          "stars": 12409,
+          "forks": 1885,
+          "stars_today": 691,
+          "stars_this_week": 4201,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 692,
+            "repo_age_days": 180,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 78,
+            "pr_count": 35,
+            "star_fork_ratio": 6.58
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-06T00:00:00.000Z"
+        },
+        {
+          "id": "virattt/dexter",
+          "name": "dexter",
+          "owner": "virattt",
+          "url": "https://github.com/virattt/dexter",
+          "description": "An autonomous agent for deep financial research",
+          "ai_summary": "专注深度金融研究的自主代理系统，自动化处理复杂金融数据分析。基于TypeScript构建，采用模块化架构设计实现高效信息处理。",
+          "language": "TypeScript",
+          "stars": 24057,
+          "forks": 2929,
+          "stars_today": 659,
+          "stars_this_week": 2050,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 5416,
+            "repo_age_days": 203,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 89,
+            "pr_count": 159,
+            "star_fork_ratio": 8.21
+          },
+          "trending_days": 2,
+          "first_seen": "2026-05-05T00:00:00.000Z"
+        },
+        {
+          "id": "cocoindex-io/cocoindex",
+          "name": "cocoindex",
+          "owner": "cocoindex-io",
+          "url": "https://github.com/cocoindex-io/cocoindex",
+          "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
+          "ai_summary": "cocoindex 是一个用于长周期智能体的增量引擎，支持持续学习和适应。采用 Python 实现，通过高效的增量更新机制优化长期任务处理性能。",
+          "language": "Python",
+          "stars": 8548,
+          "forks": 633,
+          "stars_today": 438,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 516,
+            "repo_age_days": 428,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 49,
+            "pr_count": 1613,
+            "star_fork_ratio": 13.5
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-06T00:00:00.000Z"
+        },
+        {
+          "id": "bwya77/vscode-dark-islands",
+          "name": "vscode-dark-islands",
+          "owner": "bwya77",
+          "url": "https://github.com/bwya77/vscode-dark-islands",
+          "description": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
+          "ai_summary": "vscode-dark-islands 是一款基于 easemate IDE 和 Jetbrains islands 主题的 VSCode 暗色主题。使用 PowerShell 脚本实现快速安装和配置，提供舒适的代码编辑视觉体验。",
+          "language": "PowerShell",
+          "stars": 8031,
+          "forks": 247,
+          "stars_today": 321,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 4507,
+            "repo_age_days": 81,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 62,
+            "pr_count": 45,
+            "star_fork_ratio": 32.51
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-06T00:00:00.000Z"
+        },
+        {
+          "id": "browserbase/skills",
+          "name": "skills",
+          "owner": "browserbase",
+          "url": "https://github.com/browserbase/skills",
+          "description": "Claude Agent SDK with a web browsing tool",
+          "ai_summary": "skills 是 Claude 智能体的 JavaScript SDK，集成了网页浏览工具功能。通过模块化设计实现网页交互能力，便于开发基于浏览器的自动化代理。",
+          "language": "JavaScript",
+          "stars": 2500,
+          "forks": 156,
+          "stars_today": 311,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 826,
+            "repo_age_days": 206,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 38,
+            "pr_count": 88,
+            "star_fork_ratio": 16.03
+          },
+          "trending_days": 5,
+          "first_seen": "2026-05-02T00:00:00.000Z"
+        },
+        {
+          "id": "mksglu/context-mode",
+          "name": "context-mode",
+          "owner": "mksglu",
+          "url": "https://github.com/mksglu/context-mode",
+          "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms",
+          "ai_summary": "该项目为AI编程代理提供上下文窗口优化功能，显著减少工具输出干扰。采用TypeScript实现，通过沙盒机制隔离工具输出，支持14个平台并实现98%的冗余削减。",
+          "language": "TypeScript",
+          "stars": 13396,
+          "forks": 915,
+          "stars_today": 276,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4540,
+            "repo_age_days": 72,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 17,
+            "pr_count": 230,
+            "star_fork_ratio": 14.64
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-06T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "Skills": 8,
+          "Agent": 7,
+          "AI": 7
+        }
+      }
     }
   ]
 }

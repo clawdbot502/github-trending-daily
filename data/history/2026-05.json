@@ -2220,6 +2220,326 @@
           "AI": 7
         }
       }
+    },
+    {
+      "date": "2026-05-08",
+      "generated_at": "2026-05-08T08:13:47.560Z",
+      "projects": [
+        {
+          "id": "Hmbown/DeepSeek-TUI",
+          "name": "DeepSeek-TUI",
+          "owner": "Hmbown",
+          "url": "https://github.com/Hmbown/DeepSeek-TUI",
+          "description": "Coding agent for DeepSeek models that runs in your terminal",
+          "ai_summary": "DeepSeek-TUI 是一个在终端运行的 DeepSeek 模型编码代理。采用 Rust 实现，提供高效、安全的命令行交互体验。",
+          "language": "Rust",
+          "stars": 20445,
+          "forks": 1568,
+          "stars_today": 5799,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1519,
+            "repo_age_days": 108,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 253,
+            "pr_count": 467,
+            "star_fork_ratio": 13.04
+          },
+          "trending_days": 5,
+          "first_seen": "2026-05-04T00:00:00.000Z"
+        },
+        {
+          "id": "addyosmani/agent-skills",
+          "name": "agent-skills",
+          "owner": "addyosmani",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "ai_summary": "agent-skills 提供适用于 AI 编码代理的生产级工程技能集合。基于 Shell 脚本实现，强调可靠性和可扩展性。",
+          "language": "Shell",
+          "stars": 33564,
+          "forks": 3866,
+          "stars_today": 3062,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 6123,
+            "repo_age_days": 81,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 74,
+            "pr_count": 95,
+            "star_fork_ratio": 8.68
+          },
+          "trending_days": 2,
+          "first_seen": "2026-05-07T00:00:00.000Z"
+        },
+        {
+          "id": "LearningCircuit/local-deep-research",
+          "name": "local-deep-research",
+          "owner": "LearningCircuit",
+          "url": "https://github.com/LearningCircuit/local-deep-research",
+          "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
+          "ai_summary": "local-deep-research 是一个支持本地和云端 LLM 的深度研究工具，在 SimpleQA 上达到约 95% 准确率。集成 10+ 搜索引擎，采用 Python 实现，支持全本地加密运行。",
+          "language": "Python",
+          "stars": 6460,
+          "forks": 563,
+          "stars_today": 559,
+          "stars_this_week": 1640,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 566,
+            "repo_age_days": 452,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 267,
+            "pr_count": 3511,
+            "star_fork_ratio": 11.47
+          },
+          "trending_days": 2,
+          "first_seen": "2026-05-07T00:00:00.000Z"
+        },
+        {
+          "id": "InsForge/InsForge",
+          "name": "InsForge",
+          "owner": "InsForge",
+          "url": "https://github.com/InsForge/InsForge",
+          "description": "The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.",
+          "ai_summary": "InsForge 是一个开源的全栈后端平台，为智能编码代理提供数据库、认证、存储、计算、托管和 AI 网关等一站式服务。采用 TypeScript 开发，支持端到端的全栈应用部署。",
+          "language": "TypeScript",
+          "stars": 8989,
+          "forks": 740,
+          "stars_today": 460,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 453,
+            "repo_age_days": 283,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 38,
+            "pr_count": 973,
+            "star_fork_ratio": 12.15
+          },
+          "trending_days": 2,
+          "first_seen": "2026-05-07T00:00:00.000Z"
+        },
+        {
+          "id": "aaif-goose/goose",
+          "name": "goose",
+          "owner": "aaif-goose",
+          "url": "https://github.com/aaif-goose/goose",
+          "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+          "ai_summary": "Goose 是一个开源的、可扩展的 AI 代理，能够执行代码建议、安装、编辑和测试等任务。基于 Rust 构建，支持与任意大语言模型（LLM）集成。",
+          "language": "Rust",
+          "stars": 44640,
+          "forks": 4564,
+          "stars_today": 390,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 43,
+            "repo_age_days": 622,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 457,
+            "pr_count": 6652,
+            "star_fork_ratio": 9.78
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-08T00:00:00.000Z"
+        },
+        {
+          "id": "decolua/9router",
+          "name": "9router",
+          "owner": "decolua",
+          "url": "https://github.com/decolua/9router",
+          "description": "🇻🇳 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+          "ai_summary": "9router 是一个免费的 AI 编码工具，支持连接 Claude、GPT、Gemini 等多种 AI 模型，通过 40 多个提供商实现无限制访问。采用 JavaScript 开发，具备自动回退和令牌优化功能。",
+          "language": "JavaScript",
+          "stars": 4938,
+          "forks": 1020,
+          "stars_today": 149,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 4302,
+            "repo_age_days": 123,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 394,
+            "pr_count": 463,
+            "star_fork_ratio": 4.84
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-08T00:00:00.000Z"
+        },
+        {
+          "id": "vercel-labs/open-agents",
+          "name": "open-agents",
+          "owner": "vercel-labs",
+          "url": "https://github.com/vercel-labs/open-agents",
+          "description": "An open source template for building cloud agents.",
+          "ai_summary": "该项目是一个开源模板，用于构建云端智能代理。基于TypeScript开发，提供模块化架构和可扩展的代理功能实现。",
+          "language": "TypeScript",
+          "stars": 5155,
+          "forks": 647,
+          "stars_today": 131,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1406,
+            "repo_age_days": 132,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 50,
+            "pr_count": 829,
+            "star_fork_ratio": 7.97
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-08T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "ai_summary": "该项目收集实用工程师技能脚本。采用Shell脚本实现，包含可直接复用的命令行工具和开发技巧。",
+          "language": "Shell",
+          "stars": 65560,
+          "forks": 5639,
+          "stars_today": 0,
+          "stars_this_week": 16579,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3292,
+            "repo_age_days": 93,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 19,
+            "pr_count": 41,
+            "star_fork_ratio": 11.63
+          },
+          "trending_days": 2,
+          "first_seen": "2026-05-07T00:00:00.000Z"
+        },
+        {
+          "id": "TauricResearch/TradingAgents",
+          "name": "TradingAgents",
+          "owner": "TauricResearch",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "ai_summary": "这是一个基于多智能体的LLM金融交易框架。使用Python实现，整合大语言模型与量化交易策略。",
+          "language": "Python",
+          "stars": 71372,
+          "forks": 13834,
+          "stars_today": 0,
+          "stars_this_week": 14322,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "AI",
+            "Skills"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 497,
+            "repo_age_days": 496,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 394,
+            "pr_count": 437,
+            "star_fork_ratio": 5.16
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-08T00:00:00.000Z"
+        },
+        {
+          "id": "ruvnet/ruflo",
+          "name": "ruflo",
+          "owner": "ruvnet",
+          "url": "https://github.com/ruvnet/ruflo",
+          "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+          "ai_summary": "Ruflo 是一个面向 Claude 的智能体编排平台，用于部署多智能体集群和协调自主工作流。该项目采用 TypeScript 开发，具有企业级架构，支持自学习集群智能、RAG 集成和原生 Claude Code/Codex 集成。",
+          "language": "TypeScript",
+          "stars": 46396,
+          "forks": 5142,
+          "stars_today": 0,
+          "stars_this_week": 11930,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 4906,
+            "repo_age_days": 339,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 526,
+            "pr_count": 612,
+            "star_fork_ratio": 9.02
+          },
+          "trending_days": 6,
+          "first_seen": "2026-05-03T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "Skills": 8,
+          "Agent": 6,
+          "AI": 8,
+          "金融": 1
+        }
+      }
     }
   ]
 }

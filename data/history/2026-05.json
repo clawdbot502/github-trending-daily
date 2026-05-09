@@ -2540,6 +2540,323 @@
           "金融": 1
         }
       }
+    },
+    {
+      "date": "2026-05-09",
+      "generated_at": "2026-05-09T08:22:32.389Z",
+      "projects": [
+        {
+          "id": "Hmbown/DeepSeek-TUI",
+          "name": "DeepSeek-TUI",
+          "owner": "Hmbown",
+          "url": "https://github.com/Hmbown/DeepSeek-TUI",
+          "description": "Coding agent for DeepSeek models that runs in your terminal",
+          "ai_summary": "DeepSeek-TUI 是一个在终端中运行的 DeepSeek 模型编程助手。该项目使用 Rust 实现，提供高效的终端交互体验。",
+          "language": "Rust",
+          "stars": 22526,
+          "forks": 1783,
+          "stars_today": 3731,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1520,
+            "repo_age_days": 109,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 319,
+            "pr_count": 530,
+            "star_fork_ratio": 12.63
+          },
+          "trending_days": 6,
+          "first_seen": "2026-05-04T00:00:00.000Z"
+        },
+        {
+          "id": "addyosmani/agent-skills",
+          "name": "agent-skills",
+          "owner": "addyosmani",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "ai_summary": "agent-skills 为 AI 编程代理提供生产级工程技能。项目基于 Shell 脚本实现，专注于提升 AI 代理的实用性和可靠性。",
+          "language": "Shell",
+          "stars": 36434,
+          "forks": 4106,
+          "stars_today": 1893,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 6124,
+            "repo_age_days": 82,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 84,
+            "pr_count": 107,
+            "star_fork_ratio": 8.87
+          },
+          "trending_days": 3,
+          "first_seen": "2026-05-07T00:00:00.000Z"
+        },
+        {
+          "id": "decolua/9router",
+          "name": "9router",
+          "owner": "decolua",
+          "url": "https://github.com/decolua/9router",
+          "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+          "ai_summary": "9router 是一个连接多种 AI 编码服务的免费路由工具。采用 JavaScript 开发，支持 40+ 提供商自动切换，优化令牌使用并避免限额。",
+          "language": "JavaScript",
+          "stars": 5970,
+          "forks": 1103,
+          "stars_today": 1052,
+          "stars_this_week": 1781,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4303,
+            "repo_age_days": 124,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 395,
+            "pr_count": 472,
+            "star_fork_ratio": 5.41
+          },
+          "trending_days": 2,
+          "first_seen": "2026-05-08T00:00:00.000Z"
+        },
+        {
+          "id": "datawhalechina/hello-agents",
+          "name": "hello-agents",
+          "owner": "datawhalechina",
+          "url": "https://github.com/datawhalechina/hello-agents",
+          "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+          "ai_summary": "该项目是从零开始构建智能体的原理与实践教程。采用Python实现，系统讲解智能体开发的核心概念与实现方法。",
+          "language": "Python",
+          "stars": 45145,
+          "forks": 5486,
+          "stars_today": 667,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2695,
+            "repo_age_days": 243,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 105,
+            "pr_count": 233,
+            "star_fork_ratio": 8.23
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-09T00:00:00.000Z"
+        },
+        {
+          "id": "LearningCircuit/local-deep-research",
+          "name": "local-deep-research",
+          "owner": "LearningCircuit",
+          "url": "https://github.com/LearningCircuit/local-deep-research",
+          "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
+          "ai_summary": "本地化深度研究工具，支持多种LLM模型和10+搜索引擎的私有化知识检索。基于Python实现，提供本地加密处理能力，可在消费级GPU上运行大模型。",
+          "language": "Python",
+          "stars": 6863,
+          "forks": 609,
+          "stars_today": 559,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 567,
+            "repo_age_days": 453,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 279,
+            "pr_count": 3542,
+            "star_fork_ratio": 11.27
+          },
+          "trending_days": 3,
+          "first_seen": "2026-05-07T00:00:00.000Z"
+        },
+        {
+          "id": "HKUDS/AI-Trader",
+          "name": "AI-Trader",
+          "owner": "HKUDS",
+          "url": "https://github.com/HKUDS/AI-Trader",
+          "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+          "ai_summary": "全自动原生代理交易系统，实现无人值守的量化交易。采用Python开发，专注于构建端到端的智能交易决策流程。",
+          "language": "Python",
+          "stars": 14937,
+          "forks": 2461,
+          "stars_today": 202,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "AI",
+            "Skills"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1272,
+            "repo_age_days": 197,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 45,
+            "pr_count": 103,
+            "star_fork_ratio": 6.07
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-09T00:00:00.000Z"
+        },
+        {
+          "id": "lobehub/lobehub",
+          "name": "lobehub",
+          "owner": "lobehub",
+          "url": "https://github.com/lobehub/lobehub",
+          "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
+          "ai_summary": "LobeHub 是一个支持多智能体协作的工作与生活空间平台，旨在通过智能体团队设计提升工作效率。采用 TypeScript 开发，支持智能体作为工作交互单元，实现无缝协作与成长。",
+          "language": "TypeScript",
+          "stars": 76649,
+          "forks": 15119,
+          "stars_today": 125,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1113,
+            "repo_age_days": 1084,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 761,
+            "pr_count": 7186,
+            "star_fork_ratio": 5.07
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-09T00:00:00.000Z"
+        },
+        {
+          "id": "flutter/skills",
+          "name": "skills",
+          "owner": "flutter",
+          "url": "https://github.com/flutter/skills",
+          "description": "",
+          "ai_summary": "该项目为 Flutter 生态相关技能集合，具体功能未明确描述。基于 Dart 语言实现，可能涉及 Flutter 开发工具链或最佳实践。",
+          "language": "Dart",
+          "stars": 1795,
+          "forks": 96,
+          "stars_today": 118,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3901,
+            "repo_age_days": 72,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 23,
+            "pr_count": 75,
+            "star_fork_ratio": 18.7
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-09T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "ai_summary": "提供工程师实用技能脚本集合，内容源自作者本地 .claude 目录。使用 Shell 脚本实现，聚焦实际工程场景的快捷操作解决方案。",
+          "language": "Shell",
+          "stars": 67218,
+          "forks": 5778,
+          "stars_today": 0,
+          "stars_this_week": 14928,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3293,
+            "repo_age_days": 94,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 21,
+            "pr_count": 41,
+            "star_fork_ratio": 11.63
+          },
+          "trending_days": 3,
+          "first_seen": "2026-05-07T00:00:00.000Z"
+        },
+        {
+          "id": "TauricResearch/TradingAgents",
+          "name": "TradingAgents",
+          "owner": "TauricResearch",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "ai_summary": "TradingAgents是一个基于多智能体系统的金融交易框架，旨在通过协作决策优化交易策略。该项目利用Python实现，结合大型语言模型（LLM）进行市场分析和交易决策，支持模块化设计和灵活的策略组合。",
+          "language": "Python",
+          "stars": 72072,
+          "forks": 13988,
+          "stars_today": 0,
+          "stars_this_week": 12981,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "AI",
+            "Skills"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 498,
+            "repo_age_days": 497,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 403,
+            "pr_count": 448,
+            "star_fork_ratio": 5.15
+          },
+          "trending_days": 2,
+          "first_seen": "2026-05-08T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "Skills": 8,
+          "Agent": 4,
+          "AI": 6,
+          "金融": 2
+        }
+      }
     }
   ]
 }

@@ -3174,6 +3174,325 @@
           "Agent": 6
         }
       }
+    },
+    {
+      "date": "2026-05-11",
+      "generated_at": "2026-05-11T10:25:48.856Z",
+      "projects": [
+        {
+          "id": "addyosmani/agent-skills",
+          "name": "agent-skills",
+          "owner": "addyosmani",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "ai_summary": "提供AI编程代理所需的生产级工程技能。通过Shell脚本实现自动化流程与标准化开发规范。",
+          "language": "Shell",
+          "stars": 39115,
+          "forks": 4320,
+          "stars_today": 1065,
+          "stars_this_week": 10738,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 6126,
+            "repo_age_days": 84,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 90,
+            "pr_count": 111,
+            "star_fork_ratio": 9.05
+          },
+          "trending_days": 5,
+          "first_seen": "2026-05-07T00:00:00.000Z"
+        },
+        {
+          "id": "decolua/9router",
+          "name": "9router",
+          "owner": "decolua",
+          "url": "https://github.com/decolua/9router",
+          "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+          "ai_summary": "实现多AI编码服务(Claude/GPT/Gemini等)的免费统一接入。采用JavaScript构建自动降级路由系统，支持40+服务商并优化令牌消耗。",
+          "language": "JavaScript",
+          "stars": 7745,
+          "forks": 1274,
+          "stars_today": 803,
+          "stars_this_week": 3318,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4305,
+            "repo_age_days": 126,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 414,
+            "pr_count": 491,
+            "star_fork_ratio": 6.08
+          },
+          "trending_days": 4,
+          "first_seen": "2026-05-08T00:00:00.000Z"
+        },
+        {
+          "id": "datawhalechina/hello-agents",
+          "name": "hello-agents",
+          "owner": "datawhalechina",
+          "url": "https://github.com/datawhalechina/hello-agents",
+          "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+          "ai_summary": "智能体开发入门教程，涵盖从原理到实践的完整知识体系。基于Python实现核心算法演示与可复现案例。",
+          "language": "Python",
+          "stars": 47277,
+          "forks": 5689,
+          "stars_today": 748,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2697,
+            "repo_age_days": 246,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 113,
+            "pr_count": 241,
+            "star_fork_ratio": 8.31
+          },
+          "trending_days": 3,
+          "first_seen": "2026-05-09T00:00:00.000Z"
+        },
+        {
+          "id": "bytedance/UI-TARS-desktop",
+          "name": "UI-TARS-desktop",
+          "owner": "bytedance",
+          "url": "https://github.com/bytedance/UI-TARS-desktop",
+          "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+          "ai_summary": "UI-TARS-desktop 是一个开源多模态 AI 代理栈，用于连接前沿 AI 模型与代理基础设施。采用 TypeScript 实现，提供模块化架构支持多种 AI 模型集成。",
+          "language": "TypeScript",
+          "stars": 32626,
+          "forks": 3228,
+          "stars_today": 669,
+          "stars_this_week": 2191,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4774,
+            "repo_age_days": 477,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 387,
+            "pr_count": 1297,
+            "star_fork_ratio": 10.11
+          },
+          "trending_days": 2,
+          "first_seen": "2026-05-10T00:00:00.000Z"
+        },
+        {
+          "id": "jundot/omlx",
+          "name": "omlx",
+          "owner": "jundot",
+          "url": "https://github.com/jundot/omlx",
+          "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+          "ai_summary": "omlx 是为 Apple Silicon 优化的 LLM 推理服务器，支持连续批处理和 SSD 缓存。通过 Python 实现，提供 macOS 菜单栏管理界面。",
+          "language": "Python",
+          "stars": 13511,
+          "forks": 1148,
+          "stars_today": 185,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2208,
+            "repo_age_days": 86,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 322,
+            "pr_count": 273,
+            "star_fork_ratio": 11.77
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-11T00:00:00.000Z"
+        },
+        {
+          "id": "lsdefine/GenericAgent",
+          "name": "GenericAgent",
+          "owner": "lsdefine",
+          "url": "https://github.com/lsdefine/GenericAgent",
+          "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+          "ai_summary": "GenericAgent 是自进化代理系统，能从 3.3K 行种子代码发展技能树实现全系统控制。基于 Python 实现，采用动态技能学习机制降低 6 倍 token 消耗。",
+          "language": "Python",
+          "stars": 10808,
+          "forks": 1221,
+          "stars_today": 174,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4854,
+            "repo_age_days": 114,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 65,
+            "pr_count": 212,
+            "star_fork_ratio": 8.85
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-11T00:00:00.000Z"
+        },
+        {
+          "id": "HKUDS/AI-Trader",
+          "name": "AI-Trader",
+          "owner": "HKUDS",
+          "url": "https://github.com/HKUDS/AI-Trader",
+          "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+          "ai_summary": "AI-Trader是一个完全自动化的原生代理交易系统，旨在实现无人值守的金融交易决策。该项目基于Python构建，采用代理架构实现高频交易策略的自动化执行。",
+          "language": "Python",
+          "stars": 15991,
+          "forks": 2558,
+          "stars_today": 163,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "AI",
+            "Skills"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1274,
+            "repo_age_days": 199,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 54,
+            "pr_count": 106,
+            "star_fork_ratio": 6.25
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-11T00:00:00.000Z"
+        },
+        {
+          "id": "THU-MAIC/OpenMAIC",
+          "name": "OpenMAIC",
+          "owner": "THU-MAIC",
+          "url": "https://github.com/THU-MAIC/OpenMAIC",
+          "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+          "ai_summary": "OpenMAIC是一个多代理交互式课堂平台，提供沉浸式的多智能体协作学习环境。该项目使用TypeScript开发，通过一键部署实现分布式智能体教学场景的快速搭建。",
+          "language": "TypeScript",
+          "stars": 17323,
+          "forks": 3299,
+          "stars_today": 109,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 784,
+            "repo_age_days": 61,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 165,
+            "pr_count": 249,
+            "star_fork_ratio": 5.25
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-11T00:00:00.000Z"
+        },
+        {
+          "id": "Hmbown/DeepSeek-TUI",
+          "name": "DeepSeek-TUI",
+          "owner": "Hmbown",
+          "url": "https://github.com/Hmbown/DeepSeek-TUI",
+          "description": "Coding agent for DeepSeek models that runs in your terminal",
+          "ai_summary": "DeepSeek-TUI是终端运行的DeepSeek模型编程代理工具，支持在命令行界面直接调用AI编程助手。该项目采用Rust语言实现，通过轻量级终端界面提供高效的代码生成与补全功能。",
+          "language": "Rust",
+          "stars": 24718,
+          "forks": 2035,
+          "stars_today": 0,
+          "stars_this_week": 22034,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1522,
+            "repo_age_days": 111,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 361,
+            "pr_count": 622,
+            "star_fork_ratio": 12.15
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-11T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "ai_summary": "提供工程师实用技能集合，包含作者个人.claude目录中的高效工具链。采用Shell脚本实现，聚焦命令行环境下的生产力提升方案。",
+          "language": "Shell",
+          "stars": 70359,
+          "forks": 6076,
+          "stars_today": 0,
+          "stars_this_week": 12722,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3296,
+            "repo_age_days": 96,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 22,
+            "pr_count": 41,
+            "star_fork_ratio": 11.58
+          },
+          "trending_days": 5,
+          "first_seen": "2026-05-07T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 7,
+          "Skills": 8,
+          "Agent": 6,
+          "金融": 1
+        }
+      }
     }
   ]
 }

@@ -4123,6 +4123,322 @@
           "金融": 1
         }
       }
+    },
+    {
+      "date": "2026-05-14",
+      "generated_at": "2026-05-14T09:20:12.419Z",
+      "projects": [
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "ai_summary": "该项目提供了一套实用的工程师技能集合，直接来自作者的.claude目录。采用Shell脚本实现，内容精炼且可直接应用于实际工程场景。",
+          "language": "Shell",
+          "stars": 80324,
+          "forks": 6927,
+          "stars_today": 3392,
+          "stars_this_week": 15813,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3299,
+            "repo_age_days": 99,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 29,
+            "pr_count": 41,
+            "star_fork_ratio": 11.6
+          },
+          "trending_days": 2,
+          "first_seen": "2026-05-13T00:00:00.000Z"
+        },
+        {
+          "id": "tinyhumansai/openhuman",
+          "name": "openhuman",
+          "owner": "tinyhumansai",
+          "url": "https://github.com/tinyhumansai/openhuman",
+          "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+          "ai_summary": "这是一个个人AI智能助手项目，注重隐私保护和简单高效的使用体验。基于Rust语言开发，强调高性能和安全性。",
+          "language": "Rust",
+          "stars": 6831,
+          "forks": 547,
+          "stars_today": 1696,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 170,
+            "repo_age_days": 84,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 108,
+            "pr_count": 1008,
+            "star_fork_ratio": 12.49
+          },
+          "trending_days": 3,
+          "first_seen": "2026-05-12T00:00:00.000Z"
+        },
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "该项目是一个有效的技能框架和软件开发方法论实现。通过Shell脚本构建，提供了可操作的代理技能开发方案。",
+          "language": "Shell",
+          "stars": 190317,
+          "forks": 16937,
+          "stars_today": 1401,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6333,
+            "repo_age_days": 216,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 266,
+            "pr_count": 734,
+            "star_fork_ratio": 11.24
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-14T00:00:00.000Z"
+        },
+        {
+          "id": "rohitg00/agentmemory",
+          "name": "agentmemory",
+          "owner": "rohitg00",
+          "url": "https://github.com/rohitg00/agentmemory",
+          "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+          "ai_summary": "为AI编程代理提供基于真实世界基准测试的持久化内存。采用TypeScript实现，支持高效数据存储与检索。",
+          "language": "TypeScript",
+          "stars": 8412,
+          "forks": 703,
+          "stars_today": 1379,
+          "stars_this_week": 4450,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2618,
+            "repo_age_days": 78,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 82,
+            "pr_count": 209,
+            "star_fork_ratio": 11.97
+          },
+          "trending_days": 3,
+          "first_seen": "2026-05-12T00:00:00.000Z"
+        },
+        {
+          "id": "yikart/AiToEarn",
+          "name": "AiToEarn",
+          "owner": "yikart",
+          "url": "https://github.com/yikart/AiToEarn",
+          "description": "Let's use AI to Earn!",
+          "ai_summary": "探索利用AI技术实现收益的解决方案。基于TypeScript构建，整合智能算法与自动化流程。",
+          "language": "TypeScript",
+          "stars": 13458,
+          "forks": 2289,
+          "stars_today": 981,
+          "stars_this_week": 3302,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 486,
+            "repo_age_days": 444,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 10,
+            "pr_count": 180,
+            "star_fork_ratio": 5.88
+          },
+          "trending_days": 3,
+          "first_seen": "2026-05-12T00:00:00.000Z"
+        },
+        {
+          "id": "rasbt/LLMs-from-scratch",
+          "name": "LLMs-from-scratch",
+          "owner": "rasbt",
+          "url": "https://github.com/rasbt/LLMs-from-scratch",
+          "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+          "ai_summary": "从零开始逐步实现类ChatGPT的大型语言模型。使用PyTorch框架，涵盖模型架构、训练与推理全流程。",
+          "language": "Jupyter Notebook",
+          "stars": 94684,
+          "forks": 14499,
+          "stars_today": 821,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 4603,
+            "repo_age_days": 1025,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 6,
+            "pr_count": 570,
+            "star_fork_ratio": 6.53
+          },
+          "trending_days": 3,
+          "first_seen": "2026-05-12T00:00:00.000Z"
+        },
+        {
+          "id": "millionco/react-doctor",
+          "name": "react-doctor",
+          "owner": "millionco",
+          "url": "https://github.com/millionco/react-doctor",
+          "description": "Your agent writes bad React. This catches it",
+          "ai_summary": "React代码质量检查工具，用于检测并修复不良的React代码实践。基于TypeScript实现，通过静态分析提供即时反馈。",
+          "language": "TypeScript",
+          "stars": 9461,
+          "forks": 296,
+          "stars_today": 604,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1809,
+            "repo_age_days": 90,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 24,
+            "pr_count": 147,
+            "star_fork_ratio": 31.96
+          },
+          "trending_days": 3,
+          "first_seen": "2026-05-12T00:00:00.000Z"
+        },
+        {
+          "id": "danielmiessler/Personal_AI_Infrastructure",
+          "name": "Personal_AI_Infrastructure",
+          "owner": "danielmiessler",
+          "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+          "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+          "ai_summary": "个人AI增强基础设施，旨在通过代理型AI扩展人类能力。采用TypeScript开发，强调模块化设计与人机协同工作流。",
+          "language": "TypeScript",
+          "stars": 13587,
+          "forks": 1882,
+          "stars_today": 435,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 6312,
+            "repo_age_days": 247,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 181,
+            "pr_count": 449,
+            "star_fork_ratio": 7.22
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-14T00:00:00.000Z"
+        },
+        {
+          "id": "trycua/cua",
+          "name": "cua",
+          "owner": "trycua",
+          "url": "https://github.com/trycua/cua",
+          "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+          "ai_summary": "计算机使用代理（CUA）开源基础设施，提供跨平台桌面控制的训练与评估环境。包含沙盒、SDK和基准测试工具，支持HTML/Web技术栈。",
+          "language": "HTML",
+          "stars": 16674,
+          "forks": 1049,
+          "stars_today": 245,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 520,
+            "repo_age_days": 467,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 279,
+            "pr_count": 1146,
+            "star_fork_ratio": 15.9
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-14T00:00:00.000Z"
+        },
+        {
+          "id": "Hmbown/DeepSeek-TUI",
+          "name": "DeepSeek-TUI",
+          "owner": "Hmbown",
+          "url": "https://github.com/Hmbown/DeepSeek-TUI",
+          "description": "Coding agent for DeepSeek models that runs in your terminal",
+          "ai_summary": "DeepSeek-TUI 是一个在终端中运行的 DeepSeek 模型编程助手。该项目使用 Rust 实现，提供高效的终端交互体验和本地化模型调用能力。",
+          "language": "Rust",
+          "stars": 28521,
+          "forks": 2364,
+          "stars_today": 0,
+          "stars_this_week": 15975,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1525,
+            "repo_age_days": 114,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 368,
+            "pr_count": 725,
+            "star_fork_ratio": 12.06
+          },
+          "trending_days": 4,
+          "first_seen": "2026-05-11T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 7,
+          "Skills": 7,
+          "Agent": 6
+        }
+      }
     }
   ]
 }

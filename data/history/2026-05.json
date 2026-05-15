@@ -4439,6 +4439,325 @@
           "Agent": 6
         }
       }
+    },
+    {
+      "date": "2026-05-15",
+      "generated_at": "2026-05-15T09:35:43.211Z",
+      "projects": [
+        {
+          "id": "tinyhumansai/openhuman",
+          "name": "openhuman",
+          "owner": "tinyhumansai",
+          "url": "https://github.com/tinyhumansai/openhuman",
+          "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+          "ai_summary": "OpenHuman 是一个私有化个人AI智能助手，提供简单高效的本地智能服务。采用Rust实现，注重安全性和高性能，支持离线运行。",
+          "language": "Rust",
+          "stars": 8256,
+          "forks": 672,
+          "stars_today": 3329,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 171,
+            "repo_age_days": 85,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 116,
+            "pr_count": 1071,
+            "star_fork_ratio": 12.29
+          },
+          "trending_days": 4,
+          "first_seen": "2026-05-12T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "ai_summary": "该项目提供工程师实用技能集合，包含实际开发中的高效工具链。基于Shell脚本实现，强调命令行工具的实战应用。",
+          "language": "Shell",
+          "stars": 83609,
+          "forks": 7234,
+          "stars_today": 2987,
+          "stars_this_week": 17059,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3300,
+            "repo_age_days": 100,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 32,
+            "pr_count": 41,
+            "star_fork_ratio": 11.56
+          },
+          "trending_days": 3,
+          "first_seen": "2026-05-13T00:00:00.000Z"
+        },
+        {
+          "id": "rohitg00/agentmemory",
+          "name": "agentmemory",
+          "owner": "rohitg00",
+          "url": "https://github.com/rohitg00/agentmemory",
+          "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+          "ai_summary": "为AI编程代理设计持久化内存系统，解决长期上下文保持问题。使用TypeScript开发，基于真实场景基准测试优化存储性能。",
+          "language": "TypeScript",
+          "stars": 9313,
+          "forks": 771,
+          "stars_today": 1879,
+          "stars_this_week": 6467,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2619,
+            "repo_age_days": 79,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 93,
+            "pr_count": 224,
+            "star_fork_ratio": 12.08
+          },
+          "trending_days": 4,
+          "first_seen": "2026-05-12T00:00:00.000Z"
+        },
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "Superpowers 是一个代理技能框架和软件开发方法论，旨在提升开发效率与协作能力。它基于 Shell 脚本实现，强调自动化与模块化设计，支持快速集成各类开发工具和流程。",
+          "language": "Shell",
+          "stars": 191965,
+          "forks": 17074,
+          "stars_today": 1780,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6334,
+            "repo_age_days": 217,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 267,
+            "pr_count": 740,
+            "star_fork_ratio": 11.24
+          },
+          "trending_days": 2,
+          "first_seen": "2026-05-14T00:00:00.000Z"
+        },
+        {
+          "id": "garrytan/gstack",
+          "name": "gstack",
+          "owner": "garrytan",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+          "ai_summary": "gstack 是 Garry Tan 的 Claude 代码设置工具集，包含 23 种精选工具，覆盖从 CEO 到 QA 的多角色开发需求。采用 TypeScript 开发，通过预设配置实现高效开发环境搭建，强调开箱即用的工程实践。",
+          "language": "TypeScript",
+          "stars": 97217,
+          "forks": 14448,
+          "stars_today": 915,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 6489,
+            "repo_age_days": 64,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 501,
+            "pr_count": 1108,
+            "star_fork_ratio": 6.73
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-15T00:00:00.000Z"
+        },
+        {
+          "id": "K-Dense-AI/scientific-agent-skills",
+          "name": "scientific-agent-skills",
+          "owner": "K-Dense-AI",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+          "ai_summary": "scientific-agent-skills 提供了一系列面向科研、工程、金融等领域的即用型代理技能。基于 Python 构建，集成了数据分析、文献检索、报告生成等功能，支持快速部署到智能代理系统中。",
+          "language": "Python",
+          "stars": 22052,
+          "forks": 2398,
+          "stars_today": 654,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 75,
+          "security_details": {
+            "author_age_days": 210,
+            "repo_age_days": 207,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 32,
+            "pr_count": 109,
+            "star_fork_ratio": 9.2
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-15T00:00:00.000Z"
+        },
+        {
+          "id": "influxdata/telegraf",
+          "name": "telegraf",
+          "owner": "influxdata",
+          "url": "https://github.com/influxdata/telegraf",
+          "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+          "ai_summary": "Telegraf 是一个用于收集、处理、聚合和写入指标、日志及其他任意数据的代理工具。采用 Go 语言编写，支持插件化架构，可灵活扩展数据输入、处理和输出模块。",
+          "language": "Go",
+          "stars": 17295,
+          "forks": 5797,
+          "stars_today": 215,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent",
+            "内容创作"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4592,
+            "repo_age_days": 4061,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 407,
+            "pr_count": 10285,
+            "star_fork_ratio": 2.98
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-15T00:00:00.000Z"
+        },
+        {
+          "id": "Hmbown/DeepSeek-TUI",
+          "name": "DeepSeek-TUI",
+          "owner": "Hmbown",
+          "url": "https://github.com/Hmbown/DeepSeek-TUI",
+          "description": "Coding agent for DeepSeek models that runs in your terminal",
+          "ai_summary": "DeepSeek-TUI 是一个在终端中运行的 DeepSeek 模型编程代理工具。基于 Rust 实现，提供高效的终端交互界面，专为代码生成和辅助开发场景优化。",
+          "language": "Rust",
+          "stars": 29507,
+          "forks": 2461,
+          "stars_today": 0,
+          "stars_this_week": 11303,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1526,
+            "repo_age_days": 115,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 369,
+            "pr_count": 755,
+            "star_fork_ratio": 11.99
+          },
+          "trending_days": 5,
+          "first_seen": "2026-05-11T00:00:00.000Z"
+        },
+        {
+          "id": "addyosmani/agent-skills",
+          "name": "agent-skills",
+          "owner": "addyosmani",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "ai_summary": "该项目定义了适用于 AI 编程代理的生产级工程技能集合。通过 Shell 脚本实现标准化技能模板，涵盖代码质量、调试、部署等关键开发环节。",
+          "language": "Shell",
+          "stars": 41792,
+          "forks": 4591,
+          "stars_today": 0,
+          "stars_this_week": 9198,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 6130,
+            "repo_age_days": 88,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 89,
+            "pr_count": 116,
+            "star_fork_ratio": 9.1
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-15T00:00:00.000Z"
+        },
+        {
+          "id": "decolua/9router",
+          "name": "9router",
+          "owner": "decolua",
+          "url": "https://github.com/decolua/9router",
+          "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+          "ai_summary": "9router 是一个提供无限免费 AI 编码服务的工具，支持连接 Claude Code、Codex、Cursor 等多种 AI 编码服务，通过 40 多个提供商免费访问 Claude/GPT/Gemini。采用自动回退机制和 RTK 技术，减少 40% 的令牌消耗，确保服务不中断。",
+          "language": "JavaScript",
+          "stars": 10449,
+          "forks": 1607,
+          "stars_today": 0,
+          "stars_this_week": 6024,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4309,
+            "repo_age_days": 130,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 504,
+            "pr_count": 542,
+            "star_fork_ratio": 6.5
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-15T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 6,
+          "Skills": 7,
+          "Agent": 6,
+          "金融": 1,
+          "内容创作": 1
+        }
+      }
     }
   ]
 }

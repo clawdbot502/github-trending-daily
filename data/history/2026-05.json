@@ -4758,6 +4758,328 @@
           "内容创作": 1
         }
       }
+    },
+    {
+      "date": "2026-05-16",
+      "generated_at": "2026-05-16T08:28:33.835Z",
+      "projects": [
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "ai_summary": "提供实用工程师技能集合，直接来自作者的.claude目录。采用Shell脚本实现，内容精炼且即拿即用。",
+          "language": "Shell",
+          "stars": 85611,
+          "forks": 7423,
+          "stars_today": 3132,
+          "stars_this_week": 18278,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3300,
+            "repo_age_days": 101,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 37,
+            "pr_count": 41,
+            "star_fork_ratio": 11.53
+          },
+          "trending_days": 4,
+          "first_seen": "2026-05-13T00:00:00.000Z"
+        },
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "构建智能体技能框架与软件开发方法论。基于Shell实现，强调可操作的工程实践方案。",
+          "language": "Shell",
+          "stars": 193238,
+          "forks": 17182,
+          "stars_today": 1648,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6335,
+            "repo_age_days": 218,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 271,
+            "pr_count": 743,
+            "star_fork_ratio": 11.25
+          },
+          "trending_days": 3,
+          "first_seen": "2026-05-14T00:00:00.000Z"
+        },
+        {
+          "id": "tinyhumansai/openhuman",
+          "name": "openhuman",
+          "owner": "tinyhumansai",
+          "url": "https://github.com/tinyhumansai/openhuman",
+          "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+          "ai_summary": "打造私有化个人AI超级智能系统。使用Rust开发，注重隐私保护与高效能表现。",
+          "language": "Rust",
+          "stars": 9590,
+          "forks": 806,
+          "stars_today": 1271,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 172,
+            "repo_age_days": 86,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 90,
+            "pr_count": 1116,
+            "star_fork_ratio": 11.9
+          },
+          "trending_days": 5,
+          "first_seen": "2026-05-12T00:00:00.000Z"
+        },
+        {
+          "id": "anthropics/skills",
+          "name": "skills",
+          "owner": "anthropics",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "ai_summary": "提供公开的智能体技能库，支持开发者快速构建AI代理。采用模块化设计，基于Python实现技能组合与调用。",
+          "language": "Python",
+          "stars": 135461,
+          "forks": 15964,
+          "stars_today": 689,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1973,
+            "repo_age_days": 235,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 845,
+            "pr_count": 819,
+            "star_fork_ratio": 8.49
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-16T00:00:00.000Z"
+        },
+        {
+          "id": "K-Dense-AI/scientific-agent-skills",
+          "name": "scientific-agent-skills",
+          "owner": "K-Dense-AI",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+          "ai_summary": "为科研、工程和金融领域提供开箱即用的专业智能体技能集。基于Python构建，包含领域特定的数据处理与分析模块。",
+          "language": "Python",
+          "stars": 22673,
+          "forks": 2446,
+          "stars_today": 646,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 75,
+          "security_details": {
+            "author_age_days": 211,
+            "repo_age_days": 208,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 37,
+            "pr_count": 112,
+            "star_fork_ratio": 9.27
+          },
+          "trending_days": 2,
+          "first_seen": "2026-05-15T00:00:00.000Z"
+        },
+        {
+          "id": "joeseesun/qiaomu-anything-to-notebooklm",
+          "name": "qiaomu-anything-to-notebooklm",
+          "owner": "joeseesun",
+          "url": "https://github.com/joeseesun/qiaomu-anything-to-notebooklm",
+          "description": "Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.",
+          "ai_summary": "实现多源内容到NotebookLM的自动化转换处理，支持微信文章、网页等十余种输入格式。通过Claude技能链实现结构化输出生成，采用Python编写处理管道。",
+          "language": "Python",
+          "stars": 2885,
+          "forks": 291,
+          "stars_today": 438,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "内容创作"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 4873,
+            "repo_age_days": 110,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 5,
+            "pr_count": 3,
+            "star_fork_ratio": 9.91
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-16T00:00:00.000Z"
+        },
+        {
+          "id": "NVIDIA-AI-Blueprints/video-search-and-summarization",
+          "name": "video-search-and-summarization",
+          "owner": "NVIDIA-AI-Blueprints",
+          "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
+          "description": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.",
+          "ai_summary": "提供基于GPU加速的视觉代理和AI视频分析应用的参考架构套件。采用NVIDIA的AI技术栈，优化视频内容搜索与摘要生成性能。",
+          "language": "Python",
+          "stars": 1247,
+          "forks": 267,
+          "stars_today": 308,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 633,
+            "repo_age_days": 571,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 63,
+            "pr_count": 434,
+            "star_fork_ratio": 4.67
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-16T00:00:00.000Z"
+        },
+        {
+          "id": "influxdata/telegraf",
+          "name": "telegraf",
+          "owner": "influxdata",
+          "url": "https://github.com/influxdata/telegraf",
+          "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+          "ai_summary": "轻量级数据采集代理，支持多源指标、日志和自定义数据的收集与聚合。基于Go语言实现，插件化架构支持200+输入/输出扩展。",
+          "language": "Go",
+          "stars": 17475,
+          "forks": 5803,
+          "stars_today": 212,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent",
+            "内容创作"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4593,
+            "repo_age_days": 4062,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 405,
+            "pr_count": 10286,
+            "star_fork_ratio": 3.01
+          },
+          "trending_days": 2,
+          "first_seen": "2026-05-15T00:00:00.000Z"
+        },
+        {
+          "id": "Hmbown/DeepSeek-TUI",
+          "name": "DeepSeek-TUI",
+          "owner": "Hmbown",
+          "url": "https://github.com/Hmbown/DeepSeek-TUI",
+          "description": "Coding agent for DeepSeek models that runs in your terminal",
+          "ai_summary": "终端内运行的DeepSeek模型编程辅助工具。使用Rust构建，提供低延迟的本地化代码生成与交互体验。",
+          "language": "Rust",
+          "stars": 30085,
+          "forks": 2511,
+          "stars_today": 0,
+          "stars_this_week": 8701,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1527,
+            "repo_age_days": 116,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 392,
+            "pr_count": 770,
+            "star_fork_ratio": 11.98
+          },
+          "trending_days": 6,
+          "first_seen": "2026-05-11T00:00:00.000Z"
+        },
+        {
+          "id": "addyosmani/agent-skills",
+          "name": "agent-skills",
+          "owner": "addyosmani",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "ai_summary": "该项目为AI编程代理提供生产级工程技能，旨在提升自动化代码生成与维护的可靠性。采用Shell脚本实现核心功能，强调可扩展性和与现有开发工具链的无缝集成。",
+          "language": "Shell",
+          "stars": 42215,
+          "forks": 4632,
+          "stars_today": 0,
+          "stars_this_week": 7841,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 6131,
+            "repo_age_days": 89,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 89,
+            "pr_count": 116,
+            "star_fork_ratio": 9.11
+          },
+          "trending_days": 2,
+          "first_seen": "2026-05-15T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 5,
+          "Skills": 9,
+          "Agent": 7,
+          "金融": 1,
+          "内容创作": 2
+        }
+      }
     }
   ]
 }

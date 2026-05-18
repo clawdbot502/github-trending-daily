@@ -5396,6 +5396,326 @@
           "内容创作": 1
         }
       }
+    },
+    {
+      "date": "2026-05-18",
+      "generated_at": "2026-05-18T10:49:57.624Z",
+      "projects": [
+        {
+          "id": "tinyhumansai/openhuman",
+          "name": "openhuman",
+          "owner": "tinyhumansai",
+          "url": "https://github.com/tinyhumansai/openhuman",
+          "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+          "ai_summary": "OpenHuman 是一个个人 AI 智能助手，提供私密、简单且强大的智能服务。采用 Rust 实现，注重性能与隐私保护。",
+          "language": "Rust",
+          "stars": 15265,
+          "forks": 1312,
+          "stars_today": 1690,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 174,
+            "repo_age_days": 88,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 145,
+            "pr_count": 1224,
+            "star_fork_ratio": 11.63
+          },
+          "trending_days": 7,
+          "first_seen": "2026-05-12T00:00:00.000Z"
+        },
+        {
+          "id": "Imbad0202/academic-research-skills",
+          "name": "academic-research-skills",
+          "owner": "Imbad0202",
+          "url": "https://github.com/Imbad0202/academic-research-skills",
+          "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+          "ai_summary": "该项目为 Claude Code 提供学术研究技能支持，覆盖研究、写作、评审、修改到定稿全流程。基于 Python 实现研究流程自动化。",
+          "language": "Python",
+          "stars": 10099,
+          "forks": 1092,
+          "stars_today": 1302,
+          "stars_this_week": 3624,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 75,
+          "security_details": {
+            "author_age_days": 1110,
+            "repo_age_days": 81,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 6,
+            "pr_count": 95,
+            "star_fork_ratio": 9.25
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-18T00:00:00.000Z"
+        },
+        {
+          "id": "K-Dense-AI/scientific-agent-skills",
+          "name": "scientific-agent-skills",
+          "owner": "K-Dense-AI",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+          "ai_summary": "提供面向科研、工程、金融等领域的即用型智能体技能集。通过 Python 实现模块化技能组件，支持复杂任务处理。",
+          "language": "Python",
+          "stars": 24108,
+          "forks": 2556,
+          "stars_today": 762,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 75,
+          "security_details": {
+            "author_age_days": 213,
+            "repo_age_days": 210,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 32,
+            "pr_count": 114,
+            "star_fork_ratio": 9.43
+          },
+          "trending_days": 4,
+          "first_seen": "2026-05-15T00:00:00.000Z"
+        },
+        {
+          "id": "microsoft/ai-agents-for-beginners",
+          "name": "ai-agents-for-beginners",
+          "owner": "microsoft",
+          "url": "https://github.com/microsoft/ai-agents-for-beginners",
+          "description": "12 Lessons to Get Started Building AI Agents",
+          "ai_summary": "该项目为初学者提供12节课程，指导如何构建AI代理。课程采用Jupyter Notebook形式，结合实践案例讲解基础概念与实现方法。",
+          "language": "Jupyter Notebook",
+          "stars": 63048,
+          "forks": 21120,
+          "stars_today": 485,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 4541,
+            "repo_age_days": 536,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 6,
+            "pr_count": 440,
+            "star_fork_ratio": 2.99
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-18T00:00:00.000Z"
+        },
+        {
+          "id": "humanlayer/12-factor-agents",
+          "name": "12-factor-agents",
+          "owner": "humanlayer",
+          "url": "https://github.com/humanlayer/12-factor-agents",
+          "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+          "ai_summary": "探讨构建生产级LLM驱动软件的核心原则。基于TypeScript实现，强调可维护性、可扩展性等工程化实践。",
+          "language": "TypeScript",
+          "stars": 20184,
+          "forks": 1529,
+          "stars_today": 359,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 652,
+            "repo_age_days": 413,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 20,
+            "pr_count": 63,
+            "star_fork_ratio": 13.2
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-18T00:00:00.000Z"
+        },
+        {
+          "id": "BigBodyCobain/Shadowbroker",
+          "name": "Shadowbroker",
+          "owner": "BigBodyCobain",
+          "url": "https://github.com/BigBodyCobain/Shadowbroker",
+          "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.",
+          "ai_summary": "开源情报聚合平台，追踪全球范围的高价值目标动态数据。通过Python实现多源数据整合，支持AI代理进行深度关联分析。",
+          "language": "Python",
+          "stars": 7432,
+          "forks": 1162,
+          "stars_today": 333,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2778,
+            "repo_age_days": 74,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 47,
+            "pr_count": 89,
+            "star_fork_ratio": 6.4
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-18T00:00:00.000Z"
+        },
+        {
+          "id": "ZhuLinsen/daily_stock_analysis",
+          "name": "daily_stock_analysis",
+          "owner": "ZhuLinsen",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
+          "ai_summary": "该项目是一个基于LLM的A/H/美股智能分析系统，整合多数据源行情、实时新闻和LLM决策仪表盘，支持多渠道推送。采用Python实现，强调零成本定时运行和纯白嫖特性。",
+          "language": "Python",
+          "stars": 36726,
+          "forks": 36057,
+          "stars_today": 290,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 2818,
+            "repo_age_days": 128,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 50,
+            "pr_count": 729,
+            "star_fork_ratio": 1.02
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-18T00:00:00.000Z"
+        },
+        {
+          "id": "HKUDS/CLI-Anything",
+          "name": "CLI-Anything",
+          "owner": "HKUDS",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+          "ai_summary": "CLI-Anything旨在使所有软件具备Agent原生能力，通过CLI-Hub实现统一交互。项目使用Python开发，提供标准化接口简化Agent集成。",
+          "language": "Python",
+          "stars": 36234,
+          "forks": 3520,
+          "stars_today": 238,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1281,
+            "repo_age_days": 70,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 56,
+            "pr_count": 200,
+            "star_fork_ratio": 10.29
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-18T00:00:00.000Z"
+        },
+        {
+          "id": "tech-leads-club/agent-skills",
+          "name": "agent-skills",
+          "owner": "tech-leads-club",
+          "url": "https://github.com/tech-leads-club/agent-skills",
+          "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+          "ai_summary": "该项目是面向专业AI编程Agent的安全技能注册中心，支持扩展Antigravity、Claude Code等主流工具。基于TypeScript构建，提供严格的技能验证机制。",
+          "language": "TypeScript",
+          "stars": 3777,
+          "forks": 333,
+          "stars_today": 225,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1107,
+            "repo_age_days": 118,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 7,
+            "pr_count": 87,
+            "star_fork_ratio": 11.34
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-18T00:00:00.000Z"
+        },
+        {
+          "id": "ggml-org/llama.cpp",
+          "name": "llama.cpp",
+          "owner": "ggml-org",
+          "url": "https://github.com/ggml-org/llama.cpp",
+          "description": "LLM inference in C/C++",
+          "ai_summary": "llama.cpp 是一个用 C/C++ 实现的大型语言模型（LLM）推理引擎，支持在本地高效运行 LLM 模型。该项目基于 ggml 张量库，采用纯 C/C++ 实现，无需依赖复杂框架即可实现高性能推理。",
+          "language": "C++",
+          "stars": 110727,
+          "forks": 18339,
+          "stars_today": 179,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1092,
+            "repo_age_days": 1164,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1669,
+            "pr_count": 11672,
+            "star_fork_ratio": 6.04
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-18T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 8,
+          "Skills": 7,
+          "金融": 2,
+          "Agent": 6
+        }
+      }
     }
   ]
 }

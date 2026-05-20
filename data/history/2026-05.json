@@ -6036,6 +6036,324 @@
           "金融": 2
         }
       }
+    },
+    {
+      "date": "2026-05-20",
+      "generated_at": "2026-05-20T10:03:58.852Z",
+      "projects": [
+        {
+          "id": "tinyhumansai/openhuman",
+          "name": "openhuman",
+          "owner": "tinyhumansai",
+          "url": "https://github.com/tinyhumansai/openhuman",
+          "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+          "ai_summary": "OpenHuman 是一个个人 AI 智能助手，提供私密、简单且强大的智能服务。采用 Rust 语言开发，注重隐私保护和高效性能。",
+          "language": "Rust",
+          "stars": 22807,
+          "forks": 2024,
+          "stars_today": 3973,
+          "stars_this_week": 17793,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 176,
+            "repo_age_days": 90,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 182,
+            "pr_count": 1382,
+            "star_fork_ratio": 11.27
+          },
+          "trending_days": 9,
+          "first_seen": "2026-05-12T00:00:00.000Z"
+        },
+        {
+          "id": "Imbad0202/academic-research-skills",
+          "name": "academic-research-skills",
+          "owner": "Imbad0202",
+          "url": "https://github.com/Imbad0202/academic-research-skills",
+          "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+          "ai_summary": "该项目提供学术研究技能工具链，覆盖研究、写作、评审、修订到定稿全流程。基于 Python 实现，支持自动化处理学术任务。",
+          "language": "Python",
+          "stars": 14893,
+          "forks": 1379,
+          "stars_today": 3164,
+          "stars_this_week": 7443,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1112,
+            "repo_age_days": 83,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 10,
+            "pr_count": 113,
+            "star_fork_ratio": 10.8
+          },
+          "trending_days": 3,
+          "first_seen": "2026-05-18T00:00:00.000Z"
+        },
+        {
+          "id": "multica-ai/andrej-karpathy-skills",
+          "name": "andrej-karpathy-skills",
+          "owner": "multica-ai",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "ai_summary": "该项目通过 CLAUDE.md 文件改进 Claude Code 的行为，解决 LLM 编码中的常见问题。基于 Andrej Karpathy 对大型语言模型编码缺陷的观察总结。",
+          "language": "",
+          "stars": 139468,
+          "forks": 14300,
+          "stars_today": 1955,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 65,
+          "security_details": {
+            "author_age_days": 126,
+            "repo_age_days": 113,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 94,
+            "pr_count": 98,
+            "star_fork_ratio": 9.75
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-20T00:00:00.000Z"
+        },
+        {
+          "id": "colbymchenry/codegraph",
+          "name": "codegraph",
+          "owner": "colbymchenry",
+          "url": "https://github.com/colbymchenry/codegraph",
+          "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
+          "ai_summary": "Codegraph 是一个为 Claude Code、Codex、Cursor 和 OpenCode 提供预索引代码知识图的工具，旨在减少 token 消耗和工具调用次数。该项目完全本地运行，基于 TypeScript 实现，通过知识图预索引优化代码查询效率。",
+          "language": "TypeScript",
+          "stars": 7331,
+          "forks": 482,
+          "stars_today": 1850,
+          "stars_this_week": 4650,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3689,
+            "repo_age_days": 121,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 67,
+            "pr_count": 127,
+            "star_fork_ratio": 15.21
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-20T00:00:00.000Z"
+        },
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "Superpowers 是一个面向代理技能框架和软件开发方法论的解决方案，旨在提升开发效率。该项目采用 Shell 脚本实现，强调代理化技能组合和方法论的实践应用。",
+          "language": "Shell",
+          "stars": 199298,
+          "forks": 17770,
+          "stars_today": 1623,
+          "stars_this_week": 10577,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6339,
+            "repo_age_days": 222,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 282,
+            "pr_count": 754,
+            "star_fork_ratio": 11.22
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-20T00:00:00.000Z"
+        },
+        {
+          "id": "rohitg00/agentmemory",
+          "name": "agentmemory",
+          "owner": "rohitg00",
+          "url": "https://github.com/rohitg00/agentmemory",
+          "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+          "ai_summary": "AgentMemory 是为 AI 编码代理设计的持久化内存系统，基于真实场景基准测试优化性能。该项目使用 TypeScript 开发，通过持久化存储提升 AI 代理的代码记忆与检索能力。",
+          "language": "TypeScript",
+          "stars": 14613,
+          "forks": 1210,
+          "stars_today": 1609,
+          "stars_this_week": 8390,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2624,
+            "repo_age_days": 84,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 144,
+            "pr_count": 326,
+            "star_fork_ratio": 12.08
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-20T00:00:00.000Z"
+        },
+        {
+          "id": "msitarzewski/agency-agents",
+          "name": "agency-agents",
+          "owner": "msitarzewski",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+          "ai_summary": "提供一套完整的AI代理系统，涵盖从前端开发到社区管理的多种专业角色。基于Shell脚本实现，每个代理具备个性化特性和标准化流程。",
+          "language": "Shell",
+          "stars": 102229,
+          "forks": 16879,
+          "stars_today": 1120,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5058,
+            "repo_age_days": 218,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 145,
+            "pr_count": 346,
+            "star_fork_ratio": 6.06
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-20T00:00:00.000Z"
+        },
+        {
+          "id": "HKUDS/CLI-Anything",
+          "name": "CLI-Anything",
+          "owner": "HKUDS",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+          "ai_summary": "通过CLI接口实现软件代理化改造，使任意软件支持代理操作。采用Python开发，提供统一的CLI-Hub交互中心。",
+          "language": "Python",
+          "stars": 38158,
+          "forks": 3638,
+          "stars_today": 1038,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1283,
+            "repo_age_days": 72,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 68,
+            "pr_count": 210,
+            "star_fork_ratio": 10.49
+          },
+          "trending_days": 3,
+          "first_seen": "2026-05-18T00:00:00.000Z"
+        },
+        {
+          "id": "microsoft/ai-agents-for-beginners",
+          "name": "ai-agents-for-beginners",
+          "owner": "microsoft",
+          "url": "https://github.com/microsoft/ai-agents-for-beginners",
+          "description": "12 Lessons to Get Started Building AI Agents",
+          "ai_summary": "面向初学者的AI代理开发教程，包含12个核心课程。基于Jupyter Notebook构建，涵盖基础概念到实践案例。",
+          "language": "Jupyter Notebook",
+          "stars": 64785,
+          "forks": 21387,
+          "stars_today": 818,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 4543,
+            "repo_age_days": 537,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 9,
+            "pr_count": 442,
+            "star_fork_ratio": 3.03
+          },
+          "trending_days": 3,
+          "first_seen": "2026-05-18T00:00:00.000Z"
+        },
+        {
+          "id": "humanlayer/12-factor-agents",
+          "name": "12-factor-agents",
+          "owner": "humanlayer",
+          "url": "https://github.com/humanlayer/12-factor-agents",
+          "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+          "ai_summary": "该项目提出了一套构建生产级LLM驱动软件的设计原则。基于TypeScript实现，采用类似12-Factor App的模块化方法论，强调可观测性、容错性和迭代部署能力。",
+          "language": "TypeScript",
+          "stars": 21361,
+          "forks": 1608,
+          "stars_today": 736,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 654,
+            "repo_age_days": 415,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 25,
+            "pr_count": 67,
+            "star_fork_ratio": 13.28
+          },
+          "trending_days": 3,
+          "first_seen": "2026-05-18T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 8,
+          "Skills": 8,
+          "Agent": 6
+        }
+      }
     }
   ]
 }

@@ -6354,6 +6354,320 @@
           "Agent": 6
         }
       }
+    },
+    {
+      "date": "2026-05-21",
+      "generated_at": "2026-05-21T10:26:19.043Z",
+      "projects": [
+        {
+          "id": "tinyhumansai/openhuman",
+          "name": "openhuman",
+          "owner": "tinyhumansai",
+          "url": "https://github.com/tinyhumansai/openhuman",
+          "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+          "ai_summary": "OpenHuman 是一个个人 AI 智能助手，提供私密、简单且强大的智能服务。采用 Rust 语言开发，注重隐私保护和高效性能。",
+          "language": "Rust",
+          "stars": 24330,
+          "forks": 2183,
+          "stars_today": 3394,
+          "stars_this_week": 19177,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 177,
+            "repo_age_days": 91,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 181,
+            "pr_count": 1463,
+            "star_fork_ratio": 11.15
+          },
+          "trending_days": 10,
+          "first_seen": "2026-05-12T00:00:00.000Z"
+        },
+        {
+          "id": "multica-ai/andrej-karpathy-skills",
+          "name": "andrej-karpathy-skills",
+          "owner": "multica-ai",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "ai_summary": "该项目通过单个 CLAUDE.md 文件改进 Claude 代码行为，基于 Andrej Karpathy 对大型语言模型编码缺陷的观察。采用简洁的文档形式直接优化模型输出。",
+          "language": "",
+          "stars": 142058,
+          "forks": 14577,
+          "stars_today": 2679,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 65,
+          "security_details": {
+            "author_age_days": 127,
+            "repo_age_days": 114,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 98,
+            "pr_count": 102,
+            "star_fork_ratio": 9.75
+          },
+          "trending_days": 2,
+          "first_seen": "2026-05-20T00:00:00.000Z"
+        },
+        {
+          "id": "colbymchenry/codegraph",
+          "name": "codegraph",
+          "owner": "colbymchenry",
+          "url": "https://github.com/colbymchenry/codegraph",
+          "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
+          "ai_summary": "CodeGraph 是为 AI 代码工具（如 Claude Code 和 Codex）提供的预索引代码知识图谱。使用 TypeScript 实现，本地化运行，减少 token 消耗和工具调用。",
+          "language": "TypeScript",
+          "stars": 11626,
+          "forks": 694,
+          "stars_today": 2123,
+          "stars_this_week": 6731,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3690,
+            "repo_age_days": 122,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 102,
+            "pr_count": 151,
+            "star_fork_ratio": 16.75
+          },
+          "trending_days": 2,
+          "first_seen": "2026-05-20T00:00:00.000Z"
+        },
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "Superpowers 是一个代理技能框架和软件开发方法论，旨在提升开发效率。采用 Shell 脚本实现，强调模块化设计和自动化流程。",
+          "language": "Shell",
+          "stars": 200852,
+          "forks": 17898,
+          "stars_today": 1743,
+          "stars_this_week": 10851,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6340,
+            "repo_age_days": 223,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 294,
+            "pr_count": 763,
+            "star_fork_ratio": 11.22
+          },
+          "trending_days": 2,
+          "first_seen": "2026-05-20T00:00:00.000Z"
+        },
+        {
+          "id": "Imbad0202/academic-research-skills",
+          "name": "academic-research-skills",
+          "owner": "Imbad0202",
+          "url": "https://github.com/Imbad0202/academic-research-skills",
+          "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+          "ai_summary": "该项目为 Claude Code 提供学术研究技能支持，覆盖研究、写作、评审、修订到定稿全流程。基于 Python 实现，注重流程自动化和结构化输出。",
+          "language": "Python",
+          "stars": 17507,
+          "forks": 1511,
+          "stars_today": 1667,
+          "stars_this_week": 8737,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1113,
+            "repo_age_days": 84,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 11,
+            "pr_count": 121,
+            "star_fork_ratio": 11.59
+          },
+          "trending_days": 4,
+          "first_seen": "2026-05-18T00:00:00.000Z"
+        },
+        {
+          "id": "msitarzewski/agency-agents",
+          "name": "agency-agents",
+          "owner": "msitarzewski",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+          "ai_summary": "提供完整的 AI 代理解决方案，包含前端开发、社区管理等多种专业化智能体。通过 Shell 脚本实现，每个代理都具有特定人格和标准化交付流程。",
+          "language": "Shell",
+          "stars": 103239,
+          "forks": 17001,
+          "stars_today": 1636,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5059,
+            "repo_age_days": 219,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 147,
+            "pr_count": 347,
+            "star_fork_ratio": 6.07
+          },
+          "trending_days": 2,
+          "first_seen": "2026-05-20T00:00:00.000Z"
+        },
+        {
+          "id": "rohitg00/agentmemory",
+          "name": "agentmemory",
+          "owner": "rohitg00",
+          "url": "https://github.com/rohitg00/agentmemory",
+          "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+          "ai_summary": "为AI编程代理提供基于真实世界基准测试的持久化内存存储。采用TypeScript实现，通过结构化数据存储和高效检索机制优化代理性能。",
+          "language": "TypeScript",
+          "stars": 15489,
+          "forks": 1284,
+          "stars_today": 1080,
+          "stars_this_week": 7976,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2625,
+            "repo_age_days": 85,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 148,
+            "pr_count": 349,
+            "star_fork_ratio": 12.06
+          },
+          "trending_days": 2,
+          "first_seen": "2026-05-20T00:00:00.000Z"
+        },
+        {
+          "id": "HKUDS/CLI-Anything",
+          "name": "CLI-Anything",
+          "owner": "HKUDS",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+          "ai_summary": "将任意软件转化为可通过命令行交互的代理原生接口。基于Python构建，通过标准化CLI协议实现跨平台工具集成。",
+          "language": "Python",
+          "stars": 38823,
+          "forks": 3689,
+          "stars_today": 890,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1284,
+            "repo_age_days": 73,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 56,
+            "pr_count": 212,
+            "star_fork_ratio": 10.52
+          },
+          "trending_days": 4,
+          "first_seen": "2026-05-18T00:00:00.000Z"
+        },
+        {
+          "id": "rohitg00/ai-engineering-from-scratch",
+          "name": "ai-engineering-from-scratch",
+          "owner": "rohitg00",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "ai_summary": "从零构建可交付生产的AI工程化解决方案。使用Python技术栈，涵盖数据处理、模型训练到部署运维的全链路实践。",
+          "language": "Python",
+          "stars": 10209,
+          "forks": 2032,
+          "stars_today": 765,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2625,
+            "repo_age_days": 63,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 20,
+            "pr_count": 115,
+            "star_fork_ratio": 5.02
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-21T00:00:00.000Z"
+        },
+        {
+          "id": "anthropics/claude-plugins-official",
+          "name": "claude-plugins-official",
+          "owner": "anthropics",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+          "ai_summary": "该项目是Anthropic官方维护的高质量Claude代码插件目录，为开发者提供经过验证的插件资源。采用Python实现，通过集中化管理确保插件兼容性和稳定性。",
+          "language": "Python",
+          "stars": 21032,
+          "forks": 2571,
+          "stars_today": 674,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1978,
+            "repo_age_days": 181,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 681,
+            "pr_count": 1167,
+            "star_fork_ratio": 8.18
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-21T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 8,
+          "Skills": 6,
+          "Agent": 4
+        }
+      }
     }
   ]
 }

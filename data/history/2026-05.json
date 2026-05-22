@@ -6668,6 +6668,319 @@
           "Agent": 4
         }
       }
+    },
+    {
+      "date": "2026-05-22",
+      "generated_at": "2026-05-22T10:01:11.219Z",
+      "projects": [
+        {
+          "id": "colbymchenry/codegraph",
+          "name": "codegraph",
+          "owner": "colbymchenry",
+          "url": "https://github.com/colbymchenry/codegraph",
+          "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
+          "ai_summary": "Codegraph 是一个预索引的代码知识图谱，旨在为 Claude Code、Codex、Cursor 和 OpenCode 提供更高效的代码检索和理解能力。该项目完全本地运行，通过减少 token 使用和工具调用次数，优化了代码处理的性能。",
+          "language": "TypeScript",
+          "stars": 15214,
+          "forks": 841,
+          "stars_today": 4294,
+          "stars_this_week": 10749,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3691,
+            "repo_age_days": 123,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 120,
+            "pr_count": 182,
+            "star_fork_ratio": 18.09
+          },
+          "trending_days": 3,
+          "first_seen": "2026-05-20T00:00:00.000Z"
+        },
+        {
+          "id": "multica-ai/andrej-karpathy-skills",
+          "name": "andrej-karpathy-skills",
+          "owner": "multica-ai",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "ai_summary": "该项目提供了一个 CLAUDE.md 文件，用于改进 Claude Code 的行为，基于 Andrej Karpathy 对 LLM 编码常见问题的观察。通过集中整理这些观察，帮助开发者避免常见的编码陷阱。",
+          "language": "",
+          "stars": 144690,
+          "forks": 14815,
+          "stars_today": 2614,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 65,
+          "security_details": {
+            "author_age_days": 128,
+            "repo_age_days": 115,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 102,
+            "pr_count": 107,
+            "star_fork_ratio": 9.77
+          },
+          "trending_days": 3,
+          "first_seen": "2026-05-20T00:00:00.000Z"
+        },
+        {
+          "id": "Imbad0202/academic-research-skills",
+          "name": "academic-research-skills",
+          "owner": "Imbad0202",
+          "url": "https://github.com/Imbad0202/academic-research-skills",
+          "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+          "ai_summary": "该项目为 Claude Code 提供学术研究技能支持，涵盖从研究到撰写、评审、修改直至最终定稿的全流程。基于 Python 实现，旨在提升学术研究的效率和质量。",
+          "language": "Python",
+          "stars": 18695,
+          "forks": 1604,
+          "stars_today": 2579,
+          "stars_this_week": 10737,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1114,
+            "repo_age_days": 85,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 23,
+            "pr_count": 124,
+            "star_fork_ratio": 11.66
+          },
+          "trending_days": 5,
+          "first_seen": "2026-05-18T00:00:00.000Z"
+        },
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "Superpowers 是一个代理技能框架和软件开发方法论，旨在提升开发效率。它基于 Shell 脚本实现，强调模块化和可组合的技能构建方式。",
+          "language": "Shell",
+          "stars": 202284,
+          "forks": 18017,
+          "stars_today": 1576,
+          "stars_this_week": 10688,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6341,
+            "repo_age_days": 224,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 303,
+            "pr_count": 773,
+            "star_fork_ratio": 11.23
+          },
+          "trending_days": 3,
+          "first_seen": "2026-05-20T00:00:00.000Z"
+        },
+        {
+          "id": "rohitg00/ai-engineering-from-scratch",
+          "name": "ai-engineering-from-scratch",
+          "owner": "rohitg00",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "ai_summary": "该项目提供从零开始学习 AI 工程并实际构建应用的完整路径。采用 Python 技术栈，包含实践导向的学习材料和项目示例。",
+          "language": "Python",
+          "stars": 11184,
+          "forks": 2168,
+          "stars_today": 1333,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2626,
+            "repo_age_days": 64,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 22,
+            "pr_count": 121,
+            "star_fork_ratio": 5.16
+          },
+          "trending_days": 2,
+          "first_seen": "2026-05-21T00:00:00.000Z"
+        },
+        {
+          "id": "msitarzewski/agency-agents",
+          "name": "agency-agents",
+          "owner": "msitarzewski",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+          "ai_summary": "该项目提供一套完整的 AI 代理系统，涵盖从前端开发到社区运营等专业领域。基于 Shell 实现，每个代理都具有特定专业能力和个性化处理流程。",
+          "language": "Shell",
+          "stars": 104008,
+          "forks": 17099,
+          "stars_today": 1018,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5060,
+            "repo_age_days": 220,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 147,
+            "pr_count": 347,
+            "star_fork_ratio": 6.08
+          },
+          "trending_days": 3,
+          "first_seen": "2026-05-20T00:00:00.000Z"
+        },
+        {
+          "id": "trimstray/the-book-of-secret-knowledge",
+          "name": "the-book-of-secret-knowledge",
+          "owner": "trimstray",
+          "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+          "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+          "ai_summary": "该项目是一个综合性知识库，汇集了各类实用列表、手册、速查表、博客文章、技巧、命令行工具和网络工具等资源。内容涵盖广泛的技术领域，以简洁高效的整理方式提供快速参考。",
+          "language": "",
+          "stars": 222829,
+          "forks": 13357,
+          "stars_today": 756,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "内容创作"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3199,
+            "repo_age_days": 2889,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 145,
+            "pr_count": 376,
+            "star_fork_ratio": 16.68
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-22T00:00:00.000Z"
+        },
+        {
+          "id": "anthropics/claude-plugins-official",
+          "name": "claude-plugins-official",
+          "owner": "anthropics",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+          "ai_summary": "这是Anthropic官方维护的Claude代码插件目录，收录高质量插件以扩展Claude AI功能。采用Python实现，确保插件与Claude生态系统的兼容性和稳定性。",
+          "language": "Python",
+          "stars": 23492,
+          "forks": 2686,
+          "stars_today": 682,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1979,
+            "repo_age_days": 182,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 686,
+            "pr_count": 1179,
+            "star_fork_ratio": 8.75
+          },
+          "trending_days": 2,
+          "first_seen": "2026-05-21T00:00:00.000Z"
+        },
+        {
+          "id": "Lum1104/Understand-Anything",
+          "name": "Understand-Anything",
+          "owner": "Lum1104",
+          "url": "https://github.com/Lum1104/Understand-Anything",
+          "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+          "ai_summary": "该项目将代码转换为可交互的知识图谱，支持探索、搜索和提问功能。基于TypeScript实现，兼容Claude Code、Codex等多种AI编程助手，通过可视化方式提升代码理解效率。",
+          "language": "TypeScript",
+          "stars": 17254,
+          "forks": 1597,
+          "stars_today": 666,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1765,
+            "repo_age_days": 68,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 13,
+            "pr_count": 86,
+            "star_fork_ratio": 10.8
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-22T00:00:00.000Z"
+        },
+        {
+          "id": "HKUDS/CLI-Anything",
+          "name": "CLI-Anything",
+          "owner": "HKUDS",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+          "ai_summary": "CLI-Anything 是一个将任意软件转换为命令行代理接口的工具，使各类软件能通过统一CLI模式被调用。该项目基于Python实现，采用模块化架构设计，通过动态适配器机制实现跨平台软件集成。",
+          "language": "Python",
+          "stars": 39419,
+          "forks": 3731,
+          "stars_today": 656,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1285,
+            "repo_age_days": 74,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 60,
+            "pr_count": 216,
+            "star_fork_ratio": 10.57
+          },
+          "trending_days": 5,
+          "first_seen": "2026-05-18T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 7,
+          "Skills": 5,
+          "Agent": 3,
+          "内容创作": 1
+        }
+      }
     }
   ]
 }

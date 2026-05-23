@@ -6981,6 +6981,321 @@
           "内容创作": 1
         }
       }
+    },
+    {
+      "date": "2026-05-23",
+      "generated_at": "2026-05-23T09:25:59.747Z",
+      "projects": [
+        {
+          "id": "colbymchenry/codegraph",
+          "name": "codegraph",
+          "owner": "colbymchenry",
+          "url": "https://github.com/colbymchenry/codegraph",
+          "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+          "ai_summary": "Codegraph 是一个预索引的代码知识图谱，旨在为 Claude Code、Codex、Cursor 等工具提供本地化支持，减少 token 消耗和工具调用。该项目基于 TypeScript 实现，通过本地化处理优化了代码理解和检索效率。",
+          "language": "TypeScript",
+          "stars": 17610,
+          "forks": 977,
+          "stars_today": 3684,
+          "stars_this_week": 14072,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3692,
+            "repo_age_days": 124,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 116,
+            "pr_count": 198,
+            "star_fork_ratio": 18.02
+          },
+          "trending_days": 4,
+          "first_seen": "2026-05-20T00:00:00.000Z"
+        },
+        {
+          "id": "anthropics/claude-plugins-official",
+          "name": "claude-plugins-official",
+          "owner": "anthropics",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+          "ai_summary": "Claude-plugins-official 是 Anthropic 官方维护的高质量 Claude Code 插件目录。该项目使用 Python 实现，集中管理并分发经过验证的插件资源。",
+          "language": "Python",
+          "stars": 25666,
+          "forks": 2813,
+          "stars_today": 2549,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1980,
+            "repo_age_days": 183,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 691,
+            "pr_count": 1193,
+            "star_fork_ratio": 9.12
+          },
+          "trending_days": 3,
+          "first_seen": "2026-05-21T00:00:00.000Z"
+        },
+        {
+          "id": "Lum1104/Understand-Anything",
+          "name": "Understand-Anything",
+          "owner": "Lum1104",
+          "url": "https://github.com/Lum1104/Understand-Anything",
+          "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+          "ai_summary": "Understand-Anything 将代码转换为交互式知识图谱，支持探索、搜索和提问，兼容 Claude Code、Codex 等多种工具。该项目基于 TypeScript 实现，通过可视化图谱提升代码理解效率。",
+          "language": "TypeScript",
+          "stars": 19372,
+          "forks": 1761,
+          "stars_today": 1393,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1766,
+            "repo_age_days": 69,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 16,
+            "pr_count": 90,
+            "star_fork_ratio": 11
+          },
+          "trending_days": 2,
+          "first_seen": "2026-05-22T00:00:00.000Z"
+        },
+        {
+          "id": "rohitg00/ai-engineering-from-scratch",
+          "name": "ai-engineering-from-scratch",
+          "owner": "rohitg00",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "ai_summary": "该项目是一个AI工程实践指南，旨在帮助用户学习、构建并部署AI项目。采用Python实现，内容涵盖从基础到部署的全流程，注重实战与工程化落地。",
+          "language": "Python",
+          "stars": 12553,
+          "forks": 2365,
+          "stars_today": 988,
+          "stars_this_week": 3715,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2627,
+            "repo_age_days": 65,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 23,
+            "pr_count": 137,
+            "star_fork_ratio": 5.31
+          },
+          "trending_days": 3,
+          "first_seen": "2026-05-21T00:00:00.000Z"
+        },
+        {
+          "id": "trimstray/the-book-of-secret-knowledge",
+          "name": "the-book-of-secret-knowledge",
+          "owner": "trimstray",
+          "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+          "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+          "ai_summary": "该项目是一个技术知识集合库，整理了各类开发手册、速查表、工具和技巧。内容以Markdown文档为主，涵盖广泛的技术领域，适合快速查阅和参考。",
+          "language": "",
+          "stars": 223425,
+          "forks": 13404,
+          "stars_today": 969,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "内容创作"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3200,
+            "repo_age_days": 2890,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 145,
+            "pr_count": 376,
+            "star_fork_ratio": 16.67
+          },
+          "trending_days": 2,
+          "first_seen": "2026-05-22T00:00:00.000Z"
+        },
+        {
+          "id": "ChromeDevTools/chrome-devtools-mcp",
+          "name": "chrome-devtools-mcp",
+          "owner": "ChromeDevTools",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "description": "Chrome DevTools for coding agents",
+          "ai_summary": "该项目是Chrome DevTools的扩展工具，专为AI编程助手优化开发调试功能。基于TypeScript开发，提供针对自动化编码场景的定制化调试支持。",
+          "language": "TypeScript",
+          "stars": 41127,
+          "forks": 2618,
+          "stars_today": 501,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4100,
+            "repo_age_days": 253,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 78,
+            "pr_count": 1154,
+            "star_fork_ratio": 15.71
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-23T00:00:00.000Z"
+        },
+        {
+          "id": "can1357/oh-my-pi",
+          "name": "oh-my-pi",
+          "owner": "can1357",
+          "url": "https://github.com/can1357/oh-my-pi",
+          "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+          "ai_summary": "oh-my-pi 是一个终端 AI 编码助手，支持哈希锚定编辑、工具链优化和语言服务器协议等功能。采用 TypeScript 开发，集成 Python、浏览器交互和子代理系统，提升开发效率。",
+          "language": "TypeScript",
+          "stars": 6528,
+          "forks": 532,
+          "stars_today": 457,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4065,
+            "repo_age_days": 142,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 213,
+            "pr_count": 711,
+            "star_fork_ratio": 12.27
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-23T00:00:00.000Z"
+        },
+        {
+          "id": "dotnet/skills",
+          "name": "skills",
+          "owner": "dotnet",
+          "url": "https://github.com/dotnet/skills",
+          "description": "Repository for skills to assist AI coding agents with .NET and C#",
+          "ai_summary": "skills 是为 .NET 和 C# AI 编码代理提供辅助功能的技能库。基于 C# 实现，专注于增强 AI 代理在 .NET 生态中的代码生成与分析能力。",
+          "language": "C#",
+          "stars": 2630,
+          "forks": 206,
+          "stars_today": 389,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4242,
+            "repo_age_days": 108,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 85,
+            "pr_count": 577,
+            "star_fork_ratio": 12.77
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-23T00:00:00.000Z"
+        },
+        {
+          "id": "Fincept-Corporation/FinceptTerminal",
+          "name": "FinceptTerminal",
+          "owner": "Fincept-Corporation",
+          "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+          "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+          "ai_summary": "FinceptTerminal 是一款现代金融应用，提供市场分析、投资研究和经济数据工具。使用 Python 开发，注重交互式探索和数据驱动决策的友好用户体验。",
+          "language": "Python",
+          "stars": 22804,
+          "forks": 3143,
+          "stars_today": 367,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 642,
+            "repo_age_days": 631,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 20,
+            "pr_count": 157,
+            "star_fork_ratio": 7.26
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-23T00:00:00.000Z"
+        },
+        {
+          "id": "tinyhumansai/openhuman",
+          "name": "openhuman",
+          "owner": "tinyhumansai",
+          "url": "https://github.com/tinyhumansai/openhuman",
+          "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+          "ai_summary": "OpenHuman 是一个个人 AI 超级智能助手，专注于提供私密、简单且功能强大的 AI 交互体验。该项目采用 Rust 语言开发，强调高性能与内存安全，支持本地化部署以确保数据隐私。",
+          "language": "Rust",
+          "stars": 25948,
+          "forks": 2377,
+          "stars_today": 0,
+          "stars_this_week": 17124,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 179,
+            "repo_age_days": 93,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 116,
+            "pr_count": 1533,
+            "star_fork_ratio": 10.92
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-23T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 7,
+          "Skills": 4,
+          "Agent": 4,
+          "内容创作": 1,
+          "金融": 1
+        }
+      }
     }
   ]
 }

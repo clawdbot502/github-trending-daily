@@ -7611,6 +7611,322 @@
           "金融": 1
         }
       }
+    },
+    {
+      "date": "2026-05-25",
+      "generated_at": "2026-05-25T10:59:46.834Z",
+      "projects": [
+        {
+          "id": "Lum1104/Understand-Anything",
+          "name": "Understand-Anything",
+          "owner": "Lum1104",
+          "url": "https://github.com/Lum1104/Understand-Anything",
+          "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+          "ai_summary": "将任意代码转换为可交互的知识图谱，支持探索、搜索和提问，提升代码理解效率。基于TypeScript实现，兼容Claude Code、Codex等多种AI编程工具，通过图谱化展示降低认知复杂度。",
+          "language": "TypeScript",
+          "stars": 28947,
+          "forks": 2422,
+          "stars_today": 3999,
+          "stars_this_week": 9102,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1768,
+            "repo_age_days": 71,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 38,
+            "pr_count": 120,
+            "star_fork_ratio": 11.95
+          },
+          "trending_days": 4,
+          "first_seen": "2026-05-22T00:00:00.000Z"
+        },
+        {
+          "id": "colbymchenry/codegraph",
+          "name": "codegraph",
+          "owner": "colbymchenry",
+          "url": "https://github.com/colbymchenry/codegraph",
+          "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+          "ai_summary": "为AI编程工具提供预构建的本地化代码知识图谱，减少token消耗和工具调用。采用TypeScript开发，支持Claude Code等主流编程助手，实现完全离线的代码索引与分析。",
+          "language": "TypeScript",
+          "stars": 23926,
+          "forks": 1312,
+          "stars_today": 3003,
+          "stars_this_week": 18136,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3694,
+            "repo_age_days": 126,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 155,
+            "pr_count": 225,
+            "star_fork_ratio": 18.24
+          },
+          "trending_days": 6,
+          "first_seen": "2026-05-20T00:00:00.000Z"
+        },
+        {
+          "id": "multica-ai/andrej-karpathy-skills",
+          "name": "andrej-karpathy-skills",
+          "owner": "multica-ai",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "ai_summary": "基于Andrej Karpathy对LLM编码缺陷的研究，提炼出优化Claude Code行为的指导方案。通过单一CLAUDE.md文件集中管理改进策略，针对性提升AI编程助手输出质量。",
+          "language": "",
+          "stars": 153397,
+          "forks": 15721,
+          "stars_today": 2551,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 65,
+          "security_details": {
+            "author_age_days": 131,
+            "repo_age_days": 118,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 106,
+            "pr_count": 113,
+            "star_fork_ratio": 9.76
+          },
+          "trending_days": 2,
+          "first_seen": "2026-05-24T00:00:00.000Z"
+        },
+        {
+          "id": "affaan-m/ECC",
+          "name": "ECC",
+          "owner": "affaan-m",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "ai_summary": "ECC是一个面向AI代码代理的性能优化系统，旨在提升Claude Code、Codex等工具的代码生成效率与安全性。采用JavaScript实现，整合了技能管理、记忆机制及安全研究优先的开发模式。",
+          "language": "JavaScript",
+          "stars": 191559,
+          "forks": 29656,
+          "stars_today": 2052,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1205,
+            "repo_age_days": 127,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 21,
+            "pr_count": 1408,
+            "star_fork_ratio": 6.46
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-25T00:00:00.000Z"
+        },
+        {
+          "id": "rohitg00/ai-engineering-from-scratch",
+          "name": "ai-engineering-from-scratch",
+          "owner": "rohitg00",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "ai_summary": "该项目提供从零构建AI工程能力的实践指南，涵盖学习、开发到部署全流程。基于Python技术栈，强调通过具体项目实现快速能力迭代。",
+          "language": "Python",
+          "stars": 17659,
+          "forks": 3020,
+          "stars_today": 1853,
+          "stars_this_week": 6944,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2629,
+            "repo_age_days": 67,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 32,
+            "pr_count": 149,
+            "star_fork_ratio": 5.85
+          },
+          "trending_days": 5,
+          "first_seen": "2026-05-21T00:00:00.000Z"
+        },
+        {
+          "id": "mukul975/Anthropic-Cybersecurity-Skills",
+          "name": "Anthropic-Cybersecurity-Skills",
+          "owner": "mukul975",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+          "ai_summary": "结构化网络安全技能库，包含754项映射至MITRE ATT&CK等5大框架的AI代理安全能力。采用Python实现，兼容20+平台并遵循agentskills.io标准。",
+          "language": "Python",
+          "stars": 8781,
+          "forks": 1090,
+          "stars_today": 930,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2824,
+            "repo_age_days": 89,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 15,
+            "pr_count": 30,
+            "star_fork_ratio": 8.06
+          },
+          "trending_days": 2,
+          "first_seen": "2026-05-24T00:00:00.000Z"
+        },
+        {
+          "id": "manaflow-ai/cmux",
+          "name": "cmux",
+          "owner": "manaflow-ai",
+          "url": "https://github.com/manaflow-ai/cmux",
+          "description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
+          "ai_summary": "cmux 是基于 Ghostty 的 macOS 终端工具，支持垂直标签页和 AI 编程代理通知功能。采用 Swift 实现，通过多路复用技术优化终端会话管理。",
+          "language": "Swift",
+          "stars": 19268,
+          "forks": 1461,
+          "stars_today": 696,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 723,
+            "repo_age_days": 117,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 2092,
+            "pr_count": 2856,
+            "star_fork_ratio": 13.19
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-25T00:00:00.000Z"
+        },
+        {
+          "id": "garrytan/gstack",
+          "name": "gstack",
+          "owner": "garrytan",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+          "ai_summary": "gstack 是 Garry Tan 的 Claude 代码开发环境集合，包含 23 个精选工具链。使用 TypeScript 构建，采用模块化架构整合多种开发角色工作流。",
+          "language": "TypeScript",
+          "stars": 101993,
+          "forks": 15225,
+          "stars_today": 600,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 6499,
+            "repo_age_days": 74,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 554,
+            "pr_count": 1224,
+            "star_fork_ratio": 6.7
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-25T00:00:00.000Z"
+        },
+        {
+          "id": "anthropics/knowledge-work-plugins",
+          "name": "knowledge-work-plugins",
+          "owner": "anthropics",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+          "ai_summary": "该仓库为知识工作者提供 Claude Cowork 平台的开源插件集合。基于 Python 实现，采用插件化架构支持知识管理场景扩展。",
+          "language": "Python",
+          "stars": 14537,
+          "forks": 1789,
+          "stars_today": 550,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1982,
+            "repo_age_days": 121,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 113,
+            "pr_count": 198,
+            "star_fork_ratio": 8.13
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-25T00:00:00.000Z"
+        },
+        {
+          "id": "Fincept-Corporation/FinceptTerminal",
+          "name": "FinceptTerminal",
+          "owner": "Fincept-Corporation",
+          "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+          "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+          "ai_summary": "FinceptTerminal 是一款现代金融应用，提供高级市场分析、投资研究和经济数据工具，旨在以用户友好的环境支持交互式探索和数据驱动决策。该项目基于 Python 构建，采用模块化架构设计，整合多种金融数据源和分析算法。",
+          "language": "Python",
+          "stars": 23615,
+          "forks": 3262,
+          "stars_today": 462,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 644,
+            "repo_age_days": 633,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 18,
+            "pr_count": 159,
+            "star_fork_ratio": 7.24
+          },
+          "trending_days": 3,
+          "first_seen": "2026-05-23T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 9,
+          "Skills": 5,
+          "Agent": 4,
+          "金融": 1
+        }
+      }
     }
   ]
 }

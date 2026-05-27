@@ -8243,6 +8243,321 @@
           "Agent": 4
         }
       }
+    },
+    {
+      "date": "2026-05-27",
+      "generated_at": "2026-05-27T10:42:10.624Z",
+      "projects": [
+        {
+          "id": "Lum1104/Understand-Anything",
+          "name": "Understand-Anything",
+          "owner": "Lum1104",
+          "url": "https://github.com/Lum1104/Understand-Anything",
+          "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+          "ai_summary": "将任意代码转换为可交互的知识图谱，支持探索、搜索和提问。基于TypeScript实现，兼容Claude Code、Codex等多种AI编程工具。",
+          "language": "TypeScript",
+          "stars": 37990,
+          "forks": 3029,
+          "stars_today": 4697,
+          "stars_this_week": 19191,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1770,
+            "repo_age_days": 73,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 82,
+            "pr_count": 152,
+            "star_fork_ratio": 12.54
+          },
+          "trending_days": 6,
+          "first_seen": "2026-05-22T00:00:00.000Z"
+        },
+        {
+          "id": "affaan-m/ECC",
+          "name": "ECC",
+          "owner": "affaan-m",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "ai_summary": "面向AI编程工具的智能体性能优化系统，涵盖技能、记忆和安全等功能模块。采用JavaScript开发，支持Claude Code、Codex等主流编程辅助工具。",
+          "language": "JavaScript",
+          "stars": 195343,
+          "forks": 30065,
+          "stars_today": 1915,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1207,
+            "repo_age_days": 129,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 23,
+            "pr_count": 1423,
+            "star_fork_ratio": 6.5
+          },
+          "trending_days": 3,
+          "first_seen": "2026-05-25T00:00:00.000Z"
+        },
+        {
+          "id": "anthropics/knowledge-work-plugins",
+          "name": "knowledge-work-plugins",
+          "owner": "anthropics",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+          "ai_summary": "为知识工作者设计的开源插件集合，主要用于Claude Cowork协作平台。基于Python构建，提供高效的知识管理工具链。",
+          "language": "Python",
+          "stars": 16947,
+          "forks": 1986,
+          "stars_today": 1718,
+          "stars_this_week": 4086,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1984,
+            "repo_age_days": 123,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 127,
+            "pr_count": 208,
+            "star_fork_ratio": 8.53
+          },
+          "trending_days": 3,
+          "first_seen": "2026-05-25T00:00:00.000Z"
+        },
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "Superpowers 是一个代理技能框架和软件开发方法论，旨在提升开发效率。采用 Shell 脚本实现，强调模块化和可扩展性。",
+          "language": "Shell",
+          "stars": 208728,
+          "forks": 18598,
+          "stars_today": 1680,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6346,
+            "repo_age_days": 229,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 282,
+            "pr_count": 793,
+            "star_fork_ratio": 11.22
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-27T00:00:00.000Z"
+        },
+        {
+          "id": "Leonxlnx/taste-skill",
+          "name": "taste-skill",
+          "owner": "Leonxlnx",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+          "ai_summary": "Taste-Skill 通过优化 AI 生成内容的质量，避免产生平庸或通用的输出。基于 Shell 实现，专注于内容筛选和风格控制。",
+          "language": "Shell",
+          "stars": 23109,
+          "forks": 1805,
+          "stars_today": 1430,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 75,
+          "security_details": {
+            "author_age_days": 327,
+            "repo_age_days": 96,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 18,
+            "pr_count": 14,
+            "star_fork_ratio": 12.8
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-27T00:00:00.000Z"
+        },
+        {
+          "id": "DigitalPlatDev/FreeDomain",
+          "name": "FreeDomain",
+          "owner": "DigitalPlatDev",
+          "url": "https://github.com/DigitalPlatDev/FreeDomain",
+          "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+          "ai_summary": "FreeDomain 提供免费域名服务，帮助用户快速获取可用域名。使用 HTML 构建前端界面，简化域名申请流程。",
+          "language": "HTML",
+          "stars": 168243,
+          "forks": 3136,
+          "stars_today": 1219,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1185,
+            "repo_age_days": 726,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 33,
+            "pr_count": 0,
+            "star_fork_ratio": 53.65
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-27T00:00:00.000Z"
+        },
+        {
+          "id": "mukul975/Anthropic-Cybersecurity-Skills",
+          "name": "Anthropic-Cybersecurity-Skills",
+          "owner": "mukul975",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+          "ai_summary": "提供754种结构化网络安全技能，用于AI代理，覆盖MITRE ATT&CK等5大框架。基于agentskills.io标准，支持Claude Code等20+平台，涵盖26个安全域，采用Python实现并开源。",
+          "language": "Python",
+          "stars": 10505,
+          "forks": 1221,
+          "stars_today": 880,
+          "stars_this_week": 3379,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2826,
+            "repo_age_days": 91,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 20,
+            "pr_count": 32,
+            "star_fork_ratio": 8.6
+          },
+          "trending_days": 4,
+          "first_seen": "2026-05-24T00:00:00.000Z"
+        },
+        {
+          "id": "hardikpandya/stop-slop",
+          "name": "stop-slop",
+          "owner": "hardikpandya",
+          "url": "https://github.com/hardikpandya/stop-slop",
+          "description": "A skill file for removing AI tells from prose",
+          "ai_summary": "提供消除AI生成文本特征的技能文件。通过特定规则处理文本，使其更接近自然写作风格。",
+          "language": "",
+          "stars": 5301,
+          "forks": 414,
+          "stars_today": 539,
+          "stars_this_week": 1341,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5595,
+            "repo_age_days": 135,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 14,
+            "pr_count": 9,
+            "star_fork_ratio": 12.8
+          },
+          "trending_days": 2,
+          "first_seen": "2026-05-26T00:00:00.000Z"
+        },
+        {
+          "id": "twentyhq/twenty",
+          "name": "twenty",
+          "owner": "twentyhq",
+          "url": "https://github.com/twentyhq/twenty",
+          "description": "The open alternative to Salesforce, designed for AI.",
+          "ai_summary": "开源的Salesforce替代方案，专为AI场景设计。采用TypeScript开发，提供灵活的客户关系管理功能。",
+          "language": "TypeScript",
+          "stars": 47076,
+          "forks": 6686,
+          "stars_today": 216,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1272,
+            "repo_age_days": 1272,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 127,
+            "pr_count": 13487,
+            "star_fork_ratio": 7.04
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-27T00:00:00.000Z"
+        },
+        {
+          "id": "Yeachan-Heo/oh-my-claudecode",
+          "name": "oh-my-claudecode",
+          "owner": "Yeachan-Heo",
+          "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+          "description": "Teams-first Multi-agent orchestration for Claude Code",
+          "ai_summary": "这是一个面向Teams的多智能体编排工具，专为Claude Code设计，用于优化团队协作中的代码生成与管理流程。采用TypeScript开发，支持多智能体协同工作，提升代码生成效率与质量。",
+          "language": "TypeScript",
+          "stars": 35002,
+          "forks": 3208,
+          "stars_today": 137,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2460,
+            "repo_age_days": 138,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 10,
+            "pr_count": 1894,
+            "star_fork_ratio": 10.91
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-27T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 9,
+          "Skills": 6,
+          "Agent": 4
+        }
+      }
     }
   ]
 }

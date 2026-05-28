@@ -8558,6 +8558,319 @@
           "Agent": 4
         }
       }
+    },
+    {
+      "date": "2026-05-28",
+      "generated_at": "2026-05-28T10:41:43.326Z",
+      "projects": [
+        {
+          "id": "Lum1104/Understand-Anything",
+          "name": "Understand-Anything",
+          "owner": "Lum1104",
+          "url": "https://github.com/Lum1104/Understand-Anything",
+          "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+          "ai_summary": "将任意代码转化为可交互的知识图谱，支持探索、搜索和提问。基于TypeScript实现，兼容Claude Code、Codex等多种AI代码工具。",
+          "language": "TypeScript",
+          "stars": 41794,
+          "forks": 3327,
+          "stars_today": 4465,
+          "stars_this_week": 23401,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1771,
+            "repo_age_days": 74,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 102,
+            "pr_count": 159,
+            "star_fork_ratio": 12.56
+          },
+          "trending_days": 7,
+          "first_seen": "2026-05-22T00:00:00.000Z"
+        },
+        {
+          "id": "Leonxlnx/taste-skill",
+          "name": "taste-skill",
+          "owner": "Leonxlnx",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+          "ai_summary": "提升AI生成内容的质量，避免输出平庸通用的内容。通过Shell脚本实现，直接干预AI生成过程。",
+          "language": "Shell",
+          "stars": 25302,
+          "forks": 1924,
+          "stars_today": 2715,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 75,
+          "security_details": {
+            "author_age_days": 328,
+            "repo_age_days": 97,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 15,
+            "pr_count": 14,
+            "star_fork_ratio": 13.15
+          },
+          "trending_days": 2,
+          "first_seen": "2026-05-27T00:00:00.000Z"
+        },
+        {
+          "id": "DigitalPlatDev/FreeDomain",
+          "name": "FreeDomain",
+          "owner": "DigitalPlatDev",
+          "url": "https://github.com/DigitalPlatDev/FreeDomain",
+          "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+          "ai_summary": "提供免费域名注册服务，面向所有用户开放。采用HTML构建前端界面，实现简单直接的域名申请流程。",
+          "language": "HTML",
+          "stars": 169944,
+          "forks": 3249,
+          "stars_today": 2222,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1186,
+            "repo_age_days": 727,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 33,
+            "pr_count": 0,
+            "star_fork_ratio": 52.31
+          },
+          "trending_days": 2,
+          "first_seen": "2026-05-27T00:00:00.000Z"
+        },
+        {
+          "id": "affaan-m/ECC",
+          "name": "ECC",
+          "owner": "affaan-m",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "ai_summary": "ECC是一个面向AI代码生成工具（如Claude Code、Codex等）的性能优化系统，专注于提升代理的效能、安全性和研究能力。该项目基于JavaScript实现，整合了技能、本能、记忆等多维度优化策略。",
+          "language": "JavaScript",
+          "stars": 196643,
+          "forks": 30253,
+          "stars_today": 2062,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1208,
+            "repo_age_days": 130,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 31,
+            "pr_count": 1426,
+            "star_fork_ratio": 6.5
+          },
+          "trending_days": 4,
+          "first_seen": "2026-05-25T00:00:00.000Z"
+        },
+        {
+          "id": "harry0703/MoneyPrinterTurbo",
+          "name": "MoneyPrinterTurbo",
+          "owner": "harry0703",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+          "ai_summary": "MoneyPrinterTurbo是通过AI大模型实现一键生成高清短视频的自动化工具。采用Python技术栈，集成了LLM模型实现智能内容生成与视频合成。",
+          "language": "Python",
+          "stars": 64733,
+          "forks": 9366,
+          "stars_today": 1742,
+          "stars_this_week": 3495,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 4712,
+            "repo_age_days": 808,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 6,
+            "pr_count": 211,
+            "star_fork_ratio": 6.91
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-28T00:00:00.000Z"
+        },
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "superpowers是一个有效的智能体技能框架和软件开发方法论。基于Shell实现，提供可操作的代理行为模式与开发实践规范。",
+          "language": "Shell",
+          "stars": 210417,
+          "forks": 18736,
+          "stars_today": 1511,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6347,
+            "repo_age_days": 230,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 285,
+            "pr_count": 794,
+            "star_fork_ratio": 11.23
+          },
+          "trending_days": 2,
+          "first_seen": "2026-05-27T00:00:00.000Z"
+        },
+        {
+          "id": "mukul975/Anthropic-Cybersecurity-Skills",
+          "name": "Anthropic-Cybersecurity-Skills",
+          "owner": "mukul975",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+          "ai_summary": "提供754种结构化网络安全技能，支持AI代理对接MITRE ATT&CK等5大安全框架。采用Python实现，兼容Claude Code等20+平台，涵盖26个安全领域，遵循Apache 2.0协议。",
+          "language": "Python",
+          "stars": 11349,
+          "forks": 1285,
+          "stars_today": 886,
+          "stars_this_week": 4170,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2827,
+            "repo_age_days": 92,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 21,
+            "pr_count": 32,
+            "star_fork_ratio": 8.83
+          },
+          "trending_days": 5,
+          "first_seen": "2026-05-24T00:00:00.000Z"
+        },
+        {
+          "id": "anthropics/knowledge-work-plugins",
+          "name": "knowledge-work-plugins",
+          "owner": "anthropics",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+          "ai_summary": "为Claude Cowork设计的知识工作插件集合，提升知识工作者效率。基于Python开发，包含多种实用工具插件。",
+          "language": "Python",
+          "stars": 17563,
+          "forks": 2046,
+          "stars_today": 695,
+          "stars_this_week": 4718,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1985,
+            "repo_age_days": 124,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 135,
+            "pr_count": 216,
+            "star_fork_ratio": 8.58
+          },
+          "trending_days": 4,
+          "first_seen": "2026-05-25T00:00:00.000Z"
+        },
+        {
+          "id": "hardikpandya/stop-slop",
+          "name": "stop-slop",
+          "owner": "hardikpandya",
+          "url": "https://github.com/hardikpandya/stop-slop",
+          "description": "A skill file for removing AI tells from prose",
+          "ai_summary": "用于消除AI生成文本特征的技能文件，帮助文本更自然。具体实现语言未公开，专注于文本后处理优化。",
+          "language": "",
+          "stars": 6058,
+          "forks": 446,
+          "stars_today": 664,
+          "stars_this_week": 1751,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5596,
+            "repo_age_days": 136,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 16,
+            "pr_count": 10,
+            "star_fork_ratio": 13.58
+          },
+          "trending_days": 3,
+          "first_seen": "2026-05-26T00:00:00.000Z"
+        },
+        {
+          "id": "twentyhq/twenty",
+          "name": "twenty",
+          "owner": "twentyhq",
+          "url": "https://github.com/twentyhq/twenty",
+          "description": "The open alternative to Salesforce, designed for AI.",
+          "ai_summary": "这是一个开源的CRM平台，旨在提供Salesforce的替代方案，特别优化了AI集成能力。采用TypeScript开发，强调模块化架构和现代前端技术栈。",
+          "language": "TypeScript",
+          "stars": 47542,
+          "forks": 6750,
+          "stars_today": 519,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1273,
+            "repo_age_days": 1273,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 137,
+            "pr_count": 13529,
+            "star_fork_ratio": 7.04
+          },
+          "trending_days": 2,
+          "first_seen": "2026-05-27T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 9,
+          "Skills": 5,
+          "Agent": 3
+        }
+      }
     }
   ]
 }

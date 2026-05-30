@@ -9183,6 +9183,318 @@
           "Agent": 3
         }
       }
+    },
+    {
+      "date": "2026-05-30",
+      "generated_at": "2026-05-30T09:05:20.344Z",
+      "projects": [
+        {
+          "id": "harry0703/MoneyPrinterTurbo",
+          "name": "MoneyPrinterTurbo",
+          "owner": "harry0703",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+          "ai_summary": "该项目通过AI大模型一键生成高清短视频，简化视频创作流程。基于Python实现，整合LLM技术实现自动化内容生成与视频合成。",
+          "language": "Python",
+          "stars": 70742,
+          "forks": 10191,
+          "stars_today": 3567,
+          "stars_this_week": 11147,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4713,
+            "repo_age_days": 810,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 17,
+            "pr_count": 222,
+            "star_fork_ratio": 6.94
+          },
+          "trending_days": 3,
+          "first_seen": "2026-05-28T00:00:00.000Z"
+        },
+        {
+          "id": "Leonxlnx/taste-skill",
+          "name": "taste-skill",
+          "owner": "Leonxlnx",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+          "ai_summary": "该项目为AI系统提供审美优化能力，避免生成平庸内容。采用Shell脚本实现，通过规则过滤提升输出内容质量。",
+          "language": "Shell",
+          "stars": 28589,
+          "forks": 2116,
+          "stars_today": 2062,
+          "stars_this_week": 8999,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 75,
+          "security_details": {
+            "author_age_days": 330,
+            "repo_age_days": 99,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 22,
+            "pr_count": 18,
+            "star_fork_ratio": 13.51
+          },
+          "trending_days": 4,
+          "first_seen": "2026-05-27T00:00:00.000Z"
+        },
+        {
+          "id": "affaan-m/ECC",
+          "name": "ECC",
+          "owner": "affaan-m",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "ai_summary": "该项目构建AI代理性能优化系统，涵盖技能、记忆和安全等功能。使用JavaScript开发，支持多款AI编程助手并采用研究优先的开发模式。",
+          "language": "JavaScript",
+          "stars": 198827,
+          "forks": 30544,
+          "stars_today": 1406,
+          "stars_this_week": 10239,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1210,
+            "repo_age_days": 132,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 38,
+            "pr_count": 1438,
+            "star_fork_ratio": 6.51
+          },
+          "trending_days": 6,
+          "first_seen": "2026-05-25T00:00:00.000Z"
+        },
+        {
+          "id": "DigitalPlatDev/FreeDomain",
+          "name": "FreeDomain",
+          "owner": "DigitalPlatDev",
+          "url": "https://github.com/DigitalPlatDev/FreeDomain",
+          "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+          "ai_summary": "FreeDomain 提供免费域名注册服务，解决个人和小型项目获取域名的需求。基于 HTML 构建，提供简洁的域名申请与管理界面。",
+          "language": "HTML",
+          "stars": 172114,
+          "forks": 3364,
+          "stars_today": 1313,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1188,
+            "repo_age_days": 729,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 33,
+            "pr_count": 0,
+            "star_fork_ratio": 51.16
+          },
+          "trending_days": 4,
+          "first_seen": "2026-05-27T00:00:00.000Z"
+        },
+        {
+          "id": "hardikpandya/stop-slop",
+          "name": "stop-slop",
+          "owner": "hardikpandya",
+          "url": "https://github.com/hardikpandya/stop-slop",
+          "description": "A skill file for removing AI tells from prose",
+          "ai_summary": "stop-slop 是一款用于去除文本中 AI 生成痕迹的工具，提升内容的自然度。通过特定算法识别并修改 AI 生成的典型特征。",
+          "language": "",
+          "stars": 7153,
+          "forks": 501,
+          "stars_today": 617,
+          "stars_this_week": 3018,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5598,
+            "repo_age_days": 138,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 20,
+            "pr_count": 12,
+            "star_fork_ratio": 14.28
+          },
+          "trending_days": 5,
+          "first_seen": "2026-05-26T00:00:00.000Z"
+        },
+        {
+          "id": "twentyhq/twenty",
+          "name": "twenty",
+          "owner": "twentyhq",
+          "url": "https://github.com/twentyhq/twenty",
+          "description": "The open alternative to Salesforce, designed for AI.",
+          "ai_summary": "twenty 是一个开源的 CRM 系统，旨在替代 Salesforce 并提供 AI 集成支持。采用 TypeScript 开发，强调模块化架构和 AI 驱动的数据分析能力。",
+          "language": "TypeScript",
+          "stars": 48557,
+          "forks": 6889,
+          "stars_today": 578,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1275,
+            "repo_age_days": 1275,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 134,
+            "pr_count": 13580,
+            "star_fork_ratio": 7.05
+          },
+          "trending_days": 4,
+          "first_seen": "2026-05-27T00:00:00.000Z"
+        },
+        {
+          "id": "anthropics/claude-code",
+          "name": "claude-code",
+          "owner": "anthropics",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+          "ai_summary": "Claude Code 是一个终端内的智能编码工具，通过自然语言命令帮助开发者执行常规任务、解释复杂代码和处理 Git 工作流。基于 Python 实现，采用代理架构理解代码库上下文，提升编码效率。",
+          "language": "Python",
+          "stars": 128075,
+          "forks": 20928,
+          "stars_today": 395,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 1987,
+            "repo_age_days": 461,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 9096,
+            "pr_count": 1074,
+            "star_fork_ratio": 6.12
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-30T00:00:00.000Z"
+        },
+        {
+          "id": "EveryInc/compound-engineering-plugin",
+          "name": "compound-engineering-plugin",
+          "owner": "EveryInc",
+          "url": "https://github.com/EveryInc/compound-engineering-plugin",
+          "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+          "ai_summary": "该插件是 Compound Engineering 的官方工具，为 Claude Code、Codex 和 Cursor 等开发环境提供扩展功能。使用 TypeScript 开发，采用模块化设计实现多平台兼容。",
+          "language": "TypeScript",
+          "stars": 18259,
+          "forks": 1385,
+          "stars_today": 353,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 1991,
+            "repo_age_days": 232,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 80,
+            "pr_count": 639,
+            "star_fork_ratio": 13.18
+          },
+          "trending_days": 2,
+          "first_seen": "2026-05-29T00:00:00.000Z"
+        },
+        {
+          "id": "Crosstalk-Solutions/project-nomad",
+          "name": "project-nomad",
+          "owner": "Crosstalk-Solutions",
+          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+          "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+          "ai_summary": "Project N.O.M.A.D 是离线的生存工具套件，集成关键工具、知识库和 AI 能力以支持野外环境。基于 TypeScript 构建，采用自包含架构确保无网络依赖的可靠运行。",
+          "language": "TypeScript",
+          "stars": 27088,
+          "forks": 2659,
+          "stars_today": 318,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 1470,
+            "repo_age_days": 339,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 62,
+            "pr_count": 425,
+            "star_fork_ratio": 10.19
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-30T00:00:00.000Z"
+        },
+        {
+          "id": "Lum1104/Understand-Anything",
+          "name": "Understand-Anything",
+          "owner": "Lum1104",
+          "url": "https://github.com/Lum1104/Understand-Anything",
+          "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+          "ai_summary": "将任意代码转换为可交互的知识图谱，支持探索、搜索和提问，帮助开发者理解复杂代码。基于TypeScript实现，兼容Claude Code、Codex等多种AI编程助手。",
+          "language": "TypeScript",
+          "stars": 45050,
+          "forks": 3613,
+          "stars_today": 0,
+          "stars_this_week": 26685,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1773,
+            "repo_age_days": 76,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 126,
+            "pr_count": 174,
+            "star_fork_ratio": 12.47
+          },
+          "trending_days": 9,
+          "first_seen": "2026-05-22T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 10,
+          "Skills": 4,
+          "Agent": 2
+        }
+      }
     }
   ]
 }

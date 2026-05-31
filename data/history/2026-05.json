@@ -9495,6 +9495,322 @@
           "Agent": 2
         }
       }
+    },
+    {
+      "date": "2026-05-31",
+      "generated_at": "2026-05-31T09:37:21.862Z",
+      "projects": [
+        {
+          "id": "harry0703/MoneyPrinterTurbo",
+          "name": "MoneyPrinterTurbo",
+          "owner": "harry0703",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+          "ai_summary": "利用AI大模型一键生成高清短视频，简化视频创作流程。基于Python开发，整合LLM技术实现自动化内容生成与视频合成。",
+          "language": "Python",
+          "stars": 72779,
+          "forks": 10401,
+          "stars_today": 2768,
+          "stars_this_week": 13948,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 4715,
+            "repo_age_days": 811,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 10,
+            "pr_count": 226,
+            "star_fork_ratio": 7
+          },
+          "trending_days": 4,
+          "first_seen": "2026-05-28T00:00:00.000Z"
+        },
+        {
+          "id": "affaan-m/ECC",
+          "name": "ECC",
+          "owner": "affaan-m",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "ai_summary": "面向Claude等AI编程工具的智能优化系统，提升代码生成效率与质量。采用JavaScript构建，集成技能管理、记忆机制和安全防护等模块化设计。",
+          "language": "JavaScript",
+          "stars": 199664,
+          "forks": 30650,
+          "stars_today": 908,
+          "stars_this_week": 10802,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1211,
+            "repo_age_days": 133,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 40,
+            "pr_count": 1441,
+            "star_fork_ratio": 6.51
+          },
+          "trending_days": 7,
+          "first_seen": "2026-05-25T00:00:00.000Z"
+        },
+        {
+          "id": "anthropics/claude-code",
+          "name": "claude-code",
+          "owner": "anthropics",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+          "ai_summary": "终端内运行的AI编程助手，通过自然语言指令辅助代码编写与版本管理。基于Python实现，具备代码库理解能力和自动化工作流处理机制。",
+          "language": "Python",
+          "stars": 128570,
+          "forks": 20960,
+          "stars_today": 592,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 1988,
+            "repo_age_days": 462,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 8939,
+            "pr_count": 1074,
+            "star_fork_ratio": 6.13
+          },
+          "trending_days": 2,
+          "first_seen": "2026-05-30T00:00:00.000Z"
+        },
+        {
+          "id": "Crosstalk-Solutions/project-nomad",
+          "name": "project-nomad",
+          "owner": "Crosstalk-Solutions",
+          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+          "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+          "ai_summary": "Project N.O.M.A.D 是一个离线的生存工具计算机，集成了关键工具、知识和 AI 功能，确保用户在无网络环境下也能获取信息和保持能力。该项目基于 TypeScript 开发，采用自包含架构设计，支持离线运行和本地 AI 处理。",
+          "language": "TypeScript",
+          "stars": 27473,
+          "forks": 2694,
+          "stars_today": 469,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 1471,
+            "repo_age_days": 340,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 65,
+            "pr_count": 427,
+            "star_fork_ratio": 10.2
+          },
+          "trending_days": 2,
+          "first_seen": "2026-05-30T00:00:00.000Z"
+        },
+        {
+          "id": "anthropics/skills",
+          "name": "skills",
+          "owner": "anthropics",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "ai_summary": "Skills 是一个公开的智能体技能库，为 AI 代理提供可复用的功能模块。该项目使用 Python 实现，采用模块化设计，便于技能的组合和扩展。",
+          "language": "Python",
+          "stars": 144402,
+          "forks": 17013,
+          "stars_today": 454,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1988,
+            "repo_age_days": 250,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 892,
+            "pr_count": 868,
+            "star_fork_ratio": 8.49
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-31T00:00:00.000Z"
+        },
+        {
+          "id": "EveryInc/compound-engineering-plugin",
+          "name": "compound-engineering-plugin",
+          "owner": "EveryInc",
+          "url": "https://github.com/EveryInc/compound-engineering-plugin",
+          "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+          "ai_summary": "Compound Engineering 插件是为 Claude Code、Codex 和 Cursor 等开发工具提供的官方扩展。该插件基于 TypeScript 开发，深度集成开发环境，提供工程化辅助功能。",
+          "language": "TypeScript",
+          "stars": 18510,
+          "forks": 1399,
+          "stars_today": 349,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 1992,
+            "repo_age_days": 233,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 84,
+            "pr_count": 639,
+            "star_fork_ratio": 13.23
+          },
+          "trending_days": 3,
+          "first_seen": "2026-05-29T00:00:00.000Z"
+        },
+        {
+          "id": "FareedKhan-dev/train-llm-from-scratch",
+          "name": "train-llm-from-scratch",
+          "owner": "FareedKhan-dev",
+          "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+          "description": "A straightforward method for training your LLM, from downloading data to generating text.",
+          "ai_summary": "该项目提供从数据下载到文本生成的完整流程，指导用户从头训练自己的大语言模型。采用Jupyter Notebook实现，步骤清晰且模块化，适合初学者理解LLM训练核心环节。",
+          "language": "Jupyter Notebook",
+          "stars": 2467,
+          "forks": 392,
+          "stars_today": 327,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2249,
+            "repo_age_days": 504,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 5,
+            "pr_count": 8,
+            "star_fork_ratio": 6.29
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-31T00:00:00.000Z"
+        },
+        {
+          "id": "revfactory/harness",
+          "name": "harness",
+          "owner": "revfactory",
+          "url": "https://github.com/revfactory/harness",
+          "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+          "ai_summary": "该工具用于构建领域特定的智能体团队，能自定义智能体类型并生成其所需技能。基于HTML界面实现团队配置，通过模块化设计支持复杂协作流程的快速编排。",
+          "language": "HTML",
+          "stars": 4387,
+          "forks": 631,
+          "stars_today": 55,
+          "stars_this_week": 626,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Web3",
+            "Skills"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 4934,
+            "repo_age_days": 65,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 6,
+            "pr_count": 14,
+            "star_fork_ratio": 6.95
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-31T00:00:00.000Z"
+        },
+        {
+          "id": "Lum1104/Understand-Anything",
+          "name": "Understand-Anything",
+          "owner": "Lum1104",
+          "url": "https://github.com/Lum1104/Understand-Anything",
+          "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+          "ai_summary": "将任意代码转化为可交互的知识图谱，支持探索、搜索和问答功能。基于TypeScript实现，兼容主流AI编程助手，通过图形化呈现提升代码理解效率。",
+          "language": "TypeScript",
+          "stars": 46443,
+          "forks": 3764,
+          "stars_today": 0,
+          "stars_this_week": 25612,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1774,
+            "repo_age_days": 77,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 131,
+            "pr_count": 177,
+            "star_fork_ratio": 12.34
+          },
+          "trending_days": 10,
+          "first_seen": "2026-05-22T00:00:00.000Z"
+        },
+        {
+          "id": "colbymchenry/codegraph",
+          "name": "codegraph",
+          "owner": "colbymchenry",
+          "url": "https://github.com/colbymchenry/codegraph",
+          "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+          "ai_summary": "Codegraph 是一个预索引的代码知识图谱，用于优化 Claude Code、Codex 等 AI 代码工具的查询效率。该项目采用 TypeScript 实现，通过本地化处理减少 token 消耗和工具调用次数。",
+          "language": "TypeScript",
+          "stars": 34765,
+          "forks": 2132,
+          "stars_today": 0,
+          "stars_this_week": 15909,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3700,
+            "repo_age_days": 132,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 204,
+            "pr_count": 331,
+            "star_fork_ratio": 16.31
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-31T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 9,
+          "Skills": 5,
+          "Agent": 4,
+          "Web3": 1
+        }
+      }
     }
   ]
 }

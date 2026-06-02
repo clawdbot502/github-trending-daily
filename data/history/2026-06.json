@@ -317,6 +317,323 @@
           "金融": 1
         }
       }
+    },
+    {
+      "date": "2026-06-02",
+      "generated_at": "2026-06-02T11:08:30.101Z",
+      "projects": [
+        {
+          "id": "harry0703/MoneyPrinterTurbo",
+          "name": "MoneyPrinterTurbo",
+          "owner": "harry0703",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+          "ai_summary": "该项目利用AI大模型实现一键生成高清短视频，简化视频创作流程。基于Python开发，整合LLM技术实现自动化内容生成与处理。",
+          "language": "Python",
+          "stars": 77572,
+          "forks": 11006,
+          "stars_today": 3375,
+          "stars_this_week": 18917,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4717,
+            "repo_age_days": 813,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 21,
+            "pr_count": 246,
+            "star_fork_ratio": 7.05
+          },
+          "trending_days": 6,
+          "first_seen": "2026-05-28T00:00:00.000Z"
+        },
+        {
+          "id": "nesquena/hermes-webui",
+          "name": "hermes-webui",
+          "owner": "nesquena",
+          "url": "https://github.com/nesquena/hermes-webui",
+          "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+          "ai_summary": "提供Hermes Agent的Web交互界面，支持通过浏览器或手机便捷访问。采用Python实现，提供轻量级Web服务架构。",
+          "language": "Python",
+          "stars": 12098,
+          "forks": 1506,
+          "stars_today": 945,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 6626,
+            "repo_age_days": 63,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 237,
+            "pr_count": 2375,
+            "star_fork_ratio": 8.03
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-01T00:00:00.000Z"
+        },
+        {
+          "id": "FareedKhan-dev/train-llm-from-scratch",
+          "name": "train-llm-from-scratch",
+          "owner": "FareedKhan-dev",
+          "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+          "description": "A straightforward method for training your LLM, from downloading data to generating text.",
+          "ai_summary": "提供从数据下载到文本生成的完整LLM训练方案，降低模型训练门槛。基于Jupyter Notebook实现分步骤可视化指导。",
+          "language": "Jupyter Notebook",
+          "stars": 3972,
+          "forks": 536,
+          "stars_today": 861,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2251,
+            "repo_age_days": 506,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 7,
+            "pr_count": 9,
+            "star_fork_ratio": 7.41
+          },
+          "trending_days": 3,
+          "first_seen": "2026-05-31T00:00:00.000Z"
+        },
+        {
+          "id": "supermemoryai/supermemory",
+          "name": "supermemory",
+          "owner": "supermemoryai",
+          "url": "https://github.com/supermemoryai/supermemory",
+          "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+          "ai_summary": "Supermemory 是一个高速、可扩展的记忆引擎和应用，为 AI 时代提供记忆 API。采用 TypeScript 实现，具备高效的数据处理和存储能力。",
+          "language": "TypeScript",
+          "stars": 24318,
+          "forks": 2162,
+          "stars_today": 647,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 725,
+            "repo_age_days": 825,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 26,
+            "pr_count": 767,
+            "star_fork_ratio": 11.25
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-01T00:00:00.000Z"
+        },
+        {
+          "id": "revfactory/harness",
+          "name": "harness",
+          "owner": "revfactory",
+          "url": "https://github.com/revfactory/harness",
+          "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+          "ai_summary": "Harness 是一个元技能框架，用于设计领域特定的智能体团队并生成其技能。基于 HTML 技术，支持灵活定义和生成智能体行为。",
+          "language": "HTML",
+          "stars": 5378,
+          "forks": 716,
+          "stars_today": 524,
+          "stars_this_week": 1430,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Web3",
+            "Skills"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 4936,
+            "repo_age_days": 67,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 8,
+            "pr_count": 16,
+            "star_fork_ratio": 7.51
+          },
+          "trending_days": 3,
+          "first_seen": "2026-05-31T00:00:00.000Z"
+        },
+        {
+          "id": "pbakaus/impeccable",
+          "name": "impeccable",
+          "owner": "pbakaus",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description": "The design language that makes your AI harness better at design.",
+          "ai_summary": "Impeccable 是一种设计语言，旨在提升 AI 在设计任务中的表现。通过 JavaScript 实现，提供结构化的设计规范和优化方案。",
+          "language": "JavaScript",
+          "stars": 33232,
+          "forks": 1801,
+          "stars_today": 485,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6364,
+            "repo_age_days": 198,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 26,
+            "pr_count": 113,
+            "star_fork_ratio": 18.45
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-01T00:00:00.000Z"
+        },
+        {
+          "id": "EveryInc/compound-engineering-plugin",
+          "name": "compound-engineering-plugin",
+          "owner": "EveryInc",
+          "url": "https://github.com/EveryInc/compound-engineering-plugin",
+          "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+          "ai_summary": "Compound Engineering官方插件，为Claude Code、Codex和Cursor等AI编程工具提供增强功能。基于TypeScript开发，实现与多种AI编程环境的深度集成。",
+          "language": "TypeScript",
+          "stars": 19271,
+          "forks": 1433,
+          "stars_today": 417,
+          "stars_this_week": 1831,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 1994,
+            "repo_age_days": 235,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 90,
+            "pr_count": 649,
+            "star_fork_ratio": 13.45
+          },
+          "trending_days": 5,
+          "first_seen": "2026-05-29T00:00:00.000Z"
+        },
+        {
+          "id": "can1357/oh-my-pi",
+          "name": "oh-my-pi",
+          "owner": "can1357",
+          "url": "https://github.com/can1357/oh-my-pi",
+          "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+          "ai_summary": "终端AI编程代理工具，支持哈希锚定编辑、LSP集成和子代理系统。采用TypeScript构建，整合Python和浏览器环境实现高效开发工作流。",
+          "language": "TypeScript",
+          "stars": 9789,
+          "forks": 797,
+          "stars_today": 335,
+          "stars_this_week": 2122,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4075,
+            "repo_age_days": 152,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 204,
+            "pr_count": 939,
+            "star_fork_ratio": 12.28
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-01T00:00:00.000Z"
+        },
+        {
+          "id": "TauricResearch/TradingAgents",
+          "name": "TradingAgents",
+          "owner": "TauricResearch",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "ai_summary": "多智能体LLM金融交易框架，用于构建自动化交易策略。基于Python实现，利用大语言模型进行市场分析和决策生成。",
+          "language": "Python",
+          "stars": 82144,
+          "forks": 15951,
+          "stars_today": 299,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "AI",
+            "Skills"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 522,
+            "repo_age_days": 521,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 303,
+            "pr_count": 573,
+            "star_fork_ratio": 5.15
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-01T00:00:00.000Z"
+        },
+        {
+          "id": "dmtrKovalenko/fff",
+          "name": "fff",
+          "owner": "dmtrKovalenko",
+          "url": "https://github.com/dmtrKovalenko/fff",
+          "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
+          "ai_summary": "fff 是一个专为 AI 代理、Neovim、Rust、C 和 NodeJS 设计的高速且高精度的文件搜索工具包。采用 Rust 实现，通过优化的算法和内存管理提供极速搜索性能。",
+          "language": "Rust",
+          "stars": 7376,
+          "forks": 301,
+          "stars_today": 135,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3778,
+            "repo_age_days": 305,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 71,
+            "pr_count": 305,
+            "star_fork_ratio": 24.5
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-01T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 9,
+          "Skills": 5,
+          "Agent": 3,
+          "Web3": 1,
+          "金融": 1
+        }
+      }
     }
   ]
 }

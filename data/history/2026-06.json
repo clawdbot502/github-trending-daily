@@ -948,6 +948,320 @@
           "金融": 1
         }
       }
+    },
+    {
+      "date": "2026-06-04",
+      "generated_at": "2026-06-04T10:28:26.636Z",
+      "projects": [
+        {
+          "id": "chopratejas/headroom",
+          "name": "headroom",
+          "owner": "chopratejas",
+          "url": "https://github.com/chopratejas/headroom",
+          "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+          "ai_summary": "该项目是一个压缩工具，用于在数据到达大语言模型前压缩工具输出、日志、文件和RAG块，减少60-95%的token数量同时保持答案质量。提供Python库、代理服务和MCP服务器实现，采用高效压缩算法优化LLM输入处理。",
+          "language": "Python",
+          "stars": 11184,
+          "forks": 731,
+          "stars_today": 3530,
+          "stars_this_week": 6245,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4856,
+            "repo_age_days": 147,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 150,
+            "pr_count": 382,
+            "star_fork_ratio": 15.3
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-03T00:00:00.000Z"
+        },
+        {
+          "id": "affaan-m/ECC",
+          "name": "ECC",
+          "owner": "affaan-m",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "ai_summary": "这是一个面向AI代码助手的性能优化系统，为Claude Code等工具提供技能、记忆和安全增强功能。基于JavaScript实现，采用模块化架构整合研究驱动的开发方法提升代理效率。",
+          "language": "JavaScript",
+          "stars": 206456,
+          "forks": 31699,
+          "stars_today": 2141,
+          "stars_this_week": 10008,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1215,
+            "repo_age_days": 137,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 73,
+            "pr_count": 1468,
+            "star_fork_ratio": 6.51
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-03T00:00:00.000Z"
+        },
+        {
+          "id": "NousResearch/hermes-agent",
+          "name": "hermes-agent",
+          "owner": "NousResearch",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "ai_summary": "该项目开发了一个可成长的智能代理系统，能够根据用户需求持续扩展能力。使用Python构建，采用自适应学习架构实现代理能力的动态演进。",
+          "language": "Python",
+          "stars": 180020,
+          "forks": 30852,
+          "stars_today": 1735,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1110,
+            "repo_age_days": 316,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 17501,
+            "pr_count": 29311,
+            "star_fork_ratio": 5.83
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-04T00:00:00.000Z"
+        },
+        {
+          "id": "nesquena/hermes-webui",
+          "name": "hermes-webui",
+          "owner": "nesquena",
+          "url": "https://github.com/nesquena/hermes-webui",
+          "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+          "ai_summary": "Hermes WebUI 是一个基于网页和移动端的界面，用于便捷地使用 Hermes Agent。采用 Python 实现，提供跨平台访问和用户友好的交互体验。",
+          "language": "Python",
+          "stars": 13304,
+          "forks": 1622,
+          "stars_today": 719,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 6628,
+            "repo_age_days": 65,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 251,
+            "pr_count": 2502,
+            "star_fork_ratio": 8.2
+          },
+          "trending_days": 4,
+          "first_seen": "2026-06-01T00:00:00.000Z"
+        },
+        {
+          "id": "Open-LLM-VTuber/Open-LLM-VTuber",
+          "name": "Open-LLM-VTuber",
+          "owner": "Open-LLM-VTuber",
+          "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+          "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+          "ai_summary": "Open-LLM-VTuber 实现了通过免提语音与任意大语言模型交互，支持语音打断和跨平台本地运行的 Live2D 虚拟形象。基于 Python 开发，整合了语音识别和实时渲染技术。",
+          "language": "Python",
+          "stars": 9251,
+          "forks": 1129,
+          "stars_today": 693,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 513,
+            "repo_age_days": 923,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 127,
+            "pr_count": 154,
+            "star_fork_ratio": 8.19
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-04T00:00:00.000Z"
+        },
+        {
+          "id": "supermemoryai/supermemory",
+          "name": "supermemory",
+          "owner": "supermemoryai",
+          "url": "https://github.com/supermemoryai/supermemory",
+          "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+          "ai_summary": "Supermemory 是一个高性能、可扩展的记忆引擎和应用，专为 AI 时代设计。采用 TypeScript 开发，提供快速响应的记忆 API 和高效的数据处理能力。",
+          "language": "TypeScript",
+          "stars": 25403,
+          "forks": 2225,
+          "stars_today": 600,
+          "stars_this_week": 2260,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 727,
+            "repo_age_days": 827,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 28,
+            "pr_count": 777,
+            "star_fork_ratio": 11.42
+          },
+          "trending_days": 4,
+          "first_seen": "2026-06-01T00:00:00.000Z"
+        },
+        {
+          "id": "opendataloader-project/opendataloader-pdf",
+          "name": "opendataloader-pdf",
+          "owner": "opendataloader-project",
+          "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+          "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+          "ai_summary": "该项目是一个用于AI数据准备的PDF解析工具，专注于自动化PDF文档的可访问性处理。采用Java实现，开源且支持高效解析PDF内容为结构化数据。",
+          "language": "Java",
+          "stars": 23580,
+          "forks": 2202,
+          "stars_today": 570,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 388,
+            "repo_age_days": 387,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 59,
+            "pr_count": 396,
+            "star_fork_ratio": 10.71
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-04T00:00:00.000Z"
+        },
+        {
+          "id": "JuliusBrussee/caveman",
+          "name": "caveman",
+          "owner": "JuliusBrussee",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+          "ai_summary": "该项目通过简化代码注释风格（模仿原始人语言）来减少Claude模型处理的token数量，最高可节省65%。基于JavaScript实现，针对大模型token优化提出创新方案。",
+          "language": "JavaScript",
+          "stars": 68611,
+          "forks": 3857,
+          "stars_today": 471,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1504,
+            "repo_age_days": 61,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 269,
+            "pr_count": 262,
+            "star_fork_ratio": 17.79
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-04T00:00:00.000Z"
+        },
+        {
+          "id": "lyogavin/airllm",
+          "name": "airllm",
+          "owner": "lyogavin",
+          "url": "https://github.com/lyogavin/airllm",
+          "description": "AirLLM 70B inference with single 4GB GPU",
+          "ai_summary": "该项目实现在单块4GB显存GPU上运行70B参数大语言模型推理。采用Jupyter Notebook展示核心技术，通过内存优化突破硬件限制。",
+          "language": "Jupyter Notebook",
+          "stars": 19162,
+          "forks": 2093,
+          "stars_today": 208,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5351,
+            "repo_age_days": 1087,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 159,
+            "pr_count": 35,
+            "star_fork_ratio": 9.16
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-04T00:00:00.000Z"
+        },
+        {
+          "id": "HKUDS/Vibe-Trading",
+          "name": "Vibe-Trading",
+          "owner": "HKUDS",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+          "ai_summary": "Vibe-Trading 是一个个人交易代理工具，旨在帮助用户自动化执行交易策略。该项目基于 Python 实现，采用模块化设计，支持与主流交易平台 API 集成。",
+          "language": "Python",
+          "stars": 10462,
+          "forks": 2049,
+          "stars_today": 197,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1298,
+            "repo_age_days": 64,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 12,
+            "pr_count": 99,
+            "star_fork_ratio": 5.11
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-04T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 7,
+          "Skills": 5,
+          "Agent": 4,
+          "金融": 1
+        }
+      }
     }
   ]
 }

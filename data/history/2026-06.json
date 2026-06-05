@@ -1262,6 +1262,318 @@
           "金融": 1
         }
       }
+    },
+    {
+      "date": "2026-06-05",
+      "generated_at": "2026-06-05T10:36:57.860Z",
+      "projects": [
+        {
+          "id": "chopratejas/headroom",
+          "name": "headroom",
+          "owner": "chopratejas",
+          "url": "https://github.com/chopratejas/headroom",
+          "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+          "ai_summary": "这是一个用于压缩工具输出、日志、文件和RAG块的库，旨在减少输入LLM的token数量（60-95%），同时保持回答准确性。采用Python实现，提供库、代理和MCP服务器三种使用方式。",
+          "language": "Python",
+          "stars": 13748,
+          "forks": 869,
+          "stars_today": 3142,
+          "stars_this_week": 9421,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4857,
+            "repo_age_days": 148,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 185,
+            "pr_count": 417,
+            "star_fork_ratio": 15.82
+          },
+          "trending_days": 3,
+          "first_seen": "2026-06-03T00:00:00.000Z"
+        },
+        {
+          "id": "NousResearch/hermes-agent",
+          "name": "hermes-agent",
+          "owner": "NousResearch",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "ai_summary": "这是一个可成长的智能代理项目，旨在构建能够持续学习和适应的AI代理。基于Python实现，具体技术细节未在描述中明确说明。",
+          "language": "Python",
+          "stars": 181802,
+          "forks": 31193,
+          "stars_today": 1913,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1111,
+            "repo_age_days": 317,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 17941,
+            "pr_count": 29924,
+            "star_fork_ratio": 5.83
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-04T00:00:00.000Z"
+        },
+        {
+          "id": "affaan-m/ECC",
+          "name": "ECC",
+          "owner": "affaan-m",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "ai_summary": "这是一个面向Claude Code等AI编程助手的性能优化系统，整合了技能、本能、记忆和安全等功能。采用JavaScript实现，采用研究优先的开发方法。",
+          "language": "JavaScript",
+          "stars": 207809,
+          "forks": 31887,
+          "stars_today": 1750,
+          "stars_this_week": 10369,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1216,
+            "repo_age_days": 138,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 84,
+            "pr_count": 1476,
+            "star_fork_ratio": 6.52
+          },
+          "trending_days": 3,
+          "first_seen": "2026-06-03T00:00:00.000Z"
+        },
+        {
+          "id": "Open-LLM-VTuber/Open-LLM-VTuber",
+          "name": "Open-LLM-VTuber",
+          "owner": "Open-LLM-VTuber",
+          "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+          "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+          "ai_summary": "实现跨平台本地运行的免提语音交互虚拟主播系统，支持语音打断和Live2D面部动画。基于Python开发，整合大语言模型(LLM)与实时语音处理技术。",
+          "language": "Python",
+          "stars": 9876,
+          "forks": 1176,
+          "stars_today": 581,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 514,
+            "repo_age_days": 924,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 128,
+            "pr_count": 159,
+            "star_fork_ratio": 8.4
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-04T00:00:00.000Z"
+        },
+        {
+          "id": "aquasecurity/trivy",
+          "name": "trivy",
+          "owner": "aquasecurity",
+          "url": "https://github.com/aquasecurity/trivy",
+          "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+          "ai_summary": "多功能安全扫描工具，可检测容器、Kubernetes、代码库及云环境中的漏洞、配置错误、密钥和SBOM。采用Go语言编写，支持轻量级快速扫描。",
+          "language": "Go",
+          "stars": 35755,
+          "forks": 438,
+          "stars_today": 255,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4015,
+            "repo_age_days": 2612,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 251,
+            "pr_count": 4688,
+            "star_fork_ratio": 81.63
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-05T00:00:00.000Z"
+        },
+        {
+          "id": "mvanhorn/last30days-skill",
+          "name": "last30days-skill",
+          "owner": "mvanhorn",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+          "ai_summary": "自动研究代理技能，可抓取Reddit、X、YouTube等平台数据并生成综合摘要。基于Python实现多源信息聚合与AI摘要生成。",
+          "language": "Python",
+          "stars": 27950,
+          "forks": 2376,
+          "stars_today": 199,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5700,
+            "repo_age_days": 132,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 94,
+            "pr_count": 348,
+            "star_fork_ratio": 11.76
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-05T00:00:00.000Z"
+        },
+        {
+          "id": "PaddlePaddle/PaddleOCR",
+          "name": "PaddleOCR",
+          "owner": "PaddlePaddle",
+          "url": "https://github.com/PaddlePaddle/PaddleOCR",
+          "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+          "ai_summary": "PaddleOCR 是一个强大的轻量级 OCR 工具包，可将 PDF 或图像文档转换为结构化数据，为 AI 处理提供支持。基于 PaddlePaddle 深度学习框架，支持 100 多种语言的文本识别，具备高效、准确的文档解析能力。",
+          "language": "Python",
+          "stars": 80261,
+          "forks": 10623,
+          "stars_today": 141,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3486,
+            "repo_age_days": 2218,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 204,
+            "pr_count": 3993,
+            "star_fork_ratio": 7.56
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-05T00:00:00.000Z"
+        },
+        {
+          "id": "NVIDIA/cosmos",
+          "name": "cosmos",
+          "owner": "NVIDIA",
+          "url": "https://github.com/NVIDIA/cosmos",
+          "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+          "ai_summary": "NVIDIA Cosmos 是一个开放的物理 AI 平台，提供世界模型、数据集和工具，用于开发机器人、自动驾驶汽车和智能基础设施等应用。基于 Jupyter Notebook 环境，整合了 NVIDIA 的先进计算和仿真技术。",
+          "language": "Jupyter Notebook",
+          "stars": 9243,
+          "forks": 588,
+          "stars_today": 133,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5138,
+            "repo_age_days": 521,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 6,
+            "pr_count": 42,
+            "star_fork_ratio": 15.72
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-05T00:00:00.000Z"
+        },
+        {
+          "id": "harry0703/MoneyPrinterTurbo",
+          "name": "MoneyPrinterTurbo",
+          "owner": "harry0703",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+          "ai_summary": "MoneyPrinterTurbo 是一个利用 AI 大模型一键生成高清短视频的工具，简化了短视频内容创作流程。基于 Python 实现，结合了大型语言模型和视频生成技术，快速产出高质量视频内容。",
+          "language": "Python",
+          "stars": 79760,
+          "forks": 11346,
+          "stars_today": 0,
+          "stars_this_week": 14566,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4720,
+            "repo_age_days": 816,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 20,
+            "pr_count": 252,
+            "star_fork_ratio": 7.03
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-05T00:00:00.000Z"
+        },
+        {
+          "id": "Lum1104/Understand-Anything",
+          "name": "Understand-Anything",
+          "owner": "Lum1104",
+          "url": "https://github.com/Lum1104/Understand-Anything",
+          "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+          "ai_summary": "该项目将任意代码转换为可交互的知识图谱，支持探索、搜索和提问，帮助开发者深入理解代码逻辑。采用TypeScript开发，兼容Claude Code、Codex等多种AI编程辅助工具，通过图形化界面增强代码可读性。",
+          "language": "TypeScript",
+          "stars": 52519,
+          "forks": 4310,
+          "stars_today": 0,
+          "stars_this_week": 9895,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1779,
+            "repo_age_days": 82,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 162,
+            "pr_count": 209,
+            "star_fork_ratio": 12.19
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-05T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 9,
+          "Skills": 3,
+          "Agent": 4
+        }
+      }
     }
   ]
 }

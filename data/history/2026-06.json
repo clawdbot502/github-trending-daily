@@ -1574,6 +1574,320 @@
           "Agent": 4
         }
       }
+    },
+    {
+      "date": "2026-06-06",
+      "generated_at": "2026-06-06T09:12:51.917Z",
+      "projects": [
+        {
+          "id": "chopratejas/headroom",
+          "name": "headroom",
+          "owner": "chopratejas",
+          "url": "https://github.com/chopratejas/headroom",
+          "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+          "ai_summary": "Headroom 是一个压缩工具，用于在数据到达 LLM 前压缩工具输出、日志、文件和 RAG 块，减少 60-95% 的 token 数量同时保持答案质量。该项目提供库、代理和 MCP 服务器实现，采用高效的文本压缩算法优化处理流程。",
+          "language": "Python",
+          "stars": 14961,
+          "forks": 953,
+          "stars_today": 2473,
+          "stars_this_week": 11993,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4858,
+            "repo_age_days": 149,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 200,
+            "pr_count": 435,
+            "star_fork_ratio": 15.7
+          },
+          "trending_days": 4,
+          "first_seen": "2026-06-03T00:00:00.000Z"
+        },
+        {
+          "id": "NousResearch/hermes-agent",
+          "name": "hermes-agent",
+          "owner": "NousResearch",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "ai_summary": "Hermes-agent 是一个可成长的智能代理框架，旨在通过持续学习适应用户需求。该项目基于 Python 实现，采用模块化设计支持功能动态扩展。",
+          "language": "Python",
+          "stars": 183951,
+          "forks": 31523,
+          "stars_today": 1845,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1112,
+            "repo_age_days": 318,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 18397,
+            "pr_count": 30416,
+            "star_fork_ratio": 5.84
+          },
+          "trending_days": 3,
+          "first_seen": "2026-06-04T00:00:00.000Z"
+        },
+        {
+          "id": "affaan-m/ECC",
+          "name": "ECC",
+          "owner": "affaan-m",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "ai_summary": "ECC 是针对 Claude 系列模型的性能优化系统，集成技能、记忆和安全等核心功能。该项目使用 JavaScript 开发，采用研究优先的开发方法优化 AI 代码生成效率。",
+          "language": "JavaScript",
+          "stars": 208656,
+          "forks": 32001,
+          "stars_today": 1361,
+          "stars_this_week": 10326,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1217,
+            "repo_age_days": 139,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 105,
+            "pr_count": 1495,
+            "star_fork_ratio": 6.52
+          },
+          "trending_days": 4,
+          "first_seen": "2026-06-03T00:00:00.000Z"
+        },
+        {
+          "id": "PaddlePaddle/PaddleOCR",
+          "name": "PaddleOCR",
+          "owner": "PaddlePaddle",
+          "url": "https://github.com/PaddlePaddle/PaddleOCR",
+          "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+          "ai_summary": "PaddleOCR 是一个强大的轻量级 OCR 工具包，可将 PDF 或图像文档转换为结构化数据，为 AI 处理提供支持。基于 PaddlePaddle 深度学习框架，支持 100 多种语言的文字识别，具备高精度和高效能。",
+          "language": "Python",
+          "stars": 80688,
+          "forks": 10640,
+          "stars_today": 747,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3487,
+            "repo_age_days": 2219,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 204,
+            "pr_count": 3993,
+            "star_fork_ratio": 7.58
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-05T00:00:00.000Z"
+        },
+        {
+          "id": "mvanhorn/last30days-skill",
+          "name": "last30days-skill",
+          "owner": "mvanhorn",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+          "ai_summary": "last30days-skill 是一个 AI 代理技能，能够跨 Reddit、X、YouTube 等平台研究任何主题并生成基于事实的摘要。利用 Python 实现多源数据抓取与自然语言处理技术，自动合成高质量内容摘要。",
+          "language": "Python",
+          "stars": 28378,
+          "forks": 2402,
+          "stars_today": 731,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5701,
+            "repo_age_days": 133,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 96,
+            "pr_count": 350,
+            "star_fork_ratio": 11.81
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-05T00:00:00.000Z"
+        },
+        {
+          "id": "NVIDIA/cosmos",
+          "name": "cosmos",
+          "owner": "NVIDIA",
+          "url": "https://github.com/NVIDIA/cosmos",
+          "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+          "ai_summary": "NVIDIA Cosmos 是一个开放的世界模型平台，提供数据集和工具，用于开发机器人、自动驾驶等物理 AI 应用。基于 Jupyter Notebook 构建，整合了先进的仿真与机器学习技术，支持复杂场景建模。",
+          "language": "Jupyter Notebook",
+          "stars": 9522,
+          "forks": 605,
+          "stars_today": 479,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5139,
+            "repo_age_days": 522,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 10,
+            "pr_count": 45,
+            "star_fork_ratio": 15.74
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-05T00:00:00.000Z"
+        },
+        {
+          "id": "CopilotKit/CopilotKit",
+          "name": "CopilotKit",
+          "owner": "CopilotKit",
+          "url": "https://github.com/CopilotKit/CopilotKit",
+          "description": "The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol",
+          "ai_summary": "CopilotKit 是一个面向智能代理和生成式 UI 的前端开发框架。采用 React 和 Angular 实现，基于 AG-UI 协议构建。",
+          "language": "TypeScript",
+          "stars": 32886,
+          "forks": 4212,
+          "stars_today": 366,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1143,
+            "repo_age_days": 1083,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 531,
+            "pr_count": 4028,
+            "star_fork_ratio": 7.81
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-06T00:00:00.000Z"
+        },
+        {
+          "id": "github/copilot-sdk",
+          "name": "copilot-sdk",
+          "owner": "github",
+          "url": "https://github.com/github/copilot-sdk",
+          "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+          "ai_summary": "copilot-sdk 是 GitHub Copilot Agent 的多平台集成开发工具包。使用 Java 实现，支持跨平台应用和服务接入。",
+          "language": "Java",
+          "stars": 9330,
+          "forks": 1232,
+          "stars_today": 309,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 6600,
+            "repo_age_days": 143,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 167,
+            "pr_count": 891,
+            "star_fork_ratio": 7.57
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-06T00:00:00.000Z"
+        },
+        {
+          "id": "MemPalace/mempalace",
+          "name": "mempalace",
+          "owner": "MemPalace",
+          "url": "https://github.com/MemPalace/mempalace",
+          "description": "The best-benchmarked open-source AI memory system. And it's free.",
+          "ai_summary": "MemPalace 是性能领先的开源 AI 记忆系统。基于 Python 实现，提供高效的记忆存储和检索能力。",
+          "language": "Python",
+          "stars": 54012,
+          "forks": 7089,
+          "stars_today": 227,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 70,
+          "security_details": {
+            "author_age_days": 56,
+            "repo_age_days": 62,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 567,
+            "pr_count": 1022,
+            "star_fork_ratio": 7.62
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-06T00:00:00.000Z"
+        },
+        {
+          "id": "aquasecurity/trivy",
+          "name": "trivy",
+          "owner": "aquasecurity",
+          "url": "https://github.com/aquasecurity/trivy",
+          "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+          "ai_summary": "Trivy 是一个综合性安全扫描工具，用于检测容器、Kubernetes、代码仓库和云环境中的漏洞、错误配置、敏感信息和软件物料清单(SBOM)。该项目采用 Go 语言编写，支持多种目标扫描，具有轻量级、快速扫描和低误报率的特点。",
+          "language": "Go",
+          "stars": 35902,
+          "forks": 447,
+          "stars_today": 207,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4016,
+            "repo_age_days": 2613,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 245,
+            "pr_count": 4690,
+            "star_fork_ratio": 80.32
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-05T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 7,
+          "Skills": 5,
+          "Agent": 6
+        }
+      }
     }
   ]
 }

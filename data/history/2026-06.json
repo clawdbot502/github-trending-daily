@@ -2519,6 +2519,324 @@
           "Agent": 6
         }
       }
+    },
+    {
+      "date": "2026-06-09",
+      "generated_at": "2026-06-09T10:24:00.971Z",
+      "projects": [
+        {
+          "id": "mvanhorn/last30days-skill",
+          "name": "last30days-skill",
+          "owner": "mvanhorn",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+          "ai_summary": "AI代理技能，通过研究Reddit、X、YouTube等平台内容生成可靠的主题摘要。采用多平台数据抓取与融合技术，结合大语言模型实现信息提炼。",
+          "language": "Python",
+          "stars": 35921,
+          "forks": 2927,
+          "stars_today": 3558,
+          "stars_this_week": 6616,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5704,
+            "repo_age_days": 136,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 127,
+            "pr_count": 378,
+            "star_fork_ratio": 12.27
+          },
+          "trending_days": 5,
+          "first_seen": "2026-06-05T00:00:00.000Z"
+        },
+        {
+          "id": "RyanCodrai/turbovec",
+          "name": "turbovec",
+          "owner": "RyanCodrai",
+          "url": "https://github.com/RyanCodrai/turbovec",
+          "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+          "ai_summary": "基于TurboQuant的向量索引库，支持高效相似性搜索。使用Rust编写核心逻辑并通过Python绑定提供跨语言调用能力。",
+          "language": "Python",
+          "stars": 9640,
+          "forks": 837,
+          "stars_today": 1729,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "量化"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4142,
+            "repo_age_days": 74,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 14,
+            "pr_count": 57,
+            "star_fork_ratio": 11.52
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-08T00:00:00.000Z"
+        },
+        {
+          "id": "aaif-goose/goose",
+          "name": "goose",
+          "owner": "aaif-goose",
+          "url": "https://github.com/aaif-goose/goose",
+          "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+          "ai_summary": "可扩展的AI代理框架，支持代码建议之外的安装、执行、测试等开发全流程操作。基于Rust构建，通过插件架构集成多模态LLM能力。",
+          "language": "Rust",
+          "stars": 48279,
+          "forks": 5077,
+          "stars_today": 699,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 75,
+            "repo_age_days": 654,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 343,
+            "pr_count": 7084,
+            "star_fork_ratio": 9.51
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-08T00:00:00.000Z"
+        },
+        {
+          "id": "Panniantong/Agent-Reach",
+          "name": "Agent-Reach",
+          "owner": "Panniantong",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+          "ai_summary": "该项目为AI代理提供跨平台网络内容抓取功能，支持Twitter、Reddit、YouTube等主流平台的无API费用访问。采用Python CLI实现，通过模拟浏览器操作绕过平台API限制。",
+          "language": "Python",
+          "stars": 25043,
+          "forks": 2080,
+          "stars_today": 679,
+          "stars_this_week": 3006,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2043,
+            "repo_age_days": 105,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 73,
+            "pr_count": 215,
+            "star_fork_ratio": 12.04
+          },
+          "trending_days": 3,
+          "first_seen": "2026-06-07T00:00:00.000Z"
+        },
+        {
+          "id": "google/skills",
+          "name": "skills",
+          "owner": "google",
+          "url": "https://github.com/google/skills",
+          "description": "Agent Skills for Google products and technologies",
+          "ai_summary": "该项目是Google技术栈的智能代理技能库，提供与Google产品对接的标准能力模块。基于Python构建，采用模块化设计实现技能快速集成。",
+          "language": "Python",
+          "stars": 12772,
+          "forks": 986,
+          "stars_today": 461,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5256,
+            "repo_age_days": 69,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 16,
+            "pr_count": 85,
+            "star_fork_ratio": 12.95
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-08T00:00:00.000Z"
+        },
+        {
+          "id": "CopilotKit/CopilotKit",
+          "name": "CopilotKit",
+          "owner": "CopilotKit",
+          "url": "https://github.com/CopilotKit/CopilotKit",
+          "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
+          "ai_summary": "该项目是面向智能代理和生成式UI的前端开发框架，支持React、Angular等多平台集成。基于TypeScript实现，采用AG-UI协议统一交互规范。",
+          "language": "TypeScript",
+          "stars": 34371,
+          "forks": 4319,
+          "stars_today": 378,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1146,
+            "repo_age_days": 1086,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 544,
+            "pr_count": 4063,
+            "star_fork_ratio": 7.96
+          },
+          "trending_days": 4,
+          "first_seen": "2026-06-06T00:00:00.000Z"
+        },
+        {
+          "id": "luongnv89/claude-howto",
+          "name": "claude-howto",
+          "owner": "luongnv89",
+          "url": "https://github.com/luongnv89/claude-howto",
+          "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+          "ai_summary": "这是一个通过可视化示例驱动的Claude代码指南，涵盖从基础概念到高级代理的内容，提供可直接复用的代码模板。项目采用Python实现，注重实用性和快速上手。",
+          "language": "Python",
+          "stars": 36097,
+          "forks": 4370,
+          "stars_today": 312,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 4891,
+            "repo_age_days": 213,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 36,
+            "pr_count": 92,
+            "star_fork_ratio": 8.26
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-09T00:00:00.000Z"
+        },
+        {
+          "id": "santifer/career-ops",
+          "name": "career-ops",
+          "owner": "santifer",
+          "url": "https://github.com/santifer/career-ops",
+          "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+          "ai_summary": "基于Claude Code构建的AI求职系统，提供14种技能模式、Go仪表板和批量处理功能。采用JavaScript开发，支持PDF生成等实用功能。",
+          "language": "JavaScript",
+          "stars": 51010,
+          "forks": 10367,
+          "stars_today": 308,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 60,
+          "security_details": {
+            "author_age_days": 136,
+            "repo_age_days": 65,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 195,
+            "pr_count": 530,
+            "star_fork_ratio": 4.92
+          },
+          "trending_days": 3,
+          "first_seen": "2026-06-07T00:00:00.000Z"
+        },
+        {
+          "id": "openai/plugins",
+          "name": "plugins",
+          "owner": "openai",
+          "url": "https://github.com/openai/plugins",
+          "description": "OpenAI Plugins",
+          "ai_summary": "OpenAI官方插件系统，用于扩展平台功能。基于JavaScript实现，提供标准化的插件开发接口。",
+          "language": "JavaScript",
+          "stars": 2442,
+          "forks": 295,
+          "stars_today": 296,
+          "stars_this_week": 899,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 3901,
+            "repo_age_days": 96,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 27,
+            "pr_count": 325,
+            "star_fork_ratio": 8.28
+          },
+          "trending_days": 3,
+          "first_seen": "2026-06-07T00:00:00.000Z"
+        },
+        {
+          "id": "MemPalace/mempalace",
+          "name": "mempalace",
+          "owner": "MemPalace",
+          "url": "https://github.com/MemPalace/mempalace",
+          "description": "The best-benchmarked open-source AI memory system. And it's free.",
+          "ai_summary": "这是一个开源AI记忆系统，提供高性能的记忆存储和检索功能。采用Python实现，通过优化的数据结构和算法实现高效的记忆管理。",
+          "language": "Python",
+          "stars": 55133,
+          "forks": 7163,
+          "stars_today": 170,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 70,
+          "security_details": {
+            "author_age_days": 59,
+            "repo_age_days": 65,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 586,
+            "pr_count": 1042,
+            "star_fork_ratio": 7.7
+          },
+          "trending_days": 4,
+          "first_seen": "2026-06-06T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 7,
+          "Skills": 7,
+          "Agent": 6,
+          "量化": 1
+        }
+      }
     }
   ]
 }

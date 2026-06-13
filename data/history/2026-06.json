@@ -3794,6 +3794,323 @@
           "量化": 1
         }
       }
+    },
+    {
+      "date": "2026-06-13",
+      "generated_at": "2026-06-13T09:46:30.713Z",
+      "projects": [
+        {
+          "id": "apple/container",
+          "name": "container",
+          "owner": "apple",
+          "url": "https://github.com/apple/container",
+          "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+          "ai_summary": "这是一个用于在Mac上通过轻量级虚拟机创建和运行Linux容器的工具。采用Swift编写，并针对Apple芯片进行了优化。",
+          "language": "Swift",
+          "stars": 35598,
+          "forks": 1002,
+          "stars_today": 3504,
+          "stars_this_week": 7781,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4160,
+            "repo_age_days": 378,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 315,
+            "pr_count": 836,
+            "star_fork_ratio": 35.53
+          },
+          "trending_days": 4,
+          "first_seen": "2026-06-10T00:00:00.000Z"
+        },
+        {
+          "id": "addyosmani/agent-skills",
+          "name": "agent-skills",
+          "owner": "addyosmani",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "ai_summary": "该项目提供适用于AI编码代理的生产级工程技能。基于Shell脚本实现，专注于提升AI代理的实用开发能力。",
+          "language": "Shell",
+          "stars": 57402,
+          "forks": 6203,
+          "stars_today": 2656,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 6159,
+            "repo_age_days": 117,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 132,
+            "pr_count": 182,
+            "star_fork_ratio": 9.25
+          },
+          "trending_days": 4,
+          "first_seen": "2026-06-10T00:00:00.000Z"
+        },
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "这是一个有效的代理技能框架和软件开发方法论。通过Shell脚本实现，强调实际可操作的开发流程。",
+          "language": "Shell",
+          "stars": 226377,
+          "forks": 20114,
+          "stars_today": 1275,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6363,
+            "repo_age_days": 246,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 277,
+            "pr_count": 868,
+            "star_fork_ratio": 11.25
+          },
+          "trending_days": 4,
+          "first_seen": "2026-06-10T00:00:00.000Z"
+        },
+        {
+          "id": "msitarzewski/agency-agents",
+          "name": "agency-agents",
+          "owner": "msitarzewski",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+          "ai_summary": "提供一套完整的AI代理解决方案，涵盖从前端开发到社区管理的多种专业角色。基于Shell脚本实现，每个代理都具有特定性格、处理流程和已验证的交付成果。",
+          "language": "Shell",
+          "stars": 112672,
+          "forks": 18362,
+          "stars_today": 1026,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5082,
+            "repo_age_days": 242,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 75,
+            "pr_count": 380,
+            "star_fork_ratio": 6.14
+          },
+          "trending_days": 3,
+          "first_seen": "2026-06-11T00:00:00.000Z"
+        },
+        {
+          "id": "phuryn/pm-skills",
+          "name": "pm-skills",
+          "owner": "phuryn",
+          "url": "https://github.com/phuryn/pm-skills",
+          "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+          "ai_summary": "构建项目管理技能市场，提供从需求发现到增长策略的100多种代理技能和插件。采用模块化设计，支持快速组合不同功能单元完成复杂任务流。",
+          "language": "",
+          "stars": 17306,
+          "forks": 1779,
+          "stars_today": 827,
+          "stars_this_week": 4839,
+          "category": "hot",
+          "tags": [
+            "量化",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 4386,
+            "repo_age_days": 103,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 24,
+            "pr_count": 20,
+            "star_fork_ratio": 9.73
+          },
+          "trending_days": 4,
+          "first_seen": "2026-06-10T00:00:00.000Z"
+        },
+        {
+          "id": "maziyarpanahi/openmed",
+          "name": "openmed",
+          "owner": "maziyarpanahi",
+          "url": "https://github.com/maziyarpanahi/openmed",
+          "description": "open-source healthcare ai",
+          "ai_summary": "开源医疗AI平台，致力于通过人工智能技术提升医疗健康服务。基于Python构建，提供可扩展的算法框架和医疗数据处理工具。",
+          "language": "Python",
+          "stars": 3302,
+          "forks": 315,
+          "stars_today": 515,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4615,
+            "repo_age_days": 251,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 75,
+            "pr_count": 84,
+            "star_fork_ratio": 10.48
+          },
+          "trending_days": 3,
+          "first_seen": "2026-06-11T00:00:00.000Z"
+        },
+        {
+          "id": "iptv-org/iptv",
+          "name": "iptv",
+          "owner": "iptv-org",
+          "url": "https://github.com/iptv-org/iptv",
+          "description": "Collection of publicly available IPTV channels from all over the world",
+          "ai_summary": "提供全球公开IPTV频道的集合，支持流媒体播放。基于TypeScript实现，采用模块化架构便于扩展和维护。",
+          "language": "TypeScript",
+          "stars": 118211,
+          "forks": 6318,
+          "stars_today": 179,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2449,
+            "repo_age_days": 2767,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 119,
+            "pr_count": 7674,
+            "star_fork_ratio": 18.71
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-13T00:00:00.000Z"
+        },
+        {
+          "id": "mvanhorn/last30days-skill",
+          "name": "last30days-skill",
+          "owner": "mvanhorn",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+          "ai_summary": "AI代理技能，可跨Reddit、X、YouTube等平台研究任意主题并生成摘要。使用Python开发，整合多平台API实现数据抓取与合成。",
+          "language": "Python",
+          "stars": 40737,
+          "forks": 3283,
+          "stars_today": 0,
+          "stars_this_week": 12257,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5708,
+            "repo_age_days": 140,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 157,
+            "pr_count": 402,
+            "star_fork_ratio": 12.41
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-13T00:00:00.000Z"
+        },
+        {
+          "id": "chopratejas/headroom",
+          "name": "headroom",
+          "owner": "chopratejas",
+          "url": "https://github.com/chopratejas/headroom",
+          "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+          "ai_summary": "压缩工具输出、日志及RAG数据以减少LLM处理的token数量。基于Python构建，提供库、代理和MCP服务器多种部署方式。",
+          "language": "Python",
+          "stars": 25360,
+          "forks": 1671,
+          "stars_today": 0,
+          "stars_this_week": 10184,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4865,
+            "repo_age_days": 156,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 231,
+            "pr_count": 605,
+            "star_fork_ratio": 15.18
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-13T00:00:00.000Z"
+        },
+        {
+          "id": "Leonxlnx/taste-skill",
+          "name": "taste-skill",
+          "owner": "Leonxlnx",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+          "ai_summary": "Taste-Skill 是一个提升 AI 生成内容质量的工具，通过过滤机制避免生成平庸、泛泛的内容。该项目基于 Shell 脚本实现，采用轻量级设计，可快速集成到现有 AI 工作流中。",
+          "language": "Shell",
+          "stars": 42667,
+          "forks": 2979,
+          "stars_today": 0,
+          "stars_this_week": 8651,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 344,
+            "repo_age_days": 113,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 26,
+            "pr_count": 25,
+            "star_fork_ratio": 14.32
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-13T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 8,
+          "Skills": 6,
+          "Agent": 5,
+          "量化": 1
+        }
+      }
     }
   ]
 }

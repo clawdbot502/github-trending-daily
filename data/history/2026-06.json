@@ -4111,6 +4111,323 @@
           "量化": 1
         }
       }
+    },
+    {
+      "date": "2026-06-14",
+      "generated_at": "2026-06-14T10:15:38.057Z",
+      "projects": [
+        {
+          "id": "addyosmani/agent-skills",
+          "name": "agent-skills",
+          "owner": "addyosmani",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "ai_summary": "该项目为AI编码代理提供生产级工程技能支持。基于Shell脚本实现，专注于提升AI代理在真实开发环境中的实用能力。",
+          "language": "Shell",
+          "stars": 58928,
+          "forks": 6377,
+          "stars_today": 1514,
+          "stars_this_week": 9348,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 6160,
+            "repo_age_days": 118,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 135,
+            "pr_count": 192,
+            "star_fork_ratio": 9.24
+          },
+          "trending_days": 5,
+          "first_seen": "2026-06-10T00:00:00.000Z"
+        },
+        {
+          "id": "apple/container",
+          "name": "container",
+          "owner": "apple",
+          "url": "https://github.com/apple/container",
+          "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+          "ai_summary": "该工具用于在Mac上通过轻量级虚拟机创建和运行Linux容器。采用Swift编写并针对Apple芯片优化，实现了原生高效的容器管理。",
+          "language": "Swift",
+          "stars": 36644,
+          "forks": 1045,
+          "stars_today": 1487,
+          "stars_this_week": 9173,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4161,
+            "repo_age_days": 379,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 325,
+            "pr_count": 844,
+            "star_fork_ratio": 35.07
+          },
+          "trending_days": 5,
+          "first_seen": "2026-06-10T00:00:00.000Z"
+        },
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "这是一个有效的代理技能框架和软件开发方法论。通过Shell实现，提供可操作的代理开发实践方案。",
+          "language": "Shell",
+          "stars": 227351,
+          "forks": 20217,
+          "stars_today": 924,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6364,
+            "repo_age_days": 247,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 283,
+            "pr_count": 872,
+            "star_fork_ratio": 11.25
+          },
+          "trending_days": 5,
+          "first_seen": "2026-06-10T00:00:00.000Z"
+        },
+        {
+          "id": "NVIDIA/SkillSpector",
+          "name": "SkillSpector",
+          "owner": "NVIDIA",
+          "url": "https://github.com/NVIDIA/SkillSpector",
+          "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+          "ai_summary": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks. 使用Python开发，专注于AI技能的安全检测，识别恶意模式和潜在风险。",
+          "language": "Python",
+          "stars": 4762,
+          "forks": 367,
+          "stars_today": 804,
+          "stars_this_week": 2799,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5147,
+            "repo_age_days": 85,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 37,
+            "pr_count": 26,
+            "star_fork_ratio": 12.98
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-14T00:00:00.000Z"
+        },
+        {
+          "id": "iptv-org/iptv",
+          "name": "iptv",
+          "owner": "iptv-org",
+          "url": "https://github.com/iptv-org/iptv",
+          "description": "Collection of publicly available IPTV channels from all over the world",
+          "ai_summary": "Collection of publicly available IPTV channels from all over the world. 基于TypeScript实现，提供全球公开IPTV频道的集中管理与访问。",
+          "language": "TypeScript",
+          "stars": 119649,
+          "forks": 6402,
+          "stars_today": 530,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2450,
+            "repo_age_days": 2768,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 73,
+            "pr_count": 7678,
+            "star_fork_ratio": 18.69
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-13T00:00:00.000Z"
+        },
+        {
+          "id": "LMCache/LMCache",
+          "name": "LMCache",
+          "owner": "LMCache",
+          "url": "https://github.com/LMCache/LMCache",
+          "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
+          "ai_summary": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer. 采用Python编写，通过高效的键值缓存层加速大型语言模型性能。",
+          "language": "Python",
+          "stars": 9009,
+          "forks": 1312,
+          "stars_today": 238,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 746,
+            "repo_age_days": 746,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 312,
+            "pr_count": 2537,
+            "star_fork_ratio": 6.87
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-14T00:00:00.000Z"
+        },
+        {
+          "id": "kenn-io/agentsview",
+          "name": "agentsview",
+          "owner": "kenn-io",
+          "url": "https://github.com/kenn-io/agentsview",
+          "description": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!",
+          "ai_summary": "agentsview 是一个本地优先的会话智能与分析工具，专为 Claude Code、Codex 等 20 多种编码代理设计。采用 Go 语言实现，提供比 ccusage 快 100 倍的性能替代方案。",
+          "language": "Go",
+          "stars": 2512,
+          "forks": 224,
+          "stars_today": 190,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 127,
+            "repo_age_days": 114,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 91,
+            "pr_count": 485,
+            "star_fork_ratio": 11.21
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-14T00:00:00.000Z"
+        },
+        {
+          "id": "andrewyng/aisuite",
+          "name": "aisuite",
+          "owner": "andrewyng",
+          "url": "https://github.com/andrewyng/aisuite",
+          "description": "Simple, unified interface to multiple Generative AI providers",
+          "ai_summary": "aisuite 提供了统一的 Python 接口，简化对多家人工智能生成服务提供商的调用。通过抽象化不同 API 的差异，实现便捷的跨平台 AI 功能集成。",
+          "language": "Python",
+          "stars": 14238,
+          "forks": 1493,
+          "stars_today": 127,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4855,
+            "repo_age_days": 713,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 133,
+            "pr_count": 206,
+            "star_fork_ratio": 9.54
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-14T00:00:00.000Z"
+        },
+        {
+          "id": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "name": "system-prompts-and-models-of-ai-tools",
+          "owner": "x1xhlol",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+          "ai_summary": "该项目收集整理了包括 Claude Code、Devin AI、Replit 等 20 余种 AI 工具的系统提示词和模型信息。涵盖开源及商业产品的内部工具实现细节，为开发者提供参考。",
+          "language": "",
+          "stars": 140412,
+          "forks": 34675,
+          "stars_today": 109,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 602,
+            "repo_age_days": 465,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 153,
+            "pr_count": 202,
+            "star_fork_ratio": 4.05
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-14T00:00:00.000Z"
+        },
+        {
+          "id": "mvanhorn/last30days-skill",
+          "name": "last30days-skill",
+          "owner": "mvanhorn",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+          "ai_summary": "这是一个AI代理技能项目，能够跨Reddit、X、YouTube、HN、Polymarket和网页研究任何主题并生成基于事实的总结。项目使用Python实现，通过整合多平台API抓取数据并利用自然语言处理技术进行信息提炼。",
+          "language": "Python",
+          "stars": 41540,
+          "forks": 3370,
+          "stars_today": 0,
+          "stars_this_week": 12602,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5709,
+            "repo_age_days": 141,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 164,
+            "pr_count": 410,
+            "star_fork_ratio": 12.33
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-13T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 9,
+          "Skills": 6,
+          "Agent": 6
+        }
+      }
     }
   ]
 }

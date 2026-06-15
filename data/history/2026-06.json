@@ -4428,6 +4428,321 @@
           "Agent": 6
         }
       }
+    },
+    {
+      "date": "2026-06-15",
+      "generated_at": "2026-06-15T12:54:21.133Z",
+      "projects": [
+        {
+          "id": "iptv-org/iptv",
+          "name": "iptv",
+          "owner": "iptv-org",
+          "url": "https://github.com/iptv-org/iptv",
+          "description": "Collection of publicly available IPTV channels from all over the world",
+          "ai_summary": "提供全球公开IPTV频道的集合，支持流媒体播放。采用TypeScript实现，通过自动化脚本维护频道列表并验证可用性。",
+          "language": "TypeScript",
+          "stars": 122442,
+          "forks": 6568,
+          "stars_today": 2650,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2451,
+            "repo_age_days": 2769,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 89,
+            "pr_count": 7690,
+            "star_fork_ratio": 18.64
+          },
+          "trending_days": 3,
+          "first_seen": "2026-06-13T00:00:00.000Z"
+        },
+        {
+          "id": "NVIDIA/SkillSpector",
+          "name": "SkillSpector",
+          "owner": "NVIDIA",
+          "url": "https://github.com/NVIDIA/SkillSpector",
+          "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+          "ai_summary": "AI技能安全扫描工具，用于检测漏洞、恶意模式和安全风险。基于Python开发，通过静态分析和模式匹配识别潜在威胁。",
+          "language": "Python",
+          "stars": 5950,
+          "forks": 441,
+          "stars_today": 1079,
+          "stars_this_week": 3669,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5148,
+            "repo_age_days": 86,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 65,
+            "pr_count": 40,
+            "star_fork_ratio": 13.49
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-14T00:00:00.000Z"
+        },
+        {
+          "id": "Panniantong/Agent-Reach",
+          "name": "Agent-Reach",
+          "owner": "Panniantong",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+          "ai_summary": "为AI代理提供多平台网络内容抓取能力，覆盖主流社交媒体和视频站点。使用Python构建，通过CLI工具实现零API费用的数据获取。",
+          "language": "Python",
+          "stars": 29431,
+          "forks": 2402,
+          "stars_today": 1045,
+          "stars_this_week": 5468,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2049,
+            "repo_age_days": 111,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 57,
+            "pr_count": 247,
+            "star_fork_ratio": 12.25
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-15T00:00:00.000Z"
+        },
+        {
+          "id": "rohitg00/ai-engineering-from-scratch",
+          "name": "ai-engineering-from-scratch",
+          "owner": "rohitg00",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "ai_summary": "该项目是一个AI工程实践教程，帮助用户从零开始学习、构建并部署AI应用。采用Python实现，涵盖数据处理、模型训练到部署的全流程。",
+          "language": "Python",
+          "stars": 32736,
+          "forks": 5375,
+          "stars_today": 538,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2650,
+            "repo_age_days": 88,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 69,
+            "pr_count": 250,
+            "star_fork_ratio": 6.09
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-15T00:00:00.000Z"
+        },
+        {
+          "id": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+          "name": "Introduction-to-Autonomous-Robots",
+          "owner": "Introduction-to-Autonomous-Robots",
+          "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+          "description": "Introduction to Autonomous Robots",
+          "ai_summary": "该项目是自主机器人领域的入门教材，系统讲解机器人感知、决策与控制原理。使用LaTeX编写，内容结构清晰，适合作为教学参考。",
+          "language": "TeX",
+          "stars": 2955,
+          "forks": 641,
+          "stars_today": 488,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1922,
+            "repo_age_days": 4594,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 7,
+            "pr_count": 34,
+            "star_fork_ratio": 4.61
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-15T00:00:00.000Z"
+        },
+        {
+          "id": "chatwoot/chatwoot",
+          "name": "chatwoot",
+          "owner": "chatwoot",
+          "url": "https://github.com/chatwoot/chatwoot",
+          "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+          "ai_summary": "该项目是开源全渠道客服平台，支持实时聊天、邮件和跨渠道工单管理。基于Ruby on Rails构建，提供可自托管的Intercom/Zendesk替代方案。",
+          "language": "Ruby",
+          "stars": 31473,
+          "forks": 7612,
+          "stars_today": 431,
+          "stars_this_week": 1228,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3502,
+            "repo_age_days": 2497,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1181,
+            "pr_count": 7663,
+            "star_fork_ratio": 4.13
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-15T00:00:00.000Z"
+        },
+        {
+          "id": "mikeroyal/Self-Hosting-Guide",
+          "name": "Self-Hosting-Guide",
+          "owner": "mikeroyal",
+          "url": "https://github.com/mikeroyal/Self-Hosting-Guide",
+          "description": "Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
+          "ai_summary": "提供全面的自托管指南，涵盖本地部署和管理软件应用的方法，包括云服务、LLMs、WireGuard等技术。采用模块化结构，整合Docker、自动化工具和网络配置方案，适用于个人或组织。",
+          "language": "Dockerfile",
+          "stars": 20608,
+          "forks": 1047,
+          "stars_today": 126,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2765,
+            "repo_age_days": 1589,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 57,
+            "pr_count": 327,
+            "star_fork_ratio": 19.68
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-15T00:00:00.000Z"
+        },
+        {
+          "id": "mvanhorn/last30days-skill",
+          "name": "last30days-skill",
+          "owner": "mvanhorn",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+          "ai_summary": "AI代理技能，可跨Reddit、X、YouTube等平台研究任意主题并生成综合摘要。基于Python实现，结合多源数据抓取与NLP技术，输出经过验证的结论。",
+          "language": "Python",
+          "stars": 42560,
+          "forks": 3461,
+          "stars_today": 0,
+          "stars_this_week": 12053,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5710,
+            "repo_age_days": 142,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 171,
+            "pr_count": 415,
+            "star_fork_ratio": 12.3
+          },
+          "trending_days": 3,
+          "first_seen": "2026-06-13T00:00:00.000Z"
+        },
+        {
+          "id": "chopratejas/headroom",
+          "name": "headroom",
+          "owner": "chopratejas",
+          "url": "https://github.com/chopratejas/headroom",
+          "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+          "ai_summary": "面向LLM的压缩工具，可减少工具输出、日志等内容的60-95% token数量而不影响答案准确性。提供Python库、代理服务和MCP服务器三种实现方式，采用高效压缩算法。",
+          "language": "Python",
+          "stars": 28249,
+          "forks": 1913,
+          "stars_today": 0,
+          "stars_this_week": 10653,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4867,
+            "repo_age_days": 158,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 268,
+            "pr_count": 638,
+            "star_fork_ratio": 14.77
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-15T00:00:00.000Z"
+        },
+        {
+          "id": "addyosmani/agent-skills",
+          "name": "agent-skills",
+          "owner": "addyosmani",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "ai_summary": "该项目为AI编程代理提供生产级工程技能训练方案。通过Shell脚本实现自动化测试、代码质量检查等关键工程实践，强化AI代理的工业级开发能力。",
+          "language": "Shell",
+          "stars": 60013,
+          "forks": 6502,
+          "stars_today": 0,
+          "stars_this_week": 10445,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 6161,
+            "repo_age_days": 119,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 138,
+            "pr_count": 195,
+            "star_fork_ratio": 9.23
+          },
+          "trending_days": 6,
+          "first_seen": "2026-06-10T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 9,
+          "Skills": 5,
+          "Agent": 5
+        }
+      }
     }
   ]
 }

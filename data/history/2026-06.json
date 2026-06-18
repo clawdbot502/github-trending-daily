@@ -5378,6 +5378,320 @@
           "Agent": 5
         }
       }
+    },
+    {
+      "date": "2026-06-18",
+      "generated_at": "2026-06-18T11:01:09.730Z",
+      "projects": [
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "ai_summary": "该项目提供实用工程师技能集合，直接来自作者的.claude目录。采用Shell脚本实现，聚焦高效命令行工具与工作流优化。",
+          "language": "Shell",
+          "stars": 134617,
+          "forks": 11677,
+          "stars_today": 1523,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3334,
+            "repo_age_days": 134,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 81,
+            "pr_count": 45,
+            "star_fork_ratio": 11.53
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-17T00:00:00.000Z"
+        },
+        {
+          "id": "Panniantong/Agent-Reach",
+          "name": "Agent-Reach",
+          "owner": "Panniantong",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+          "ai_summary": "为AI代理提供全网信息获取能力，支持多平台内容读取与搜索。基于Python构建，通过CLI实现零API费用的跨平台数据抓取方案。",
+          "language": "Python",
+          "stars": 33938,
+          "forks": 2716,
+          "stars_today": 1161,
+          "stars_this_week": 6855,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2052,
+            "repo_age_days": 114,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 71,
+            "pr_count": 261,
+            "star_fork_ratio": 12.5
+          },
+          "trending_days": 4,
+          "first_seen": "2026-06-15T00:00:00.000Z"
+        },
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "构建智能体技能框架与软件开发方法论的实际解决方案。采用Shell实现，强调可操作的代理化技能体系与实践导向的工程方法。",
+          "language": "Shell",
+          "stars": 231787,
+          "forks": 20591,
+          "stars_today": 1129,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6368,
+            "repo_age_days": 251,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 268,
+            "pr_count": 899,
+            "star_fork_ratio": 11.26
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-17T00:00:00.000Z"
+        },
+        {
+          "id": "google-research/timesfm",
+          "name": "timesfm",
+          "owner": "google-research",
+          "url": "https://github.com/google-research/timesfm",
+          "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+          "ai_summary": "TimesFM 是 Google Research 开发的预训练时间序列基础模型，用于时间序列预测任务。该模型基于 Transformer 架构，通过大规模预训练提升泛化能力，支持零样本或少样本预测。",
+          "language": "Python",
+          "stars": 22273,
+          "forks": 2160,
+          "stars_today": 606,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2814,
+            "repo_age_days": 779,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 214,
+            "pr_count": 197,
+            "star_fork_ratio": 10.31
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-18T00:00:00.000Z"
+        },
+        {
+          "id": "chatwoot/chatwoot",
+          "name": "chatwoot",
+          "owner": "chatwoot",
+          "url": "https://github.com/chatwoot/chatwoot",
+          "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+          "ai_summary": "Chatwoot 是开源的实时聊天和邮件支持系统，提供全渠道客户服务平台。采用 Ruby on Rails 构建，支持自托管部署，可作为 Intercom 或 Zendesk 的替代方案。",
+          "language": "Ruby",
+          "stars": 32512,
+          "forks": 7724,
+          "stars_today": 264,
+          "stars_this_week": 2166,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3505,
+            "repo_age_days": 2500,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1192,
+            "pr_count": 7700,
+            "star_fork_ratio": 4.21
+          },
+          "trending_days": 4,
+          "first_seen": "2026-06-15T00:00:00.000Z"
+        },
+        {
+          "id": "bytedance/UI-TARS-desktop",
+          "name": "UI-TARS-desktop",
+          "owner": "bytedance",
+          "url": "https://github.com/bytedance/UI-TARS-desktop",
+          "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+          "ai_summary": "UI-TARS-desktop 是多模态 AI 智能体开发框架，整合前沿 AI 模型与智能体基础设施。基于 TypeScript 实现，提供桌面端开发环境，支持快速构建复杂 AI 代理应用。",
+          "language": "TypeScript",
+          "stars": 36798,
+          "forks": 3706,
+          "stars_today": 150,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4812,
+            "repo_age_days": 515,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 406,
+            "pr_count": 1319,
+            "star_fork_ratio": 9.93
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-17T00:00:00.000Z"
+        },
+        {
+          "id": "addyosmani/agent-skills",
+          "name": "agent-skills",
+          "owner": "addyosmani",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "ai_summary": "该项目为AI编码代理提供生产级工程技能支持。采用Shell脚本实现，聚焦于提升AI代理在真实开发环境中的实用能力。",
+          "language": "Shell",
+          "stars": 62635,
+          "forks": 6810,
+          "stars_today": 0,
+          "stars_this_week": 11684,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 6164,
+            "repo_age_days": 122,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 141,
+            "pr_count": 198,
+            "star_fork_ratio": 9.2
+          },
+          "trending_days": 9,
+          "first_seen": "2026-06-10T00:00:00.000Z"
+        },
+        {
+          "id": "apple/container",
+          "name": "container",
+          "owner": "apple",
+          "url": "https://github.com/apple/container",
+          "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+          "ai_summary": "用于在Mac上通过轻量级虚拟机创建和运行Linux容器的工具。基于Swift开发，针对Apple芯片进行了专门优化。",
+          "language": "Swift",
+          "stars": 38432,
+          "forks": 1105,
+          "stars_today": 0,
+          "stars_this_week": 9735,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4165,
+            "repo_age_days": 383,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 342,
+            "pr_count": 858,
+            "star_fork_ratio": 34.78
+          },
+          "trending_days": 3,
+          "first_seen": "2026-06-16T00:00:00.000Z"
+        },
+        {
+          "id": "chopratejas/headroom",
+          "name": "headroom",
+          "owner": "chopratejas",
+          "url": "https://github.com/chopratejas/headroom",
+          "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+          "ai_summary": "在数据到达LLM前压缩工具输出、日志、文件和RAG分块的解决方案。通过Python实现多种部署方式，可减少60-95%的token消耗同时保持输出准确性。",
+          "language": "Python",
+          "stars": 32477,
+          "forks": 2188,
+          "stars_today": 0,
+          "stars_this_week": 9475,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4870,
+            "repo_age_days": 161,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 296,
+            "pr_count": 706,
+            "star_fork_ratio": 14.84
+          },
+          "trending_days": 4,
+          "first_seen": "2026-06-15T00:00:00.000Z"
+        },
+        {
+          "id": "iptv-org/iptv",
+          "name": "iptv",
+          "owner": "iptv-org",
+          "url": "https://github.com/iptv-org/iptv",
+          "description": "Collection of publicly available IPTV channels from all over the world",
+          "ai_summary": "该项目是一个全球公开IPTV频道的集合，提供大量免费直播电视频道资源。采用TypeScript开发，通过自动化脚本维护频道列表，支持多种播放器和格式。",
+          "language": "TypeScript",
+          "stars": 125330,
+          "forks": 6822,
+          "stars_today": 0,
+          "stars_this_week": 7355,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2454,
+            "repo_age_days": 2772,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 128,
+            "pr_count": 7699,
+            "star_fork_ratio": 18.37
+          },
+          "trending_days": 6,
+          "first_seen": "2026-06-13T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 9,
+          "Skills": 5,
+          "Agent": 4
+        }
+      }
     }
   ]
 }

@@ -5692,6 +5692,320 @@
           "Agent": 4
         }
       }
+    },
+    {
+      "date": "2026-06-19",
+      "generated_at": "2026-06-19T11:07:39.463Z",
+      "projects": [
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "Superpowers 是一个代理技能框架和软件开发方法论，旨在提升开发效率。它基于 Shell 脚本实现，强调模块化和可扩展性。",
+          "language": "Shell",
+          "stars": 232866,
+          "forks": 20672,
+          "stars_today": 1429,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6369,
+            "repo_age_days": 252,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 269,
+            "pr_count": 905,
+            "star_fork_ratio": 11.26
+          },
+          "trending_days": 3,
+          "first_seen": "2026-06-17T00:00:00.000Z"
+        },
+        {
+          "id": "Kilo-Org/kilocode",
+          "name": "kilocode",
+          "owner": "Kilo-Org",
+          "url": "https://github.com/Kilo-Org/kilocode",
+          "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
+          "ai_summary": "Kilo 是一个一体化代理工程平台，帮助开发者快速构建、部署和迭代代码代理。采用 TypeScript 开发，整合了流行的开源编码代理功能。",
+          "language": "TypeScript",
+          "stars": 22568,
+          "forks": 2718,
+          "stars_today": 1345,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 471,
+            "repo_age_days": 465,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 807,
+            "pr_count": 5981,
+            "star_fork_ratio": 8.3
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-19T00:00:00.000Z"
+        },
+        {
+          "id": "google-research/timesfm",
+          "name": "timesfm",
+          "owner": "google-research",
+          "url": "https://github.com/google-research/timesfm",
+          "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+          "ai_summary": "TimesFM 是 Google Research 开发的时间序列基础模型，用于时间序列预测任务。基于 Python 实现，采用预训练架构处理多样化时间序列数据。",
+          "language": "Python",
+          "stars": 23785,
+          "forks": 2253,
+          "stars_today": 844,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2815,
+            "repo_age_days": 780,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 222,
+            "pr_count": 203,
+            "star_fork_ratio": 10.56
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-18T00:00:00.000Z"
+        },
+        {
+          "id": "zai-org/GLM-5",
+          "name": "GLM-5",
+          "owner": "zai-org",
+          "url": "https://github.com/zai-org/GLM-5",
+          "description": "GLM-5: From Vibe Coding to Agentic Engineering",
+          "ai_summary": "GLM-5是一个从Vibe Coding到Agentic Engineering的演进项目，旨在提升智能体的工程化能力。项目采用先进的架构设计，支持智能体从编码到工程化的全流程开发。",
+          "language": "",
+          "stars": 4332,
+          "forks": 441,
+          "stars_today": 202,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 65,
+          "security_details": {
+            "author_age_days": 327,
+            "repo_age_days": 130,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 34,
+            "pr_count": 13,
+            "star_fork_ratio": 9.82
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-19T00:00:00.000Z"
+        },
+        {
+          "id": "withastro/flue",
+          "name": "flue",
+          "owner": "withastro",
+          "url": "https://github.com/withastro/flue",
+          "description": "The sandbox agent framework.",
+          "ai_summary": "flue是一个沙盒代理框架，用于构建和测试代理应用。基于TypeScript实现，提供灵活的沙盒环境和代理管理功能。",
+          "language": "TypeScript",
+          "stars": 5620,
+          "forks": 310,
+          "stars_today": 162,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2778,
+            "repo_age_days": 131,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 18,
+            "pr_count": 152,
+            "star_fork_ratio": 18.13
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-19T00:00:00.000Z"
+        },
+        {
+          "id": "chopratejas/headroom",
+          "name": "headroom",
+          "owner": "chopratejas",
+          "url": "https://github.com/chopratejas/headroom",
+          "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+          "ai_summary": "headroom是一个压缩工具，用于减少工具输出、日志、文件和RAG块在到达LLM前的token数量。采用Python实现，支持库、代理和MCP服务器模式，压缩率高达60-95%且不影响回答质量。",
+          "language": "Python",
+          "stars": 36372,
+          "forks": 2470,
+          "stars_today": 0,
+          "stars_this_week": 10159,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4871,
+            "repo_age_days": 162,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 321,
+            "pr_count": 729,
+            "star_fork_ratio": 14.73
+          },
+          "trending_days": 5,
+          "first_seen": "2026-06-15T00:00:00.000Z"
+        },
+        {
+          "id": "addyosmani/agent-skills",
+          "name": "agent-skills",
+          "owner": "addyosmani",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "ai_summary": "该项目为AI编程代理提供生产级工程技能，帮助其高效完成编码任务。采用Shell脚本实现，强调标准化、可维护性及自动化最佳实践。",
+          "language": "Shell",
+          "stars": 63132,
+          "forks": 6846,
+          "stars_today": 0,
+          "stars_this_week": 9285,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 6165,
+            "repo_age_days": 123,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 134,
+            "pr_count": 198,
+            "star_fork_ratio": 9.22
+          },
+          "trending_days": 10,
+          "first_seen": "2026-06-10T00:00:00.000Z"
+        },
+        {
+          "id": "iptv-org/iptv",
+          "name": "iptv",
+          "owner": "iptv-org",
+          "url": "https://github.com/iptv-org/iptv",
+          "description": "Collection of publicly available IPTV channels from all over the world",
+          "ai_summary": "该项目聚合全球公开IPTV频道资源，支持多平台播放。基于TypeScript构建，提供结构化频道数据与自动化更新机制。",
+          "language": "TypeScript",
+          "stars": 125627,
+          "forks": 6861,
+          "stars_today": 0,
+          "stars_this_week": 7899,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2455,
+            "repo_age_days": 2773,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 94,
+            "pr_count": 7705,
+            "star_fork_ratio": 18.31
+          },
+          "trending_days": 7,
+          "first_seen": "2026-06-13T00:00:00.000Z"
+        },
+        {
+          "id": "Panniantong/Agent-Reach",
+          "name": "Agent-Reach",
+          "owner": "Panniantong",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+          "ai_summary": "该项目为AI代理提供全网内容访问能力，覆盖主流社交/视频平台。通过Python CLI工具实现零API费用的网页级数据抓取与搜索。",
+          "language": "Python",
+          "stars": 34742,
+          "forks": 2768,
+          "stars_today": 0,
+          "stars_this_week": 7856,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2053,
+            "repo_age_days": 115,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 75,
+            "pr_count": 263,
+            "star_fork_ratio": 12.55
+          },
+          "trending_days": 5,
+          "first_seen": "2026-06-15T00:00:00.000Z"
+        },
+        {
+          "id": "apple/container",
+          "name": "container",
+          "owner": "apple",
+          "url": "https://github.com/apple/container",
+          "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+          "ai_summary": "这是一个用于在 Mac 上通过轻量级虚拟机创建和运行 Linux 容器的工具。采用 Swift 编写，并针对 Apple 芯片进行了优化。",
+          "language": "Swift",
+          "stars": 38715,
+          "forks": 1112,
+          "stars_today": 0,
+          "stars_this_week": 7671,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4166,
+            "repo_age_days": 384,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 338,
+            "pr_count": 862,
+            "star_fork_ratio": 34.82
+          },
+          "trending_days": 4,
+          "first_seen": "2026-06-16T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "Skills": 6,
+          "Agent": 6,
+          "AI": 6
+        }
+      }
     }
   ]
 }

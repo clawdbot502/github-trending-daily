@@ -6006,6 +6006,318 @@
           "AI": 6
         }
       }
+    },
+    {
+      "date": "2026-06-20",
+      "generated_at": "2026-06-20T09:53:19.559Z",
+      "projects": [
+        {
+          "id": "chopratejas/headroom",
+          "name": "headroom",
+          "owner": "chopratejas",
+          "url": "https://github.com/chopratejas/headroom",
+          "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+          "ai_summary": "Headroom 是一个压缩工具，用于在数据到达 LLM 前压缩工具输出、日志、文件和 RAG 块，减少 60-95% 的 token 数量而不影响答案准确性。该项目提供库、代理和 MCP 服务器支持，采用高效的压缩算法优化数据传输。",
+          "language": "Python",
+          "stars": 39940,
+          "forks": 2730,
+          "stars_today": 4005,
+          "stars_this_week": 12793,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4872,
+            "repo_age_days": 163,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 335,
+            "pr_count": 744,
+            "star_fork_ratio": 14.63
+          },
+          "trending_days": 6,
+          "first_seen": "2026-06-15T00:00:00.000Z"
+        },
+        {
+          "id": "google-research/timesfm",
+          "name": "timesfm",
+          "owner": "google-research",
+          "url": "https://github.com/google-research/timesfm",
+          "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+          "ai_summary": "TimesFM 是 Google Research 开发的预训练时间序列基础模型，专注于时间序列预测任务。该模型基于 Transformer 架构，通过大规模预训练提升时间序列分析的泛化能力。",
+          "language": "Python",
+          "stars": 24220,
+          "forks": 2291,
+          "stars_today": 1510,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2816,
+            "repo_age_days": 781,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 223,
+            "pr_count": 204,
+            "star_fork_ratio": 10.57
+          },
+          "trending_days": 3,
+          "first_seen": "2026-06-18T00:00:00.000Z"
+        },
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "Superpowers 是一个有效的智能体技能框架和软件开发方法论，旨在提升开发效率。该项目基于 Shell 脚本实现，强调模块化设计和自动化流程。",
+          "language": "Shell",
+          "stars": 233713,
+          "forks": 20748,
+          "stars_today": 1110,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6370,
+            "repo_age_days": 253,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 273,
+            "pr_count": 910,
+            "star_fork_ratio": 11.26
+          },
+          "trending_days": 4,
+          "first_seen": "2026-06-17T00:00:00.000Z"
+        },
+        {
+          "id": "palmier-io/palmier-pro",
+          "name": "palmier-pro",
+          "owner": "palmier-io",
+          "url": "https://github.com/palmier-io/palmier-pro",
+          "description": "macOS video editor built for AI",
+          "ai_summary": "Palmier-pro 是一款专为 AI 设计的 macOS 视频编辑器，支持高效视频处理与编辑。采用 Swift 开发，优化了 AI 模型集成与视频处理性能。",
+          "language": "Swift",
+          "stars": 2190,
+          "forks": 214,
+          "stars_today": 756,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 723,
+            "repo_age_days": 74,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 24,
+            "pr_count": 38,
+            "star_fork_ratio": 10.23
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-20T00:00:00.000Z"
+        },
+        {
+          "id": "zai-org/GLM-5",
+          "name": "GLM-5",
+          "owner": "zai-org",
+          "url": "https://github.com/zai-org/GLM-5",
+          "description": "GLM-5: From Vibe Coding to Agentic Engineering",
+          "ai_summary": "GLM-5 是一个从 Vibe Coding 到 Agentic Engineering 的演进项目，探索新型编程范式。技术细节未公开，但强调代理工程与编码体验的结合。",
+          "language": "",
+          "stars": 4708,
+          "forks": 474,
+          "stars_today": 480,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 65,
+          "security_details": {
+            "author_age_days": 327,
+            "repo_age_days": 131,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 34,
+            "pr_count": 13,
+            "star_fork_ratio": 9.93
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-19T00:00:00.000Z"
+        },
+        {
+          "id": "withastro/flue",
+          "name": "flue",
+          "owner": "withastro",
+          "url": "https://github.com/withastro/flue",
+          "description": "The sandbox agent framework.",
+          "ai_summary": "Flue 是一个沙盒代理框架，用于构建和测试代理应用。基于 TypeScript 实现，提供模块化设计与灵活的代理环境隔离。",
+          "language": "TypeScript",
+          "stars": 5929,
+          "forks": 330,
+          "stars_today": 309,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2779,
+            "repo_age_days": 132,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 21,
+            "pr_count": 156,
+            "star_fork_ratio": 17.97
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-19T00:00:00.000Z"
+        },
+        {
+          "id": "Lightricks/LTX-2",
+          "name": "LTX-2",
+          "owner": "Lightricks",
+          "url": "https://github.com/Lightricks/LTX-2",
+          "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+          "ai_summary": "LTX-2是官方Python推理和LoRA训练包，用于音频-视频生成模型。采用Python实现，支持LoRA微调技术，提供高效的音视频生成能力。",
+          "language": "Python",
+          "stars": 7730,
+          "forks": 1226,
+          "stars_today": 196,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4916,
+            "repo_age_days": 167,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 95,
+            "pr_count": 51,
+            "star_fork_ratio": 6.31
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-20T00:00:00.000Z"
+        },
+        {
+          "id": "koala73/worldmonitor",
+          "name": "worldmonitor",
+          "owner": "koala73",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+          "ai_summary": "worldmonitor是实时全球情报仪表盘，整合AI新闻聚合、地缘政治监控和基础设施追踪。基于TypeScript构建，提供统一态势感知界面。",
+          "language": "TypeScript",
+          "stars": 57531,
+          "forks": 9154,
+          "stars_today": 156,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 5415,
+            "repo_age_days": 162,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 184,
+            "pr_count": 3671,
+            "star_fork_ratio": 6.28
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-20T00:00:00.000Z"
+        },
+        {
+          "id": "calesthio/OpenMontage",
+          "name": "OpenMontage",
+          "owner": "calesthio",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+          "ai_summary": "OpenMontage是首个开源智能视频制作系统，包含12个流程、52种工具和500+代理技能。通过Python实现，可将AI编程助手转化为完整视频制作工作室。",
+          "language": "Python",
+          "stars": 6513,
+          "forks": 1108,
+          "stars_today": 156,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 391,
+            "repo_age_days": 82,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 64,
+            "pr_count": 54,
+            "star_fork_ratio": 5.88
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-20T00:00:00.000Z"
+        },
+        {
+          "id": "BuilderIO/agent-native",
+          "name": "agent-native",
+          "owner": "BuilderIO",
+          "url": "https://github.com/BuilderIO/agent-native",
+          "description": "A framework for building agent-native applications.",
+          "ai_summary": "agent-native 是一个用于构建原生代理应用的框架，旨在简化代理应用的开发流程。该项目采用 TypeScript 实现，提供模块化架构和高效的运行时环境。",
+          "language": "TypeScript",
+          "stars": 1161,
+          "forks": 122,
+          "stars_today": 147,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 3070,
+            "repo_age_days": 99,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 21,
+            "pr_count": 1329,
+            "star_fork_ratio": 9.52
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-20T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 6,
+          "Skills": 5,
+          "Agent": 5
+        }
+      }
     }
   ]
 }

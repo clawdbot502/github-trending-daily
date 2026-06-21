@@ -6318,6 +6318,319 @@
           "Agent": 5
         }
       }
+    },
+    {
+      "date": "2026-06-21",
+      "generated_at": "2026-06-21T10:21:35.727Z",
+      "projects": [
+        {
+          "id": "chopratejas/headroom",
+          "name": "headroom",
+          "owner": "chopratejas",
+          "url": "https://github.com/chopratejas/headroom",
+          "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+          "ai_summary": "该项目是一个压缩工具，用于在数据到达大语言模型（LLM）前压缩工具输出、日志、文件和RAG块，可减少60-95%的token数量而不影响回答质量。采用Python编写，提供库、代理和MCP服务器三种实现方式。",
+          "language": "Python",
+          "stars": 42702,
+          "forks": 2944,
+          "stars_today": 3795,
+          "stars_this_week": 14982,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4873,
+            "repo_age_days": 164,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 361,
+            "pr_count": 768,
+            "star_fork_ratio": 14.5
+          },
+          "trending_days": 7,
+          "first_seen": "2026-06-15T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "ai_summary": "该项目提供工程师实用技能集合，内容直接来自作者的.claude目录。使用Shell脚本实现，注重实用性和可操作性。",
+          "language": "Shell",
+          "stars": 138782,
+          "forks": 12039,
+          "stars_today": 1395,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3337,
+            "repo_age_days": 137,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 86,
+            "pr_count": 45,
+            "star_fork_ratio": 11.53
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-21T00:00:00.000Z"
+        },
+        {
+          "id": "palmier-io/palmier-pro",
+          "name": "palmier-pro",
+          "owner": "palmier-io",
+          "url": "https://github.com/palmier-io/palmier-pro",
+          "description": "macOS video editor built for AI",
+          "ai_summary": "这是一个专为AI设计的macOS视频编辑器。采用Swift语言开发，针对AI视频处理需求进行了优化。",
+          "language": "Swift",
+          "stars": 4006,
+          "forks": 320,
+          "stars_today": 902,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 724,
+            "repo_age_days": 75,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 37,
+            "pr_count": 46,
+            "star_fork_ratio": 12.52
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-20T00:00:00.000Z"
+        },
+        {
+          "id": "calesthio/OpenMontage",
+          "name": "OpenMontage",
+          "owner": "calesthio",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+          "ai_summary": "OpenMontage 是全球首个开源的智能代理视频制作系统，可将 AI 编程助手转化为完整的视频制作工作室。基于 12 个流水线和 52 种工具，集成 500+ 代理技能，采用模块化 Python 架构实现高效视频生产流程。",
+          "language": "Python",
+          "stars": 7426,
+          "forks": 1190,
+          "stars_today": 677,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 392,
+            "repo_age_days": 83,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 72,
+            "pr_count": 59,
+            "star_fork_ratio": 6.24
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-20T00:00:00.000Z"
+        },
+        {
+          "id": "Kilo-Org/kilocode",
+          "name": "kilocode",
+          "owner": "Kilo-Org",
+          "url": "https://github.com/Kilo-Org/kilocode",
+          "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
+          "ai_summary": "Kilo 是一体化智能代理工程平台，旨在加速代码构建、部署和迭代流程。基于 TypeScript 开发，整合了主流开源编码代理能力，提供可扩展的工程化解决方案。",
+          "language": "TypeScript",
+          "stars": 23503,
+          "forks": 2752,
+          "stars_today": 513,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 473,
+            "repo_age_days": 467,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 797,
+            "pr_count": 6008,
+            "star_fork_ratio": 8.54
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-21T00:00:00.000Z"
+        },
+        {
+          "id": "google-research/timesfm",
+          "name": "timesfm",
+          "owner": "google-research",
+          "url": "https://github.com/google-research/timesfm",
+          "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+          "ai_summary": "TimesFM 是谷歌研发的预训练时间序列基础模型，专注于时间序列预测任务。采用 Transformer 架构，通过大规模时间序列数据预训练实现零样本迁移能力。",
+          "language": "Python",
+          "stars": 24706,
+          "forks": 2344,
+          "stars_today": 433,
+          "stars_this_week": 3655,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2817,
+            "repo_age_days": 782,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 225,
+            "pr_count": 207,
+            "star_fork_ratio": 10.54
+          },
+          "trending_days": 4,
+          "first_seen": "2026-06-18T00:00:00.000Z"
+        },
+        {
+          "id": "withastro/flue",
+          "name": "flue",
+          "owner": "withastro",
+          "url": "https://github.com/withastro/flue",
+          "description": "The sandbox agent framework.",
+          "ai_summary": "Flue 是一个沙盒代理框架，用于隔离和运行不受信任的代码。采用 TypeScript 开发，提供安全的执行环境和模块化架构。",
+          "language": "TypeScript",
+          "stars": 6207,
+          "forks": 350,
+          "stars_today": 316,
+          "stars_this_week": 1012,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2780,
+            "repo_age_days": 133,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 22,
+            "pr_count": 156,
+            "star_fork_ratio": 17.73
+          },
+          "trending_days": 3,
+          "first_seen": "2026-06-19T00:00:00.000Z"
+        },
+        {
+          "id": "jamiepine/voicebox",
+          "name": "voicebox",
+          "owner": "jamiepine",
+          "url": "https://github.com/jamiepine/voicebox",
+          "description": "The open-source AI voice studio. Clone, dictate, create.",
+          "ai_summary": "Voicebox 是开源 AI 语音工作室，支持语音克隆、听写和创作。基于 TypeScript 实现，整合现代语音合成与机器学习技术。",
+          "language": "TypeScript",
+          "stars": 31216,
+          "forks": 3856,
+          "stars_today": 145,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3164,
+            "repo_age_days": 146,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 460,
+            "pr_count": 209,
+            "star_fork_ratio": 8.1
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-21T00:00:00.000Z"
+        },
+        {
+          "id": "twentyhq/twenty",
+          "name": "twenty",
+          "owner": "twentyhq",
+          "url": "https://github.com/twentyhq/twenty",
+          "description": "The open alternative to Salesforce, designed for AI.",
+          "ai_summary": "Twenty 是 Salesforce 的开源替代方案，专为 AI 场景设计。使用 TypeScript 构建，提供模块化 CRM 核心和可扩展的 AI 集成接口。",
+          "language": "TypeScript",
+          "stars": 50989,
+          "forks": 7429,
+          "stars_today": 140,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1297,
+            "repo_age_days": 1297,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 118,
+            "pr_count": 14300,
+            "star_fork_ratio": 6.86
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-21T00:00:00.000Z"
+        },
+        {
+          "id": "Panniantong/Agent-Reach",
+          "name": "Agent-Reach",
+          "owner": "Panniantong",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+          "ai_summary": "该项目为AI代理提供跨平台网络内容抓取能力，支持Twitter、Reddit、YouTube等主流站点。采用Python CLI实现无API费用的自动化数据采集，通过模拟浏览器操作绕过平台限制。",
+          "language": "Python",
+          "stars": 36323,
+          "forks": 2885,
+          "stars_today": 0,
+          "stars_this_week": 8483,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2055,
+            "repo_age_days": 117,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 80,
+            "pr_count": 267,
+            "star_fork_ratio": 12.59
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-21T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 8,
+          "Skills": 5,
+          "Agent": 4
+        }
+      }
     }
   ]
 }

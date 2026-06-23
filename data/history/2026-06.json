@@ -6946,6 +6946,321 @@
           "金融": 1
         }
       }
+    },
+    {
+      "date": "2026-06-23",
+      "generated_at": "2026-06-23T10:23:16.513Z",
+      "projects": [
+        {
+          "id": "calesthio/OpenMontage",
+          "name": "OpenMontage",
+          "owner": "calesthio",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+          "ai_summary": "OpenMontage 是全球首个开源的智能代理视频制作系统，可将 AI 编程助手转化为完整的视频制作工作室。该项目采用 Python 实现，包含 12 个处理管道、52 种工具和 500+ 代理技能，构建了高度模块化的视频处理框架。",
+          "language": "Python",
+          "stars": 13786,
+          "forks": 1681,
+          "stars_today": 2938,
+          "stars_this_week": 6089,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 394,
+            "repo_age_days": 85,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 88,
+            "pr_count": 71,
+            "star_fork_ratio": 8.2
+          },
+          "trending_days": 4,
+          "first_seen": "2026-06-20T00:00:00.000Z"
+        },
+        {
+          "id": "palmier-io/palmier-pro",
+          "name": "palmier-pro",
+          "owner": "palmier-io",
+          "url": "https://github.com/palmier-io/palmier-pro",
+          "description": "macOS video editor built for AI",
+          "ai_summary": "palmier-pro 是专为 AI 设计的 macOS 视频编辑器。该项目使用 Swift 开发，针对 AI 视频处理工作流进行了深度优化，提供了高效的媒体处理能力。",
+          "language": "Swift",
+          "stars": 8093,
+          "forks": 529,
+          "stars_today": 2463,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 726,
+            "repo_age_days": 77,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 50,
+            "pr_count": 84,
+            "star_fork_ratio": 15.3
+          },
+          "trending_days": 4,
+          "first_seen": "2026-06-20T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "ai_summary": "skills 项目收集了工程师实用技能脚本，直接来自作者的 .claude 目录。这些 Shell 脚本提供了经过实战检验的工程解决方案，覆盖常见开发场景。",
+          "language": "Shell",
+          "stars": 142654,
+          "forks": 12320,
+          "stars_today": 2051,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3339,
+            "repo_age_days": 139,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 92,
+            "pr_count": 45,
+            "star_fork_ratio": 11.58
+          },
+          "trending_days": 3,
+          "first_seen": "2026-06-21T00:00:00.000Z"
+        },
+        {
+          "id": "ZhuLinsen/daily_stock_analysis",
+          "name": "daily_stock_analysis",
+          "owner": "ZhuLinsen",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+          "ai_summary": "LLM 驱动的多市场股票智能分析系统，整合多源行情数据与实时新闻，提供决策看板与自动推送功能。基于 Python 实现，支持零成本定时运行，利用 LLM 技术进行数据分析和决策辅助。",
+          "language": "Python",
+          "stars": 46437,
+          "forks": 42161,
+          "stars_today": 1557,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 2854,
+            "repo_age_days": 164,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 39,
+            "pr_count": 1029,
+            "star_fork_ratio": 1.1
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-22T00:00:00.000Z"
+        },
+        {
+          "id": "mukul975/Anthropic-Cybersecurity-Skills",
+          "name": "Anthropic-Cybersecurity-Skills",
+          "owner": "mukul975",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+          "ai_summary": "结构化网络安全技能库，涵盖 817 项技能并映射至 6 大安全框架（如 MITRE ATT&CK 和 NIST CSF 2.0）。采用 Python 实现，兼容 Claude、GitHub Copilot 等 20+ 平台，遵循 Apache 2.0 协议标准化输出。",
+          "language": "Python",
+          "stars": 19150,
+          "forks": 2243,
+          "stars_today": 956,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2853,
+            "repo_age_days": 118,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 24,
+            "pr_count": 48,
+            "star_fork_ratio": 8.54
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-22T00:00:00.000Z"
+        },
+        {
+          "id": "bytedance/deer-flow",
+          "name": "deer-flow",
+          "owner": "bytedance",
+          "url": "https://github.com/bytedance/deer-flow",
+          "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+          "ai_summary": "开源长周期超级智能体框架，支持研究、编码与创作等复杂任务。通过沙盒、记忆模块、工具链及子代理协同机制，以 Python 实现分钟到小时级任务的分布式处理。",
+          "language": "Python",
+          "stars": 73637,
+          "forks": 9948,
+          "stars_today": 738,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4817,
+            "repo_age_days": 412,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 951,
+            "pr_count": 2044,
+            "star_fork_ratio": 7.4
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-22T00:00:00.000Z"
+        },
+        {
+          "id": "garrytan/gstack",
+          "name": "gstack",
+          "owner": "garrytan",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+          "ai_summary": "提供Garry Tan推荐的23种精选工具链，覆盖CEO到QA全流程开发角色。基于TypeScript实现，采用模块化架构整合各类开发工具。",
+          "language": "TypeScript",
+          "stars": 113604,
+          "forks": 16842,
+          "stars_today": 573,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 6528,
+            "repo_age_days": 103,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 723,
+            "pr_count": 1495,
+            "star_fork_ratio": 6.75
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-22T00:00:00.000Z"
+        },
+        {
+          "id": "jamiepine/voicebox",
+          "name": "voicebox",
+          "owner": "jamiepine",
+          "url": "https://github.com/jamiepine/voicebox",
+          "description": "The open-source AI voice studio. Clone, dictate, create.",
+          "ai_summary": "开源AI语音工作室，支持语音克隆、听写和创作功能。使用TypeScript开发，集成现代语音合成与处理技术。",
+          "language": "TypeScript",
+          "stars": 32791,
+          "forks": 3969,
+          "stars_today": 529,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3166,
+            "repo_age_days": 148,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 473,
+            "pr_count": 218,
+            "star_fork_ratio": 8.26
+          },
+          "trending_days": 3,
+          "first_seen": "2026-06-21T00:00:00.000Z"
+        },
+        {
+          "id": "heygen-com/hyperframes",
+          "name": "hyperframes",
+          "owner": "heygen-com",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "ai_summary": "通过编写HTML生成视频内容的开发框架，专为AI智能体设计。基于TypeScript实现，采用声明式语法简化视频渲染流程。",
+          "language": "TypeScript",
+          "stars": 30431,
+          "forks": 2842,
+          "stars_today": 395,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2230,
+            "repo_age_days": 105,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 58,
+            "pr_count": 1496,
+            "star_fork_ratio": 10.71
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-22T00:00:00.000Z"
+        },
+        {
+          "id": "lyogavin/airllm",
+          "name": "airllm",
+          "owner": "lyogavin",
+          "url": "https://github.com/lyogavin/airllm",
+          "description": "AirLLM 70B inference with single 4GB GPU",
+          "ai_summary": "AirLLM 是一个能在单块 4GB GPU 上运行 700 亿参数大模型推理的项目。通过创新的内存优化和计算卸载技术，实现了在低显存设备上的高效推理。",
+          "language": "Jupyter Notebook",
+          "stars": 21226,
+          "forks": 2430,
+          "stars_today": 193,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5370,
+            "repo_age_days": 1106,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 166,
+            "pr_count": 35,
+            "star_fork_ratio": 8.73
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-22T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 8,
+          "Skills": 5,
+          "Agent": 4,
+          "金融": 1
+        }
+      }
     }
   ]
 }

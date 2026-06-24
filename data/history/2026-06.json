@@ -7261,6 +7261,324 @@
           "金融": 1
         }
       }
+    },
+    {
+      "date": "2026-06-24",
+      "generated_at": "2026-06-24T10:01:21.491Z",
+      "projects": [
+        {
+          "id": "calesthio/OpenMontage",
+          "name": "OpenMontage",
+          "owner": "calesthio",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+          "ai_summary": "OpenMontage 是全球首个开源、自主代理的视频制作系统，能将AI编程助手转化为完整的视频制作工作室。该项目包含12个处理管道、52种工具和500多项代理技能，基于Python实现高度模块化和自动化的工作流。",
+          "language": "Python",
+          "stars": 17334,
+          "forks": 2028,
+          "stars_today": 3592,
+          "stars_this_week": 9410,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 395,
+            "repo_age_days": 86,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 100,
+            "pr_count": 84,
+            "star_fork_ratio": 8.55
+          },
+          "trending_days": 5,
+          "first_seen": "2026-06-20T00:00:00.000Z"
+        },
+        {
+          "id": "palmier-io/palmier-pro",
+          "name": "palmier-pro",
+          "owner": "palmier-io",
+          "url": "https://github.com/palmier-io/palmier-pro",
+          "description": "macOS video editor built for AI",
+          "ai_summary": "palmier-pro 是专为AI优化的macOS视频编辑器。采用Swift语言开发，深度集成AI处理能力，提供智能化剪辑功能。",
+          "language": "Swift",
+          "stars": 8667,
+          "forks": 570,
+          "stars_today": 1630,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 727,
+            "repo_age_days": 78,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 54,
+            "pr_count": 96,
+            "star_fork_ratio": 15.21
+          },
+          "trending_days": 5,
+          "first_seen": "2026-06-20T00:00:00.000Z"
+        },
+        {
+          "id": "ZhuLinsen/daily_stock_analysis",
+          "name": "daily_stock_analysis",
+          "owner": "ZhuLinsen",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+          "ai_summary": "该Python项目构建了基于LLM的多市场股票智能分析系统，整合多源行情数据和实时新闻。通过决策看板和自动推送功能实现零成本定时运行，采用模块化设计支持扩展分析维度。",
+          "language": "Python",
+          "stars": 47850,
+          "forks": 42732,
+          "stars_today": 1119,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 2855,
+            "repo_age_days": 165,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 46,
+            "pr_count": 1033,
+            "star_fork_ratio": 1.12
+          },
+          "trending_days": 3,
+          "first_seen": "2026-06-22T00:00:00.000Z"
+        },
+        {
+          "id": "jamiepine/voicebox",
+          "name": "voicebox",
+          "owner": "jamiepine",
+          "url": "https://github.com/jamiepine/voicebox",
+          "description": "The open-source AI voice studio. Clone, dictate, create.",
+          "ai_summary": "开源AI语音工作室，支持语音克隆、听写和创作。基于TypeScript实现，提供高效的语音处理与生成能力。",
+          "language": "TypeScript",
+          "stars": 33554,
+          "forks": 4049,
+          "stars_today": 1045,
+          "stars_this_week": 2883,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3167,
+            "repo_age_days": 149,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 476,
+            "pr_count": 219,
+            "star_fork_ratio": 8.29
+          },
+          "trending_days": 4,
+          "first_seen": "2026-06-21T00:00:00.000Z"
+        },
+        {
+          "id": "mukul975/Anthropic-Cybersecurity-Skills",
+          "name": "Anthropic-Cybersecurity-Skills",
+          "owner": "mukul975",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+          "ai_summary": "提供817种结构化网络安全技能，覆盖29个安全领域并映射至6大框架。采用Python实现，兼容20多种AI平台，遵循Apache 2.0协议。",
+          "language": "Python",
+          "stars": 20206,
+          "forks": 2345,
+          "stars_today": 1041,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2854,
+            "repo_age_days": 119,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 30,
+            "pr_count": 54,
+            "star_fork_ratio": 8.62
+          },
+          "trending_days": 3,
+          "first_seen": "2026-06-22T00:00:00.000Z"
+        },
+        {
+          "id": "garrytan/gstack",
+          "name": "gstack",
+          "owner": "garrytan",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+          "ai_summary": "复现Garry Tan的Claude Code开发环境，集成23种精选工具链。基于TypeScript构建，涵盖从项目管理到质量保障的全流程支持。",
+          "language": "TypeScript",
+          "stars": 114574,
+          "forks": 16932,
+          "stars_today": 1011,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 6529,
+            "repo_age_days": 104,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 727,
+            "pr_count": 1504,
+            "star_fork_ratio": 6.77
+          },
+          "trending_days": 3,
+          "first_seen": "2026-06-22T00:00:00.000Z"
+        },
+        {
+          "id": "NousResearch/hermes-agent",
+          "name": "hermes-agent",
+          "owner": "NousResearch",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "ai_summary": "Hermes-agent 是一个能够随用户需求成长的智能代理。它采用模块化架构设计，支持动态扩展功能以适应不同场景需求。",
+          "language": "Python",
+          "stars": 201470,
+          "forks": 35970,
+          "stars_today": 936,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1130,
+            "repo_age_days": 336,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 23197,
+            "pr_count": 38962,
+            "star_fork_ratio": 5.6
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-24T00:00:00.000Z"
+        },
+        {
+          "id": "JCodesMore/ai-website-cloner-template",
+          "name": "ai-website-cloner-template",
+          "owner": "JCodesMore",
+          "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+          "description": "Clone any website with one command using AI coding agents",
+          "ai_summary": "该项目提供通过单命令克隆任意网站的AI解决方案。基于TypeScript实现，利用AI编码代理自动分析并复现目标网站结构。",
+          "language": "TypeScript",
+          "stars": 18858,
+          "forks": 2833,
+          "stars_today": 826,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 638,
+            "repo_age_days": 102,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 12,
+            "pr_count": 41,
+            "star_fork_ratio": 6.66
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-24T00:00:00.000Z"
+        },
+        {
+          "id": "bytedance/deer-flow",
+          "name": "deer-flow",
+          "owner": "bytedance",
+          "url": "https://github.com/bytedance/deer-flow",
+          "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+          "ai_summary": "Deer-flow是面向长周期任务的超级代理框架。通过沙箱环境、记忆系统、多级子代理等机制实现复杂任务的分布式处理。",
+          "language": "Python",
+          "stars": 74249,
+          "forks": 10002,
+          "stars_today": 739,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4818,
+            "repo_age_days": 413,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 943,
+            "pr_count": 2054,
+            "star_fork_ratio": 7.42
+          },
+          "trending_days": 3,
+          "first_seen": "2026-06-22T00:00:00.000Z"
+        },
+        {
+          "id": "affaan-m/ECC",
+          "name": "ECC",
+          "owner": "affaan-m",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "ai_summary": "ECC是一个面向AI代码生成工具（如Claude Code、Codex等）的性能优化系统，专注于提升代理的编码能力与安全性。该系统采用JavaScript实现，通过技能增强、记忆机制及安全防护等多维度优化，实现研究导向的开发流程。",
+          "language": "JavaScript",
+          "stars": 220853,
+          "forks": 33816,
+          "stars_today": 593,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1235,
+            "repo_age_days": 157,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 80,
+            "pr_count": 1619,
+            "star_fork_ratio": 6.53
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-24T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 8,
+          "Skills": 6,
+          "Agent": 6,
+          "金融": 1
+        }
+      }
     }
   ]
 }

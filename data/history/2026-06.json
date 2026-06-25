@@ -7579,6 +7579,329 @@
           "金融": 1
         }
       }
+    },
+    {
+      "date": "2026-06-25",
+      "generated_at": "2026-06-25T09:57:47.686Z",
+      "projects": [
+        {
+          "id": "calesthio/OpenMontage",
+          "name": "OpenMontage",
+          "owner": "calesthio",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+          "ai_summary": "OpenMontage 是全球首个开源的自主视频制作系统，能将AI编程助手转化为完整的视频制作工作室。该项目包含12个处理管道、52种工具和500多项代理技能，基于Python实现高度自动化的视频生产流程。",
+          "language": "Python",
+          "stars": 21018,
+          "forks": 2353,
+          "stars_today": 3719,
+          "stars_this_week": 12948,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 396,
+            "repo_age_days": 87,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 116,
+            "pr_count": 95,
+            "star_fork_ratio": 8.93
+          },
+          "trending_days": 6,
+          "first_seen": "2026-06-20T00:00:00.000Z"
+        },
+        {
+          "id": "apple/container",
+          "name": "container",
+          "owner": "apple",
+          "url": "https://github.com/apple/container",
+          "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+          "ai_summary": "Container 是苹果开发的Mac平台Linux容器工具，通过轻量级虚拟机技术实现容器化运行环境。采用Swift语言编写并针对Apple Silicon芯片优化，提供原生性能的容器解决方案。",
+          "language": "Swift",
+          "stars": 42746,
+          "forks": 1256,
+          "stars_today": 1838,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4172,
+            "repo_age_days": 390,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 393,
+            "pr_count": 909,
+            "star_fork_ratio": 34.03
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-25T00:00:00.000Z"
+        },
+        {
+          "id": "ZhuLinsen/daily_stock_analysis",
+          "name": "daily_stock_analysis",
+          "owner": "ZhuLinsen",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+          "ai_summary": "该股票分析系统利用LLM技术实现多市场智能分析，整合多源行情数据和实时新闻生成决策看板。基于Python构建，支持自动化推送和零成本定时运行，提供端到端的投资分析解决方案。",
+          "language": "Python",
+          "stars": 49224,
+          "forks": 43292,
+          "stars_today": 1468,
+          "stars_this_week": 5185,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 2856,
+            "repo_age_days": 166,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 46,
+            "pr_count": 1044,
+            "star_fork_ratio": 1.14
+          },
+          "trending_days": 4,
+          "first_seen": "2026-06-22T00:00:00.000Z"
+        },
+        {
+          "id": "NousResearch/hermes-agent",
+          "name": "hermes-agent",
+          "owner": "NousResearch",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "ai_summary": "Hermes-agent 是一个能够随用户需求成长的智能代理。它采用 Python 编写，通过动态学习和适应性架构实现持续优化。",
+          "language": "Python",
+          "stars": 202576,
+          "forks": 36199,
+          "stars_today": 1178,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1131,
+            "repo_age_days": 337,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 23566,
+            "pr_count": 39434,
+            "star_fork_ratio": 5.6
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-24T00:00:00.000Z"
+        },
+        {
+          "id": "JCodesMore/ai-website-cloner-template",
+          "name": "ai-website-cloner-template",
+          "owner": "JCodesMore",
+          "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+          "description": "Clone any website with one command using AI coding agents",
+          "ai_summary": "该工具通过 AI 编码代理实现一键克隆任意网站。基于 TypeScript 构建，利用自动化流程简化网站复制任务。",
+          "language": "TypeScript",
+          "stars": 19815,
+          "forks": 2933,
+          "stars_today": 692,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 639,
+            "repo_age_days": 103,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 16,
+            "pr_count": 45,
+            "star_fork_ratio": 6.76
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-24T00:00:00.000Z"
+        },
+        {
+          "id": "google-labs-code/design.md",
+          "name": "design.md",
+          "owner": "google-labs-code",
+          "url": "https://github.com/google-labs-code/design.md",
+          "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+          "ai_summary": "DESIGN.md 是为编码代理定义视觉标识的格式规范。采用结构化 TypeScript 描述，使代理能持久理解设计系统。",
+          "language": "TypeScript",
+          "stars": 17842,
+          "forks": 1589,
+          "stars_today": 619,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 849,
+            "repo_age_days": 75,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 21,
+            "pr_count": 68,
+            "star_fork_ratio": 11.23
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-25T00:00:00.000Z"
+        },
+        {
+          "id": "stablyai/orca",
+          "name": "orca",
+          "owner": "stablyai",
+          "url": "https://github.com/stablyai/orca",
+          "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+          "ai_summary": "Orca 是一个用于管理并行代理集群的代理开发环境（ADE），支持使用自有订阅运行各类编码代理。采用 TypeScript 开发，提供跨平台（桌面端与移动端）的代理部署与协调能力。",
+          "language": "TypeScript",
+          "stars": 7129,
+          "forks": 515,
+          "stars_today": 331,
+          "stars_this_week": 1397,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1205,
+            "repo_age_days": 100,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 662,
+            "pr_count": 5288,
+            "star_fork_ratio": 13.84
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-25T00:00:00.000Z"
+        },
+        {
+          "id": "revfactory/harness",
+          "name": "harness",
+          "owner": "revfactory",
+          "url": "https://github.com/revfactory/harness",
+          "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+          "ai_summary": "Harness 是用于设计领域特定代理团队的元技能框架，可定义专用代理并生成其技能。基于 HTML 技术栈实现，通过模块化架构支持动态代理能力编排。",
+          "language": "HTML",
+          "stars": 7900,
+          "forks": 1071,
+          "stars_today": 277,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Web3",
+            "Skills"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4959,
+            "repo_age_days": 90,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 22,
+            "pr_count": 36,
+            "star_fork_ratio": 7.38
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-25T00:00:00.000Z"
+        },
+        {
+          "id": "interviewstreet/hiring-agent",
+          "name": "hiring-agent",
+          "owner": "interviewstreet",
+          "url": "https://github.com/interviewstreet/hiring-agent",
+          "description": "AI agent to evaluate and score resumes.",
+          "ai_summary": "该 AI 代理自动评估并量化简历匹配度，用于招聘初筛场景。基于 Python 构建，采用 NLP 技术实现简历关键要素提取与评分模型。",
+          "language": "Python",
+          "stars": 2573,
+          "forks": 628,
+          "stars_today": 203,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 5405,
+            "repo_age_days": 331,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 230,
+            "pr_count": 163,
+            "star_fork_ratio": 4.1
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-25T00:00:00.000Z"
+        },
+        {
+          "id": "Panniantong/Agent-Reach",
+          "name": "Agent-Reach",
+          "owner": "Panniantong",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+          "ai_summary": "Agent-Reach 是一个为 AI 代理提供互联网内容访问能力的工具，支持从 Twitter、Reddit、YouTube 等多个平台读取和搜索信息。该项目通过 Python 实现，采用 CLI 界面设计，无需支付 API 费用即可直接抓取公开数据。",
+          "language": "Python",
+          "stars": 40555,
+          "forks": 3206,
+          "stars_today": 0,
+          "stars_this_week": 6752,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2059,
+            "repo_age_days": 121,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 102,
+            "pr_count": 282,
+            "star_fork_ratio": 12.65
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-25T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 8,
+          "Skills": 8,
+          "Agent": 7,
+          "金融": 1,
+          "Web3": 1
+        }
+      }
     }
   ]
 }

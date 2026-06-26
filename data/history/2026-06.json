@@ -7902,6 +7902,326 @@
           "Web3": 1
         }
       }
+    },
+    {
+      "date": "2026-06-26",
+      "generated_at": "2026-06-26T10:01:36.139Z",
+      "projects": [
+        {
+          "id": "calesthio/OpenMontage",
+          "name": "OpenMontage",
+          "owner": "calesthio",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+          "ai_summary": "OpenMontage 是全球首个开源的智能视频制作系统，可将 AI 编程助手转化为完整的视频制作工作室。基于 Python 实现，提供 12 种流水线、52 种工具和 500+ 智能体技能，支持高度自动化的视频生产流程。",
+          "language": "Python",
+          "stars": 22886,
+          "forks": 2549,
+          "stars_today": 3434,
+          "stars_this_week": 15793,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 397,
+            "repo_age_days": 88,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 119,
+            "pr_count": 103,
+            "star_fork_ratio": 8.98
+          },
+          "trending_days": 7,
+          "first_seen": "2026-06-20T00:00:00.000Z"
+        },
+        {
+          "id": "google-labs-code/design.md",
+          "name": "design.md",
+          "owner": "google-labs-code",
+          "url": "https://github.com/google-labs-code/design.md",
+          "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+          "ai_summary": "DESIGN.md 是一种用于向编码智能体描述视觉标识的格式规范。采用 TypeScript 实现，通过结构化文档为智能体提供对设计系统的持久化理解，实现设计与开发的自动化衔接。",
+          "language": "TypeScript",
+          "stars": 20258,
+          "forks": 1683,
+          "stars_today": 1475,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 850,
+            "repo_age_days": 76,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 32,
+            "pr_count": 78,
+            "star_fork_ratio": 12.04
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-25T00:00:00.000Z"
+        },
+        {
+          "id": "apple/container",
+          "name": "container",
+          "owner": "apple",
+          "url": "https://github.com/apple/container",
+          "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+          "ai_summary": "Container 是苹果开发的 Mac 平台 Linux 容器工具，通过轻量级虚拟机创建和运行容器。基于 Swift 语言编写，针对 Apple 芯片架构进行了深度优化，提供原生性能体验。",
+          "language": "Swift",
+          "stars": 43466,
+          "forks": 1276,
+          "stars_today": 1351,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4173,
+            "repo_age_days": 391,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 384,
+            "pr_count": 915,
+            "star_fork_ratio": 34.06
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-25T00:00:00.000Z"
+        },
+        {
+          "id": "JCodesMore/ai-website-cloner-template",
+          "name": "ai-website-cloner-template",
+          "owner": "JCodesMore",
+          "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+          "description": "Clone any website with one command using AI coding agents",
+          "ai_summary": "通过AI编码代理一键克隆任意网站。基于TypeScript实现，利用AI自动化解析和重建目标网站结构。",
+          "language": "TypeScript",
+          "stars": 20926,
+          "forks": 3055,
+          "stars_today": 1024,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 640,
+            "repo_age_days": 104,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 17,
+            "pr_count": 46,
+            "star_fork_ratio": 6.85
+          },
+          "trending_days": 3,
+          "first_seen": "2026-06-24T00:00:00.000Z"
+        },
+        {
+          "id": "garrytan/gstack",
+          "name": "gstack",
+          "owner": "garrytan",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+          "ai_summary": "集成23种精选工具链的Claude代码开发环境。采用TypeScript构建，提供从设计到发布的全流程自动化管理方案。",
+          "language": "TypeScript",
+          "stars": 116188,
+          "forks": 17210,
+          "stars_today": 767,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 6531,
+            "repo_age_days": 106,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 738,
+            "pr_count": 1514,
+            "star_fork_ratio": 6.75
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-26T00:00:00.000Z"
+        },
+        {
+          "id": "opendatalab/MinerU",
+          "name": "MinerU",
+          "owner": "opendatalab",
+          "url": "https://github.com/opendatalab/MinerU",
+          "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+          "ai_summary": "将PDF/Office等复杂文档转换为适合LLM处理的Markdown/JSON格式。基于Python开发，支持结构化解析和语义化处理。",
+          "language": "Python",
+          "stars": 69994,
+          "forks": 5913,
+          "stars_today": 644,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 1627,
+            "repo_age_days": 848,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 27,
+            "pr_count": 1655,
+            "star_fork_ratio": 11.84
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-26T00:00:00.000Z"
+        },
+        {
+          "id": "mukul975/Anthropic-Cybersecurity-Skills",
+          "name": "Anthropic-Cybersecurity-Skills",
+          "owner": "mukul975",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+          "ai_summary": "该项目提供了817种结构化网络安全技能，专为AI代理设计，覆盖29个安全领域并映射到6大安全框架。采用Python实现，遵循agentskills.io标准，兼容Claude Code、GitHub Copilot等20多个平台。",
+          "language": "Python",
+          "stars": 21557,
+          "forks": 2474,
+          "stars_today": 571,
+          "stars_this_week": 4596,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2856,
+            "repo_age_days": 121,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 31,
+            "pr_count": 55,
+            "star_fork_ratio": 8.71
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-26T00:00:00.000Z"
+        },
+        {
+          "id": "xbtlin/ai-berkshire",
+          "name": "ai-berkshire",
+          "owner": "xbtlin",
+          "url": "https://github.com/xbtlin/ai-berkshire",
+          "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
+          "ai_summary": "该项目构建了一个基于Claude Code的价值投资研究框架，融合巴菲特等四位投资大师的方法论。使用Python实现多Agent并行研究架构，支持对抗性分析。",
+          "language": "Python",
+          "stars": 2706,
+          "forks": 390,
+          "stars_today": 309,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 4482,
+            "repo_age_days": 79,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 13,
+            "pr_count": 5,
+            "star_fork_ratio": 6.94
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-26T00:00:00.000Z"
+        },
+        {
+          "id": "shanraisshan/claude-code-best-practice",
+          "name": "claude-code-best-practice",
+          "owner": "shanraisshan",
+          "url": "https://github.com/shanraisshan/claude-code-best-practice",
+          "description": "from vibe coding to agentic engineering - practice makes claude perfect",
+          "ai_summary": "该项目整理了Claude Code从氛围编程到代理工程的最佳实践指南。以HTML文档形式呈现，通过实际案例展示如何提升Claude使用效能。",
+          "language": "HTML",
+          "stars": 60992,
+          "forks": 6094,
+          "stars_today": 287,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4105,
+            "repo_age_days": 237,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 11,
+            "pr_count": 73,
+            "star_fork_ratio": 10.01
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-26T00:00:00.000Z"
+        },
+        {
+          "id": "alibaba/page-agent",
+          "name": "page-agent",
+          "owner": "alibaba",
+          "url": "https://github.com/alibaba/page-agent",
+          "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+          "ai_summary": "Page-Agent 是一个 JavaScript 页面内 GUI 代理工具，允许用户通过自然语言控制网页界面。该项目基于 TypeScript 实现，采用浏览器内直接解析自然语言指令的方式，无需后端服务即可完成界面操作。",
+          "language": "TypeScript",
+          "stars": 20123,
+          "forks": 1731,
+          "stars_today": 163,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5097,
+            "repo_age_days": 276,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 48,
+            "pr_count": 336,
+            "star_fork_ratio": 11.63
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-26T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 8,
+          "Skills": 8,
+          "Agent": 8
+        }
+      }
     }
   ]
 }

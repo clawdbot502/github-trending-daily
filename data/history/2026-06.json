@@ -8222,6 +8222,326 @@
           "Agent": 8
         }
       }
+    },
+    {
+      "date": "2026-06-27",
+      "generated_at": "2026-06-27T09:17:07.330Z",
+      "projects": [
+        {
+          "id": "google-labs-code/design.md",
+          "name": "design.md",
+          "owner": "google-labs-code",
+          "url": "https://github.com/google-labs-code/design.md",
+          "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+          "ai_summary": "DESIGN.md 是一种用于向编码代理描述视觉标识的格式规范。它采用结构化 TypeScript 定义，为代理提供对设计系统的持久化理解。",
+          "language": "TypeScript",
+          "stars": 21791,
+          "forks": 1749,
+          "stars_today": 2407,
+          "stars_this_week": 4618,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 851,
+            "repo_age_days": 77,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 42,
+            "pr_count": 83,
+            "star_fork_ratio": 12.46
+          },
+          "trending_days": 3,
+          "first_seen": "2026-06-25T00:00:00.000Z"
+        },
+        {
+          "id": "calesthio/OpenMontage",
+          "name": "OpenMontage",
+          "owner": "calesthio",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+          "ai_summary": "OpenMontage 是全球首个开源智能视频制作系统，包含 12 个处理管道和 52 种工具。基于 Python 实现 500+ 代理技能，可将 AI 编码助手转化为完整视频工作室。",
+          "language": "Python",
+          "stars": 24238,
+          "forks": 2696,
+          "stars_today": 1754,
+          "stars_this_week": 17249,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 398,
+            "repo_age_days": 89,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 111,
+            "pr_count": 105,
+            "star_fork_ratio": 8.99
+          },
+          "trending_days": 8,
+          "first_seen": "2026-06-20T00:00:00.000Z"
+        },
+        {
+          "id": "xbtlin/ai-berkshire",
+          "name": "ai-berkshire",
+          "owner": "xbtlin",
+          "url": "https://github.com/xbtlin/ai-berkshire",
+          "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
+          "ai_summary": "ai-berkshire 是基于 Claude Code 构建的价值投资研究框架，整合四位投资大师的方法论。采用 Python 实现多代理并行研究机制，支持对抗性分析。",
+          "language": "Python",
+          "stars": 3370,
+          "forks": 507,
+          "stars_today": 1274,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 4483,
+            "repo_age_days": 80,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 15,
+            "pr_count": 6,
+            "star_fork_ratio": 6.65
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-26T00:00:00.000Z"
+        },
+        {
+          "id": "Panniantong/Agent-Reach",
+          "name": "Agent-Reach",
+          "owner": "Panniantong",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+          "ai_summary": "为AI代理提供全网信息读取能力，支持Twitter、Reddit等平台的无API费用爬取。基于Python实现，通过CLI工具整合多平台数据源，简化信息获取流程。",
+          "language": "Python",
+          "stars": 42834,
+          "forks": 3410,
+          "stars_today": 1194,
+          "stars_this_week": 7199,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2061,
+            "repo_age_days": 123,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 113,
+            "pr_count": 291,
+            "star_fork_ratio": 12.56
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-27T00:00:00.000Z"
+        },
+        {
+          "id": "JCodesMore/ai-website-cloner-template",
+          "name": "ai-website-cloner-template",
+          "owner": "JCodesMore",
+          "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+          "description": "Clone any website with one command using AI coding agents",
+          "ai_summary": "利用AI编码代理实现单命令克隆任意网站。采用TypeScript开发，通过自动化流程快速复现目标网站结构与内容。",
+          "language": "TypeScript",
+          "stars": 21625,
+          "forks": 3127,
+          "stars_today": 1088,
+          "stars_this_week": 3906,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 641,
+            "repo_age_days": 105,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 17,
+            "pr_count": 46,
+            "star_fork_ratio": 6.92
+          },
+          "trending_days": 4,
+          "first_seen": "2026-06-24T00:00:00.000Z"
+        },
+        {
+          "id": "opendatalab/MinerU",
+          "name": "MinerU",
+          "owner": "opendatalab",
+          "url": "https://github.com/opendatalab/MinerU",
+          "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+          "ai_summary": "将PDF/Office文档转换为适合LLM处理的Markdown/JSON格式。基于Python构建，专注于文档结构解析与语义化处理，支持智能体工作流。",
+          "language": "Python",
+          "stars": 70753,
+          "forks": 5954,
+          "stars_today": 960,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 1628,
+            "repo_age_days": 849,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 29,
+            "pr_count": 1656,
+            "star_fork_ratio": 11.88
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-26T00:00:00.000Z"
+        },
+        {
+          "id": "garrytan/gstack",
+          "name": "gstack",
+          "owner": "garrytan",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+          "ai_summary": "gstack 是一个集成 23 种工具的技术栈，用于模拟 CEO、设计师、工程经理等角色功能。基于 TypeScript 实现，采用模块化设计，提供开箱即用的开发环境配置。",
+          "language": "TypeScript",
+          "stars": 116836,
+          "forks": 17334,
+          "stars_today": 950,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 6532,
+            "repo_age_days": 107,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 740,
+            "pr_count": 1517,
+            "star_fork_ratio": 6.74
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-26T00:00:00.000Z"
+        },
+        {
+          "id": "aws/agent-toolkit-for-aws",
+          "name": "agent-toolkit-for-aws",
+          "owner": "aws",
+          "url": "https://github.com/aws/agent-toolkit-for-aws",
+          "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+          "ai_summary": "该项目是 AWS 官方支持的 AI 代理开发工具包，包含 MCP 服务器和插件。使用 Python 实现，提供与 AWS 服务深度集成的标准化开发组件。",
+          "language": "Python",
+          "stars": 1422,
+          "forks": 124,
+          "stars_today": 243,
+          "stars_this_week": 349,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5051,
+            "repo_age_days": 64,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 12,
+            "pr_count": 107,
+            "star_fork_ratio": 11.47
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-27T00:00:00.000Z"
+        },
+        {
+          "id": "alchaincyf/zhangxuefeng-skill",
+          "name": "zhangxuefeng-skill",
+          "owner": "alchaincyf",
+          "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
+          "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
+          "ai_summary": "该项目是高考志愿、考研及职业规划的决策辅助系统，封装了结构化思维框架。采用自动化生成技术实现知识体系的可操作化输出。",
+          "language": "",
+          "stars": 9376,
+          "forks": 2569,
+          "stars_today": 160,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills"
+          ],
+          "security_score": 65,
+          "security_details": {
+            "author_age_days": 1202,
+            "repo_age_days": 82,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 30,
+            "pr_count": 1,
+            "star_fork_ratio": 3.65
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-27T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "ai_summary": "该项目提供工程师实用技能集合，包含从.claude目录整理的实用工具与技巧。采用Shell脚本实现，聚焦命令行效率提升与开发工作流优化。",
+          "language": "Shell",
+          "stars": 147812,
+          "forks": 12790,
+          "stars_today": 0,
+          "stars_this_week": 11060,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3343,
+            "repo_age_days": 143,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 100,
+            "pr_count": 45,
+            "star_fork_ratio": 11.56
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-27T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "Skills": 9,
+          "Agent": 7,
+          "AI": 8
+        }
+      }
     }
   ]
 }

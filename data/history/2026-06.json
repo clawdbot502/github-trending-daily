@@ -8542,6 +8542,326 @@
           "AI": 8
         }
       }
+    },
+    {
+      "date": "2026-06-28",
+      "generated_at": "2026-06-28T09:47:42.202Z",
+      "projects": [
+        {
+          "id": "google-labs-code/design.md",
+          "name": "design.md",
+          "owner": "google-labs-code",
+          "url": "https://github.com/google-labs-code/design.md",
+          "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+          "ai_summary": "DESIGN.md 是一种格式规范，用于向编码代理描述视觉标识，解决设计系统理解问题。采用结构化方式持久化存储设计信息，便于代理解析和运用。",
+          "language": "TypeScript",
+          "stars": 22617,
+          "forks": 1806,
+          "stars_today": 1541,
+          "stars_this_week": 6014,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 852,
+            "repo_age_days": 78,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 52,
+            "pr_count": 92,
+            "star_fork_ratio": 12.52
+          },
+          "trending_days": 4,
+          "first_seen": "2026-06-25T00:00:00.000Z"
+        },
+        {
+          "id": "topoteretes/cognee",
+          "name": "cognee",
+          "owner": "topoteretes",
+          "url": "https://github.com/topoteretes/cognee",
+          "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+          "ai_summary": "Cognee 是一个开源 AI 记忆平台，为 AI 代理提供跨会话的持久长期记忆。基于自托管知识图谱引擎实现，支持高效数据关联与检索。",
+          "language": "Python",
+          "stars": 24311,
+          "forks": 2270,
+          "stars_today": 780,
+          "stars_this_week": 5519,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 1228,
+            "repo_age_days": 1046,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 329,
+            "pr_count": 2729,
+            "star_fork_ratio": 10.71
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-28T00:00:00.000Z"
+        },
+        {
+          "id": "JCodesMore/ai-website-cloner-template",
+          "name": "ai-website-cloner-template",
+          "owner": "JCodesMore",
+          "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+          "description": "Clone any website with one command using AI coding agents",
+          "ai_summary": "该模板通过 AI 编码代理实现一键克隆任意网站。利用 TypeScript 构建，自动化解析和复现目标网站结构与内容。",
+          "language": "TypeScript",
+          "stars": 22426,
+          "forks": 3206,
+          "stars_today": 750,
+          "stars_this_week": 4565,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 642,
+            "repo_age_days": 106,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 18,
+            "pr_count": 47,
+            "star_fork_ratio": 7
+          },
+          "trending_days": 5,
+          "first_seen": "2026-06-24T00:00:00.000Z"
+        },
+        {
+          "id": "xbtlin/ai-berkshire",
+          "name": "ai-berkshire",
+          "owner": "xbtlin",
+          "url": "https://github.com/xbtlin/ai-berkshire",
+          "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+          "ai_summary": "该项目是基于Claude Code/Codex构建的价值投资研究框架，整合巴菲特等四位投资大师的方法论。采用多Agent并行研究架构，实现对抗性分析与自动化投资决策支持。",
+          "language": "Python",
+          "stars": 4805,
+          "forks": 662,
+          "stars_today": 685,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 4484,
+            "repo_age_days": 81,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 18,
+            "pr_count": 8,
+            "star_fork_ratio": 7.26
+          },
+          "trending_days": 3,
+          "first_seen": "2026-06-26T00:00:00.000Z"
+        },
+        {
+          "id": "garrytan/gstack",
+          "name": "gstack",
+          "owner": "garrytan",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+          "ai_summary": "该项目复现Garry Tan的Claude Code开发环境配置，包含23个精选工具链。通过预设角色化工具集（CEO/设计师等）实现全栈开发流程标准化。",
+          "language": "TypeScript",
+          "stars": 117474,
+          "forks": 17463,
+          "stars_today": 674,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 6533,
+            "repo_age_days": 108,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 743,
+            "pr_count": 1521,
+            "star_fork_ratio": 6.73
+          },
+          "trending_days": 3,
+          "first_seen": "2026-06-26T00:00:00.000Z"
+        },
+        {
+          "id": "anomalyco/opencode",
+          "name": "opencode",
+          "owner": "anomalyco",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "ai_summary": "这是一个开源代码生成代理项目，旨在自动化软件开发流程。基于TypeScript实现，提供可扩展的AI编程助手核心功能。",
+          "language": "TypeScript",
+          "stars": 179995,
+          "forks": 22117,
+          "stars_today": 392,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2211,
+            "repo_age_days": 423,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 7015,
+            "pr_count": 14426,
+            "star_fork_ratio": 8.14
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-28T00:00:00.000Z"
+        },
+        {
+          "id": "Anil-matcha/Open-Generative-AI",
+          "name": "Open-Generative-AI",
+          "owner": "Anil-matcha",
+          "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+          "description": "Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+          "ai_summary": "这是一个开源的无限制AI视频和图像生成平台，提供200多种模型支持，包括Flux、Midjourney等，可作为商业AI视频平台的替代方案。采用自托管架构，基于JavaScript实现，MIT许可，无内容过滤限制。",
+          "language": "JavaScript",
+          "stars": 21547,
+          "forks": 3659,
+          "stars_today": 255,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "内容创作"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4804,
+            "repo_age_days": 1145,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 17,
+            "pr_count": 94,
+            "star_fork_ratio": 5.89
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-28T00:00:00.000Z"
+        },
+        {
+          "id": "Fission-AI/OpenSpec",
+          "name": "OpenSpec",
+          "owner": "Fission-AI",
+          "url": "https://github.com/Fission-AI/OpenSpec",
+          "description": "Spec-driven development (SDD) for AI coding assistants.",
+          "ai_summary": "该项目实现了基于规范驱动的开发(SDD)方法，专为AI编程助手设计。使用TypeScript构建，通过规范定义来指导和优化AI编码行为。",
+          "language": "TypeScript",
+          "stars": 57308,
+          "forks": 3993,
+          "stars_today": 177,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 469,
+            "repo_age_days": 326,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 435,
+            "pr_count": 656,
+            "star_fork_ratio": 14.35
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-28T00:00:00.000Z"
+        },
+        {
+          "id": "luongnv89/claude-howto",
+          "name": "claude-howto",
+          "owner": "luongnv89",
+          "url": "https://github.com/luongnv89/claude-howto",
+          "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+          "ai_summary": "这是一个Claude代码的视觉化教程，涵盖从基础概念到高级代理的完整学习路径。采用Python实现，提供可直接复用的代码模板和示例驱动教学。",
+          "language": "Python",
+          "stars": 38757,
+          "forks": 4664,
+          "stars_today": 141,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 4910,
+            "repo_age_days": 232,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 23,
+            "pr_count": 99,
+            "star_fork_ratio": 8.31
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-28T00:00:00.000Z"
+        },
+        {
+          "id": "calesthio/OpenMontage",
+          "name": "OpenMontage",
+          "owner": "calesthio",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+          "ai_summary": "OpenMontage 是全球首个开源的自主视频制作系统，支持从脚本到成片的完整视频生产流程。该项目包含12个处理管道、52种工具和500多种AI代理技能，基于Python构建，通过模块化设计实现高度可扩展的自动化视频制作。",
+          "language": "Python",
+          "stars": 25969,
+          "forks": 2874,
+          "stars_today": 0,
+          "stars_this_week": 18000,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 399,
+            "repo_age_days": 90,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 115,
+            "pr_count": 111,
+            "star_fork_ratio": 9.04
+          },
+          "trending_days": 9,
+          "first_seen": "2026-06-20T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "Skills": 7,
+          "Agent": 7,
+          "AI": 8,
+          "内容创作": 1
+        }
+      }
     }
   ]
 }

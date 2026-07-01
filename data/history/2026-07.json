@@ -1,0 +1,323 @@
+{
+  "month": "2026-07",
+  "days": [
+    {
+      "date": "2026-07-01",
+      "generated_at": "2026-07-01T10:33:03.560Z",
+      "projects": [
+        {
+          "id": "msitarzewski/agency-agents",
+          "name": "agency-agents",
+          "owner": "msitarzewski",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+          "ai_summary": "提供一套完整的AI代理系统，涵盖从前端开发到社区管理的多种专业角色。基于Shell脚本实现，每个代理具备个性化特性和标准化交付流程。",
+          "language": "Shell",
+          "stars": 121754,
+          "forks": 19891,
+          "stars_today": 1791,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5100,
+            "repo_age_days": 260,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 88,
+            "pr_count": 409,
+            "star_fork_ratio": 6.12
+          },
+          "trending_days": 3,
+          "first_seen": "2026-06-29T00:00:00.000Z"
+        },
+        {
+          "id": "hasaneyldrm/exercises-dataset",
+          "name": "exercises-dataset",
+          "owner": "hasaneyldrm",
+          "url": "https://github.com/hasaneyldrm/exercises-dataset",
+          "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+          "ai_summary": "整理包含433种健身动作的结构化数据集，涵盖动作名称、分类和教学资源。采用HTML格式组织数据，包含图文说明和动态演示视频。",
+          "language": "HTML",
+          "stars": 7857,
+          "forks": 906,
+          "stars_today": 1343,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 3353,
+            "repo_age_days": 105,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 13,
+            "pr_count": 16,
+            "star_fork_ratio": 8.67
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-01T00:00:00.000Z"
+        },
+        {
+          "id": "xbtlin/ai-berkshire",
+          "name": "ai-berkshire",
+          "owner": "xbtlin",
+          "url": "https://github.com/xbtlin/ai-berkshire",
+          "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+          "ai_summary": "构建基于Claude Code的价值投资研究框架，整合四位投资大师的方法论。采用Python实现多Agent并行分析架构，支持对抗性研究验证。",
+          "language": "Python",
+          "stars": 7962,
+          "forks": 1008,
+          "stars_today": 969,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 4487,
+            "repo_age_days": 84,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 26,
+            "pr_count": 16,
+            "star_fork_ratio": 7.9
+          },
+          "trending_days": 6,
+          "first_seen": "2026-06-26T00:00:00.000Z"
+        },
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "Superpowers 是一个代理技能框架和软件开发方法论，旨在提升开发效率与协作能力。采用 Shell 脚本实现，强调模块化设计与自动化流程。",
+          "language": "Shell",
+          "stars": 243076,
+          "forks": 21556,
+          "stars_today": 890,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6381,
+            "repo_age_days": 264,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 298,
+            "pr_count": 956,
+            "star_fork_ratio": 11.28
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-01T00:00:00.000Z"
+        },
+        {
+          "id": "HKUDS/Vibe-Trading",
+          "name": "Vibe-Trading",
+          "owner": "HKUDS",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+          "ai_summary": "Vibe-Trading 是个人化交易代理工具，帮助用户自动化执行交易策略。基于 Python 构建，整合实时数据分析与决策算法。",
+          "language": "Python",
+          "stars": 16102,
+          "forks": 2762,
+          "stars_today": 721,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1325,
+            "repo_age_days": 91,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 11,
+            "pr_count": 220,
+            "star_fork_ratio": 5.83
+          },
+          "trending_days": 3,
+          "first_seen": "2026-06-29T00:00:00.000Z"
+        },
+        {
+          "id": "browser-use/video-use",
+          "name": "video-use",
+          "owner": "browser-use",
+          "url": "https://github.com/browser-use/video-use",
+          "description": "Edit videos with coding agents",
+          "ai_summary": "Video-use 提供通过编程代理编辑视频的功能，简化视频处理流程。使用 Python 开发，支持脚本化操作与批量处理。",
+          "language": "Python",
+          "stars": 12936,
+          "forks": 1635,
+          "stars_today": 721,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 560,
+            "repo_age_days": 80,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 47,
+            "pr_count": 57,
+            "star_fork_ratio": 7.91
+          },
+          "trending_days": 3,
+          "first_seen": "2026-06-29T00:00:00.000Z"
+        },
+        {
+          "id": "altic-dev/FluidVoice",
+          "name": "FluidVoice",
+          "owner": "altic-dev",
+          "url": "https://github.com/altic-dev/FluidVoice",
+          "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.",
+          "ai_summary": "FluidVoice 是一款 macOS 听写应用，提供本地语音转文本（STT）和自定义训练的 AI 增强模型。采用 Swift 开发，支持设备端处理，未来将扩展至 Windows、iOS 和 Linux 平台。",
+          "language": "Swift",
+          "stars": 5206,
+          "forks": 316,
+          "stars_today": 588,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 330,
+            "repo_age_days": 282,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 98,
+            "pr_count": 210,
+            "star_fork_ratio": 16.47
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-01T00:00:00.000Z"
+        },
+        {
+          "id": "usestrix/strix",
+          "name": "strix",
+          "owner": "usestrix",
+          "url": "https://github.com/usestrix/strix",
+          "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+          "ai_summary": "Strix 是一个开源的 AI 渗透测试工具，用于发现和修复应用程序漏洞。基于 Python 实现，结合 AI 技术提升漏洞检测效率。",
+          "language": "Python",
+          "stars": 28551,
+          "forks": 3155,
+          "stars_today": 515,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 600,
+            "repo_age_days": 329,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 116,
+            "pr_count": 386,
+            "star_fork_ratio": 9.05
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-01T00:00:00.000Z"
+        },
+        {
+          "id": "ogulcancelik/herdr",
+          "name": "herdr",
+          "owner": "ogulcancelik",
+          "url": "https://github.com/ogulcancelik/herdr",
+          "description": "agent multiplexer that lives in your terminal.",
+          "ai_summary": "Herdr 是一个终端内的代理多路复用工具，简化多代理管理。使用 Rust 编写，注重性能和终端用户体验。",
+          "language": "Rust",
+          "stars": 9264,
+          "forks": 550,
+          "stars_today": 486,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4480,
+            "repo_age_days": 95,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 37,
+            "pr_count": 167,
+            "star_fork_ratio": 16.84
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-01T00:00:00.000Z"
+        },
+        {
+          "id": "google/agents-cli",
+          "name": "agents-cli",
+          "owner": "google",
+          "url": "https://github.com/google/agents-cli",
+          "description": "The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.",
+          "ai_summary": "该项目是一个命令行工具集，用于将普通编码助手升级为能创建、评估和部署AI代理的专家级工具。基于Python开发，深度集成Google Cloud服务，提供高效的代理生命周期管理能力。",
+          "language": "Python",
+          "stars": 4473,
+          "forks": 471,
+          "stars_today": 445,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 5278,
+            "repo_age_days": 83,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 24,
+            "pr_count": 0,
+            "star_fork_ratio": 9.5
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-01T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 6,
+          "Skills": 7,
+          "Agent": 7,
+          "金融": 1
+        }
+      }
+    }
+  ]
+}

@@ -318,6 +318,320 @@
           "金融": 1
         }
       }
+    },
+    {
+      "date": "2026-07-02",
+      "generated_at": "2026-07-02T09:48:05.510Z",
+      "projects": [
+        {
+          "id": "hasaneyldrm/exercises-dataset",
+          "name": "exercises-dataset",
+          "owner": "hasaneyldrm",
+          "url": "https://github.com/hasaneyldrm/exercises-dataset",
+          "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+          "ai_summary": "提供包含433种健身练习的综合数据集，涵盖名称、类别、目标肌群、器材、指导说明、缩略图和动画视频。采用HTML格式组织数据，便于结构化存储与检索。",
+          "language": "HTML",
+          "stars": 8801,
+          "forks": 986,
+          "stars_today": 2470,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 3354,
+            "repo_age_days": 106,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 19,
+            "pr_count": 21,
+            "star_fork_ratio": 8.93
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-01T00:00:00.000Z"
+        },
+        {
+          "id": "msitarzewski/agency-agents",
+          "name": "agency-agents",
+          "owner": "msitarzewski",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+          "ai_summary": "提供模块化AI代理集合，覆盖前端开发、社区管理等专业场景，每个代理具备独立人格与标准化流程。基于Shell脚本实现快速部署与任务编排。",
+          "language": "Shell",
+          "stars": 124726,
+          "forks": 20243,
+          "stars_today": 2114,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5101,
+            "repo_age_days": 261,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 89,
+            "pr_count": 410,
+            "star_fork_ratio": 6.16
+          },
+          "trending_days": 4,
+          "first_seen": "2026-06-29T00:00:00.000Z"
+        },
+        {
+          "id": "usestrix/strix",
+          "name": "strix",
+          "owner": "usestrix",
+          "url": "https://github.com/usestrix/strix",
+          "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+          "ai_summary": "开源AI渗透测试工具，用于自动化检测和修复应用安全漏洞。采用Python开发，集成机器学习算法提升漏洞识别准确率。",
+          "language": "Python",
+          "stars": 30539,
+          "forks": 3266,
+          "stars_today": 1211,
+          "stars_this_week": 2804,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 601,
+            "repo_age_days": 330,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 122,
+            "pr_count": 393,
+            "star_fork_ratio": 9.35
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-01T00:00:00.000Z"
+        },
+        {
+          "id": "microsoft/AI-For-Beginners",
+          "name": "AI-For-Beginners",
+          "owner": "microsoft",
+          "url": "https://github.com/microsoft/AI-For-Beginners",
+          "description": "12 Weeks, 24 Lessons, AI for All!",
+          "ai_summary": "该项目为AI初学者提供12周24课的体系化学习路径，覆盖人工智能基础概念与实践。采用Jupyter Notebook交互式教学，通过模块化课程设计降低学习门槛。",
+          "language": "Jupyter Notebook",
+          "stars": 50904,
+          "forks": 10294,
+          "stars_today": 1096,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4586,
+            "repo_age_days": 1946,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 40,
+            "pr_count": 442,
+            "star_fork_ratio": 4.95
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "id": "diegosouzapw/OmniRoute",
+          "name": "OmniRoute",
+          "owner": "diegosouzapw",
+          "url": "https://github.com/diegosouzapw/OmniRoute",
+          "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+          "ai_summary": "提供统一API网关整合231+AI服务提供商，实现多模型智能路由与自动降级。基于TypeScript开发，采用RTK+Caveman压缩算法节省15-95%token消耗，支持桌面/PWA多端接入。",
+          "language": "TypeScript",
+          "stars": 9968,
+          "forks": 1503,
+          "stars_today": 1010,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4386,
+            "repo_age_days": 138,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 121,
+            "pr_count": 3761,
+            "star_fork_ratio": 6.63
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "id": "facebook/astryx",
+          "name": "astryx",
+          "owner": "facebook",
+          "url": "https://github.com/facebook/astryx",
+          "description": "An open source design system that's fully customizable and agent ready",
+          "ai_summary": "开源设计系统提供可定制化UI组件库与设计规范。基于TypeScript构建，支持设计-开发工作流自动化，具备智能体友好型API接口。",
+          "language": "TypeScript",
+          "stars": 3116,
+          "forks": 160,
+          "stars_today": 708,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6300,
+            "repo_age_days": 173,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 196,
+            "pr_count": 2589,
+            "star_fork_ratio": 19.48
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "id": "HKUDS/Vibe-Trading",
+          "name": "Vibe-Trading",
+          "owner": "HKUDS",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+          "ai_summary": "Vibe-Trading 是一个个人交易代理，帮助用户自动化执行交易策略。采用 Python 实现，支持灵活的策略定制和实时市场数据分析。",
+          "language": "Python",
+          "stars": 17041,
+          "forks": 2851,
+          "stars_today": 694,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 75,
+          "security_details": {
+            "author_age_days": 1326,
+            "repo_age_days": 91,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 6,
+            "pr_count": 227,
+            "star_fork_ratio": 5.98
+          },
+          "trending_days": 4,
+          "first_seen": "2026-06-29T00:00:00.000Z"
+        },
+        {
+          "id": "browser-use/video-use",
+          "name": "video-use",
+          "owner": "browser-use",
+          "url": "https://github.com/browser-use/video-use",
+          "description": "Edit videos with coding agents",
+          "ai_summary": "video-use 是一个通过编程代理编辑视频的工具。基于 Python 构建，提供脚本化视频处理能力，支持自动化编辑任务。",
+          "language": "Python",
+          "stars": 13454,
+          "forks": 1663,
+          "stars_today": 693,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 561,
+            "repo_age_days": 81,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 50,
+            "pr_count": 58,
+            "star_fork_ratio": 8.09
+          },
+          "trending_days": 4,
+          "first_seen": "2026-06-29T00:00:00.000Z"
+        },
+        {
+          "id": "ogulcancelik/herdr",
+          "name": "herdr",
+          "owner": "ogulcancelik",
+          "url": "https://github.com/ogulcancelik/herdr",
+          "description": "agent multiplexer that lives in your terminal.",
+          "ai_summary": "herdr 是一个终端内的代理多路复用器，用于管理和协调多个代理进程。使用 Rust 开发，注重性能和低资源占用。",
+          "language": "Rust",
+          "stars": 9869,
+          "forks": 579,
+          "stars_today": 609,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4481,
+            "repo_age_days": 96,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 41,
+            "pr_count": 167,
+            "star_fork_ratio": 17.04
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-01T00:00:00.000Z"
+        },
+        {
+          "id": "altic-dev/FluidVoice",
+          "name": "FluidVoice",
+          "owner": "altic-dev",
+          "url": "https://github.com/altic-dev/FluidVoice",
+          "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS waitlist open! Linux coming soon.",
+          "ai_summary": "FluidVoice 是一款 macOS 听写应用，支持设备端语音转文字（STT）和自定义训练的 AI 增强模型。采用 Swift 开发，提供本地化处理的 Wisp Flow 替代方案，并计划扩展至 Windows、iOS 和 Linux 平台。",
+          "language": "Swift",
+          "stars": 5693,
+          "forks": 338,
+          "stars_today": 572,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 331,
+            "repo_age_days": 283,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 100,
+            "pr_count": 214,
+            "star_fork_ratio": 16.84
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-01T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 6,
+          "Skills": 5,
+          "Agent": 5,
+          "金融": 1
+        }
+      }
     }
   ]
 }

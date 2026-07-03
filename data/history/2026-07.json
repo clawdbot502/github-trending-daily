@@ -632,6 +632,323 @@
           "金融": 1
         }
       }
+    },
+    {
+      "date": "2026-07-03",
+      "generated_at": "2026-07-03T09:45:50.320Z",
+      "projects": [
+        {
+          "id": "msitarzewski/agency-agents",
+          "name": "agency-agents",
+          "owner": "msitarzewski",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+          "ai_summary": "该项目提供一套完整的AI代理系统，涵盖从前端开发到社区管理的多种专业角色。每个代理均采用Shell脚本实现，具备个性化处理流程和已验证的交付能力。",
+          "language": "Shell",
+          "stars": 126037,
+          "forks": 20453,
+          "stars_today": 3032,
+          "stars_this_week": 9484,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5102,
+            "repo_age_days": 262,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 98,
+            "pr_count": 419,
+            "star_fork_ratio": 6.16
+          },
+          "trending_days": 5,
+          "first_seen": "2026-06-29T00:00:00.000Z"
+        },
+        {
+          "id": "usestrix/strix",
+          "name": "strix",
+          "owner": "usestrix",
+          "url": "https://github.com/usestrix/strix",
+          "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+          "ai_summary": "这是一个开源的AI渗透测试工具，用于发现和修复应用程序漏洞。基于Python构建，整合了自动化安全测试技术。",
+          "language": "Python",
+          "stars": 33343,
+          "forks": 3451,
+          "stars_today": 2137,
+          "stars_this_week": 4743,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 602,
+            "repo_age_days": 331,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 133,
+            "pr_count": 411,
+            "star_fork_ratio": 9.66
+          },
+          "trending_days": 3,
+          "first_seen": "2026-07-01T00:00:00.000Z"
+        },
+        {
+          "id": "HKUDS/Vibe-Trading",
+          "name": "Vibe-Trading",
+          "owner": "HKUDS",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+          "ai_summary": "该项目实现了一个个性化交易代理系统，支持自动化金融交易决策。采用Python开发，整合市场情绪分析算法。",
+          "language": "Python",
+          "stars": 17604,
+          "forks": 2906,
+          "stars_today": 939,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1327,
+            "repo_age_days": 92,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 14,
+            "pr_count": 239,
+            "star_fork_ratio": 6.06
+          },
+          "trending_days": 5,
+          "first_seen": "2026-06-29T00:00:00.000Z"
+        },
+        {
+          "id": "hasaneyldrm/exercises-dataset",
+          "name": "exercises-dataset",
+          "owner": "hasaneyldrm",
+          "url": "https://github.com/hasaneyldrm/exercises-dataset",
+          "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+          "ai_summary": "提供包含433种健身动作的综合数据集，涵盖名称、类别、目标肌群、器材、指导说明、缩略图和动画视频。采用HTML格式组织数据，便于结构化存储和检索。",
+          "language": "HTML",
+          "stars": 9651,
+          "forks": 1075,
+          "stars_today": 938,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 3355,
+            "repo_age_days": 107,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 22,
+            "pr_count": 24,
+            "star_fork_ratio": 8.98
+          },
+          "trending_days": 3,
+          "first_seen": "2026-07-01T00:00:00.000Z"
+        },
+        {
+          "id": "JuliusBrussee/caveman",
+          "name": "caveman",
+          "owner": "JuliusBrussee",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+          "ai_summary": "通过简化Claude AI的代码交互语言来减少65%的token消耗。基于JavaScript实现，采用极简词汇策略优化大模型通信效率。",
+          "language": "JavaScript",
+          "stars": 82146,
+          "forks": 4577,
+          "stars_today": 926,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1533,
+            "repo_age_days": 89,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 369,
+            "pr_count": 327,
+            "star_fork_ratio": 17.95
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-03T00:00:00.000Z"
+        },
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "构建可实践的智能体技能框架与软件开发方法论。通过Shell脚本实现自动化流程，强调可操作性和实际工程落地。",
+          "language": "Shell",
+          "stars": 245008,
+          "forks": 21713,
+          "stars_today": 897,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6383,
+            "repo_age_days": 266,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 313,
+            "pr_count": 980,
+            "star_fork_ratio": 11.28
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-03T00:00:00.000Z"
+        },
+        {
+          "id": "browser-use/video-use",
+          "name": "video-use",
+          "owner": "browser-use",
+          "url": "https://github.com/browser-use/video-use",
+          "description": "Edit videos with coding agents",
+          "ai_summary": "通过编程代理编辑视频的项目。使用Python实现，提供自动化视频处理能力。",
+          "language": "Python",
+          "stars": 14138,
+          "forks": 1708,
+          "stars_today": 554,
+          "stars_this_week": 3389,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 562,
+            "repo_age_days": 82,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 52,
+            "pr_count": 59,
+            "star_fork_ratio": 8.28
+          },
+          "trending_days": 5,
+          "first_seen": "2026-06-29T00:00:00.000Z"
+        },
+        {
+          "id": "affaan-m/ECC",
+          "name": "ECC",
+          "owner": "affaan-m",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "ai_summary": "为AI代码生成工具设计的性能优化系统。基于JavaScript，整合技能、记忆和安全机制，提升Claude Code等工具的效能。",
+          "language": "JavaScript",
+          "stars": 225436,
+          "forks": 34483,
+          "stars_today": 486,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1244,
+            "repo_age_days": 166,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 89,
+            "pr_count": 1683,
+            "star_fork_ratio": 6.54
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-03T00:00:00.000Z"
+        },
+        {
+          "id": "santifer/career-ops",
+          "name": "career-ops",
+          "owner": "santifer",
+          "url": "https://github.com/santifer/career-ops",
+          "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+          "ai_summary": "基于AI的求职辅助系统。采用JavaScript开发，集成14种技能模式，支持仪表板、PDF生成和批量处理功能。",
+          "language": "JavaScript",
+          "stars": 58263,
+          "forks": 11428,
+          "stars_today": 372,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 70,
+          "security_details": {
+            "author_age_days": 160,
+            "repo_age_days": 89,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 122,
+            "pr_count": 910,
+            "star_fork_ratio": 5.1
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-03T00:00:00.000Z"
+        },
+        {
+          "id": "openai/codex-plugin-cc",
+          "name": "codex-plugin-cc",
+          "owner": "openai",
+          "url": "https://github.com/openai/codex-plugin-cc",
+          "description": "Use Codex from Claude Code to review code or delegate tasks.",
+          "ai_summary": "该项目是一个基于Claude Code的Codex插件，用于代码审查或任务委派。它利用JavaScript实现，通过集成Codex的AI能力自动化处理代码相关任务。",
+          "language": "JavaScript",
+          "stars": 22871,
+          "forks": 1390,
+          "stars_today": 352,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3925,
+            "repo_age_days": 94,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 266,
+            "pr_count": 204,
+            "star_fork_ratio": 16.45
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-03T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 7,
+          "Skills": 7,
+          "Agent": 5,
+          "金融": 1
+        }
+      }
     }
   ]
 }

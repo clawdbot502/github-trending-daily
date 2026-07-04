@@ -949,6 +949,320 @@
           "金融": 1
         }
       }
+    },
+    {
+      "date": "2026-07-04",
+      "generated_at": "2026-07-04T09:08:42.130Z",
+      "projects": [
+        {
+          "id": "JuliusBrussee/caveman",
+          "name": "caveman",
+          "owner": "JuliusBrussee",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+          "ai_summary": "该项目通过模仿原始人简化语言风格，减少与Claude AI交互时的token消耗。采用JavaScript实现，能削减65%的token使用量。",
+          "language": "JavaScript",
+          "stars": 83302,
+          "forks": 4650,
+          "stars_today": 2863,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1534,
+            "repo_age_days": 90,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 352,
+            "pr_count": 337,
+            "star_fork_ratio": 17.91
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-03T00:00:00.000Z"
+        },
+        {
+          "id": "usestrix/strix",
+          "name": "strix",
+          "owner": "usestrix",
+          "url": "https://github.com/usestrix/strix",
+          "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+          "ai_summary": "这是一个开源的AI渗透测试工具，用于自动发现和修复应用程序漏洞。基于Python开发，提供智能化的安全检测能力。",
+          "language": "Python",
+          "stars": 35252,
+          "forks": 3605,
+          "stars_today": 2803,
+          "stars_this_week": 7567,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 603,
+            "repo_age_days": 332,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 160,
+            "pr_count": 435,
+            "star_fork_ratio": 9.78
+          },
+          "trending_days": 4,
+          "first_seen": "2026-07-01T00:00:00.000Z"
+        },
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "该项目是面向代理技能开发的框架和软件开发方法论。使用Shell脚本实现，提供可操作的开发实践方案。",
+          "language": "Shell",
+          "stars": 245784,
+          "forks": 21792,
+          "stars_today": 1209,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6384,
+            "repo_age_days": 267,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 319,
+            "pr_count": 986,
+            "star_fork_ratio": 11.28
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-03T00:00:00.000Z"
+        },
+        {
+          "id": "msitarzewski/agency-agents",
+          "name": "agency-agents",
+          "owner": "msitarzewski",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+          "ai_summary": "该项目提供一套完整的AI代理系统，涵盖从前端开发到社区管理的多种专业化角色。基于Shell脚本实现，每个代理具备独特个性和工作流程，可快速部署使用。",
+          "language": "Shell",
+          "stars": 126741,
+          "forks": 20568,
+          "stars_today": 1208,
+          "stars_this_week": 10483,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5103,
+            "repo_age_days": 263,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 100,
+            "pr_count": 421,
+            "star_fork_ratio": 6.16
+          },
+          "trending_days": 6,
+          "first_seen": "2026-06-29T00:00:00.000Z"
+        },
+        {
+          "id": "facebook/astryx",
+          "name": "astryx",
+          "owner": "facebook",
+          "url": "https://github.com/facebook/astryx",
+          "description": "An open source design system that's fully customizable and agent ready",
+          "ai_summary": "这是一个开源的、可定制化的设计系统，支持AI代理集成。采用TypeScript开发，提供模块化组件和灵活的样式配置方案。",
+          "language": "TypeScript",
+          "stars": 4984,
+          "forks": 290,
+          "stars_today": 885,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6302,
+            "repo_age_days": 175,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 204,
+            "pr_count": 2718,
+            "star_fork_ratio": 17.19
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-04T00:00:00.000Z"
+        },
+        {
+          "id": "harvard-edge/cs249r_book",
+          "name": "cs249r_book",
+          "owner": "harvard-edge",
+          "url": "https://github.com/harvard-edge/cs249r_book",
+          "description": "Machine Learning Systems",
+          "ai_summary": "该项目是哈佛大学机器学习系统课程的配套教材。使用Python实现案例代码，系统讲解ML系统设计原理与工程实践。",
+          "language": "Python",
+          "stars": 26339,
+          "forks": 3144,
+          "stars_today": 793,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2693,
+            "repo_age_days": 1031,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 14,
+            "pr_count": 918,
+            "star_fork_ratio": 8.38
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-04T00:00:00.000Z"
+        },
+        {
+          "id": "openai/codex-plugin-cc",
+          "name": "codex-plugin-cc",
+          "owner": "openai",
+          "url": "https://github.com/openai/codex-plugin-cc",
+          "description": "Use Codex from Claude Code to review code or delegate tasks.",
+          "ai_summary": "该项目是一个基于Claude Code的Codex插件，用于代码审查或任务委派。通过JavaScript实现，利用Codex的AI能力自动化代码分析流程。",
+          "language": "JavaScript",
+          "stars": 23472,
+          "forks": 1436,
+          "stars_today": 634,
+          "stars_this_week": 1296,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3926,
+            "repo_age_days": 95,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 267,
+            "pr_count": 207,
+            "star_fork_ratio": 16.35
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-03T00:00:00.000Z"
+        },
+        {
+          "id": "ogulcancelik/herdr",
+          "name": "herdr",
+          "owner": "ogulcancelik",
+          "url": "https://github.com/ogulcancelik/herdr",
+          "description": "agent multiplexer that lives in your terminal.",
+          "ai_summary": "Herdr是一个运行在终端内的代理多路复用工具。采用Rust编写，提供高效的终端会话管理和进程复用功能。",
+          "language": "Rust",
+          "stars": 11013,
+          "forks": 647,
+          "stars_today": 478,
+          "stars_this_week": 3024,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4483,
+            "repo_age_days": 98,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 32,
+            "pr_count": 177,
+            "star_fork_ratio": 17.02
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-04T00:00:00.000Z"
+        },
+        {
+          "id": "agentskills/agentskills",
+          "name": "agentskills",
+          "owner": "agentskills",
+          "url": "https://github.com/agentskills/agentskills",
+          "description": "Specification and documentation for Agent Skills",
+          "ai_summary": "该项目定义了Agent Skills的规范和文档标准。使用Python实现，为智能体技能开发提供统一的接口描述框架。",
+          "language": "Python",
+          "stars": 22117,
+          "forks": 1399,
+          "stars_today": 406,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 200,
+            "repo_age_days": 199,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 47,
+            "pr_count": 157,
+            "star_fork_ratio": 15.81
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-04T00:00:00.000Z"
+        },
+        {
+          "id": "ChromeDevTools/chrome-devtools-mcp",
+          "name": "chrome-devtools-mcp",
+          "owner": "ChromeDevTools",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "description": "Chrome DevTools for coding agents",
+          "ai_summary": "该项目是Chrome DevTools的扩展版本，专为编码代理设计，提供更高效的开发工具支持。采用TypeScript编写，具备模块化架构，便于集成和扩展。",
+          "language": "TypeScript",
+          "stars": 45585,
+          "forks": 2967,
+          "stars_today": 405,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4142,
+            "repo_age_days": 295,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 87,
+            "pr_count": 1281,
+            "star_fork_ratio": 15.36
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-04T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 5,
+          "Skills": 7,
+          "Agent": 6
+        }
+      }
     }
   ]
 }

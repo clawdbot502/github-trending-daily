@@ -1263,6 +1263,317 @@
           "Agent": 6
         }
       }
+    },
+    {
+      "date": "2026-07-05",
+      "generated_at": "2026-07-05T09:31:45.658Z",
+      "projects": [
+        {
+          "id": "usestrix/strix",
+          "name": "strix",
+          "owner": "usestrix",
+          "url": "https://github.com/usestrix/strix",
+          "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+          "ai_summary": "Strix 是一款开源的 AI 渗透测试工具，用于发现和修复应用程序漏洞。采用 Python 实现，结合 AI 技术自动化识别安全风险。",
+          "language": "Python",
+          "stars": 36456,
+          "forks": 3690,
+          "stars_today": 1904,
+          "stars_this_week": 9362,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 604,
+            "repo_age_days": 333,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 173,
+            "pr_count": 442,
+            "star_fork_ratio": 9.88
+          },
+          "trending_days": 5,
+          "first_seen": "2026-07-01T00:00:00.000Z"
+        },
+        {
+          "id": "JuliusBrussee/caveman",
+          "name": "caveman",
+          "owner": "JuliusBrussee",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+          "ai_summary": "Caveman 是一个 Claude 代码技能项目，通过简化表达方式减少 65% 的 token 使用量。基于 JavaScript 实现，采用极简语言模型交互策略。",
+          "language": "JavaScript",
+          "stars": 84333,
+          "forks": 4705,
+          "stars_today": 1089,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1535,
+            "repo_age_days": 91,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 360,
+            "pr_count": 343,
+            "star_fork_ratio": 17.92
+          },
+          "trending_days": 3,
+          "first_seen": "2026-07-03T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "ai_summary": "Skills 是工程师实用技能集合，源自作者的 .claude 目录。通过 Shell 脚本实现，提供可直接调用的工程实践方案。",
+          "language": "Shell",
+          "stars": 156961,
+          "forks": 13505,
+          "stars_today": 973,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3351,
+            "repo_age_days": 151,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 120,
+            "pr_count": 71,
+            "star_fork_ratio": 11.62
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-05T00:00:00.000Z"
+        },
+        {
+          "id": "alibaba/page-agent",
+          "name": "page-agent",
+          "owner": "alibaba",
+          "url": "https://github.com/alibaba/page-agent",
+          "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+          "ai_summary": "JavaScript 页面 GUI 代理，通过自然语言控制网页界面。基于 TypeScript 实现，提供直观的交互方式。",
+          "language": "TypeScript",
+          "stars": 23412,
+          "forks": 2019,
+          "stars_today": 742,
+          "stars_this_week": 2484,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5106,
+            "repo_age_days": 285,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 48,
+            "pr_count": 348,
+            "star_fork_ratio": 11.6
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-05T00:00:00.000Z"
+        },
+        {
+          "id": "openai/codex-plugin-cc",
+          "name": "codex-plugin-cc",
+          "owner": "openai",
+          "url": "https://github.com/openai/codex-plugin-cc",
+          "description": "Use Codex from Claude Code to review code or delegate tasks.",
+          "ai_summary": "利用 Claude Code 的 Codex 进行代码审查或任务委派。采用 JavaScript 开发，集成 Codex 能力。",
+          "language": "JavaScript",
+          "stars": 24983,
+          "forks": 1507,
+          "stars_today": 718,
+          "stars_this_week": 1974,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3927,
+            "repo_age_days": 96,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 278,
+            "pr_count": 213,
+            "star_fork_ratio": 16.58
+          },
+          "trending_days": 3,
+          "first_seen": "2026-07-03T00:00:00.000Z"
+        },
+        {
+          "id": "Zackriya-Solutions/meetily",
+          "name": "meetily",
+          "owner": "Zackriya-Solutions",
+          "url": "https://github.com/Zackriya-Solutions/meetily",
+          "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
+          "ai_summary": "隐私优先的 AI 会议助手，提供实时转录、说话人分离和本地摘要功能。基于 Rust 实现，支持 100% 本地处理，无需云端。",
+          "language": "Rust",
+          "stars": 15689,
+          "forks": 1702,
+          "stars_today": 718,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 1907,
+            "repo_age_days": 555,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 239,
+            "pr_count": 247,
+            "star_fork_ratio": 9.22
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-05T00:00:00.000Z"
+        },
+        {
+          "id": "ogulcancelik/herdr",
+          "name": "herdr",
+          "owner": "ogulcancelik",
+          "url": "https://github.com/ogulcancelik/herdr",
+          "description": "agent multiplexer that lives in your terminal.",
+          "ai_summary": "Herdr 是一个运行在终端中的代理多路复用工具，用于管理和复用多个代理连接。该项目使用 Rust 编写，注重性能和安全性，适合在终端环境中高效运行。",
+          "language": "Rust",
+          "stars": 11667,
+          "forks": 685,
+          "stars_today": 707,
+          "stars_this_week": 3506,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4484,
+            "repo_age_days": 99,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 35,
+            "pr_count": 181,
+            "star_fork_ratio": 17.03
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-04T00:00:00.000Z"
+        },
+        {
+          "id": "asgeirtj/system_prompts_leaks",
+          "name": "system_prompts_leaks",
+          "owner": "asgeirtj",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+          "ai_summary": "该项目收集并整理了多个 AI 系统（如 Anthropic、OpenAI、Google 等）的系统提示词，帮助研究者和开发者了解这些模型的内部机制。使用 JavaScript 实现，定期更新以保持数据的最新性。",
+          "language": "JavaScript",
+          "stars": 49255,
+          "forks": 8042,
+          "stars_today": 471,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3369,
+            "repo_age_days": 428,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 30,
+            "pr_count": 92,
+            "star_fork_ratio": 6.12
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-05T00:00:00.000Z"
+        },
+        {
+          "id": "harvard-edge/cs249r_book",
+          "name": "cs249r_book",
+          "owner": "harvard-edge",
+          "url": "https://github.com/harvard-edge/cs249r_book",
+          "description": "Machine Learning Systems",
+          "ai_summary": "CS249r Book 是一个关于机器学习系统的开源书籍项目，涵盖系统设计和实现的关键概念。使用 Python 编写，内容实用且适合作为学习机器学习系统的参考资料。",
+          "language": "Python",
+          "stars": 26667,
+          "forks": 3175,
+          "stars_today": 443,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2694,
+            "repo_age_days": 1032,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 14,
+            "pr_count": 919,
+            "star_fork_ratio": 8.4
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-04T00:00:00.000Z"
+        },
+        {
+          "id": "agentskills/agentskills",
+          "name": "agentskills",
+          "owner": "agentskills",
+          "url": "https://github.com/agentskills/agentskills",
+          "description": "Specification and documentation for Agent Skills",
+          "ai_summary": "该项目定义了智能代理（Agent）技能的标准规范和文档。采用Python实现，通过模块化设计提供清晰的技能接口定义和扩展机制。",
+          "language": "Python",
+          "stars": 22431,
+          "forks": 1418,
+          "stars_today": 351,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 201,
+            "repo_age_days": 200,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 48,
+            "pr_count": 157,
+            "star_fork_ratio": 15.82
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-04T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 7,
+          "Skills": 5,
+          "Agent": 3
+        }
+      }
     }
   ]
 }

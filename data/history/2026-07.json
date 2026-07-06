@@ -1574,6 +1574,321 @@
           "Agent": 3
         }
       }
+    },
+    {
+      "date": "2026-07-06",
+      "generated_at": "2026-07-06T11:16:46.737Z",
+      "projects": [
+        {
+          "id": "openai/codex-plugin-cc",
+          "name": "codex-plugin-cc",
+          "owner": "openai",
+          "url": "https://github.com/openai/codex-plugin-cc",
+          "description": "Use Codex from Claude Code to review code or delegate tasks.",
+          "ai_summary": "该项目是一个利用Claude Code中的Codex进行代码审查或任务委派的工具。基于JavaScript实现，通过集成Codex提供自动化代码分析与任务处理能力。",
+          "language": "JavaScript",
+          "stars": 25978,
+          "forks": 1559,
+          "stars_today": 1532,
+          "stars_this_week": 3405,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3928,
+            "repo_age_days": 97,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 278,
+            "pr_count": 214,
+            "star_fork_ratio": 16.66
+          },
+          "trending_days": 4,
+          "first_seen": "2026-07-03T00:00:00.000Z"
+        },
+        {
+          "id": "Zackriya-Solutions/meetily",
+          "name": "meetily",
+          "owner": "Zackriya-Solutions",
+          "url": "https://github.com/Zackriya-Solutions/meetily",
+          "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
+          "ai_summary": "这是一个隐私优先的本地AI会议助手，提供实时转录、说话人分离和摘要功能。采用Rust编写，集成Parakeet/Whisper和Ollama技术，支持完全离线的本地处理。",
+          "language": "Rust",
+          "stars": 18263,
+          "forks": 1872,
+          "stars_today": 1409,
+          "stars_this_week": 2972,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 1908,
+            "repo_age_days": 556,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 246,
+            "pr_count": 250,
+            "star_fork_ratio": 9.76
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-05T00:00:00.000Z"
+        },
+        {
+          "id": "addyosmani/agent-skills",
+          "name": "agent-skills",
+          "owner": "addyosmani",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "ai_summary": "该项目为AI编程代理提供生产级工程技能支持。通过Shell脚本实现关键工程能力的标准化封装与调用。",
+          "language": "Shell",
+          "stars": 70227,
+          "forks": 7611,
+          "stars_today": 1114,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 6182,
+            "repo_age_days": 140,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 135,
+            "pr_count": 233,
+            "star_fork_ratio": 9.23
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-06T00:00:00.000Z"
+        },
+        {
+          "id": "asgeirtj/system_prompts_leaks",
+          "name": "system_prompts_leaks",
+          "owner": "asgeirtj",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+          "ai_summary": "该项目收集并定期更新多个AI系统（如Anthropic Claude、OpenAI ChatGPT、Google Gemini等）的系统提示词。通过JavaScript实现自动化抓取与整理，提供透明化的AI底层指令集分析。",
+          "language": "JavaScript",
+          "stars": 50679,
+          "forks": 8263,
+          "stars_today": 981,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3370,
+            "repo_age_days": 429,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 33,
+            "pr_count": 94,
+            "star_fork_ratio": 6.13
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-05T00:00:00.000Z"
+        },
+        {
+          "id": "Leonxlnx/taste-skill",
+          "name": "taste-skill",
+          "owner": "Leonxlnx",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+          "ai_summary": "该项目通过JavaScript开发的过滤算法提升AI生成内容质量。采用语义分析与风格评估技术，有效抑制低质模板化输出。",
+          "language": "JavaScript",
+          "stars": 58273,
+          "forks": 3979,
+          "stars_today": 863,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 368,
+            "repo_age_days": 136,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 42,
+            "pr_count": 34,
+            "star_fork_ratio": 14.65
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-06T00:00:00.000Z"
+        },
+        {
+          "id": "ogulcancelik/herdr",
+          "name": "herdr",
+          "owner": "ogulcancelik",
+          "url": "https://github.com/ogulcancelik/herdr",
+          "description": "agent multiplexer that lives in your terminal.",
+          "ai_summary": "该工具是终端环境下的多智能体管理平台，采用Rust编写实现高性能并发。通过轻量级架构统一调度各类CLI代理进程。",
+          "language": "Rust",
+          "stars": 12466,
+          "forks": 726,
+          "stars_today": 651,
+          "stars_this_week": 3937,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4485,
+            "repo_age_days": 100,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 40,
+            "pr_count": 190,
+            "star_fork_ratio": 17.17
+          },
+          "trending_days": 3,
+          "first_seen": "2026-07-04T00:00:00.000Z"
+        },
+        {
+          "id": "alirezarezvani/claude-skills",
+          "name": "claude-skills",
+          "owner": "alirezarezvani",
+          "url": "https://github.com/alirezarezvani/claude-skills",
+          "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+          "ai_summary": "该项目提供337个Claude Code技能、代理技能和插件，涵盖工程、营销、产品等10多个领域，提升Claude Code等10余种编码代理的生产力。基于Python实现，包含30+代理、70+自定义命令和330+技能，支持高度定制化引用和脚本扩展。",
+          "language": "Python",
+          "stars": 20889,
+          "forks": 2813,
+          "stars_today": 392,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "AI",
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 4646,
+            "repo_age_days": 260,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 12,
+            "pr_count": 697,
+            "star_fork_ratio": 7.43
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-06T00:00:00.000Z"
+        },
+        {
+          "id": "bradautomates/claude-video",
+          "name": "claude-video",
+          "owner": "bradautomates",
+          "url": "https://github.com/bradautomates/claude-video",
+          "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+          "ai_summary": "该项目赋予Claude AI视频理解能力，通过下载视频、提取帧和转录内容实现视频分析。采用Python技术栈，实现视频处理流程自动化并整合到Claude交互中。",
+          "language": "Python",
+          "stars": 3756,
+          "forks": 567,
+          "stars_today": 368,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 615,
+            "repo_age_days": 73,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 30,
+            "pr_count": 32,
+            "star_fork_ratio": 6.62
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-06T00:00:00.000Z"
+        },
+        {
+          "id": "mvanhorn/last30days-skill",
+          "name": "last30days-skill",
+          "owner": "mvanhorn",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+          "ai_summary": "该AI代理技能可跨Reddit、YouTube等平台研究任意主题并生成综合摘要。基于Python开发，整合多平台数据抓取与自然语言处理技术实现信息聚合与提炼。",
+          "language": "Python",
+          "stars": 49464,
+          "forks": 4117,
+          "stars_today": 237,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5731,
+            "repo_age_days": 163,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 85,
+            "pr_count": 571,
+            "star_fork_ratio": 12.01
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-06T00:00:00.000Z"
+        },
+        {
+          "id": "karakeep-app/karakeep",
+          "name": "karakeep",
+          "owner": "karakeep-app",
+          "url": "https://github.com/karakeep-app/karakeep",
+          "description": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search",
+          "ai_summary": "这是一个可自托管的全能书签应用，支持链接、笔记和图片的保存与管理，解决信息碎片化整理问题。采用TypeScript开发，结合AI自动标签和全文搜索技术实现智能化分类与检索。",
+          "language": "TypeScript",
+          "stars": 26657,
+          "forks": 1310,
+          "stars_today": 178,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 486,
+            "repo_age_days": 880,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 658,
+            "pr_count": 798,
+            "star_fork_ratio": 20.35
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-06T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 9,
+          "Skills": 5,
+          "Agent": 3,
+          "金融": 1
+        }
+      }
     }
   ]
 }

@@ -2204,6 +2204,322 @@
           "金融": 1
         }
       }
+    },
+    {
+      "date": "2026-07-08",
+      "generated_at": "2026-07-08T09:14:23.526Z",
+      "projects": [
+        {
+          "id": "MadsLorentzen/ai-job-search",
+          "name": "ai-job-search",
+          "owner": "MadsLorentzen",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+          "ai_summary": "AI驱动的求职自动化框架，基于Claude Code实现职位评估、简历定制、求职信撰写和面试准备。采用TypeScript开发，支持用户fork后个性化配置，通过AI完成全流程求职辅助。",
+          "language": "TypeScript",
+          "stars": 12767,
+          "forks": 4054,
+          "stars_today": 2514,
+          "stars_this_week": 5363,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 2623,
+            "repo_age_days": 111,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 11,
+            "pr_count": 53,
+            "star_fork_ratio": 3.15
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-08T00:00:00.000Z"
+        },
+        {
+          "id": "Zackriya-Solutions/meetily",
+          "name": "meetily",
+          "owner": "Zackriya-Solutions",
+          "url": "https://github.com/Zackriya-Solutions/meetily",
+          "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
+          "ai_summary": "隐私优先的本地化AI会议助手，提供4倍速实时转录、说话人分离和Ollama摘要功能。基于Rust构建，完全离线运行，支持macOS和Windows平台的自托管部署。",
+          "language": "Rust",
+          "stars": 21245,
+          "forks": 2113,
+          "stars_today": 1777,
+          "stars_this_week": 7349,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 1910,
+            "repo_age_days": 558,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 261,
+            "pr_count": 261,
+            "star_fork_ratio": 10.05
+          },
+          "trending_days": 4,
+          "first_seen": "2026-07-05T00:00:00.000Z"
+        },
+        {
+          "id": "asgeirtj/system_prompts_leaks",
+          "name": "system_prompts_leaks",
+          "owner": "asgeirtj",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+          "ai_summary": "收集主流AI系统提示词的开源仓库，涵盖Anthropic、OpenAI、Google和xAI等厂商的模型。通过JavaScript实现定期更新，提供多平台AI服务的底层提示词分析。",
+          "language": "JavaScript",
+          "stars": 53477,
+          "forks": 8717,
+          "stars_today": 1691,
+          "stars_this_week": 5337,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3372,
+            "repo_age_days": 431,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 34,
+            "pr_count": 94,
+            "star_fork_ratio": 6.13
+          },
+          "trending_days": 4,
+          "first_seen": "2026-07-05T00:00:00.000Z"
+        },
+        {
+          "id": "addyosmani/agent-skills",
+          "name": "agent-skills",
+          "owner": "addyosmani",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "ai_summary": "为AI编码代理提供生产级工程技能。基于JavaScript实现，专注于提升AI代理在真实开发环境中的实用能力。",
+          "language": "JavaScript",
+          "stars": 72628,
+          "forks": 7864,
+          "stars_today": 1317,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 6184,
+            "repo_age_days": 142,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 145,
+            "pr_count": 241,
+            "star_fork_ratio": 9.24
+          },
+          "trending_days": 3,
+          "first_seen": "2026-07-06T00:00:00.000Z"
+        },
+        {
+          "id": "bradautomates/claude-video",
+          "name": "claude-video",
+          "owner": "bradautomates",
+          "url": "https://github.com/bradautomates/claude-video",
+          "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+          "ai_summary": "赋予Claude AI视频理解能力，支持下载、抽帧和转录。采用Python实现视频处理流水线，将结构化数据输入Claude进行分析。",
+          "language": "Python",
+          "stars": 5577,
+          "forks": 686,
+          "stars_today": 965,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 617,
+            "repo_age_days": 75,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 37,
+            "pr_count": 36,
+            "star_fork_ratio": 8.13
+          },
+          "trending_days": 3,
+          "first_seen": "2026-07-06T00:00:00.000Z"
+        },
+        {
+          "id": "iOfficeAI/OfficeCLI",
+          "name": "OfficeCLI",
+          "owner": "iOfficeAI",
+          "url": "https://github.com/iOfficeAI/OfficeCLI",
+          "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+          "ai_summary": "专为AI代理设计的Office套件，支持读写和自动化Word/Excel/PPT文件。使用C#开发，单二进制无依赖，无需安装Office套件。",
+          "language": "C#",
+          "stars": 10747,
+          "forks": 719,
+          "stars_today": 893,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1025,
+            "repo_age_days": 115,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 20,
+            "pr_count": 82,
+            "star_fork_ratio": 14.95
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-08T00:00:00.000Z"
+        },
+        {
+          "id": "TencentCloud/CubeSandbox",
+          "name": "CubeSandbox",
+          "owner": "TencentCloud",
+          "url": "https://github.com/TencentCloud/CubeSandbox",
+          "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+          "ai_summary": "CubeSandbox 是一个为 AI 代理设计的即时、并发、安全且轻量级的沙箱环境。采用 Rust 实现，提供高性能隔离执行能力，适用于多代理并发场景。",
+          "language": "Rust",
+          "stars": 8656,
+          "forks": 725,
+          "stars_today": 664,
+          "stars_this_week": 1692,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3667,
+            "repo_age_days": 89,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 102,
+            "pr_count": 602,
+            "star_fork_ratio": 11.94
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-08T00:00:00.000Z"
+        },
+        {
+          "id": "steipete/CodexBar",
+          "name": "CodexBar",
+          "owner": "steipete",
+          "url": "https://github.com/steipete/CodexBar",
+          "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+          "ai_summary": "CodexBar 是无需登录即可监控 OpenAI Codex 和 Claude Code 使用统计的 macOS 状态栏工具。基于 Swift 开发，通过本地化数据采集实现隐私友好的用量追踪。",
+          "language": "Swift",
+          "stars": 17167,
+          "forks": 1400,
+          "stars_today": 376,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6340,
+            "repo_age_days": 233,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 80,
+            "pr_count": 1211,
+            "star_fork_ratio": 12.26
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-07T00:00:00.000Z"
+        },
+        {
+          "id": "hesreallyhim/awesome-claude-code",
+          "name": "awesome-claude-code",
+          "owner": "hesreallyhim",
+          "url": "https://github.com/hesreallyhim/awesome-claude-code",
+          "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
+          "ai_summary": "该项目是精选的 Claude Code 开发资源集合，涵盖工具链、插件和最佳实践。通过 Python 脚本自动化维护资源分类，聚焦 Anthropic 智能编码助手生态。",
+          "language": "Python",
+          "stars": 49423,
+          "forks": 4297,
+          "stars_today": 144,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 759,
+            "repo_age_days": 444,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 584,
+            "pr_count": 424,
+            "star_fork_ratio": 11.5
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-08T00:00:00.000Z"
+        },
+        {
+          "id": "dotnet/skills",
+          "name": "skills",
+          "owner": "dotnet",
+          "url": "https://github.com/dotnet/skills",
+          "description": "Repository for skills to assist AI coding agents with .NET and C#",
+          "ai_summary": "该项目为AI编码助手提供.NET和C#相关技能支持，帮助开发者更高效地使用这些技术。基于C#实现，专注于提升AI在.NET生态中的代码理解和生成能力。",
+          "language": "C#",
+          "stars": 4385,
+          "forks": 325,
+          "stars_today": 64,
+          "stars_this_week": 687,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4288,
+            "repo_age_days": 154,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 76,
+            "pr_count": 722,
+            "star_fork_ratio": 13.49
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-08T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 10,
+          "Skills": 5,
+          "Agent": 5
+        }
+      }
     }
   ]
 }

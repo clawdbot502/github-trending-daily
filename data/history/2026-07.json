@@ -2520,6 +2520,323 @@
           "Agent": 5
         }
       }
+    },
+    {
+      "date": "2026-07-09",
+      "generated_at": "2026-07-09T10:19:23.247Z",
+      "projects": [
+        {
+          "id": "MadsLorentzen/ai-job-search",
+          "name": "ai-job-search",
+          "owner": "MadsLorentzen",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+          "ai_summary": "AI驱动的求职自动化框架，基于Claude Code实现职位评估、简历定制、求职信撰写和面试准备。采用TypeScript开发，支持用户自定义个人资料后全流程自动化处理。",
+          "language": "TypeScript",
+          "stars": 16762,
+          "forks": 5006,
+          "stars_today": 5079,
+          "stars_this_week": 9677,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 75,
+          "security_details": {
+            "author_age_days": 2624,
+            "repo_age_days": 112,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 7,
+            "pr_count": 77,
+            "star_fork_ratio": 3.35
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-08T00:00:00.000Z"
+        },
+        {
+          "id": "iOfficeAI/OfficeCLI",
+          "name": "OfficeCLI",
+          "owner": "iOfficeAI",
+          "url": "https://github.com/iOfficeAI/OfficeCLI",
+          "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+          "ai_summary": "专为AI代理设计的Office套件CLI工具，支持读写和自动化处理Word/Excel/PPT文件。基于C#开发，采用单二进制部署且无需安装Office套件。",
+          "language": "C#",
+          "stars": 12764,
+          "forks": 859,
+          "stars_today": 1717,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1026,
+            "repo_age_days": 116,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 21,
+            "pr_count": 82,
+            "star_fork_ratio": 14.86
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-08T00:00:00.000Z"
+        },
+        {
+          "id": "addyosmani/agent-skills",
+          "name": "agent-skills",
+          "owner": "addyosmani",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "ai_summary": "为AI编程代理设计的生产级工程技能库，提供标准化开发能力支持。基于JavaScript实现，包含经过实战检验的代码工程实践。",
+          "language": "JavaScript",
+          "stars": 75270,
+          "forks": 8099,
+          "stars_today": 1297,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 6185,
+            "repo_age_days": 143,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 148,
+            "pr_count": 248,
+            "star_fork_ratio": 9.29
+          },
+          "trending_days": 4,
+          "first_seen": "2026-07-06T00:00:00.000Z"
+        },
+        {
+          "id": "asgeirtj/system_prompts_leaks",
+          "name": "system_prompts_leaks",
+          "owner": "asgeirtj",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+          "ai_summary": "该项目收集并定期更新多个AI系统（如Anthropic Claude、OpenAI ChatGPT、Google Gemini等）的系统提示词。通过JavaScript实现自动化抓取与整理，为研究AI行为模式提供原始数据。",
+          "language": "JavaScript",
+          "stars": 54633,
+          "forks": 8894,
+          "stars_today": 1218,
+          "stars_this_week": 6182,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3373,
+            "repo_age_days": 432,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 36,
+            "pr_count": 96,
+            "star_fork_ratio": 6.14
+          },
+          "trending_days": 5,
+          "first_seen": "2026-07-05T00:00:00.000Z"
+        },
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "这是一个基于Shell的智能体技能框架及软件开发方法论。采用模块化设计实现任务自动化编排，强调可组合的原子化能力构建。",
+          "language": "Shell",
+          "stars": 250381,
+          "forks": 22210,
+          "stars_today": 1116,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6389,
+            "repo_age_days": 272,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 309,
+            "pr_count": 1004,
+            "star_fork_ratio": 11.27
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-09T00:00:00.000Z"
+        },
+        {
+          "id": "bradautomates/claude-video",
+          "name": "claude-video",
+          "owner": "bradautomates",
+          "url": "https://github.com/bradautomates/claude-video",
+          "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+          "ai_summary": "该项目使Claude AI具备视频理解能力，通过Python实现视频下载、帧提取及语音转录的端到端处理流程。采用多模态数据处理技术将视觉与文本信息整合输入大语言模型。",
+          "language": "Python",
+          "stars": 6361,
+          "forks": 742,
+          "stars_today": 951,
+          "stars_this_week": 2903,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 618,
+            "repo_age_days": 76,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 42,
+            "pr_count": 40,
+            "star_fork_ratio": 8.57
+          },
+          "trending_days": 4,
+          "first_seen": "2026-07-06T00:00:00.000Z"
+        },
+        {
+          "id": "TencentCloud/CubeSandbox",
+          "name": "CubeSandbox",
+          "owner": "TencentCloud",
+          "url": "https://github.com/TencentCloud/CubeSandbox",
+          "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+          "ai_summary": "CubeSandbox 是一个即时、并发、安全且轻量级的 AI 代理沙箱环境。采用 Rust 实现，提供高效资源隔离与低延迟执行能力。",
+          "language": "Rust",
+          "stars": 9186,
+          "forks": 753,
+          "stars_today": 564,
+          "stars_this_week": 2106,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3668,
+            "repo_age_days": 90,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 116,
+            "pr_count": 624,
+            "star_fork_ratio": 12.2
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-08T00:00:00.000Z"
+        },
+        {
+          "id": "mvanhorn/last30days-skill",
+          "name": "last30days-skill",
+          "owner": "mvanhorn",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+          "ai_summary": "该 AI 代理技能可跨 Reddit、X 等平台研究任意主题并生成综合摘要。基于 Python 实现多源数据爬取与语义聚合。",
+          "language": "Python",
+          "stars": 51073,
+          "forks": 4258,
+          "stars_today": 352,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5734,
+            "repo_age_days": 166,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 100,
+            "pr_count": 588,
+            "star_fork_ratio": 11.99
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-09T00:00:00.000Z"
+        },
+        {
+          "id": "TencentCloud/TencentDB-Agent-Memory",
+          "name": "TencentDB-Agent-Memory",
+          "owner": "TencentCloud",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+          "ai_summary": "为 AI 代理提供纯本地的四级渐进式长时记忆存储方案。通过 TypeScript 实现零外部 API 依赖的自主记忆管理。",
+          "language": "TypeScript",
+          "stars": 7933,
+          "forks": 729,
+          "stars_today": 318,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3668,
+            "repo_age_days": 93,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 252,
+            "pr_count": 305,
+            "star_fork_ratio": 10.88
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-09T00:00:00.000Z"
+        },
+        {
+          "id": "usestrix/strix",
+          "name": "strix",
+          "owner": "usestrix",
+          "url": "https://github.com/usestrix/strix",
+          "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+          "ai_summary": "Strix 是一款开源的 AI 渗透测试工具，用于发现和修复应用程序的安全漏洞。它利用 Python 编写，结合机器学习技术自动化识别常见漏洞，提升安全测试效率。",
+          "language": "Python",
+          "stars": 39316,
+          "forks": 4002,
+          "stars_today": 0,
+          "stars_this_week": 10274,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 608,
+            "repo_age_days": 337,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 179,
+            "pr_count": 456,
+            "star_fork_ratio": 9.82
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-09T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 9,
+          "Skills": 6,
+          "Agent": 6
+        }
+      }
     }
   ]
 }

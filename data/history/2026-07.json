@@ -2837,6 +2837,319 @@
           "Agent": 6
         }
       }
+    },
+    {
+      "date": "2026-07-10",
+      "generated_at": "2026-07-10T10:04:43.132Z",
+      "projects": [
+        {
+          "id": "addyosmani/agent-skills",
+          "name": "agent-skills",
+          "owner": "addyosmani",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "ai_summary": "提供适用于AI编码代理的生产级工程技能。采用JavaScript实现，聚焦于提升AI代理的代码质量和工程实践能力。",
+          "language": "JavaScript",
+          "stars": 76386,
+          "forks": 8201,
+          "stars_today": 2554,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 6186,
+            "repo_age_days": 144,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 133,
+            "pr_count": 258,
+            "star_fork_ratio": 9.31
+          },
+          "trending_days": 5,
+          "first_seen": "2026-07-06T00:00:00.000Z"
+        },
+        {
+          "id": "iOfficeAI/OfficeCLI",
+          "name": "OfficeCLI",
+          "owner": "iOfficeAI",
+          "url": "https://github.com/iOfficeAI/OfficeCLI",
+          "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+          "ai_summary": "专为AI代理设计的Office套件，支持读写和自动化处理Word、Excel、PPT文件。基于C#开发，单二进制文件且无需安装Office，实现轻量化部署。",
+          "language": "C#",
+          "stars": 13989,
+          "forks": 950,
+          "stars_today": 1929,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1027,
+            "repo_age_days": 117,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 24,
+            "pr_count": 85,
+            "star_fork_ratio": 14.73
+          },
+          "trending_days": 3,
+          "first_seen": "2026-07-08T00:00:00.000Z"
+        },
+        {
+          "id": "VoltAgent/awesome-design-md",
+          "name": "awesome-design-md",
+          "owner": "VoltAgent",
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+          "ai_summary": "收集知名品牌设计系统的DESIGN.md文件，用于生成匹配的UI界面。通过标准化设计文档，使编码代理能快速构建风格统一的界面。",
+          "language": "",
+          "stars": 100395,
+          "forks": 11613,
+          "stars_today": 1391,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 496,
+            "repo_age_days": 100,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 302,
+            "pr_count": 61,
+            "star_fork_ratio": 8.65
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-10T00:00:00.000Z"
+        },
+        {
+          "id": "asgeirtj/system_prompts_leaks",
+          "name": "system_prompts_leaks",
+          "owner": "asgeirtj",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+          "ai_summary": "system_prompts_leaks - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code,... 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 55563,
+          "forks": 9167,
+          "stars_today": 1125,
+          "stars_this_week": 7149,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3374,
+            "repo_age_days": 433,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 37,
+            "pr_count": 97,
+            "star_fork_ratio": 6.06
+          },
+          "trending_days": 6,
+          "first_seen": "2026-07-05T00:00:00.000Z"
+        },
+        {
+          "id": "bradautomates/claude-video",
+          "name": "claude-video",
+          "owner": "bradautomates",
+          "url": "https://github.com/bradautomates/claude-video",
+          "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+          "ai_summary": "该项目赋予Claude AI处理视频的能力，通过下载视频、提取帧和转录内容来解析视频信息。采用Python实现，结合计算机视觉与自然语言处理技术，实现视频内容的结构化分析。",
+          "language": "Python",
+          "stars": 6950,
+          "forks": 783,
+          "stars_today": 718,
+          "stars_this_week": 3630,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 619,
+            "repo_age_days": 77,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 43,
+            "pr_count": 42,
+            "star_fork_ratio": 8.88
+          },
+          "trending_days": 5,
+          "first_seen": "2026-07-06T00:00:00.000Z"
+        },
+        {
+          "id": "vxcontrol/pentagi",
+          "name": "pentagi",
+          "owner": "vxcontrol",
+          "url": "https://github.com/vxcontrol/pentagi",
+          "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+          "ai_summary": "Pentagi 是一个全自动 AI 代理系统，用于执行复杂的渗透测试任务。采用 Go 语言实现，通过自主决策和任务编排实现高效的漏洞探测与攻击模拟。",
+          "language": "Go",
+          "stars": 19705,
+          "forks": 2641,
+          "stars_today": 535,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2981,
+            "repo_age_days": 549,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 66,
+            "pr_count": 237,
+            "star_fork_ratio": 7.46
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-10T00:00:00.000Z"
+        },
+        {
+          "id": "unclecode/crawl4ai",
+          "name": "crawl4ai",
+          "owner": "unclecode",
+          "url": "https://github.com/unclecode/crawl4ai",
+          "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+          "ai_summary": "Crawl4AI 是一个开源的、对大型语言模型友好的网络爬虫和抓取工具，旨在简化网页数据的收集和处理。该项目采用 Python 实现，支持高效抓取和结构化数据输出，便于后续 AI 模型训练和分析。",
+          "language": "Python",
+          "stars": 72101,
+          "forks": 7392,
+          "stars_today": 215,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4071,
+            "repo_age_days": 792,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 106,
+            "pr_count": 616,
+            "star_fork_ratio": 9.75
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-10T00:00:00.000Z"
+        },
+        {
+          "id": "anthropics/claude-cookbooks",
+          "name": "claude-cookbooks",
+          "owner": "anthropics",
+          "url": "https://github.com/anthropics/claude-cookbooks",
+          "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+          "ai_summary": "claude-cookbooks 是一个展示如何使用 Claude 模型的有趣且高效方法的 Jupyter Notebook 集合。这些 Notebook 提供了多种实用场景的代码示例和最佳实践，帮助开发者快速上手 Claude 的应用开发。",
+          "language": "Jupyter Notebook",
+          "stars": 47383,
+          "forks": 5567,
+          "stars_today": 194,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2028,
+            "repo_age_days": 1059,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 284,
+            "pr_count": 522,
+            "star_fork_ratio": 8.51
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-10T00:00:00.000Z"
+        },
+        {
+          "id": "wonderwhy-er/DesktopCommanderMCP",
+          "name": "DesktopCommanderMCP",
+          "owner": "wonderwhy-er",
+          "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+          "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+          "ai_summary": "DesktopCommanderMCP 是一个为 Claude 设计的 MCP 服务器，赋予其终端控制、文件系统搜索和文件差异编辑能力。该项目基于 TypeScript 实现，通过模块化架构提供灵活的终端交互和文件管理功能。",
+          "language": "TypeScript",
+          "stars": 6728,
+          "forks": 881,
+          "stars_today": 185,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5371,
+            "repo_age_days": 583,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 153,
+            "pr_count": 295,
+            "star_fork_ratio": 7.64
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-10T00:00:00.000Z"
+        },
+        {
+          "id": "Zackriya-Solutions/meetily",
+          "name": "meetily",
+          "owner": "Zackriya-Solutions",
+          "url": "https://github.com/Zackriya-Solutions/meetily",
+          "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
+          "ai_summary": "meetily - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr... 使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 22437,
+          "forks": 2358,
+          "stars_today": 0,
+          "stars_this_week": 8885,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 1912,
+            "repo_age_days": 560,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 269,
+            "pr_count": 264,
+            "star_fork_ratio": 9.52
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-10T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 9,
+          "Skills": 4,
+          "Agent": 4
+        }
+      }
     }
   ]
 }

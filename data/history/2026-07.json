@@ -3466,6 +3466,317 @@
           "Agent": 5
         }
       }
+    },
+    {
+      "date": "2026-07-12",
+      "generated_at": "2026-07-12T08:54:05.103Z",
+      "projects": [
+        {
+          "id": "wonderwhy-er/DesktopCommanderMCP",
+          "name": "DesktopCommanderMCP",
+          "owner": "wonderwhy-er",
+          "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+          "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+          "ai_summary": "该项目是为Claude设计的MCP服务器，提供终端控制、文件系统搜索和差异文件编辑功能。基于TypeScript实现，通过MCP协议扩展Claude的本地操作能力。",
+          "language": "TypeScript",
+          "stars": 7846,
+          "forks": 978,
+          "stars_today": 909,
+          "stars_this_week": 1451,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5373,
+            "repo_age_days": 585,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 176,
+            "pr_count": 314,
+            "star_fork_ratio": 8.02
+          },
+          "trending_days": 3,
+          "first_seen": "2026-07-10T00:00:00.000Z"
+        },
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "这是一个代理技能框架及软件开发方法论，用于构建可操作的技能系统。采用Shell脚本实现，强调技能组合的灵活性和可扩展性。",
+          "language": "Shell",
+          "stars": 252672,
+          "forks": 22558,
+          "stars_today": 740,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6392,
+            "repo_age_days": 275,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 320,
+            "pr_count": 1015,
+            "star_fork_ratio": 11.2
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-11T00:00:00.000Z"
+        },
+        {
+          "id": "google-labs-code/stitch-skills",
+          "name": "stitch-skills",
+          "owner": "google-labs-code",
+          "url": "https://github.com/google-labs-code/stitch-skills",
+          "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+          "ai_summary": "专为Stitch MCP服务器设计的Agent Skills库，遵循开放标准兼容多种编程代理。使用TypeScript开发，提供模块化技能组件供AI代理调用。",
+          "language": "TypeScript",
+          "stars": 7175,
+          "forks": 953,
+          "stars_today": 340,
+          "stars_this_week": 549,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 866,
+            "repo_age_days": 176,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 21,
+            "pr_count": 56,
+            "star_fork_ratio": 7.53
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-11T00:00:00.000Z"
+        },
+        {
+          "id": "davila7/claude-code-templates",
+          "name": "claude-code-templates",
+          "owner": "davila7",
+          "url": "https://github.com/davila7/claude-code-templates",
+          "description": "CLI tool for configuring and monitoring Claude Code",
+          "ai_summary": "这是一个用于配置和监控Claude Code的CLI工具。基于Python开发，提供命令行界面快速管理配置。",
+          "language": "Python",
+          "stars": 29113,
+          "forks": 3193,
+          "stars_today": 232,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4588,
+            "repo_age_days": 373,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 194,
+            "pr_count": 482,
+            "star_fork_ratio": 9.12
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-11T00:00:00.000Z"
+        },
+        {
+          "id": "hashicorp/terraform",
+          "name": "terraform",
+          "owner": "hashicorp",
+          "url": "https://github.com/hashicorp/terraform",
+          "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+          "ai_summary": "基础设施即代码工具，通过声明式配置安全地创建和管理云资源。采用Go语言编写，支持多平台API的版本化配置管理。",
+          "language": "Go",
+          "stars": 49420,
+          "forks": 10685,
+          "stars_today": 229,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 5551,
+            "repo_age_days": 4503,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1911,
+            "pr_count": 16336,
+            "star_fork_ratio": 4.63
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-11T00:00:00.000Z"
+        },
+        {
+          "id": "anthropics/claude-cookbooks",
+          "name": "claude-cookbooks",
+          "owner": "anthropics",
+          "url": "https://github.com/anthropics/claude-cookbooks",
+          "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+          "ai_summary": "展示Claude AI各种使用方法的Jupyter Notebook案例集。通过交互式笔记本演示实用技巧和最佳实践。",
+          "language": "Jupyter Notebook",
+          "stars": 48081,
+          "forks": 5692,
+          "stars_today": 219,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2030,
+            "repo_age_days": 1061,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 285,
+            "pr_count": 525,
+            "star_fork_ratio": 8.45
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-12T00:00:00.000Z"
+        },
+        {
+          "id": "Zackriya-Solutions/meetily",
+          "name": "meetily",
+          "owner": "Zackriya-Solutions",
+          "url": "https://github.com/Zackriya-Solutions/meetily",
+          "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes",
+          "ai_summary": "Meetily 是一款隐私优先的 AI 会议助手，提供实时转录、说话人分离和本地化摘要功能。基于 Rust 实现，采用 Parakeet/Whisper 模型实现 4 倍速转录，完全本地处理无需云端依赖。",
+          "language": "Rust",
+          "stars": 23322,
+          "forks": 2465,
+          "stars_today": 0,
+          "stars_this_week": 8579,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 1914,
+            "repo_age_days": 562,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 276,
+            "pr_count": 270,
+            "star_fork_ratio": 9.46
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-12T00:00:00.000Z"
+        },
+        {
+          "id": "asgeirtj/system_prompts_leaks",
+          "name": "system_prompts_leaks",
+          "owner": "asgeirtj",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+          "ai_summary": "该项目收集并整理了多个主流 AI 系统的提示词模板，包括 Anthropic Claude、OpenAI GPT 和 Google Gemini 等系列模型。通过 JavaScript 实现定期更新，为研究大语言模型系统提示设计提供参考。",
+          "language": "JavaScript",
+          "stars": 56404,
+          "forks": 9316,
+          "stars_today": 0,
+          "stars_this_week": 7731,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3376,
+            "repo_age_days": 435,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 38,
+            "pr_count": 98,
+            "star_fork_ratio": 6.05
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-12T00:00:00.000Z"
+        },
+        {
+          "id": "iOfficeAI/OfficeCLI",
+          "name": "OfficeCLI",
+          "owner": "iOfficeAI",
+          "url": "https://github.com/iOfficeAI/OfficeCLI",
+          "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+          "ai_summary": "OfficeCLI 是专为 AI 代理设计的办公套件工具，支持读写和自动化处理 Word、Excel 和 PowerPoint 文件。采用 C# 开发，单二进制部署且无需安装 Office 套件，提供轻量级文档操作接口。",
+          "language": "C#",
+          "stars": 15213,
+          "forks": 1037,
+          "stars_today": 0,
+          "stars_this_week": 6549,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1029,
+            "repo_age_days": 119,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 23,
+            "pr_count": 87,
+            "star_fork_ratio": 14.67
+          },
+          "trending_days": 5,
+          "first_seen": "2026-07-08T00:00:00.000Z"
+        },
+        {
+          "id": "usestrix/strix",
+          "name": "strix",
+          "owner": "usestrix",
+          "url": "https://github.com/usestrix/strix",
+          "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+          "ai_summary": "Strix 是一款开源的 AI 渗透测试工具，用于发现并修复应用程序的安全漏洞。它利用 Python 实现，结合机器学习技术自动识别潜在的安全风险。",
+          "language": "Python",
+          "stars": 40660,
+          "forks": 4286,
+          "stars_today": 0,
+          "stars_this_week": 4987,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 611,
+            "repo_age_days": 340,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 188,
+            "pr_count": 479,
+            "star_fork_ratio": 9.49
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-12T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 9,
+          "Skills": 3,
+          "Agent": 3
+        }
+      }
     }
   ]
 }

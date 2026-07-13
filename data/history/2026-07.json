@@ -3777,6 +3777,319 @@
           "Agent": 3
         }
       }
+    },
+    {
+      "date": "2026-07-13",
+      "generated_at": "2026-07-13T09:59:28.737Z",
+      "projects": [
+        {
+          "id": "HKUDS/Vibe-Trading",
+          "name": "Vibe-Trading",
+          "owner": "HKUDS",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+          "ai_summary": "Vibe-Trading 是一个个人交易代理工具，帮助用户自动化执行交易策略。基于 Python 实现，支持量化交易策略的快速开发和回测。",
+          "language": "Python",
+          "stars": 21085,
+          "forks": 3670,
+          "stars_today": 768,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1337,
+            "repo_age_days": 103,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 12,
+            "pr_count": 335,
+            "star_fork_ratio": 5.75
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-13T00:00:00.000Z"
+        },
+        {
+          "id": "anthropics/claude-cookbooks",
+          "name": "claude-cookbooks",
+          "owner": "anthropics",
+          "url": "https://github.com/anthropics/claude-cookbooks",
+          "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+          "ai_summary": "claude-cookbooks 是一个 Jupyter Notebook 集合，展示 Claude 模型的各种有趣且实用的使用方法。通过示例代码演示如何高效利用 Claude 进行任务处理。",
+          "language": "Jupyter Notebook",
+          "stars": 48680,
+          "forks": 5749,
+          "stars_today": 459,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2031,
+            "repo_age_days": 1062,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 286,
+            "pr_count": 525,
+            "star_fork_ratio": 8.47
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-12T00:00:00.000Z"
+        },
+        {
+          "id": "Dicklesworthstone/destructive_command_guard",
+          "name": "destructive_command_guard",
+          "owner": "Dicklesworthstone",
+          "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+          "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+          "ai_summary": "destructive_command_guard 是一个安全工具，用于阻止代理执行危险的 git 和 shell 命令。采用 Rust 编写，提供高性能的命令拦截和防护机制。",
+          "language": "Rust",
+          "stars": 3516,
+          "forks": 127,
+          "stars_today": 444,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3113,
+            "repo_age_days": 186,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 10,
+            "pr_count": 99,
+            "star_fork_ratio": 27.69
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-13T00:00:00.000Z"
+        },
+        {
+          "id": "Shubhamsaboo/awesome-llm-apps",
+          "name": "awesome-llm-apps",
+          "owner": "Shubhamsaboo",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+          "ai_summary": "提供100多个可运行的AI代理和RAG应用，支持克隆、定制和部署。项目基于Python，涵盖多种大语言模型应用场景和实现方案。",
+          "language": "Python",
+          "stars": 119099,
+          "forks": 17699,
+          "stars_today": 408,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 3241,
+            "repo_age_days": 805,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 9,
+            "pr_count": 642,
+            "star_fork_ratio": 6.73
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-13T00:00:00.000Z"
+        },
+        {
+          "id": "home-assistant/core",
+          "name": "core",
+          "owner": "home-assistant",
+          "url": "https://github.com/home-assistant/core",
+          "description": "🏡 Open source home automation that puts local control and privacy first.",
+          "ai_summary": "开源家庭自动化平台，强调本地控制和隐私保护。采用Python开发，支持模块化扩展和多种智能家居协议集成。",
+          "language": "Python",
+          "stars": 89295,
+          "forks": 38099,
+          "stars_today": 400,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3982,
+            "repo_age_days": 4682,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 3334,
+            "pr_count": 103087,
+            "star_fork_ratio": 2.34
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-13T00:00:00.000Z"
+        },
+        {
+          "id": "davila7/claude-code-templates",
+          "name": "claude-code-templates",
+          "owner": "davila7",
+          "url": "https://github.com/davila7/claude-code-templates",
+          "description": "CLI tool for configuring and monitoring Claude Code",
+          "ai_summary": "用于配置和监控Claude Code的CLI工具。基于Python实现，提供模板化代码管理和运行状态跟踪功能。",
+          "language": "Python",
+          "stars": 29345,
+          "forks": 3212,
+          "stars_today": 274,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4589,
+            "repo_age_days": 374,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 203,
+            "pr_count": 491,
+            "star_fork_ratio": 9.14
+          },
+          "trending_days": 3,
+          "first_seen": "2026-07-11T00:00:00.000Z"
+        },
+        {
+          "id": "wonderwhy-er/DesktopCommanderMCP",
+          "name": "DesktopCommanderMCP",
+          "owner": "wonderwhy-er",
+          "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+          "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+          "ai_summary": "DesktopCommanderMCP 是一个为 Claude 设计的 MCP 服务器，提供终端控制、文件系统搜索和差异文件编辑功能。采用 TypeScript 实现，通过模块化架构支持扩展性操作。",
+          "language": "TypeScript",
+          "stars": 8112,
+          "forks": 993,
+          "stars_today": 210,
+          "stars_this_week": 1678,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5374,
+            "repo_age_days": 586,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 176,
+            "pr_count": 315,
+            "star_fork_ratio": 8.17
+          },
+          "trending_days": 4,
+          "first_seen": "2026-07-10T00:00:00.000Z"
+        },
+        {
+          "id": "Nutlope/hallmark",
+          "name": "hallmark",
+          "owner": "Nutlope",
+          "url": "https://github.com/Nutlope/hallmark",
+          "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+          "ai_summary": "Hallmark 是针对 Claude Code、Cursor 和 Codex 的反 AI 设计技能工具。基于 CSS 实现，专注于提升代码可读性和人工编写特征识别。",
+          "language": "CSS",
+          "stars": 4654,
+          "forks": 260,
+          "stars_today": 155,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2279,
+            "repo_age_days": 76,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 6,
+            "pr_count": 13,
+            "star_fork_ratio": 17.9
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-13T00:00:00.000Z"
+        },
+        {
+          "id": "Crosstalk-Solutions/project-nomad",
+          "name": "project-nomad",
+          "owner": "Crosstalk-Solutions",
+          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+          "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+          "ai_summary": "Project N.O.M.A.D 是集成关键工具、知识和 AI 的离线生存计算系统，确保用户随时随地获取信息支持。使用 TypeScript 开发，采用自包含架构实现离线环境下的稳定运行。",
+          "language": "TypeScript",
+          "stars": 33982,
+          "forks": 3406,
+          "stars_today": 125,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1514,
+            "repo_age_days": 383,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 69,
+            "pr_count": 508,
+            "star_fork_ratio": 9.98
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-13T00:00:00.000Z"
+        },
+        {
+          "id": "virattt/ai-hedge-fund",
+          "name": "ai-hedge-fund",
+          "owner": "virattt",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "ai_summary": "该项目是一个基于人工智能的对冲基金团队项目，旨在利用AI技术优化投资决策和资产配置。采用Python实现，结合机器学习算法进行市场数据分析与预测。",
+          "language": "Python",
+          "stars": 61558,
+          "forks": 10877,
+          "stars_today": 115,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5484,
+            "repo_age_days": 590,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 151,
+            "pr_count": 369,
+            "star_fork_ratio": 5.66
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-13T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "金融": 1,
+          "Skills": 5,
+          "Agent": 3,
+          "AI": 7
+        }
+      }
     }
   ]
 }

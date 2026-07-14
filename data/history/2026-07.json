@@ -4090,6 +4090,324 @@
           "AI": 7
         }
       }
+    },
+    {
+      "date": "2026-07-14",
+      "generated_at": "2026-07-14T08:54:58.681Z",
+      "projects": [
+        {
+          "id": "Dicklesworthstone/destructive_command_guard",
+          "name": "destructive_command_guard",
+          "owner": "Dicklesworthstone",
+          "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+          "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+          "ai_summary": "destructive_command_guard - The Destructive Command Guard (dcg) is for blocking dangerous git and shell comm... 使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 3985,
+          "forks": 147,
+          "stars_today": 1295,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3114,
+            "repo_age_days": 187,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 5,
+            "pr_count": 101,
+            "star_fork_ratio": 27.11
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-13T00:00:00.000Z"
+        },
+        {
+          "id": "HKUDS/Vibe-Trading",
+          "name": "Vibe-Trading",
+          "owner": "HKUDS",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+          "ai_summary": "Vibe-Trading - \"Vibe-Trading: Your Personal Trading Agent\" 使用 Python 开发。",
+          "language": "Python",
+          "stars": 22268,
+          "forks": 3836,
+          "stars_today": 1153,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1338,
+            "repo_age_days": 103,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 12,
+            "pr_count": 345,
+            "star_fork_ratio": 5.81
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-13T00:00:00.000Z"
+        },
+        {
+          "id": "Graphify-Labs/graphify",
+          "name": "graphify",
+          "owner": "Graphify-Labs",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+          "ai_summary": "graphify - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and... 使用 Python 开发。",
+          "language": "Python",
+          "stars": 85368,
+          "forks": 8423,
+          "stars_today": 1095,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 15,
+            "repo_age_days": 101,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 517,
+            "pr_count": 876,
+            "star_fork_ratio": 10.14
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-14T00:00:00.000Z"
+        },
+        {
+          "id": "Shubhamsaboo/awesome-llm-apps",
+          "name": "awesome-llm-apps",
+          "owner": "Shubhamsaboo",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+          "ai_summary": "awesome-llm-apps - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. 使用 Python 开发。",
+          "language": "Python",
+          "stars": 120123,
+          "forks": 17813,
+          "stars_today": 996,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3242,
+            "repo_age_days": 806,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 15,
+            "pr_count": 646,
+            "star_fork_ratio": 6.74
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-13T00:00:00.000Z"
+        },
+        {
+          "id": "Nutlope/hallmark",
+          "name": "hallmark",
+          "owner": "Nutlope",
+          "url": "https://github.com/Nutlope/hallmark",
+          "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+          "ai_summary": "hallmark - Anti-AI-slop design skill for Claude Code, Cursor, and Codex. 使用 CSS 开发。",
+          "language": "CSS",
+          "stars": 5548,
+          "forks": 325,
+          "stars_today": 794,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2280,
+            "repo_age_days": 77,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 6,
+            "pr_count": 13,
+            "star_fork_ratio": 17.07
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-13T00:00:00.000Z"
+        },
+        {
+          "id": "hasaneyldrm/exercises-dataset",
+          "name": "exercises-dataset",
+          "owner": "hasaneyldrm",
+          "url": "https://github.com/hasaneyldrm/exercises-dataset",
+          "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+          "ai_summary": "exercises-dataset - 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-grou... 使用 HTML 开发。",
+          "language": "HTML",
+          "stars": 12964,
+          "forks": 1536,
+          "stars_today": 451,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3366,
+            "repo_age_days": 118,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 21,
+            "pr_count": 40,
+            "star_fork_ratio": 8.44
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-14T00:00:00.000Z"
+        },
+        {
+          "id": "coreyhaines31/marketingskills",
+          "name": "marketingskills",
+          "owner": "coreyhaines31",
+          "url": "https://github.com/coreyhaines31/marketingskills",
+          "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+          "ai_summary": "marketingskills - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics... 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 38973,
+          "forks": 6228,
+          "stars_today": 299,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3124,
+            "repo_age_days": 179,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 60,
+            "pr_count": 295,
+            "star_fork_ratio": 6.26
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-14T00:00:00.000Z"
+        },
+        {
+          "id": "MadsLorentzen/ai-job-search",
+          "name": "ai-job-search",
+          "owner": "MadsLorentzen",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+          "ai_summary": "ai-job-search - The job search that runs on your machine. AI job application framework built on ... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 22127,
+          "forks": 6791,
+          "stars_today": 0,
+          "stars_this_week": 15420,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 75,
+          "security_details": {
+            "author_age_days": 2629,
+            "repo_age_days": 117,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 5,
+            "pr_count": 116,
+            "star_fork_ratio": 3.26
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-14T00:00:00.000Z"
+        },
+        {
+          "id": "iOfficeAI/OfficeCLI",
+          "name": "OfficeCLI",
+          "owner": "iOfficeAI",
+          "url": "https://github.com/iOfficeAI/OfficeCLI",
+          "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+          "ai_summary": "OfficeCLI - OfficeCLI is the first and best Office suite purpose-built for AI agents to read... 使用 C# 开发。",
+          "language": "C#",
+          "stars": 16384,
+          "forks": 1101,
+          "stars_today": 0,
+          "stars_this_week": 7596,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1031,
+            "repo_age_days": 121,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 23,
+            "pr_count": 90,
+            "star_fork_ratio": 14.88
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-14T00:00:00.000Z"
+        },
+        {
+          "id": "asgeirtj/system_prompts_leaks",
+          "name": "system_prompts_leaks",
+          "owner": "asgeirtj",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+          "ai_summary": "system_prompts_leaks - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code,... 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 57507,
+          "forks": 9501,
+          "stars_today": 0,
+          "stars_this_week": 6284,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3378,
+            "repo_age_days": 437,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 36,
+            "pr_count": 99,
+            "star_fork_ratio": 6.05
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-14T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "Skills": 7,
+          "Agent": 5,
+          "金融": 1,
+          "AI": 8
+        }
+      }
     }
   ]
 }

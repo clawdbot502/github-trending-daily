@@ -4408,6 +4408,324 @@
           "AI": 8
         }
       }
+    },
+    {
+      "date": "2026-07-15",
+      "generated_at": "2026-07-15T09:00:41.664Z",
+      "projects": [
+        {
+          "id": "Graphify-Labs/graphify",
+          "name": "graphify",
+          "owner": "Graphify-Labs",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+          "ai_summary": "该项目是一个AI编程助手工具，能够将代码、文档、数据库模式等多种数据源转换为可查询的知识图谱。采用Python实现，通过整合多种AI模型(如Claude Code、Codex等)实现多源异构数据的统一图谱化表示。",
+          "language": "Python",
+          "stars": 87019,
+          "forks": 8554,
+          "stars_today": 1851,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 16,
+            "repo_age_days": 102,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 509,
+            "pr_count": 883,
+            "star_fork_ratio": 10.17
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-14T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "ai_summary": "该项目是面向工程师的实用技能集合，包含Shell脚本形式的工程实践方案。直接从开发者.claude目录提取，提供即插即用的工程技能解决方案。",
+          "language": "Shell",
+          "stars": 171197,
+          "forks": 14714,
+          "stars_today": 1679,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3360,
+            "repo_age_days": 161,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 167,
+            "pr_count": 99,
+            "star_fork_ratio": 11.63
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-15T00:00:00.000Z"
+        },
+        {
+          "id": "HKUDS/Vibe-Trading",
+          "name": "Vibe-Trading",
+          "owner": "HKUDS",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+          "ai_summary": "该项目是一个个人化交易代理系统，旨在为用户提供智能化的交易决策支持。基于Python实现，通过算法分析市场趋势来辅助交易决策。",
+          "language": "Python",
+          "stars": 23216,
+          "forks": 3981,
+          "stars_today": 1256,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1339,
+            "repo_age_days": 104,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 14,
+            "pr_count": 355,
+            "star_fork_ratio": 5.83
+          },
+          "trending_days": 3,
+          "first_seen": "2026-07-13T00:00:00.000Z"
+        },
+        {
+          "id": "Shubhamsaboo/awesome-llm-apps",
+          "name": "awesome-llm-apps",
+          "owner": "Shubhamsaboo",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+          "ai_summary": "提供100多个可实际运行的AI代理和RAG应用，支持克隆、定制和部署。项目基于Python实现，涵盖多种大语言模型应用场景和解决方案。",
+          "language": "Python",
+          "stars": 121391,
+          "forks": 17932,
+          "stars_today": 1106,
+          "stars_this_week": 3827,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3243,
+            "repo_age_days": 807,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 19,
+            "pr_count": 650,
+            "star_fork_ratio": 6.77
+          },
+          "trending_days": 3,
+          "first_seen": "2026-07-13T00:00:00.000Z"
+        },
+        {
+          "id": "Nutlope/hallmark",
+          "name": "hallmark",
+          "owner": "Nutlope",
+          "url": "https://github.com/Nutlope/hallmark",
+          "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+          "ai_summary": "为Claude Code、Cursor和Codex设计的反AI低质量代码风格指南。采用CSS实现，强调代码可读性和人工编写风格特征。",
+          "language": "CSS",
+          "stars": 6498,
+          "forks": 359,
+          "stars_today": 1015,
+          "stars_this_week": 2274,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2281,
+            "repo_age_days": 78,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 10,
+            "pr_count": 15,
+            "star_fork_ratio": 18.1
+          },
+          "trending_days": 3,
+          "first_seen": "2026-07-13T00:00:00.000Z"
+        },
+        {
+          "id": "hasaneyldrm/exercises-dataset",
+          "name": "exercises-dataset",
+          "owner": "hasaneyldrm",
+          "url": "https://github.com/hasaneyldrm/exercises-dataset",
+          "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+          "ai_summary": "包含1,324个健身动作的数据集，提供动画GIF、缩略图、肌肉群和设备数据以及多语言指导。作为LogPress应用的数据层，采用HTML结构化组织运动数据。",
+          "language": "HTML",
+          "stars": 13889,
+          "forks": 1662,
+          "stars_today": 851,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3367,
+            "repo_age_days": 119,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 24,
+            "pr_count": 42,
+            "star_fork_ratio": 8.36
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-14T00:00:00.000Z"
+        },
+        {
+          "id": "HenryNdubuaku/maths-cs-ai-compendium",
+          "name": "maths-cs-ai-compendium",
+          "owner": "HenryNdubuaku",
+          "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+          "description": "Become a cracked AI/ML Research Engineer",
+          "ai_summary": "该项目是一个面向AI/ML研究工程师的数学、计算机科学与人工智能知识库。采用TypeScript实现，提供结构化学习路径与资源整合。",
+          "language": "TypeScript",
+          "stars": 5539,
+          "forks": 722,
+          "stars_today": 112,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 3403,
+            "repo_age_days": 161,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 6,
+            "pr_count": 9,
+            "star_fork_ratio": 7.67
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-15T00:00:00.000Z"
+        },
+        {
+          "id": "virattt/ai-hedge-fund",
+          "name": "ai-hedge-fund",
+          "owner": "virattt",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "ai_summary": "该项目模拟AI对冲基金团队运作，实现自动化金融策略分析与交易。基于Python构建，整合机器学习与量化投资技术栈。",
+          "language": "Python",
+          "stars": 62041,
+          "forks": 10925,
+          "stars_today": 109,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5486,
+            "repo_age_days": 592,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 156,
+            "pr_count": 373,
+            "star_fork_ratio": 5.68
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-15T00:00:00.000Z"
+        },
+        {
+          "id": "iOfficeAI/OfficeCLI",
+          "name": "OfficeCLI",
+          "owner": "iOfficeAI",
+          "url": "https://github.com/iOfficeAI/OfficeCLI",
+          "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+          "ai_summary": "该项目为AI代理提供无需安装Office的文档自动化工具，支持Word/Excel/PPT读写操作。采用C#开发，以单二进制文件实现轻量化跨平台部署。",
+          "language": "C#",
+          "stars": 17195,
+          "forks": 1137,
+          "stars_today": 0,
+          "stars_this_week": 7129,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1032,
+            "repo_age_days": 122,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 40,
+            "pr_count": 94,
+            "star_fork_ratio": 15.12
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-14T00:00:00.000Z"
+        },
+        {
+          "id": "stablyai/orca",
+          "name": "orca",
+          "owner": "stablyai",
+          "url": "https://github.com/stablyai/orca",
+          "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+          "ai_summary": "Orca 是一个面向并行智能体集群的集成开发环境（ADE），支持用户使用自有订阅运行各类编程智能体。采用 TypeScript 开发，支持跨平台桌面端与移动端部署，通过抽象化智能体调度层实现异构任务分配。",
+          "language": "TypeScript",
+          "stars": 19491,
+          "forks": 1521,
+          "stars_today": 0,
+          "stars_this_week": 5724,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1225,
+            "repo_age_days": 120,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1465,
+            "pr_count": 7034,
+            "star_fork_ratio": 12.81
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-15T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 9,
+          "Skills": 7,
+          "金融": 1,
+          "Agent": 4
+        }
+      }
     }
   ]
 }

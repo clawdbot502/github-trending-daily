@@ -4726,6 +4726,323 @@
           "Agent": 4
         }
       }
+    },
+    {
+      "date": "2026-07-16",
+      "generated_at": "2026-07-16T09:03:12.744Z",
+      "projects": [
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "ai_summary": "skills - Skills for Real Engineers. Straight from my .claude directory. 使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 173171,
+          "forks": 14859,
+          "stars_today": 2130,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3361,
+            "repo_age_days": 162,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 170,
+            "pr_count": 100,
+            "star_fork_ratio": 11.65
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-15T00:00:00.000Z"
+        },
+        {
+          "id": "Nutlope/hallmark",
+          "name": "hallmark",
+          "owner": "Nutlope",
+          "url": "https://github.com/Nutlope/hallmark",
+          "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+          "ai_summary": "hallmark - Anti-AI-slop design skill for Claude Code, Cursor, and Codex. 使用 CSS 开发。",
+          "language": "CSS",
+          "stars": 9741,
+          "forks": 492,
+          "stars_today": 1277,
+          "stars_this_week": 3551,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2282,
+            "repo_age_days": 79,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 16,
+            "pr_count": 18,
+            "star_fork_ratio": 19.8
+          },
+          "trending_days": 4,
+          "first_seen": "2026-07-13T00:00:00.000Z"
+        },
+        {
+          "id": "Shubhamsaboo/awesome-llm-apps",
+          "name": "awesome-llm-apps",
+          "owner": "Shubhamsaboo",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+          "ai_summary": "awesome-llm-apps - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. 使用 Python 开发。",
+          "language": "Python",
+          "stars": 122285,
+          "forks": 18034,
+          "stars_today": 1236,
+          "stars_this_week": 4902,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3244,
+            "repo_age_days": 808,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 20,
+            "pr_count": 658,
+            "star_fork_ratio": 6.78
+          },
+          "trending_days": 4,
+          "first_seen": "2026-07-13T00:00:00.000Z"
+        },
+        {
+          "id": "hasaneyldrm/exercises-dataset",
+          "name": "exercises-dataset",
+          "owner": "hasaneyldrm",
+          "url": "https://github.com/hasaneyldrm/exercises-dataset",
+          "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+          "ai_summary": "exercises-dataset - 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-grou... 使用 HTML 开发。",
+          "language": "HTML",
+          "stars": 14629,
+          "forks": 1755,
+          "stars_today": 949,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3368,
+            "repo_age_days": 120,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 22,
+            "pr_count": 44,
+            "star_fork_ratio": 8.34
+          },
+          "trending_days": 3,
+          "first_seen": "2026-07-14T00:00:00.000Z"
+        },
+        {
+          "id": "HKUDS/Vibe-Trading",
+          "name": "Vibe-Trading",
+          "owner": "HKUDS",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+          "ai_summary": "Vibe-Trading - \"Vibe-Trading: Your Personal Trading Agent\" 使用 Python 开发。",
+          "language": "Python",
+          "stars": 24031,
+          "forks": 4076,
+          "stars_today": 915,
+          "stars_this_week": 4802,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1340,
+            "repo_age_days": 105,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 21,
+            "pr_count": 365,
+            "star_fork_ratio": 5.9
+          },
+          "trending_days": 4,
+          "first_seen": "2026-07-13T00:00:00.000Z"
+        },
+        {
+          "id": "HenryNdubuaku/maths-cs-ai-compendium",
+          "name": "maths-cs-ai-compendium",
+          "owner": "HenryNdubuaku",
+          "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+          "description": "Become a cracked AI/ML Research Engineer",
+          "ai_summary": "maths-cs-ai-compendium - Become a cracked AI/ML Research Engineer 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 6124,
+          "forks": 761,
+          "stars_today": 725,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 3404,
+            "repo_age_days": 162,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 5,
+            "pr_count": 10,
+            "star_fork_ratio": 8.05
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-15T00:00:00.000Z"
+        },
+        {
+          "id": "Dicklesworthstone/destructive_command_guard",
+          "name": "destructive_command_guard",
+          "owner": "Dicklesworthstone",
+          "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+          "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+          "ai_summary": "destructive_command_guard - The Destructive Command Guard (dcg) is for blocking dangerous git and shell comm... 使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 4916,
+          "forks": 184,
+          "stars_today": 471,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3116,
+            "repo_age_days": 189,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 10,
+            "pr_count": 109,
+            "star_fork_ratio": 26.72
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-16T00:00:00.000Z"
+        },
+        {
+          "id": "coreyhaines31/marketingskills",
+          "name": "marketingskills",
+          "owner": "coreyhaines31",
+          "url": "https://github.com/coreyhaines31/marketingskills",
+          "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+          "ai_summary": "marketingskills - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics... 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 40021,
+          "forks": 6333,
+          "stars_today": 340,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 3126,
+            "repo_age_days": 181,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 66,
+            "pr_count": 305,
+            "star_fork_ratio": 6.32
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-16T00:00:00.000Z"
+        },
+        {
+          "id": "openinterpreter/openinterpreter",
+          "name": "openinterpreter",
+          "owner": "openinterpreter",
+          "url": "https://github.com/openinterpreter/openinterpreter",
+          "description": "A coding agent for low-cost models",
+          "ai_summary": "openinterpreter - A coding agent for low-cost models 使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 65712,
+          "forks": 5661,
+          "stars_today": 299,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 855,
+            "repo_age_days": 1098,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 274,
+            "pr_count": 655,
+            "star_fork_ratio": 11.61
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-16T00:00:00.000Z"
+        },
+        {
+          "id": "moeru-ai/airi",
+          "name": "airi",
+          "owner": "moeru-ai",
+          "url": "https://github.com/moeru-ai/airi",
+          "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+          "ai_summary": "airi - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 42699,
+          "forks": 4265,
+          "stars_today": 110,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 837,
+            "repo_age_days": 591,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 186,
+            "pr_count": 1475,
+            "star_fork_ratio": 10.01
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-16T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 7,
+          "Skills": 7,
+          "Agent": 5,
+          "金融": 1
+        }
+      }
     }
   ]
 }

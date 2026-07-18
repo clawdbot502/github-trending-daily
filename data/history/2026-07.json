@@ -5360,6 +5360,325 @@
           "金融": 1
         }
       }
+    },
+    {
+      "date": "2026-07-18",
+      "generated_at": "2026-07-18T08:27:12.661Z",
+      "projects": [
+        {
+          "id": "Nutlope/hallmark",
+          "name": "hallmark",
+          "owner": "Nutlope",
+          "url": "https://github.com/Nutlope/hallmark",
+          "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+          "ai_summary": "提供针对Claude Code、Cursor和Codex的反AI设计技巧。通过CSS实现，专注于提升代码可读性和人工编写风格。",
+          "language": "CSS",
+          "stars": 12352,
+          "forks": 615,
+          "stars_today": 1485,
+          "stars_this_week": 8075,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2284,
+            "repo_age_days": 81,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 20,
+            "pr_count": 20,
+            "star_fork_ratio": 20.08
+          },
+          "trending_days": 6,
+          "first_seen": "2026-07-13T00:00:00.000Z"
+        },
+        {
+          "id": "PostHog/posthog",
+          "name": "posthog",
+          "owner": "PostHog",
+          "url": "https://github.com/PostHog/posthog",
+          "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+          "ai_summary": "提供产品自驱平台，集成AI可观测性、分析、会话回放等功能。基于Python构建，支持从Slack、Web等多平台操作。",
+          "language": "Python",
+          "stars": 36303,
+          "forks": 3012,
+          "stars_today": 438,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2364,
+            "repo_age_days": 2367,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 4863,
+            "pr_count": 61952,
+            "star_fork_ratio": 12.05
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-18T00:00:00.000Z"
+        },
+        {
+          "id": "openinterpreter/openinterpreter",
+          "name": "openinterpreter",
+          "owner": "openinterpreter",
+          "url": "https://github.com/openinterpreter/openinterpreter",
+          "description": "A coding agent for open models like Kimi K3",
+          "ai_summary": "为Kimi K3等开放模型设计的编码代理工具。采用Rust实现，专注于高效执行和模型兼容性。",
+          "language": "Rust",
+          "stars": 66535,
+          "forks": 5716,
+          "stars_today": 431,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 857,
+            "repo_age_days": 1100,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 277,
+            "pr_count": 674,
+            "star_fork_ratio": 11.64
+          },
+          "trending_days": 3,
+          "first_seen": "2026-07-16T00:00:00.000Z"
+        },
+        {
+          "id": "RyanCodrai/turbovec",
+          "name": "turbovec",
+          "owner": "RyanCodrai",
+          "url": "https://github.com/RyanCodrai/turbovec",
+          "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+          "ai_summary": "turbovec是基于TurboQuant构建的向量索引，用于高效存储和检索向量数据。该项目使用Rust编写核心逻辑，并通过Python绑定提供易用的接口。",
+          "language": "Python",
+          "stars": 13415,
+          "forks": 1182,
+          "stars_today": 280,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "量化"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4181,
+            "repo_age_days": 113,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 12,
+            "pr_count": 65,
+            "star_fork_ratio": 11.35
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-18T00:00:00.000Z"
+        },
+        {
+          "id": "PrismML-Eng/Bonsai-demo",
+          "name": "Bonsai-demo",
+          "owner": "PrismML-Eng",
+          "url": "https://github.com/PrismML-Eng/Bonsai-demo",
+          "description": "Bonsai Demo",
+          "ai_summary": "Bonsai-demo是展示PrismML机器学习框架Bonsai功能的示例项目。该项目通过Shell脚本演示了Bonsai的核心特性和使用方法。",
+          "language": "Shell",
+          "stars": 1763,
+          "forks": 169,
+          "stars_today": 278,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 164,
+            "repo_age_days": 114,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 14,
+            "pr_count": 56,
+            "star_fork_ratio": 10.43
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-17T00:00:00.000Z"
+        },
+        {
+          "id": "github/copilot-sdk",
+          "name": "copilot-sdk",
+          "owner": "github",
+          "url": "https://github.com/github/copilot-sdk",
+          "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+          "ai_summary": "copilot-sdk是GitHub Copilot的多平台SDK，用于将Copilot Agent集成到应用和服务中。该SDK使用Java实现，支持跨平台开发。",
+          "language": "Java",
+          "stars": 9839,
+          "forks": 1336,
+          "stars_today": 233,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 6642,
+            "repo_age_days": 185,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 242,
+            "pr_count": 1151,
+            "star_fork_ratio": 7.36
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-18T00:00:00.000Z"
+        },
+        {
+          "id": "HenryNdubuaku/maths-cs-ai-compendium",
+          "name": "maths-cs-ai-compendium",
+          "owner": "HenryNdubuaku",
+          "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+          "description": "Become a cracked AI/ML Research Engineer",
+          "ai_summary": "该项目是一个数学、计算机科学与人工智能领域的综合知识库，旨在帮助用户系统学习并成为AI/ML研究工程师。采用TypeScript实现，内容结构化且易于导航，涵盖从基础理论到前沿研究的广泛主题。",
+          "language": "TypeScript",
+          "stars": 6783,
+          "forks": 820,
+          "stars_today": 200,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 3406,
+            "repo_age_days": 164,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 10,
+            "pr_count": 13,
+            "star_fork_ratio": 8.27
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-18T00:00:00.000Z"
+        },
+        {
+          "id": "Shubhamsaboo/awesome-llm-apps",
+          "name": "awesome-llm-apps",
+          "owner": "Shubhamsaboo",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+          "ai_summary": "awesome-llm-apps - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. 使用 Python 开发。",
+          "language": "Python",
+          "stars": 123741,
+          "forks": 18244,
+          "stars_today": 0,
+          "stars_this_week": 6252,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 3246,
+            "repo_age_days": 810,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 9,
+            "pr_count": 675,
+            "star_fork_ratio": 6.78
+          },
+          "trending_days": 6,
+          "first_seen": "2026-07-13T00:00:00.000Z"
+        },
+        {
+          "id": "HKUDS/Vibe-Trading",
+          "name": "Vibe-Trading",
+          "owner": "HKUDS",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+          "ai_summary": "Vibe-Trading 是一个个人交易代理工具，旨在帮助用户自动化执行交易策略。该项目基于 Python 实现，可能整合了量化交易算法与市场数据分析功能。",
+          "language": "Python",
+          "stars": 24764,
+          "forks": 4097,
+          "stars_today": 0,
+          "stars_this_week": 5616,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1342,
+            "repo_age_days": 107,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 73,
+            "pr_count": 453,
+            "star_fork_ratio": 6.04
+          },
+          "trending_days": 6,
+          "first_seen": "2026-07-13T00:00:00.000Z"
+        },
+        {
+          "id": "stablyai/orca",
+          "name": "orca",
+          "owner": "stablyai",
+          "url": "https://github.com/stablyai/orca",
+          "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+          "ai_summary": "Orca 是一个面向并行智能体集群的集成开发环境（ADE），支持用户使用自有订阅运行各类编程智能体。采用 TypeScript 实现，提供跨平台（桌面端与移动端）的统一开发体验。",
+          "language": "TypeScript",
+          "stars": 21356,
+          "forks": 1539,
+          "stars_today": 0,
+          "stars_this_week": 5409,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1228,
+            "repo_age_days": 123,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1672,
+            "pr_count": 7325,
+            "star_fork_ratio": 13.88
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-17T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 6,
+          "Skills": 7,
+          "Agent": 6,
+          "量化": 1,
+          "金融": 1
+        }
+      }
     }
   ]
 }

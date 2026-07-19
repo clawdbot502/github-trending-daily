@@ -5679,6 +5679,323 @@
           "金融": 1
         }
       }
+    },
+    {
+      "date": "2026-07-19",
+      "generated_at": "2026-07-19T08:57:46.016Z",
+      "projects": [
+        {
+          "id": "tirth8205/code-review-graph",
+          "name": "code-review-graph",
+          "owner": "tirth8205",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+          "ai_summary": "这是一个本地优先的代码智能图谱工具，用于优化MCP和CLI工作流中的代码审查和大仓库操作。它通过构建持久化的代码库图谱，结合基准测试的上下文缩减技术，使AI编码工具仅读取相关部分。",
+          "language": "Python",
+          "stars": 20373,
+          "forks": 2135,
+          "stars_today": 355,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2188,
+            "repo_age_days": 142,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 79,
+            "pr_count": 389,
+            "star_fork_ratio": 9.54
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-19T00:00:00.000Z"
+        },
+        {
+          "id": "PostHog/posthog",
+          "name": "posthog",
+          "owner": "PostHog",
+          "url": "https://github.com/PostHog/posthog",
+          "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+          "ai_summary": "PostHog是一个自驱动产品开发平台，提供AI可观测性、分析、会话回放等功能。其技术特点包括多端控制（Slack、网页、桌面、MCP）和全上下文捕获，支持开发者诊断问题并快速修复。",
+          "language": "Python",
+          "stars": 36729,
+          "forks": 3037,
+          "stars_today": 338,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2365,
+            "repo_age_days": 2368,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 4897,
+            "pr_count": 62003,
+            "star_fork_ratio": 12.09
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-18T00:00:00.000Z"
+        },
+        {
+          "id": "KnockOutEZ/wigolo",
+          "name": "wigolo",
+          "owner": "KnockOutEZ",
+          "url": "https://github.com/KnockOutEZ/wigolo",
+          "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+          "ai_summary": "这是一个为AI编码代理设计的本地优先Web工具，支持搜索、抓取和研究MCP内容。采用无API密钥、零云依赖的架构，实现零成本查询，目前处于公开测试阶段。",
+          "language": "TypeScript",
+          "stars": 1437,
+          "forks": 93,
+          "stars_today": 203,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2151,
+            "repo_age_days": 97,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 17,
+            "pr_count": 167,
+            "star_fork_ratio": 15.45
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-19T00:00:00.000Z"
+        },
+        {
+          "id": "rohitg00/ai-engineering-from-scratch",
+          "name": "ai-engineering-from-scratch",
+          "owner": "rohitg00",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "ai_summary": "该项目是一个AI工程实践教程，涵盖从学习到部署的全流程。采用Python实现，重点讲解模型开发、优化及生产环境部署的工程技术。",
+          "language": "Python",
+          "stars": 39281,
+          "forks": 6569,
+          "stars_today": 191,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2684,
+            "repo_age_days": 122,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 100,
+            "pr_count": 273,
+            "star_fork_ratio": 5.98
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-19T00:00:00.000Z"
+        },
+        {
+          "id": "lyogavin/airllm",
+          "name": "airllm",
+          "owner": "lyogavin",
+          "url": "https://github.com/lyogavin/airllm",
+          "description": "AirLLM 70B inference with single 4GB GPU",
+          "ai_summary": "实现70B参数量大模型在4GB显存GPU上的推理。通过Jupyter Notebook展示显存压缩和计算优化技术，突破硬件限制运行大模型。",
+          "language": "Jupyter Notebook",
+          "stars": 23460,
+          "forks": 2664,
+          "stars_today": 161,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5396,
+            "repo_age_days": 1132,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 106,
+            "pr_count": 35,
+            "star_fork_ratio": 8.81
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-19T00:00:00.000Z"
+        },
+        {
+          "id": "ibelick/ui-skills",
+          "name": "ui-skills",
+          "owner": "ibelick",
+          "url": "https://github.com/ibelick/ui-skills",
+          "description": "Skills for Design Engineers",
+          "ai_summary": "面向设计工程师的UI开发技能集合。基于TypeScript构建，提供现代化前端开发模式和设计-开发协作的最佳实践。",
+          "language": "TypeScript",
+          "stars": 5239,
+          "forks": 224,
+          "stars_today": 123,
+          "stars_this_week": 1098,
+          "category": "hot",
+          "tags": [
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3960,
+            "repo_age_days": 192,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 11,
+            "pr_count": 30,
+            "star_fork_ratio": 23.39
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-19T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "ai_summary": "提供真实工程师所需的实用技能脚本集合。项目采用Shell脚本实现，直接来自作者的.agents目录，强调实战性。",
+          "language": "Shell",
+          "stars": 176898,
+          "forks": 15168,
+          "stars_today": 0,
+          "stars_this_week": 11131,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3364,
+            "repo_age_days": 165,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 197,
+            "pr_count": 101,
+            "star_fork_ratio": 11.66
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-19T00:00:00.000Z"
+        },
+        {
+          "id": "Nutlope/hallmark",
+          "name": "hallmark",
+          "owner": "Nutlope",
+          "url": "https://github.com/Nutlope/hallmark",
+          "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+          "ai_summary": "为AI编程工具设计的反低质量输出样式规范。基于CSS实现，专门针对Claude Code、Cursor等代码生成工具的视觉优化。",
+          "language": "CSS",
+          "stars": 12998,
+          "forks": 655,
+          "stars_today": 0,
+          "stars_this_week": 8834,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2285,
+            "repo_age_days": 82,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 20,
+            "pr_count": 20,
+            "star_fork_ratio": 19.84
+          },
+          "trending_days": 7,
+          "first_seen": "2026-07-13T00:00:00.000Z"
+        },
+        {
+          "id": "Graphify-Labs/graphify",
+          "name": "graphify",
+          "owner": "Graphify-Labs",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+          "ai_summary": "将多种开发资源转换为可查询知识图谱的AI编程助手。通过Python实现跨模态图谱构建，支持代码库、SQL模式、文档等资源的统一图谱化。",
+          "language": "Python",
+          "stars": 91189,
+          "forks": 8889,
+          "stars_today": 0,
+          "stars_this_week": 8611,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 20,
+            "repo_age_days": 106,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 567,
+            "pr_count": 950,
+            "star_fork_ratio": 10.26
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-19T00:00:00.000Z"
+        },
+        {
+          "id": "Shubhamsaboo/awesome-llm-apps",
+          "name": "awesome-llm-apps",
+          "owner": "Shubhamsaboo",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+          "ai_summary": "该项目收集了100多个可实际运行的AI代理和RAG应用，方便用户快速克隆、定制和部署。采用Python实现，涵盖多种大语言模型应用场景和实现方案。",
+          "language": "Python",
+          "stars": 124189,
+          "forks": 18331,
+          "stars_today": 0,
+          "stars_this_week": 6146,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 3247,
+            "repo_age_days": 811,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 7,
+            "pr_count": 680,
+            "star_fork_ratio": 6.77
+          },
+          "trending_days": 7,
+          "first_seen": "2026-07-13T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 9,
+          "Skills": 8,
+          "Agent": 4
+        }
+      }
     }
   ]
 }

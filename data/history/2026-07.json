@@ -5996,6 +5996,321 @@
           "Agent": 4
         }
       }
+    },
+    {
+      "date": "2026-07-20",
+      "generated_at": "2026-07-20T09:45:46.175Z",
+      "projects": [
+        {
+          "id": "tirth8205/code-review-graph",
+          "name": "code-review-graph",
+          "owner": "tirth8205",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+          "ai_summary": "该项目为本地优先的代码智能图谱工具，旨在通过构建代码库的持久化映射，优化AI编码工具的上下文读取效率。采用Python实现，专注于减少大型代码库审查和工作流中的冗余上下文处理。",
+          "language": "Python",
+          "stars": 22125,
+          "forks": 2220,
+          "stars_today": 663,
+          "stars_this_week": 1103,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2189,
+            "repo_age_days": 143,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 91,
+            "pr_count": 399,
+            "star_fork_ratio": 9.97
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-19T00:00:00.000Z"
+        },
+        {
+          "id": "jamiepine/voicebox",
+          "name": "voicebox",
+          "owner": "jamiepine",
+          "url": "https://github.com/jamiepine/voicebox",
+          "description": "The open-source AI voice studio. Clone, dictate, create.",
+          "ai_summary": "这是一个开源的AI语音工作室，支持语音克隆、听写和创作功能。基于TypeScript开发，提供灵活的语音处理与生成能力。",
+          "language": "TypeScript",
+          "stars": 43747,
+          "forks": 5329,
+          "stars_today": 610,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3193,
+            "repo_age_days": 175,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 577,
+            "pr_count": 281,
+            "star_fork_ratio": 8.21
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-20T00:00:00.000Z"
+        },
+        {
+          "id": "KnockOutEZ/wigolo",
+          "name": "wigolo",
+          "owner": "KnockOutEZ",
+          "url": "https://github.com/KnockOutEZ/wigolo",
+          "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+          "ai_summary": "该项目是为AI编码代理设计的本地优先Web工具，支持搜索、抓取、爬取和研究代码库。使用TypeScript开发，无需API密钥或云服务，实现零成本查询。",
+          "language": "TypeScript",
+          "stars": 2168,
+          "forks": 136,
+          "stars_today": 595,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2152,
+            "repo_age_days": 98,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 24,
+            "pr_count": 176,
+            "star_fork_ratio": 15.94
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-19T00:00:00.000Z"
+        },
+        {
+          "id": "rohitg00/ai-engineering-from-scratch",
+          "name": "ai-engineering-from-scratch",
+          "owner": "rohitg00",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "ai_summary": "该项目是一个AI工程实践教程，帮助用户从零开始学习、构建并部署AI项目。采用Python实现，涵盖从基础到部署的全流程技术栈。",
+          "language": "Python",
+          "stars": 40078,
+          "forks": 6671,
+          "stars_today": 501,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2685,
+            "repo_age_days": 123,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 102,
+            "pr_count": 273,
+            "star_fork_ratio": 6.01
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-19T00:00:00.000Z"
+        },
+        {
+          "id": "PostHog/posthog",
+          "name": "posthog",
+          "owner": "PostHog",
+          "url": "https://github.com/PostHog/posthog",
+          "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+          "ai_summary": "PostHog是一个自驱动产品开发平台，提供AI可观测性、分析、会话回放等开发者工具。基于Python构建，支持多端集成和实时数据驱动决策。",
+          "language": "Python",
+          "stars": 37065,
+          "forks": 3065,
+          "stars_today": 411,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2366,
+            "repo_age_days": 2369,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 4799,
+            "pr_count": 62052,
+            "star_fork_ratio": 12.09
+          },
+          "trending_days": 3,
+          "first_seen": "2026-07-18T00:00:00.000Z"
+        },
+        {
+          "id": "MoonshotAI/kimi-cli",
+          "name": "kimi-cli",
+          "owner": "MoonshotAI",
+          "url": "https://github.com/MoonshotAI/kimi-cli",
+          "description": "Kimi Code CLI is your next CLI agent.",
+          "ai_summary": "Kimi Code CLI是一个命令行代理工具，旨在提升开发者效率。使用Python开发，提供简洁高效的命令行交互体验。",
+          "language": "Python",
+          "stars": 10043,
+          "forks": 1208,
+          "stars_today": 410,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1210,
+            "repo_age_days": 277,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 781,
+            "pr_count": 1287,
+            "star_fork_ratio": 8.31
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-20T00:00:00.000Z"
+        },
+        {
+          "id": "kvcache-ai/ktransformers",
+          "name": "ktransformers",
+          "owner": "kvcache-ai",
+          "url": "https://github.com/kvcache-ai/ktransformers",
+          "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+          "ai_summary": "ktransformers是一个灵活的框架，用于体验异构LLM推理/微调优化。它采用模块化设计，支持多种优化技术集成，提升大模型训练和推理效率。",
+          "language": "Python",
+          "stars": 18558,
+          "forks": 1459,
+          "stars_today": 360,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 783,
+            "repo_age_days": 724,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 462,
+            "pr_count": 681,
+            "star_fork_ratio": 12.72
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-20T00:00:00.000Z"
+        },
+        {
+          "id": "lyogavin/airllm",
+          "name": "airllm",
+          "owner": "lyogavin",
+          "url": "https://github.com/lyogavin/airllm",
+          "description": "AirLLM 70B inference with single 4GB GPU",
+          "ai_summary": "airllm实现在单块4GB GPU上运行70B大模型推理。通过高效的内存管理和计算优化，突破硬件限制，降低大模型部署成本。",
+          "language": "Jupyter Notebook",
+          "stars": 23775,
+          "forks": 2688,
+          "stars_today": 358,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5397,
+            "repo_age_days": 1133,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 108,
+            "pr_count": 36,
+            "star_fork_ratio": 8.84
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-19T00:00:00.000Z"
+        },
+        {
+          "id": "1jehuang/jcode",
+          "name": "jcode",
+          "owner": "1jehuang",
+          "url": "https://github.com/1jehuang/jcode",
+          "description": "Coding Agent Harness",
+          "ai_summary": "jcode是一个编码代理工具集，用于辅助开发工作流。基于Rust构建，提供高性能的代码生成和分析能力，简化开发流程。",
+          "language": "Rust",
+          "stars": 9154,
+          "forks": 1055,
+          "stars_today": 235,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1709,
+            "repo_age_days": 196,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 103,
+            "pr_count": 102,
+            "star_fork_ratio": 8.68
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-20T00:00:00.000Z"
+        },
+        {
+          "id": "Canner/WrenAI",
+          "name": "WrenAI",
+          "owner": "Canner",
+          "url": "https://github.com/Canner/WrenAI",
+          "description": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more.",
+          "ai_summary": "WrenAI 是一个开源的生成式 BI 工具，通过 AI 代理将自然语言问题转化为可信的仪表盘、图表和 SQL 查询，支持 20 多种数据源。采用开放上下文层技术，结合 Python 实现文本到 SQL 的转换，确保查询结果的准确性和可解释性。",
+          "language": "Python",
+          "stars": 16381,
+          "forks": 1851,
+          "stars_today": 121,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4483,
+            "repo_age_days": 859,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 365,
+            "pr_count": 1888,
+            "star_fork_ratio": 8.85
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-20T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 8,
+          "Skills": 6,
+          "Agent": 5
+        }
+      }
     }
   ]
 }

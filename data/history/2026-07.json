@@ -6311,6 +6311,321 @@
           "Agent": 5
         }
       }
+    },
+    {
+      "date": "2026-07-21",
+      "generated_at": "2026-07-21T09:16:16.039Z",
+      "projects": [
+        {
+          "id": "bojieli/ai-agent-book",
+          "name": "ai-agent-book",
+          "owner": "bojieli",
+          "url": "https://github.com/bojieli/ai-agent-book",
+          "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+          "ai_summary": "《深入理解 AI Agent：设计原理与工程实践》开源书籍，提供全书正文、PDF 及配套代码。采用 Python 实现，内容涵盖 AI Agent 的核心设计原理与工程实践案例。",
+          "language": "Python",
+          "stars": 12643,
+          "forks": 1196,
+          "stars_today": 4434,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5276,
+            "repo_age_days": 315,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 11,
+            "pr_count": 55,
+            "star_fork_ratio": 10.57
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-21T00:00:00.000Z"
+        },
+        {
+          "id": "tirth8205/code-review-graph",
+          "name": "code-review-graph",
+          "owner": "tirth8205",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+          "ai_summary": "本地优先的代码智能图谱工具，为 MCP 和 CLI 构建代码库持久化映射以优化 AI 编码工具的上下文读取。基于 Python 实现，通过基准测试证明能显著减少大型代码库工作流中的冗余上下文。",
+          "language": "Python",
+          "stars": 24041,
+          "forks": 2317,
+          "stars_today": 1833,
+          "stars_this_week": 3073,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2190,
+            "repo_age_days": 144,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 102,
+            "pr_count": 408,
+            "star_fork_ratio": 10.38
+          },
+          "trending_days": 3,
+          "first_seen": "2026-07-19T00:00:00.000Z"
+        },
+        {
+          "id": "diegosouzapw/OmniRoute",
+          "name": "OmniRoute",
+          "owner": "diegosouzapw",
+          "url": "https://github.com/diegosouzapw/OmniRoute",
+          "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
+          "ai_summary": "开源 MIT 协议 AI 网关，聚合 268+ 提供商（含 50+ 免费）的 500+ 模型，支持 Claude/GPT/Gemini 等主流模型。采用 TypeScript 开发，具备配额感知自动回退、RTK+Caveman 压缩节省 15-95% token，支持 MCP/A2A 及多模态交互。",
+          "language": "TypeScript",
+          "stars": 22558,
+          "forks": 3030,
+          "stars_today": 1107,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4405,
+            "repo_age_days": 157,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 208,
+            "pr_count": 5047,
+            "star_fork_ratio": 7.44
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-21T00:00:00.000Z"
+        },
+        {
+          "id": "msitarzewski/agency-agents",
+          "name": "agency-agents",
+          "owner": "msitarzewski",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+          "ai_summary": "提供一套完整的AI代理系统，涵盖从前端开发到社区管理的多种专业角色。基于Shell脚本实现，每个代理具备独特个性、处理流程和交付成果。",
+          "language": "Shell",
+          "stars": 135098,
+          "forks": 22004,
+          "stars_today": 862,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5120,
+            "repo_age_days": 280,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 101,
+            "pr_count": 486,
+            "star_fork_ratio": 6.14
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-21T00:00:00.000Z"
+        },
+        {
+          "id": "rohitg00/ai-engineering-from-scratch",
+          "name": "ai-engineering-from-scratch",
+          "owner": "rohitg00",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "ai_summary": "从零开始构建AI工程能力的实践教程。采用Python技术栈，涵盖学习、构建到部署的全流程。",
+          "language": "Python",
+          "stars": 41048,
+          "forks": 6808,
+          "stars_today": 823,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2686,
+            "repo_age_days": 124,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 105,
+            "pr_count": 275,
+            "star_fork_ratio": 6.03
+          },
+          "trending_days": 3,
+          "first_seen": "2026-07-19T00:00:00.000Z"
+        },
+        {
+          "id": "jamiepine/voicebox",
+          "name": "voicebox",
+          "owner": "jamiepine",
+          "url": "https://github.com/jamiepine/voicebox",
+          "description": "The open-source AI voice studio. Clone, dictate, create.",
+          "ai_summary": "开源AI语音工作室，支持语音克隆、听写和创作功能。基于TypeScript开发，提供灵活的语音处理能力。",
+          "language": "TypeScript",
+          "stars": 44718,
+          "forks": 5431,
+          "stars_today": 821,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3194,
+            "repo_age_days": 176,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 561,
+            "pr_count": 286,
+            "star_fork_ratio": 8.23
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-20T00:00:00.000Z"
+        },
+        {
+          "id": "KnockOutEZ/wigolo",
+          "name": "wigolo",
+          "owner": "KnockOutEZ",
+          "url": "https://github.com/KnockOutEZ/wigolo",
+          "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+          "ai_summary": "wigolo 是一个本地优先的 AI 编程代理工具，支持搜索、抓取和研究 MCP 数据，无需 API 密钥或云端服务。采用 TypeScript 开发，实现零查询成本，提供公开测试版。",
+          "language": "TypeScript",
+          "stars": 2778,
+          "forks": 173,
+          "stars_today": 689,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2153,
+            "repo_age_days": 99,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 28,
+            "pr_count": 178,
+            "star_fork_ratio": 16.06
+          },
+          "trending_days": 3,
+          "first_seen": "2026-07-19T00:00:00.000Z"
+        },
+        {
+          "id": "1jehuang/jcode",
+          "name": "jcode",
+          "owner": "1jehuang",
+          "url": "https://github.com/1jehuang/jcode",
+          "description": "The most intelligent agent harness for code",
+          "ai_summary": "jcode 是一个智能代码代理工具，旨在高效管理和优化代码开发流程。基于 Rust 构建，强调高性能和智能化代码处理能力。",
+          "language": "Rust",
+          "stars": 9970,
+          "forks": 1102,
+          "stars_today": 568,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1710,
+            "repo_age_days": 196,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 108,
+            "pr_count": 105,
+            "star_fork_ratio": 9.05
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-20T00:00:00.000Z"
+        },
+        {
+          "id": "kvcache-ai/ktransformers",
+          "name": "ktransformers",
+          "owner": "kvcache-ai",
+          "url": "https://github.com/kvcache-ai/ktransformers",
+          "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+          "ai_summary": "ktransformers 是一个灵活的框架，专注于异构 LLM 推理和微调优化。使用 Python 实现，支持多样化的模型优化策略和实验。",
+          "language": "Python",
+          "stars": 18812,
+          "forks": 1464,
+          "stars_today": 458,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 784,
+            "repo_age_days": 725,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 464,
+            "pr_count": 681,
+            "star_fork_ratio": 12.85
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-20T00:00:00.000Z"
+        },
+        {
+          "id": "MoonshotAI/kimi-cli",
+          "name": "kimi-cli",
+          "owner": "MoonshotAI",
+          "url": "https://github.com/MoonshotAI/kimi-cli",
+          "description": "Kimi Code CLI is your next CLI agent.",
+          "ai_summary": "Kimi Code CLI 是一个命令行代理工具，旨在提升开发者在终端的工作效率。该项目基于 Python 实现，提供了简洁高效的命令行交互体验。",
+          "language": "Python",
+          "stars": 10383,
+          "forks": 1225,
+          "stars_today": 410,
+          "stars_this_week": 974,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1211,
+            "repo_age_days": 278,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 784,
+            "pr_count": 1287,
+            "star_fork_ratio": 8.48
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-20T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 8,
+          "Skills": 6,
+          "Agent": 5
+        }
+      }
     }
   ]
 }

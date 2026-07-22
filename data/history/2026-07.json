@@ -6626,6 +6626,323 @@
           "Agent": 5
         }
       }
+    },
+    {
+      "date": "2026-07-22",
+      "generated_at": "2026-07-22T09:15:19.985Z",
+      "projects": [
+        {
+          "id": "bojieli/ai-agent-book",
+          "name": "ai-agent-book",
+          "owner": "bojieli",
+          "url": "https://github.com/bojieli/ai-agent-book",
+          "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+          "ai_summary": "该项目是《深入理解 AI Agent：设计原理与工程实践》一书的开源主仓库，提供全书正文、编译版 PDF 及按章配套代码。采用 Python 实现，内容涵盖 AI Agent 的设计原理与工程实践，配套代码帮助读者深入理解技术细节。",
+          "language": "Python",
+          "stars": 16542,
+          "forks": 1574,
+          "stars_today": 4624,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5277,
+            "repo_age_days": 316,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 7,
+            "pr_count": 128,
+            "star_fork_ratio": 10.51
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-21T00:00:00.000Z"
+        },
+        {
+          "id": "diegosouzapw/OmniRoute",
+          "name": "OmniRoute",
+          "owner": "diegosouzapw",
+          "url": "https://github.com/diegosouzapw/OmniRoute",
+          "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+          "ai_summary": "OmniRoute 是一个免费的 MIT 许可 AI 网关，支持 268+ 提供商和 500+ 模型，提供统一的接入端点。基于 TypeScript 开发，采用 RTK+Caveman 压缩技术节省 15-95% token，支持配额感知自动回退和 MCP/A2A 架构，适用于桌面和 PWA 应用。",
+          "language": "TypeScript",
+          "stars": 24159,
+          "forks": 3230,
+          "stars_today": 2034,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4406,
+            "repo_age_days": 158,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 234,
+            "pr_count": 5112,
+            "star_fork_ratio": 7.48
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-21T00:00:00.000Z"
+        },
+        {
+          "id": "tirth8205/code-review-graph",
+          "name": "code-review-graph",
+          "owner": "tirth8205",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+          "ai_summary": "该项目是一个本地优先的代码智能图谱工具，用于构建代码库的持久化映射，优化 AI 编码工具的上下文读取。基于 Python 实现，通过减少无关上下文提升代码评审和大仓库工作流的效率，并提供了基准测试验证效果。",
+          "language": "Python",
+          "stars": 24949,
+          "forks": 2370,
+          "stars_today": 1925,
+          "stars_this_week": 4791,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2191,
+            "repo_age_days": 145,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 118,
+            "pr_count": 417,
+            "star_fork_ratio": 10.53
+          },
+          "trending_days": 4,
+          "first_seen": "2026-07-19T00:00:00.000Z"
+        },
+        {
+          "id": "ayghri/i-have-adhd",
+          "name": "i-have-adhd",
+          "owner": "ayghri",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+          "ai_summary": "这是一个帮助编码代理避免冗长输出的技能插件，特别适合ADHD用户。采用Python实现，通过简洁的输出格式和直接的问题解决方式优化交互体验。",
+          "language": "Python",
+          "stars": 7442,
+          "forks": 317,
+          "stars_today": 1866,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 3224,
+            "repo_age_days": 69,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 5,
+            "pr_count": 35,
+            "star_fork_ratio": 23.48
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-22T00:00:00.000Z"
+        },
+        {
+          "id": "koala73/worldmonitor",
+          "name": "worldmonitor",
+          "owner": "koala73",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+          "ai_summary": "这是一个实时全球情报仪表板，整合AI驱动的新闻聚合、地缘政治监控和基础设施追踪。基于TypeScript构建，提供统一的情境感知界面。",
+          "language": "TypeScript",
+          "stars": 66982,
+          "forks": 10353,
+          "stars_today": 1295,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5447,
+            "repo_age_days": 194,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 237,
+            "pr_count": 4318,
+            "star_fork_ratio": 6.47
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-22T00:00:00.000Z"
+        },
+        {
+          "id": "1jehuang/jcode",
+          "name": "jcode",
+          "owner": "1jehuang",
+          "url": "https://github.com/1jehuang/jcode",
+          "description": "The most intelligent agent harness for code",
+          "ai_summary": "这是一个智能代码代理工具，旨在提升代码生成和管理的效率。使用Rust开发，强调高性能和智能化的代码处理能力。",
+          "language": "Rust",
+          "stars": 10545,
+          "forks": 1153,
+          "stars_today": 843,
+          "stars_this_week": 1769,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1711,
+            "repo_age_days": 197,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 118,
+            "pr_count": 108,
+            "star_fork_ratio": 9.15
+          },
+          "trending_days": 3,
+          "first_seen": "2026-07-20T00:00:00.000Z"
+        },
+        {
+          "id": "KnockOutEZ/wigolo",
+          "name": "wigolo",
+          "owner": "KnockOutEZ",
+          "url": "https://github.com/KnockOutEZ/wigolo",
+          "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+          "ai_summary": "wigolo 是一个本地优先的 AI 编码代理网页工具，支持搜索、抓取和研究 MCP 数据，无需 API 密钥或云服务。采用 TypeScript 实现，强调零查询成本和隐私保护。",
+          "language": "TypeScript",
+          "stars": 3338,
+          "forks": 200,
+          "stars_today": 642,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2154,
+            "repo_age_days": 100,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 40,
+            "pr_count": 180,
+            "star_fork_ratio": 16.69
+          },
+          "trending_days": 4,
+          "first_seen": "2026-07-19T00:00:00.000Z"
+        },
+        {
+          "id": "AstrBotDevs/AstrBot",
+          "name": "AstrBot",
+          "owner": "AstrBotDevs",
+          "url": "https://github.com/AstrBotDevs/AstrBot",
+          "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+          "ai_summary": "AstrBot 是一个 AI 代理助手和开发框架，集成多种即时通讯平台、大语言模型和插件功能。基于 Python 构建，可作为 OpenClaw 的替代方案。",
+          "language": "Python",
+          "stars": 37660,
+          "forks": 2632,
+          "stars_today": 416,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 531,
+            "repo_age_days": 1321,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1336,
+            "pr_count": 2560,
+            "star_fork_ratio": 14.31
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-22T00:00:00.000Z"
+        },
+        {
+          "id": "agegr/pi-web",
+          "name": "pi-web",
+          "owner": "agegr",
+          "url": "https://github.com/agegr/pi-web",
+          "description": "Web UI for the pi coding agent",
+          "ai_summary": "pi-web 是为 pi 编码代理设计的 Web 用户界面，提供直观的操作体验。使用 TypeScript 开发，专注于简化代理交互流程。",
+          "language": "TypeScript",
+          "stars": 1871,
+          "forks": 291,
+          "stars_today": 298,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4061,
+            "repo_age_days": 121,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 12,
+            "pr_count": 92,
+            "star_fork_ratio": 6.43
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-22T00:00:00.000Z"
+        },
+        {
+          "id": "earthtojake/text-to-cad",
+          "name": "text-to-cad",
+          "owner": "earthtojake",
+          "url": "https://github.com/earthtojake/text-to-cad",
+          "description": "A collection of agent skills for CAD, robotics and hardware design",
+          "ai_summary": "该项目提供将自然语言描述转换为CAD设计的智能代理工具集，主要面向机械设计和机器人领域。基于JavaScript实现，采用模块化架构整合多模态输入与参数化建模能力。",
+          "language": "JavaScript",
+          "stars": 9440,
+          "forks": 1041,
+          "stars_today": 291,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4192,
+            "repo_age_days": 91,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 20,
+            "pr_count": 135,
+            "star_fork_ratio": 9.07
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-22T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 6,
+          "Skills": 8,
+          "Agent": 7
+        }
+      }
     }
   ]
 }

@@ -6943,6 +6943,319 @@
           "Agent": 7
         }
       }
+    },
+    {
+      "date": "2026-07-23",
+      "generated_at": "2026-07-23T09:14:01.396Z",
+      "projects": [
+        {
+          "id": "koala73/worldmonitor",
+          "name": "worldmonitor",
+          "owner": "koala73",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+          "ai_summary": "实时全球情报仪表盘，整合AI驱动的新闻聚合、地缘政治监控和基础设施追踪，提供统一态势感知界面。基于TypeScript构建，采用模块化架构支持多源数据实时处理与分析。",
+          "language": "TypeScript",
+          "stars": 70195,
+          "forks": 10654,
+          "stars_today": 4139,
+          "stars_this_week": 5812,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5448,
+            "repo_age_days": 195,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 257,
+            "pr_count": 4353,
+            "star_fork_ratio": 6.59
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-22T00:00:00.000Z"
+        },
+        {
+          "id": "ayghri/i-have-adhd",
+          "name": "i-have-adhd",
+          "owner": "ayghri",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+          "ai_summary": "为编程代理设计的ADHD友好型输出控制模块，防止关键信息被冗长输出淹没。通过Python实现动态内容优先级调整，采用注意力机制优化信息呈现结构。",
+          "language": "Python",
+          "stars": 8782,
+          "forks": 405,
+          "stars_today": 1699,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 3225,
+            "repo_age_days": 70,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 5,
+            "pr_count": 39,
+            "star_fork_ratio": 21.68
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-22T00:00:00.000Z"
+        },
+        {
+          "id": "diegosouzapw/OmniRoute",
+          "name": "OmniRoute",
+          "owner": "diegosouzapw",
+          "url": "https://github.com/diegosouzapw/OmniRoute",
+          "description": "Never stop coding. Free MIT AI gateway: one endpoint, 278+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+          "ai_summary": "开源AI网关聚合278+服务商与500+模型，提供统一API端点及配额感知自动降级。基于TypeScript开发，采用RTK+Caveman压缩技术节省15-95%token开销，支持MCP/A2A多通道路由。",
+          "language": "TypeScript",
+          "stars": 26028,
+          "forks": 3421,
+          "stars_today": 1651,
+          "stars_this_week": 6989,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4407,
+            "repo_age_days": 159,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 214,
+            "pr_count": 5230,
+            "star_fork_ratio": 7.61
+          },
+          "trending_days": 3,
+          "first_seen": "2026-07-21T00:00:00.000Z"
+        },
+        {
+          "id": "tirth8205/code-review-graph",
+          "name": "code-review-graph",
+          "owner": "tirth8205",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+          "ai_summary": "该项目是一个本地优先的代码智能图谱工具，用于优化代码审查和大仓库工作流中的上下文读取效率。采用Python实现，通过构建持久化的代码库映射，显著减少AI编码工具需要处理的无关内容。",
+          "language": "Python",
+          "stars": 25607,
+          "forks": 2407,
+          "stars_today": 882,
+          "stars_this_week": 5639,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2192,
+            "repo_age_days": 146,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 130,
+            "pr_count": 426,
+            "star_fork_ratio": 10.64
+          },
+          "trending_days": 5,
+          "first_seen": "2026-07-19T00:00:00.000Z"
+        },
+        {
+          "id": "rohitg00/ai-engineering-from-scratch",
+          "name": "ai-engineering-from-scratch",
+          "owner": "rohitg00",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "ai_summary": "该项目是一个AI工程学习项目，旨在帮助开发者从零开始构建并部署AI应用。使用Python实现，涵盖从学习到实际产品化的完整流程。",
+          "language": "Python",
+          "stars": 42629,
+          "forks": 7097,
+          "stars_today": 652,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2688,
+            "repo_age_days": 126,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 106,
+            "pr_count": 276,
+            "star_fork_ratio": 6.01
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-23T00:00:00.000Z"
+        },
+        {
+          "id": "jamiepine/voicebox",
+          "name": "voicebox",
+          "owner": "jamiepine",
+          "url": "https://github.com/jamiepine/voicebox",
+          "description": "The open-source AI voice studio. Clone, dictate, create.",
+          "ai_summary": "该项目是一个开源的AI语音工作室，支持语音克隆、听写和创作功能。基于TypeScript开发，提供灵活的语音处理能力。",
+          "language": "TypeScript",
+          "stars": 46070,
+          "forks": 5624,
+          "stars_today": 557,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3196,
+            "repo_age_days": 178,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 580,
+            "pr_count": 302,
+            "star_fork_ratio": 8.19
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-23T00:00:00.000Z"
+        },
+        {
+          "id": "agegr/pi-web",
+          "name": "pi-web",
+          "owner": "agegr",
+          "url": "https://github.com/agegr/pi-web",
+          "description": "Web UI for the pi coding agent",
+          "ai_summary": "为pi编码代理提供Web用户界面。基于TypeScript实现，提供直观的操作界面与代理交互。",
+          "language": "TypeScript",
+          "stars": 2195,
+          "forks": 317,
+          "stars_today": 314,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4062,
+            "repo_age_days": 122,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 17,
+            "pr_count": 100,
+            "star_fork_ratio": 6.92
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-22T00:00:00.000Z"
+        },
+        {
+          "id": "ComposioHQ/awesome-claude-skills",
+          "name": "awesome-claude-skills",
+          "owner": "ComposioHQ",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "ai_summary": "收集Claude AI工作流定制所需的优秀技能与工具。主要使用Python，涵盖各类资源与实现方案。",
+          "language": "Python",
+          "stars": 69053,
+          "forks": 7824,
+          "stars_today": 163,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1220,
+            "repo_age_days": 279,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 1077,
+            "pr_count": 1222,
+            "star_fork_ratio": 8.83
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-23T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "ai_summary": "提供实用工程师技能集合。通过Shell脚本实现，直接来自开发者实际使用的.agents目录。",
+          "language": "Shell",
+          "stars": 183386,
+          "forks": 15683,
+          "stars_today": 0,
+          "stars_this_week": 10282,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3369,
+            "repo_age_days": 169,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 213,
+            "pr_count": 101,
+            "star_fork_ratio": 11.69
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-23T00:00:00.000Z"
+        },
+        {
+          "id": "Nutlope/hallmark",
+          "name": "hallmark",
+          "owner": "Nutlope",
+          "url": "https://github.com/Nutlope/hallmark",
+          "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+          "ai_summary": "该项目提供针对Claude Code、Cursor和Codex等AI代码生成工具的防低质量输出设计技巧。通过CSS样式规范约束AI生成内容，确保代码结构清晰、风格统一。",
+          "language": "CSS",
+          "stars": 15884,
+          "forks": 802,
+          "stars_today": 0,
+          "stars_this_week": 8471,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2289,
+            "repo_age_days": 86,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 30,
+            "pr_count": 27,
+            "star_fork_ratio": 19.81
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-23T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 8,
+          "Skills": 6,
+          "Agent": 3
+        }
+      }
     }
   ]
 }

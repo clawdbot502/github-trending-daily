@@ -7256,6 +7256,323 @@
           "Agent": 3
         }
       }
+    },
+    {
+      "date": "2026-07-24",
+      "generated_at": "2026-07-24T09:10:04.808Z",
+      "projects": [
+        {
+          "id": "koala73/worldmonitor",
+          "name": "worldmonitor",
+          "owner": "koala73",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+          "ai_summary": "实时全球情报仪表盘，整合AI驱动的新闻聚合、地缘政治监控和基础设施追踪，提供统一态势感知界面。基于TypeScript构建，采用现代化前端架构实现高效数据可视化与实时更新。",
+          "language": "TypeScript",
+          "stars": 72429,
+          "forks": 10874,
+          "stars_today": 3175,
+          "stars_this_week": 9054,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5449,
+            "repo_age_days": 196,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 265,
+            "pr_count": 4390,
+            "star_fork_ratio": 6.66
+          },
+          "trending_days": 3,
+          "first_seen": "2026-07-22T00:00:00.000Z"
+        },
+        {
+          "id": "diegosouzapw/OmniRoute",
+          "name": "OmniRoute",
+          "owner": "diegosouzapw",
+          "url": "https://github.com/diegosouzapw/OmniRoute",
+          "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+          "ai_summary": "开源AI网关聚合290+服务商与500+模型，提供统一API端点与配额感知自动回退机制。采用TypeScript开发，通过RTK+Caveman压缩技术节省15-95%token，支持MCP/A2A架构与PWA应用。",
+          "language": "TypeScript",
+          "stars": 27856,
+          "forks": 3659,
+          "stars_today": 1929,
+          "stars_this_week": 8673,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4408,
+            "repo_age_days": 160,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 236,
+            "pr_count": 5289,
+            "star_fork_ratio": 7.61
+          },
+          "trending_days": 4,
+          "first_seen": "2026-07-21T00:00:00.000Z"
+        },
+        {
+          "id": "ComposioHQ/awesome-claude-skills",
+          "name": "awesome-claude-skills",
+          "owner": "ComposioHQ",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "ai_summary": "精选Claude AI技能与工具集合，帮助开发者定制AI工作流。主要使用Python实现，提供结构化资源索引与实用代码示例。",
+          "language": "Python",
+          "stars": 69683,
+          "forks": 7865,
+          "stars_today": 636,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1221,
+            "repo_age_days": 280,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 1083,
+            "pr_count": 1228,
+            "star_fork_ratio": 8.86
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-23T00:00:00.000Z"
+        },
+        {
+          "id": "agegr/pi-web",
+          "name": "pi-web",
+          "owner": "agegr",
+          "url": "https://github.com/agegr/pi-web",
+          "description": "Web UI for the pi coding agent",
+          "ai_summary": "pi-web 是为 pi 编码代理提供的 Web 用户界面。采用 TypeScript 开发，提供简洁高效的前端交互体验。",
+          "language": "TypeScript",
+          "stars": 2518,
+          "forks": 338,
+          "stars_today": 315,
+          "stars_this_week": 1050,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4063,
+            "repo_age_days": 123,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 39,
+            "pr_count": 110,
+            "star_fork_ratio": 7.45
+          },
+          "trending_days": 3,
+          "first_seen": "2026-07-22T00:00:00.000Z"
+        },
+        {
+          "id": "citrolabs/ego-lite",
+          "name": "ego-lite",
+          "owner": "citrolabs",
+          "url": "https://github.com/citrolabs/ego-lite",
+          "description": "The best browser for both you and your AI agents work in parallel.",
+          "ai_summary": "ego-lite 是一款支持用户与 AI 代理并行工作的浏览器。基于 JavaScript 实现，优化了多任务处理与资源分配。",
+          "language": "JavaScript",
+          "stars": 2022,
+          "forks": 104,
+          "stars_today": 247,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 302,
+            "repo_age_days": 98,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 26,
+            "pr_count": 109,
+            "star_fork_ratio": 19.44
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-24T00:00:00.000Z"
+        },
+        {
+          "id": "earthtojake/text-to-cad",
+          "name": "text-to-cad",
+          "owner": "earthtojake",
+          "url": "https://github.com/earthtojake/text-to-cad",
+          "description": "A collection of agent skills for CAD, robotics and hardware design",
+          "ai_summary": "text-to-cad 提供 CAD、机器人及硬件设计相关的代理技能集合。通过 JavaScript 实现，支持自动化设计流程与硬件交互。",
+          "language": "JavaScript",
+          "stars": 10238,
+          "forks": 1116,
+          "stars_today": 230,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4194,
+            "repo_age_days": 93,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 25,
+            "pr_count": 138,
+            "star_fork_ratio": 9.17
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-24T00:00:00.000Z"
+        },
+        {
+          "id": "alibaba/open-code-review",
+          "name": "open-code-review",
+          "owner": "alibaba",
+          "url": "https://github.com/alibaba/open-code-review",
+          "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+          "ai_summary": "开源代码审查工具，提供精确到行级的代码审查，内置针对常见问题（如空指针、线程安全等）的优化规则集。采用混合架构，结合确定性流水线和LLM代理，兼容OpenAI和Anthropic模型。",
+          "language": "Go",
+          "stars": 11986,
+          "forks": 817,
+          "stars_today": 180,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5125,
+            "repo_age_days": 67,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 52,
+            "pr_count": 285,
+            "star_fork_ratio": 14.67
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-24T00:00:00.000Z"
+        },
+        {
+          "id": "tirth8205/code-review-graph",
+          "name": "code-review-graph",
+          "owner": "tirth8205",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+          "ai_summary": "本地优先的代码智能图谱工具，为MCP和CLI构建代码库的持久化映射。通过减少AI工具读取的上下文，优化大型代码库的审查和工作流效率。",
+          "language": "Python",
+          "stars": 26038,
+          "forks": 2441,
+          "stars_today": 0,
+          "stars_this_week": 6257,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2193,
+            "repo_age_days": 147,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 137,
+            "pr_count": 432,
+            "star_fork_ratio": 10.67
+          },
+          "trending_days": 6,
+          "first_seen": "2026-07-19T00:00:00.000Z"
+        },
+        {
+          "id": "Nutlope/hallmark",
+          "name": "hallmark",
+          "owner": "Nutlope",
+          "url": "https://github.com/Nutlope/hallmark",
+          "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+          "ai_summary": "针对Claude Code、Cursor和Codex的反AI低质量设计技能工具。通过CSS实现，旨在提升AI生成代码的设计质量。",
+          "language": "CSS",
+          "stars": 16480,
+          "forks": 829,
+          "stars_today": 0,
+          "stars_this_week": 5797,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2290,
+            "repo_age_days": 87,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 31,
+            "pr_count": 28,
+            "star_fork_ratio": 19.88
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-23T00:00:00.000Z"
+        },
+        {
+          "id": "earendil-works/pi",
+          "name": "pi",
+          "owner": "earendil-works",
+          "url": "https://github.com/earendil-works/pi",
+          "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+          "ai_summary": "提供AI代理工具包，整合LLM API、代理循环和命令行工具，支持构建智能代理应用。基于TypeScript实现，包含TUI界面和编码代理CLI，模块化设计便于扩展。",
+          "language": "TypeScript",
+          "stars": 76716,
+          "forks": 9439,
+          "stars_today": 0,
+          "stars_this_week": 4495,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 463,
+            "repo_age_days": 348,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 75,
+            "pr_count": 2394,
+            "star_fork_ratio": 8.13
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-24T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 8,
+          "Skills": 8,
+          "Agent": 5
+        }
+      }
     }
   ]
 }

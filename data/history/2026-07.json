@@ -7573,6 +7573,324 @@
           "Agent": 5
         }
       }
+    },
+    {
+      "date": "2026-07-25",
+      "generated_at": "2026-07-25T08:52:02.782Z",
+      "projects": [
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "ai_summary": "提供真实工程师所需的技能配置，直接从作者的.agents目录中提取。采用Shell脚本实现，便于快速部署和定制化使用。",
+          "language": "Shell",
+          "stars": 187365,
+          "forks": 16091,
+          "stars_today": 2251,
+          "stars_this_week": 10969,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3370,
+            "repo_age_days": 171,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 230,
+            "pr_count": 103,
+            "star_fork_ratio": 11.64
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-25T00:00:00.000Z"
+        },
+        {
+          "id": "koala73/worldmonitor",
+          "name": "worldmonitor",
+          "owner": "koala73",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+          "ai_summary": "实时全球情报仪表盘，整合AI驱动的新闻聚合、地缘政治监控和基础设施追踪。基于TypeScript构建，提供统一的情境感知界面。",
+          "language": "TypeScript",
+          "stars": 73687,
+          "forks": 11052,
+          "stars_today": 2184,
+          "stars_this_week": 10936,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5450,
+            "repo_age_days": 197,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 259,
+            "pr_count": 4421,
+            "star_fork_ratio": 6.67
+          },
+          "trending_days": 4,
+          "first_seen": "2026-07-22T00:00:00.000Z"
+        },
+        {
+          "id": "diegosouzapw/OmniRoute",
+          "name": "OmniRoute",
+          "owner": "diegosouzapw",
+          "url": "https://github.com/diegosouzapw/OmniRoute",
+          "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+          "ai_summary": "免费MIT许可的AI网关，支持290+供应商和500+模型，实现配额感知自动回退和高效令牌压缩。采用TypeScript开发，支持RTK+Caveman压缩技术，节省15-95%令牌。",
+          "language": "TypeScript",
+          "stars": 29330,
+          "forks": 3825,
+          "stars_today": 1841,
+          "stars_this_week": 9965,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4409,
+            "repo_age_days": 161,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 262,
+            "pr_count": 5399,
+            "star_fork_ratio": 7.67
+          },
+          "trending_days": 5,
+          "first_seen": "2026-07-21T00:00:00.000Z"
+        },
+        {
+          "id": "citrolabs/ego-lite",
+          "name": "ego-lite",
+          "owner": "citrolabs",
+          "url": "https://github.com/citrolabs/ego-lite",
+          "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+          "ai_summary": "专为AI代理设计的浏览器，支持共享登录状态以运行网页自动化任务，不干扰用户正常使用。基于JavaScript实现，零配置、零成本即可部署使用。",
+          "language": "JavaScript",
+          "stars": 2982,
+          "forks": 142,
+          "stars_today": 880,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 303,
+            "repo_age_days": 99,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 28,
+            "pr_count": 110,
+            "star_fork_ratio": 21
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-24T00:00:00.000Z"
+        },
+        {
+          "id": "ComposioHQ/awesome-claude-skills",
+          "name": "awesome-claude-skills",
+          "owner": "ComposioHQ",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "ai_summary": "精选的Claude AI技能与工具集合，用于定制化AI工作流程。主要使用Python实现，提供丰富的资源与实践案例。",
+          "language": "Python",
+          "stars": 70259,
+          "forks": 7916,
+          "stars_today": 663,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1222,
+            "repo_age_days": 281,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 1094,
+            "pr_count": 1240,
+            "star_fork_ratio": 8.88
+          },
+          "trending_days": 3,
+          "first_seen": "2026-07-23T00:00:00.000Z"
+        },
+        {
+          "id": "Lordog/dive-into-llms",
+          "name": "dive-into-llms",
+          "owner": "Lordog",
+          "url": "https://github.com/Lordog/dive-into-llms",
+          "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+          "ai_summary": "《动手学大模型》系列教程，通过编程实践帮助开发者掌握大模型技术。采用Jupyter Notebook形式，包含大量可交互的代码示例。",
+          "language": "Jupyter Notebook",
+          "stars": 45179,
+          "forks": 5400,
+          "stars_today": 328,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2383,
+            "repo_age_days": 837,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 14,
+            "pr_count": 21,
+            "star_fork_ratio": 8.37
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-25T00:00:00.000Z"
+        },
+        {
+          "id": "CoreBunch/Instatic",
+          "name": "Instatic",
+          "owner": "CoreBunch",
+          "url": "https://github.com/CoreBunch/Instatic",
+          "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+          "ai_summary": "Instatic 是一个开源自托管可视化 CMS，提供类似 Webflow 和 WordPress 的功能，用于生成静态网页。采用 TypeScript 开发，支持用户角色管理、插件扩展和数据库集成，输出干净的静态页面。",
+          "language": "TypeScript",
+          "stars": 4412,
+          "forks": 416,
+          "stars_today": 201,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent",
+            "内容创作"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 519,
+            "repo_age_days": 85,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 39,
+            "pr_count": 215,
+            "star_fork_ratio": 10.61
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-25T00:00:00.000Z"
+        },
+        {
+          "id": "bojieli/ai-agent-book",
+          "name": "ai-agent-book",
+          "owner": "bojieli",
+          "url": "https://github.com/bojieli/ai-agent-book",
+          "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+          "ai_summary": "《深入理解 AI Agent：设计原理与工程实践》是李博杰编写的开源书籍，涵盖 AI Agent 的理论与工程实践。提供全书正文、PDF 及配套代码，使用 Python 实现示例。",
+          "language": "Python",
+          "stars": 19424,
+          "forks": 1940,
+          "stars_today": 0,
+          "stars_this_week": 17401,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5280,
+            "repo_age_days": 319,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 10,
+            "pr_count": 304,
+            "star_fork_ratio": 10.01
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-25T00:00:00.000Z"
+        },
+        {
+          "id": "tirth8205/code-review-graph",
+          "name": "code-review-graph",
+          "owner": "tirth8205",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+          "ai_summary": "code-review-graph 是一个本地优先的代码智能图谱工具，用于优化 AI 编程工具的上下文读取效率。基于 Python 构建持久化代码库图谱，显著减少大型仓库工作流中的冗余上下文。",
+          "language": "Python",
+          "stars": 26301,
+          "forks": 2458,
+          "stars_today": 0,
+          "stars_this_week": 6565,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2194,
+            "repo_age_days": 148,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 116,
+            "pr_count": 436,
+            "star_fork_ratio": 10.7
+          },
+          "trending_days": 7,
+          "first_seen": "2026-07-19T00:00:00.000Z"
+        },
+        {
+          "id": "Nutlope/hallmark",
+          "name": "hallmark",
+          "owner": "Nutlope",
+          "url": "https://github.com/Nutlope/hallmark",
+          "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+          "ai_summary": "Hallmark 是一个针对 Claude Code、Cursor 和 Codex 的反 AI 设计技巧项目。它通过特定的 CSS 设计模式，有效识别和防止 AI 生成的代码或内容混入。",
+          "language": "CSS",
+          "stars": 17290,
+          "forks": 865,
+          "stars_today": 0,
+          "stars_this_week": 4978,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2291,
+            "repo_age_days": 88,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 33,
+            "pr_count": 30,
+            "star_fork_ratio": 19.99
+          },
+          "trending_days": 3,
+          "first_seen": "2026-07-23T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 9,
+          "Skills": 7,
+          "Agent": 4,
+          "内容创作": 1
+        }
+      }
     }
   ]
 }

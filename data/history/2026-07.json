@@ -7891,6 +7891,325 @@
           "内容创作": 1
         }
       }
+    },
+    {
+      "date": "2026-07-26",
+      "generated_at": "2026-07-26T09:01:48.658Z",
+      "projects": [
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "ai_summary": "skills - Skills for Real Engineers. Straight from my .agents directory. 使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 188785,
+          "forks": 16215,
+          "stars_today": 1740,
+          "stars_this_week": 11790,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3371,
+            "repo_age_days": 172,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 233,
+            "pr_count": 103,
+            "star_fork_ratio": 11.64
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-25T00:00:00.000Z"
+        },
+        {
+          "id": "citrolabs/ego-lite",
+          "name": "ego-lite",
+          "owner": "citrolabs",
+          "url": "https://github.com/citrolabs/ego-lite",
+          "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+          "ai_summary": "ego-lite - The fastest browser for AI agents to run web automation, built for sharing your ... 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 3872,
+          "forks": 190,
+          "stars_today": 986,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 304,
+            "repo_age_days": 100,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 32,
+            "pr_count": 114,
+            "star_fork_ratio": 20.38
+          },
+          "trending_days": 3,
+          "first_seen": "2026-07-24T00:00:00.000Z"
+        },
+        {
+          "id": "ComposioHQ/awesome-claude-skills",
+          "name": "awesome-claude-skills",
+          "owner": "ComposioHQ",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "ai_summary": "awesome-claude-skills - A curated list of awesome Claude Skills, resources, and tools for customizing Cl... 使用 Python 开发。",
+          "language": "Python",
+          "stars": 70768,
+          "forks": 7954,
+          "stars_today": 577,
+          "stars_this_week": 2436,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1223,
+            "repo_age_days": 282,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 1100,
+            "pr_count": 1246,
+            "star_fork_ratio": 8.9
+          },
+          "trending_days": 4,
+          "first_seen": "2026-07-23T00:00:00.000Z"
+        },
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "superpowers - An agentic skills framework & software development methodology that works. 使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 261289,
+          "forks": 23318,
+          "stars_today": 479,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6406,
+            "repo_age_days": 289,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 322,
+            "pr_count": 1059,
+            "star_fork_ratio": 11.21
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-26T00:00:00.000Z"
+        },
+        {
+          "id": "alibaba/open-code-review",
+          "name": "open-code-review",
+          "owner": "alibaba",
+          "url": "https://github.com/alibaba/open-code-review",
+          "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+          "ai_summary": "open-code-review - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code ... 使用 Go 开发。",
+          "language": "Go",
+          "stars": 13267,
+          "forks": 905,
+          "stars_today": 431,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5127,
+            "repo_age_days": 69,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 58,
+            "pr_count": 300,
+            "star_fork_ratio": 14.66
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-26T00:00:00.000Z"
+        },
+        {
+          "id": "CoreBunch/Instatic",
+          "name": "Instatic",
+          "owner": "CoreBunch",
+          "url": "https://github.com/CoreBunch/Instatic",
+          "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+          "ai_summary": "Instatic - The open-source alternative to Webflow, Framer and WordPress. Agentic self-hoste... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 5265,
+          "forks": 492,
+          "stars_today": 426,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent",
+            "内容创作"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 520,
+            "repo_age_days": 86,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 49,
+            "pr_count": 227,
+            "star_fork_ratio": 10.7
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-25T00:00:00.000Z"
+        },
+        {
+          "id": "palmier-io/palmier-pro",
+          "name": "palmier-pro",
+          "owner": "palmier-io",
+          "url": "https://github.com/palmier-io/palmier-pro",
+          "description": "macOS video editor built for AI",
+          "ai_summary": "palmier-pro - macOS video editor built for AI 使用 Swift 开发。",
+          "language": "Swift",
+          "stars": 12350,
+          "forks": 897,
+          "stars_today": 412,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 759,
+            "repo_age_days": 110,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 79,
+            "pr_count": 321,
+            "star_fork_ratio": 13.77
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-26T00:00:00.000Z"
+        },
+        {
+          "id": "Lordog/dive-into-llms",
+          "name": "dive-into-llms",
+          "owner": "Lordog",
+          "url": "https://github.com/Lordog/dive-into-llms",
+          "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+          "ai_summary": "《动手学大模型Dive into LLMs》系列编程实践教程",
+          "language": "Jupyter Notebook",
+          "stars": 45481,
+          "forks": 5426,
+          "stars_today": 408,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2384,
+            "repo_age_days": 838,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 14,
+            "pr_count": 21,
+            "star_fork_ratio": 8.38
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-25T00:00:00.000Z"
+        },
+        {
+          "id": "affaan-m/ECC",
+          "name": "ECC",
+          "owner": "affaan-m",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "ai_summary": "ECC - The agent harness performance optimization system. Skills, instincts, memory, se... 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 233446,
+          "forks": 35595,
+          "stars_today": 377,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1267,
+            "repo_age_days": 189,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 102,
+            "pr_count": 1793,
+            "star_fork_ratio": 6.56
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-26T00:00:00.000Z"
+        },
+        {
+          "id": "OtterMind/Chat2DB",
+          "name": "Chat2DB",
+          "owner": "OtterMind",
+          "url": "https://github.com/OtterMind/Chat2DB",
+          "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+          "ai_summary": "Chat2DB - 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supportin... 使用 Java 开发。",
+          "language": "Java",
+          "stars": 26836,
+          "forks": 2921,
+          "stars_today": 360,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1187,
+            "repo_age_days": 1131,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 93,
+            "pr_count": 703,
+            "star_fork_ratio": 9.19
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-26T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 8,
+          "Skills": 7,
+          "Agent": 6,
+          "内容创作": 1
+        }
+      }
     }
   ]
 }

@@ -8210,6 +8210,323 @@
           "内容创作": 1
         }
       }
+    },
+    {
+      "date": "2026-07-27",
+      "generated_at": "2026-07-27T10:29:09.971Z",
+      "projects": [
+        {
+          "id": "citrolabs/ego-lite",
+          "name": "ego-lite",
+          "owner": "citrolabs",
+          "url": "https://github.com/citrolabs/ego-lite",
+          "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+          "ai_summary": "专为AI代理设计的轻量级浏览器，支持共享登录状态以实现无干扰的自动化操作。基于JavaScript实现，零配置、零成本，优化了浏览器自动化性能。",
+          "language": "JavaScript",
+          "stars": 5265,
+          "forks": 251,
+          "stars_today": 900,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 305,
+            "repo_age_days": 101,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 43,
+            "pr_count": 125,
+            "star_fork_ratio": 20.98
+          },
+          "trending_days": 4,
+          "first_seen": "2026-07-24T00:00:00.000Z"
+        },
+        {
+          "id": "CoreBunch/Instatic",
+          "name": "Instatic",
+          "owner": "CoreBunch",
+          "url": "https://github.com/CoreBunch/Instatic",
+          "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+          "ai_summary": "开源可视化CMS系统，提供类似Webflow的静态站点生成能力。采用TypeScript开发，集成用户权限、插件系统和数据库，支持自托管部署。",
+          "language": "TypeScript",
+          "stars": 5994,
+          "forks": 532,
+          "stars_today": 888,
+          "stars_this_week": 1893,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent",
+            "内容创作"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 521,
+            "repo_age_days": 87,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 55,
+            "pr_count": 229,
+            "star_fork_ratio": 11.27
+          },
+          "trending_days": 3,
+          "first_seen": "2026-07-25T00:00:00.000Z"
+        },
+        {
+          "id": "alibaba/open-code-review",
+          "name": "open-code-review",
+          "owner": "alibaba",
+          "url": "https://github.com/alibaba/open-code-review",
+          "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+          "ai_summary": "企业级混合架构代码审查工具，结合确定性流水线与LLM代理实现精准评审。基于Go语言构建，内置安全规则集，兼容主流AI接口。",
+          "language": "Go",
+          "stars": 14311,
+          "forks": 968,
+          "stars_today": 832,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5128,
+            "repo_age_days": 70,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 55,
+            "pr_count": 306,
+            "star_fork_ratio": 14.78
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-26T00:00:00.000Z"
+        },
+        {
+          "id": "pbakaus/impeccable",
+          "name": "impeccable",
+          "owner": "pbakaus",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description": "The design language that makes your AI harness better at design.",
+          "ai_summary": "提供AI辅助设计的设计语言，帮助AI更好地理解和执行设计任务。基于JavaScript实现，通过结构化设计规范提升AI生成设计的准确性和一致性。",
+          "language": "JavaScript",
+          "stars": 51040,
+          "forks": 3005,
+          "stars_today": 413,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6419,
+            "repo_age_days": 253,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 33,
+            "pr_count": 269,
+            "star_fork_ratio": 16.99
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-27T00:00:00.000Z"
+        },
+        {
+          "id": "OtterMind/Chat2DB",
+          "name": "Chat2DB",
+          "owner": "OtterMind",
+          "url": "https://github.com/OtterMind/Chat2DB",
+          "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+          "ai_summary": "AI驱动的多数据库管理工具，支持MySQL、Oracle等主流数据库的图形化操作。采用Java开发，集成自然语言处理技术实现智能SQL生成与优化。",
+          "language": "Java",
+          "stars": 27371,
+          "forks": 2952,
+          "stars_today": 398,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1188,
+            "repo_age_days": 1132,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 102,
+            "pr_count": 758,
+            "star_fork_ratio": 9.27
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-26T00:00:00.000Z"
+        },
+        {
+          "id": "anthropics/claude-cookbooks",
+          "name": "claude-cookbooks",
+          "owner": "anthropics",
+          "url": "https://github.com/anthropics/claude-cookbooks",
+          "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+          "ai_summary": "展示Claude AI多种应用场景的Jupyter Notebook案例集合。通过交互式代码示例演示Claude在文本生成、数据分析等领域的创新用法。",
+          "language": "Jupyter Notebook",
+          "stars": 50432,
+          "forks": 5938,
+          "stars_today": 379,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2045,
+            "repo_age_days": 1076,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 293,
+            "pr_count": 544,
+            "star_fork_ratio": 8.49
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-27T00:00:00.000Z"
+        },
+        {
+          "id": "andrewyng/aisuite",
+          "name": "aisuite",
+          "owner": "andrewyng",
+          "url": "https://github.com/andrewyng/aisuite",
+          "description": "Simple, unified interface to multiple Generative AI providers",
+          "ai_summary": "aisuite 是一个为多种生成式 AI 提供商提供简单统一接口的工具。它基于 Python 实现，通过标准化调用方式简化了不同 AI 服务的集成。",
+          "language": "Python",
+          "stars": 15495,
+          "forks": 1639,
+          "stars_today": 187,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4898,
+            "repo_age_days": 756,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 135,
+            "pr_count": 283,
+            "star_fork_ratio": 9.45
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-27T00:00:00.000Z"
+        },
+        {
+          "id": "bojieli/ai-agent-book",
+          "name": "ai-agent-book",
+          "owner": "bojieli",
+          "url": "https://github.com/bojieli/ai-agent-book",
+          "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+          "ai_summary": "《深入理解 AI Agent》是系统阐述 AI 代理设计原理与工程实践的开源技术书籍。项目包含完整书籍内容、PDF 版本及各章节配套 Python 示例代码。",
+          "language": "Python",
+          "stars": 22121,
+          "forks": 2216,
+          "stars_today": 0,
+          "stars_this_week": 15909,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5282,
+            "repo_age_days": 321,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 15,
+            "pr_count": 317,
+            "star_fork_ratio": 9.98
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-27T00:00:00.000Z"
+        },
+        {
+          "id": "koala73/worldmonitor",
+          "name": "worldmonitor",
+          "owner": "koala73",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+          "ai_summary": "worldmonitor 是实时全球情报仪表盘，整合 AI 新闻聚合、地缘政治监控和基础设施追踪功能。采用 TypeScript 开发，提供统一态势感知界面。",
+          "language": "TypeScript",
+          "stars": 75084,
+          "forks": 11271,
+          "stars_today": 0,
+          "stars_this_week": 12615,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5452,
+            "repo_age_days": 199,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 263,
+            "pr_count": 4480,
+            "star_fork_ratio": 6.66
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-27T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "ai_summary": "提供实用工程师技能集合，直接来自作者的.agents目录。采用Shell脚本实现，便于快速集成到开发工作流中。",
+          "language": "Shell",
+          "stars": 190617,
+          "forks": 16378,
+          "stars_today": 0,
+          "stars_this_week": 12238,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3373,
+            "repo_age_days": 173,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 237,
+            "pr_count": 103,
+            "star_fork_ratio": 11.64
+          },
+          "trending_days": 3,
+          "first_seen": "2026-07-25T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 9,
+          "Skills": 5,
+          "Agent": 5,
+          "内容创作": 1
+        }
+      }
     }
   ]
 }

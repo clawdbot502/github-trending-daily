@@ -8527,6 +8527,320 @@
           "内容创作": 1
         }
       }
+    },
+    {
+      "date": "2026-07-28",
+      "generated_at": "2026-07-28T09:26:24.426Z",
+      "projects": [
+        {
+          "id": "alibaba/open-code-review",
+          "name": "open-code-review",
+          "owner": "alibaba",
+          "url": "https://github.com/alibaba/open-code-review",
+          "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+          "ai_summary": "开源代码审查工具，提供精确到行的代码评审，内置针对常见漏洞的优化规则集。采用确定性流水线+LLM Agent的混合架构，兼容OpenAI和Anthropic模型。",
+          "language": "Go",
+          "stars": 15266,
+          "forks": 1025,
+          "stars_today": 979,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5129,
+            "repo_age_days": 71,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 63,
+            "pr_count": 326,
+            "star_fork_ratio": 14.89
+          },
+          "trending_days": 3,
+          "first_seen": "2026-07-26T00:00:00.000Z"
+        },
+        {
+          "id": "pbakaus/impeccable",
+          "name": "impeccable",
+          "owner": "pbakaus",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description": "The design language that makes your AI harness better at design.",
+          "ai_summary": "AI设计辅助工具，提升AI在设计领域的应用效果。基于JavaScript实现的设计语言系统。",
+          "language": "JavaScript",
+          "stars": 51943,
+          "forks": 3051,
+          "stars_today": 847,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6420,
+            "repo_age_days": 254,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 41,
+            "pr_count": 274,
+            "star_fork_ratio": 17.02
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-27T00:00:00.000Z"
+        },
+        {
+          "id": "moeru-ai/airi",
+          "name": "airi",
+          "owner": "moeru-ai",
+          "url": "https://github.com/moeru-ai/airi",
+          "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+          "ai_summary": "自托管虚拟伴侣系统，支持实时语音聊天和游戏互动。使用TypeScript开发，跨平台支持Web/macOS/Windows。",
+          "language": "TypeScript",
+          "stars": 44394,
+          "forks": 4417,
+          "stars_today": 572,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 849,
+            "repo_age_days": 603,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 181,
+            "pr_count": 1526,
+            "star_fork_ratio": 10.05
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-28T00:00:00.000Z"
+        },
+        {
+          "id": "bradautomates/claude-video",
+          "name": "claude-video",
+          "owner": "bradautomates",
+          "url": "https://github.com/bradautomates/claude-video",
+          "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+          "ai_summary": "为Claude AI添加视频理解能力，通过下载视频、提取帧和转录文本实现多模态输入。基于Python实现，结合计算机视觉与自然语言处理技术完成视频内容分析。",
+          "language": "Python",
+          "stars": 11508,
+          "forks": 1166,
+          "stars_today": 434,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 637,
+            "repo_age_days": 95,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 76,
+            "pr_count": 72,
+            "star_fork_ratio": 9.87
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-28T00:00:00.000Z"
+        },
+        {
+          "id": "mvanhorn/last30days-skill",
+          "name": "last30days-skill",
+          "owner": "mvanhorn",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+          "ai_summary": "AI代理技能，跨平台（Reddit/X/YouTube等）抓取信息并生成综合摘要。采用Python开发，集成网络爬虫与文本摘要技术实现多源信息整合。",
+          "language": "Python",
+          "stars": 54426,
+          "forks": 4705,
+          "stars_today": 240,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5753,
+            "repo_age_days": 185,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 76,
+            "pr_count": 679,
+            "star_fork_ratio": 11.57
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-28T00:00:00.000Z"
+        },
+        {
+          "id": "jenkinsci/jenkins",
+          "name": "jenkins",
+          "owner": "jenkinsci",
+          "url": "https://github.com/jenkinsci/jenkins",
+          "description": "Jenkins automation server",
+          "ai_summary": "开源持续集成与交付服务器，支持自动化构建、测试和部署。基于Java开发，采用插件化架构实现高度可扩展的CI/CD流水线。",
+          "language": "Java",
+          "stars": 25957,
+          "forks": 9679,
+          "stars_today": 180,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 6215,
+            "repo_age_days": 5726,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 3592,
+            "pr_count": 12258,
+            "star_fork_ratio": 2.68
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-28T00:00:00.000Z"
+        },
+        {
+          "id": "bojieli/ai-agent-book",
+          "name": "ai-agent-book",
+          "owner": "bojieli",
+          "url": "https://github.com/bojieli/ai-agent-book",
+          "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+          "ai_summary": "《深入理解 AI Agent：设计原理与工程实践》开源书籍，提供AI Agent设计原理与工程实践的全套资料。包含全书正文、PDF及按章配套代码，采用Python实现示例。",
+          "language": "Python",
+          "stars": 23748,
+          "forks": 2408,
+          "stars_today": 0,
+          "stars_this_week": 13627,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5283,
+            "repo_age_days": 322,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 14,
+            "pr_count": 328,
+            "star_fork_ratio": 9.86
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-27T00:00:00.000Z"
+        },
+        {
+          "id": "koala73/worldmonitor",
+          "name": "worldmonitor",
+          "owner": "koala73",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+          "ai_summary": "实时全球情报仪表盘，整合AI驱动的新闻聚合、地缘政治监控和基础设施追踪。基于TypeScript构建，提供统一态势感知界面。",
+          "language": "TypeScript",
+          "stars": 75599,
+          "forks": 11322,
+          "stars_today": 0,
+          "stars_this_week": 13231,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5453,
+            "repo_age_days": 200,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 278,
+            "pr_count": 4513,
+            "star_fork_ratio": 6.68
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-27T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "ai_summary": "工程师实用技能集合，源自作者个人.agents目录的实战经验。通过Shell脚本实现高效工具链与工作流优化。",
+          "language": "Shell",
+          "stars": 192128,
+          "forks": 16511,
+          "stars_today": 0,
+          "stars_this_week": 12682,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3374,
+            "repo_age_days": 174,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 237,
+            "pr_count": 106,
+            "star_fork_ratio": 11.64
+          },
+          "trending_days": 4,
+          "first_seen": "2026-07-25T00:00:00.000Z"
+        },
+        {
+          "id": "diegosouzapw/OmniRoute",
+          "name": "OmniRoute",
+          "owner": "diegosouzapw",
+          "url": "https://github.com/diegosouzapw/OmniRoute",
+          "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+          "ai_summary": "OmniRoute 是一个免费的 MIT 许可 AI 网关，提供单一端点接入 290+ 提供商（90+ 免费）和 500+ 模型，支持 Kimi、Claude、GPT 等主流 AI 服务。采用 RTK+Caveman 压缩技术节省 15-95% token 开销，支持配额感知自动回退和 MCP/A2A 架构，提供桌面/PWA 应用。",
+          "language": "TypeScript",
+          "stars": 32542,
+          "forks": 4213,
+          "stars_today": 0,
+          "stars_this_week": 11057,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4412,
+            "repo_age_days": 164,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 258,
+            "pr_count": 5590,
+            "star_fork_ratio": 7.72
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-28T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 9,
+          "Skills": 5,
+          "Agent": 4
+        }
+      }
     }
   ]
 }

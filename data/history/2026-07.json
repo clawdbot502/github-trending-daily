@@ -8841,6 +8841,323 @@
           "Agent": 4
         }
       }
+    },
+    {
+      "date": "2026-07-29",
+      "generated_at": "2026-07-29T09:28:50.443Z",
+      "projects": [
+        {
+          "id": "bradautomates/claude-video",
+          "name": "claude-video",
+          "owner": "bradautomates",
+          "url": "https://github.com/bradautomates/claude-video",
+          "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+          "ai_summary": "claude-video - Give Claude the ability to watch any video. /watch downloads, extracts frames, t... 使用 Python 开发。",
+          "language": "Python",
+          "stars": 12432,
+          "forks": 1236,
+          "stars_today": 988,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 638,
+            "repo_age_days": 96,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 79,
+            "pr_count": 75,
+            "star_fork_ratio": 10.06
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-28T00:00:00.000Z"
+        },
+        {
+          "id": "moeru-ai/airi",
+          "name": "airi",
+          "owner": "moeru-ai",
+          "url": "https://github.com/moeru-ai/airi",
+          "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+          "ai_summary": "airi - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 45076,
+          "forks": 4462,
+          "stars_today": 797,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 850,
+            "repo_age_days": 604,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 184,
+            "pr_count": 1541,
+            "star_fork_ratio": 10.1
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-28T00:00:00.000Z"
+        },
+        {
+          "id": "affaan-m/ECC",
+          "name": "ECC",
+          "owner": "affaan-m",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "ai_summary": "ECC - The agent harness performance optimization system. Skills, instincts, memory, se... 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 235164,
+          "forks": 35823,
+          "stars_today": 636,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1270,
+            "repo_age_days": 192,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 95,
+            "pr_count": 1818,
+            "star_fork_ratio": 6.56
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-29T00:00:00.000Z"
+        },
+        {
+          "id": "virgiliojr94/book-to-skill",
+          "name": "book-to-skill",
+          "owner": "virgiliojr94",
+          "url": "https://github.com/virgiliojr94/book-to-skill",
+          "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+          "ai_summary": "book-to-skill - Turn any technical book PDF into a Claude Code skill — ready to study, reference... 使用 Python 开发。",
+          "language": "Python",
+          "stars": 12014,
+          "forks": 1374,
+          "stars_today": 423,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3536,
+            "repo_age_days": 89,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 15,
+            "pr_count": 71,
+            "star_fork_ratio": 8.74
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-29T00:00:00.000Z"
+        },
+        {
+          "id": "paperswithbacktest/awesome-systematic-trading",
+          "name": "awesome-systematic-trading",
+          "owner": "paperswithbacktest",
+          "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+          "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+          "ai_summary": "awesome-systematic-trading - A curated list of awesome libraries, packages, strategies, books, blogs, tutoria... 使用 Python 开发。",
+          "language": "Python",
+          "stars": 10022,
+          "forks": 1321,
+          "stars_today": 309,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "内容创作"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 944,
+            "repo_age_days": 1634,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 45,
+            "pr_count": 51,
+            "star_fork_ratio": 7.59
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-29T00:00:00.000Z"
+        },
+        {
+          "id": "huggingface/speech-to-speech",
+          "name": "speech-to-speech",
+          "owner": "huggingface",
+          "url": "https://github.com/huggingface/speech-to-speech",
+          "description": "Build local voice agents with open-source models",
+          "ai_summary": "speech-to-speech - Build local voice agents with open-source models 使用 Python 开发。",
+          "language": "Python",
+          "stars": 7529,
+          "forks": 977,
+          "stars_today": 227,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3453,
+            "repo_age_days": 720,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 115,
+            "pr_count": 241,
+            "star_fork_ratio": 7.71
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-29T00:00:00.000Z"
+        },
+        {
+          "id": "jenkinsci/jenkins",
+          "name": "jenkins",
+          "owner": "jenkinsci",
+          "url": "https://github.com/jenkinsci/jenkins",
+          "description": "Jenkins automation server",
+          "ai_summary": "jenkins - Jenkins automation server 使用 Java 开发。",
+          "language": "Java",
+          "stars": 26175,
+          "forks": 9704,
+          "stars_today": 180,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 6216,
+            "repo_age_days": 5727,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 3598,
+            "pr_count": 12264,
+            "star_fork_ratio": 2.7
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-28T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "ai_summary": "skills - Skills for Real Engineers. Straight from my .agents directory. 使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 193741,
+          "forks": 16672,
+          "stars_today": 0,
+          "stars_this_week": 12794,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3375,
+            "repo_age_days": 175,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 245,
+            "pr_count": 107,
+            "star_fork_ratio": 11.62
+          },
+          "trending_days": 5,
+          "first_seen": "2026-07-25T00:00:00.000Z"
+        },
+        {
+          "id": "koala73/worldmonitor",
+          "name": "worldmonitor",
+          "owner": "koala73",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+          "ai_summary": "worldmonitor - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 76210,
+          "forks": 11392,
+          "stars_today": 0,
+          "stars_this_week": 12173,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5454,
+            "repo_age_days": 201,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 292,
+            "pr_count": 4544,
+            "star_fork_ratio": 6.69
+          },
+          "trending_days": 3,
+          "first_seen": "2026-07-27T00:00:00.000Z"
+        },
+        {
+          "id": "bojieli/ai-agent-book",
+          "name": "ai-agent-book",
+          "owner": "bojieli",
+          "url": "https://github.com/bojieli/ai-agent-book",
+          "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+          "ai_summary": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+          "language": "Python",
+          "stars": 25649,
+          "forks": 2657,
+          "stars_today": 0,
+          "stars_this_week": 10637,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5284,
+            "repo_age_days": 323,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 12,
+            "pr_count": 359,
+            "star_fork_ratio": 9.65
+          },
+          "trending_days": 3,
+          "first_seen": "2026-07-27T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 7,
+          "Skills": 6,
+          "Agent": 4,
+          "金融": 1,
+          "内容创作": 1
+        }
+      }
     }
   ]
 }

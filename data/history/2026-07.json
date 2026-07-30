@@ -9158,6 +9158,324 @@
           "内容创作": 1
         }
       }
+    },
+    {
+      "date": "2026-07-30",
+      "generated_at": "2026-07-30T09:18:36.350Z",
+      "projects": [
+        {
+          "id": "virgiliojr94/book-to-skill",
+          "name": "book-to-skill",
+          "owner": "virgiliojr94",
+          "url": "https://github.com/virgiliojr94/book-to-skill",
+          "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+          "ai_summary": "将技术书籍PDF转换为Claude Code技能，便于学习、参考和工作使用。基于Python实现，通过解析PDF内容生成结构化技能数据。",
+          "language": "Python",
+          "stars": 13327,
+          "forks": 1450,
+          "stars_today": 1421,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3537,
+            "repo_age_days": 90,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 18,
+            "pr_count": 73,
+            "star_fork_ratio": 9.19
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-29T00:00:00.000Z"
+        },
+        {
+          "id": "paperswithbacktest/awesome-systematic-trading",
+          "name": "awesome-systematic-trading",
+          "owner": "paperswithbacktest",
+          "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+          "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+          "ai_summary": "系统化交易领域的精选资源集合，包含策略、工具和教程。主要使用Python实现，涵盖量化交易全栈技术栈。",
+          "language": "Python",
+          "stars": 10631,
+          "forks": 1369,
+          "stars_today": 945,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "内容创作"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 945,
+            "repo_age_days": 1635,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 47,
+            "pr_count": 53,
+            "star_fork_ratio": 7.77
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-29T00:00:00.000Z"
+        },
+        {
+          "id": "affaan-m/ECC",
+          "name": "ECC",
+          "owner": "affaan-m",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "ai_summary": "面向AI代码助手的性能优化系统，提供技能、记忆和安全等功能。采用JavaScript实现，支持多平台AI开发工具链集成。",
+          "language": "JavaScript",
+          "stars": 235885,
+          "forks": 35896,
+          "stars_today": 857,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1271,
+            "repo_age_days": 193,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 100,
+            "pr_count": 1823,
+            "star_fork_ratio": 6.57
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-29T00:00:00.000Z"
+        },
+        {
+          "id": "huggingface/speech-to-speech",
+          "name": "speech-to-speech",
+          "owner": "huggingface",
+          "url": "https://github.com/huggingface/speech-to-speech",
+          "description": "Build local voice agents with open-source models",
+          "ai_summary": "该项目提供本地语音代理构建方案，基于开源模型实现语音到语音的转换。采用Python开发，支持自定义模型部署与实时语音处理。",
+          "language": "Python",
+          "stars": 8153,
+          "forks": 1023,
+          "stars_today": 827,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3454,
+            "repo_age_days": 721,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 121,
+            "pr_count": 248,
+            "star_fork_ratio": 7.97
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-29T00:00:00.000Z"
+        },
+        {
+          "id": "moeru-ai/airi",
+          "name": "airi",
+          "owner": "moeru-ai",
+          "url": "https://github.com/moeru-ai/airi",
+          "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+          "ai_summary": "这是一个自托管的虚拟伴侣平台，支持实时语音交互和游戏集成。基于TypeScript构建，跨平台兼容Web/macOS/Windows，采用模块化设计实现多场景扩展。",
+          "language": "TypeScript",
+          "stars": 45661,
+          "forks": 4508,
+          "stars_today": 682,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 851,
+            "repo_age_days": 605,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 193,
+            "pr_count": 1552,
+            "star_fork_ratio": 10.13
+          },
+          "trending_days": 3,
+          "first_seen": "2026-07-28T00:00:00.000Z"
+        },
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "该项目是面向智能体技能开发的框架与方法论，提供可落地的工程实践方案。通过Shell脚本实现高效技能编排，强调模块化与可组合性设计。",
+          "language": "Shell",
+          "stars": 263617,
+          "forks": 23536,
+          "stars_today": 616,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6410,
+            "repo_age_days": 293,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 301,
+            "pr_count": 1062,
+            "star_fork_ratio": 11.2
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-30T00:00:00.000Z"
+        },
+        {
+          "id": "alibaba/open-code-review",
+          "name": "open-code-review",
+          "owner": "alibaba",
+          "url": "https://github.com/alibaba/open-code-review",
+          "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+          "ai_summary": "这是一个开源的代码审查工具，专为大规模代码审查设计，支持确定性流水线与LLM代理的混合架构。它提供精确的行级评论，内置针对NPE、线程安全、XSS和SQL注入等问题的微调规则集，兼容OpenAI和Anthropic模型。",
+          "language": "Go",
+          "stars": 16311,
+          "forks": 1101,
+          "stars_today": 359,
+          "stars_this_week": 4875,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5131,
+            "repo_age_days": 73,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 62,
+            "pr_count": 360,
+            "star_fork_ratio": 14.81
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-30T00:00:00.000Z"
+        },
+        {
+          "id": "microsoft/VibeVoice",
+          "name": "VibeVoice",
+          "owner": "microsoft",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "description": "Open-Source Frontier Voice AI",
+          "ai_summary": "这是一个前沿的开源语音AI项目，专注于语音技术的创新与应用。项目使用Python开发，旨在探索和实现先进的语音处理与生成技术。",
+          "language": "Python",
+          "stars": 51537,
+          "forks": 5721,
+          "stars_today": 336,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 4614,
+            "repo_age_days": 338,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 180,
+            "pr_count": 159,
+            "star_fork_ratio": 9.01
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-30T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "ai_summary": "这是一个为实际工程师设计的技能集合，直接从作者的.agents目录中提取。项目使用Shell脚本实现，提供了一系列实用的工程技能和工具。",
+          "language": "Shell",
+          "stars": 195329,
+          "forks": 16819,
+          "stars_today": 0,
+          "stars_this_week": 12680,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3376,
+            "repo_age_days": 176,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 252,
+            "pr_count": 107,
+            "star_fork_ratio": 11.61
+          },
+          "trending_days": 6,
+          "first_seen": "2026-07-25T00:00:00.000Z"
+        },
+        {
+          "id": "diegosouzapw/OmniRoute",
+          "name": "OmniRoute",
+          "owner": "diegosouzapw",
+          "url": "https://github.com/diegosouzapw/OmniRoute",
+          "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+          "ai_summary": "OmniRoute 是一个免费的 MIT 许可 AI 网关，提供单一端点接入 290+ 提供商（90+ 免费）和 500+ 模型，支持 Kimi、Claude、GPT 等主流 AI 服务。采用 RTK 和 Caveman 压缩技术节省 15-95% token 开销，支持配额感知自动回退和 MCP/A2A 架构，由 500+ 贡献者共同开发。",
+          "language": "TypeScript",
+          "stars": 34485,
+          "forks": 4453,
+          "stars_today": 0,
+          "stars_this_week": 9420,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4414,
+            "repo_age_days": 166,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 353,
+            "pr_count": 5659,
+            "star_fork_ratio": 7.74
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-30T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 7,
+          "Skills": 6,
+          "金融": 1,
+          "内容创作": 1,
+          "Agent": 5
+        }
+      }
     }
   ]
 }

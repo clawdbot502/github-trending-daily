@@ -1,0 +1,322 @@
+{
+  "month": "2026-08",
+  "days": [
+    {
+      "date": "2026-08-01",
+      "generated_at": "2026-08-01T08:56:39.660Z",
+      "projects": [
+        {
+          "id": "microsoft/AI-For-Beginners",
+          "name": "AI-For-Beginners",
+          "owner": "microsoft",
+          "url": "https://github.com/microsoft/AI-For-Beginners",
+          "description": "12 Weeks, 24 Lessons, AI for All!",
+          "ai_summary": "AI-For-Beginners - 12 Weeks, 24 Lessons, AI for All! 使用 Jupyter Notebook 开发。",
+          "language": "Jupyter Notebook",
+          "stars": 55611,
+          "forks": 11187,
+          "stars_today": 1592,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4616,
+            "repo_age_days": 1976,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 12,
+            "pr_count": 465,
+            "star_fork_ratio": 4.97
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-31T00:00:00.000Z"
+        },
+        {
+          "id": "different-ai/openwork",
+          "name": "openwork",
+          "owner": "different-ai",
+          "url": "https://github.com/different-ai/openwork",
+          "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+          "ai_summary": "openwork - The open-source alternative to Claude Cowork (powered by opencode) 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 19726,
+          "forks": 2038,
+          "stars_today": 806,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1351,
+            "repo_age_days": 199,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 435,
+            "pr_count": 2925,
+            "star_fork_ratio": 9.68
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-31T00:00:00.000Z"
+        },
+        {
+          "id": "paperswithbacktest/awesome-systematic-trading",
+          "name": "awesome-systematic-trading",
+          "owner": "paperswithbacktest",
+          "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+          "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+          "ai_summary": "awesome-systematic-trading - A curated list of awesome libraries, packages, strategies, books, blogs, tutoria... 使用 Python 开发。",
+          "language": "Python",
+          "stars": 11931,
+          "forks": 1491,
+          "stars_today": 763,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "内容创作"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 947,
+            "repo_age_days": 1637,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 48,
+            "pr_count": 53,
+            "star_fork_ratio": 8
+          },
+          "trending_days": 4,
+          "first_seen": "2026-07-29T00:00:00.000Z"
+        },
+        {
+          "id": "mvanhorn/last30days-skill",
+          "name": "last30days-skill",
+          "owner": "mvanhorn",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+          "ai_summary": "last30days-skill - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark... 使用 Python 开发。",
+          "language": "Python",
+          "stars": 56427,
+          "forks": 4923,
+          "stars_today": 658,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5757,
+            "repo_age_days": 189,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 84,
+            "pr_count": 695,
+            "star_fork_ratio": 11.46
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-31T00:00:00.000Z"
+        },
+        {
+          "id": "zhaoxuya520/reverse-skill",
+          "name": "reverse-skill",
+          "owner": "zhaoxuya520",
+          "url": "https://github.com/zhaoxuya520/reverse-skill",
+          "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+          "ai_summary": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, …",
+          "language": "PowerShell",
+          "stars": 11177,
+          "forks": 1710,
+          "stars_today": 335,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 70,
+          "security_details": {
+            "author_age_days": 1029,
+            "repo_age_days": 79,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 9,
+            "pr_count": 19,
+            "star_fork_ratio": 6.54
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-01T00:00:00.000Z"
+        },
+        {
+          "id": "usekaneo/kaneo",
+          "name": "kaneo",
+          "owner": "usekaneo",
+          "url": "https://github.com/usekaneo/kaneo",
+          "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+          "ai_summary": "kaneo - 🎯 All you need. Nothing you don't. Open source project management that works fo... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 5322,
+          "forks": 461,
+          "stars_today": 194,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 585,
+            "repo_age_days": 578,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 73,
+            "pr_count": 1151,
+            "star_fork_ratio": 11.54
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-01T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "ai_summary": "skills - Skills for Real Engineers. Straight from my .agents directory. 使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 198223,
+          "forks": 17067,
+          "stars_today": 0,
+          "stars_this_week": 11622,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3377,
+            "repo_age_days": 178,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 261,
+            "pr_count": 107,
+            "star_fork_ratio": 11.61
+          },
+          "trending_days": 8,
+          "first_seen": "2026-07-25T00:00:00.000Z"
+        },
+        {
+          "id": "bojieli/ai-agent-book",
+          "name": "ai-agent-book",
+          "owner": "bojieli",
+          "url": "https://github.com/bojieli/ai-agent-book",
+          "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+          "ai_summary": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+          "language": "Python",
+          "stars": 28780,
+          "forks": 3039,
+          "stars_today": 0,
+          "stars_this_week": 9454,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 5287,
+            "repo_age_days": 326,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 6,
+            "pr_count": 440,
+            "star_fork_ratio": 9.47
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-01T00:00:00.000Z"
+        },
+        {
+          "id": "diegosouzapw/OmniRoute",
+          "name": "OmniRoute",
+          "owner": "diegosouzapw",
+          "url": "https://github.com/diegosouzapw/OmniRoute",
+          "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+          "ai_summary": "OmniRoute - Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free),... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 36428,
+          "forks": 4686,
+          "stars_today": 0,
+          "stars_this_week": 7701,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4416,
+            "repo_age_days": 168,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 481,
+            "pr_count": 5740,
+            "star_fork_ratio": 7.77
+          },
+          "trending_days": 3,
+          "first_seen": "2026-07-30T00:00:00.000Z"
+        },
+        {
+          "id": "ayghri/i-have-adhd",
+          "name": "i-have-adhd",
+          "owner": "ayghri",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+          "ai_summary": "i-have-adhd - A skill to stop your coding agent from burying the answer. ADHD-friendly output. 使用 Python 开发。",
+          "language": "Python",
+          "stars": 14913,
+          "forks": 814,
+          "stars_today": 0,
+          "stars_this_week": 5133,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3234,
+            "repo_age_days": 79,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 14,
+            "pr_count": 60,
+            "star_fork_ratio": 18.32
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-01T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 8,
+          "金融": 1,
+          "内容创作": 1,
+          "Skills": 5,
+          "Agent": 4
+        }
+      }
+    }
+  ]
+}

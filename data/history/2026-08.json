@@ -632,6 +632,321 @@
           "Agent": 4
         }
       }
+    },
+    {
+      "date": "2026-08-03",
+      "generated_at": "2026-08-03T10:26:56.846Z",
+      "projects": [
+        {
+          "id": "microsoft/AI-For-Beginners",
+          "name": "AI-For-Beginners",
+          "owner": "microsoft",
+          "url": "https://github.com/microsoft/AI-For-Beginners",
+          "description": "12 Weeks, 24 Lessons, AI for All!",
+          "ai_summary": "该项目是为初学者设计的12周AI学习课程，包含24节课程。采用Jupyter Notebook形式，系统性地覆盖AI基础知识与应用实践。",
+          "language": "Jupyter Notebook",
+          "stars": 60200,
+          "forks": 11787,
+          "stars_today": 2629,
+          "stars_this_week": 5601,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4618,
+            "repo_age_days": 1978,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 17,
+            "pr_count": 469,
+            "star_fork_ratio": 5.11
+          },
+          "trending_days": 4,
+          "first_seen": "2026-07-31T00:00:00.000Z"
+        },
+        {
+          "id": "zhaoxuya520/reverse-skill",
+          "name": "reverse-skill",
+          "owner": "zhaoxuya520",
+          "url": "https://github.com/zhaoxuya520/reverse-skill",
+          "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+          "ai_summary": "这是一个集成逆向工程与渗透测试工具链的安全研究平台。通过PowerShell实现AI驱动的工具路由和自动化知识库更新，支持主流AI编程客户端。",
+          "language": "PowerShell",
+          "stars": 14761,
+          "forks": 2175,
+          "stars_today": 1141,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1031,
+            "repo_age_days": 81,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 14,
+            "pr_count": 26,
+            "star_fork_ratio": 6.79
+          },
+          "trending_days": 3,
+          "first_seen": "2026-08-01T00:00:00.000Z"
+        },
+        {
+          "id": "lyogavin/airllm",
+          "name": "airllm",
+          "owner": "lyogavin",
+          "url": "https://github.com/lyogavin/airllm",
+          "description": "AirLLM 70B inference with single 4GB GPU",
+          "ai_summary": "实现在单块4GB GPU上运行70B参数大模型推理。基于Jupyter Notebook展示显存优化技术和模型压缩方案。",
+          "language": "Jupyter Notebook",
+          "stars": 26180,
+          "forks": 2911,
+          "stars_today": 819,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5411,
+            "repo_age_days": 1147,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 119,
+            "pr_count": 47,
+            "star_fork_ratio": 8.99
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-03T00:00:00.000Z"
+        },
+        {
+          "id": "Panniantong/Agent-Reach",
+          "name": "Agent-Reach",
+          "owner": "Panniantong",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+          "ai_summary": "为AI代理提供互联网内容访问能力，支持Twitter、Reddit、YouTube等多平台数据抓取。通过CLI工具实现零API费用访问，采用Python编写。",
+          "language": "Python",
+          "stars": 65249,
+          "forks": 5399,
+          "stars_today": 659,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2098,
+            "repo_age_days": 160,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 187,
+            "pr_count": 363,
+            "star_fork_ratio": 12.09
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-03T00:00:00.000Z"
+        },
+        {
+          "id": "TencentCloud/TencentDB-Agent-Memory",
+          "name": "TencentDB-Agent-Memory",
+          "owner": "TencentCloud",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+          "ai_summary": "构建团队级AI代理记忆中心，将对话、文档和代码转化为可复用记忆资产。基于TypeScript实现，支持Chat Memory等四种记忆类型跨框架共享。",
+          "language": "TypeScript",
+          "stars": 11595,
+          "forks": 1097,
+          "stars_today": 602,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3693,
+            "repo_age_days": 118,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 426,
+            "pr_count": 524,
+            "star_fork_ratio": 10.57
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-02T00:00:00.000Z"
+        },
+        {
+          "id": "microsoft/generative-ai-for-beginners",
+          "name": "generative-ai-for-beginners",
+          "owner": "microsoft",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI",
+          "ai_summary": "提供21节生成式AI入门教程，帮助开发者快速掌握基础应用开发。采用Jupyter Notebook形式呈现实践案例。",
+          "language": "Jupyter Notebook",
+          "stars": 115177,
+          "forks": 61373,
+          "stars_today": 588,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4618,
+            "repo_age_days": 1140,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 13,
+            "pr_count": 865,
+            "star_fork_ratio": 1.88
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-02T00:00:00.000Z"
+        },
+        {
+          "id": "usekaneo/kaneo",
+          "name": "kaneo",
+          "owner": "usekaneo",
+          "url": "https://github.com/usekaneo/kaneo",
+          "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+          "ai_summary": "Kaneo 是一个开源项目管理工具，旨在提供简洁高效的项目管理体验。采用 TypeScript 开发，注重功能精简与用户体验优化。",
+          "language": "TypeScript",
+          "stars": 6502,
+          "forks": 533,
+          "stars_today": 496,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 587,
+            "repo_age_days": 580,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 89,
+            "pr_count": 1163,
+            "star_fork_ratio": 12.2
+          },
+          "trending_days": 3,
+          "first_seen": "2026-08-01T00:00:00.000Z"
+        },
+        {
+          "id": "esengine/DeepSeek-Reasonix",
+          "name": "DeepSeek-Reasonix",
+          "owner": "esengine",
+          "url": "https://github.com/esengine/DeepSeek-Reasonix",
+          "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+          "ai_summary": "DeepSeek-Reasonix 是一个终端 AI 编程助手，基于 DeepSeek 技术构建。使用 Go 语言开发，通过前缀缓存机制提升稳定性，适合长时间运行。",
+          "language": "Go",
+          "stars": 29531,
+          "forks": 1902,
+          "stars_today": 333,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3762,
+            "repo_age_days": 104,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1384,
+            "pr_count": 3806,
+            "star_fork_ratio": 15.53
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-03T00:00:00.000Z"
+        },
+        {
+          "id": "different-ai/openwork",
+          "name": "openwork",
+          "owner": "different-ai",
+          "url": "https://github.com/different-ai/openwork",
+          "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+          "ai_summary": "OpenWork 是 Claude Cowork 的开源替代方案，提供协作编程功能。基于 opencode 技术栈，采用 TypeScript 实现模块化设计。",
+          "language": "TypeScript",
+          "stars": 20624,
+          "forks": 2103,
+          "stars_today": 280,
+          "stars_this_week": 2925,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1353,
+            "repo_age_days": 201,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 441,
+            "pr_count": 2961,
+            "star_fork_ratio": 9.81
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-03T00:00:00.000Z"
+        },
+        {
+          "id": "mvanhorn/last30days-skill",
+          "name": "last30days-skill",
+          "owner": "mvanhorn",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+          "ai_summary": "这是一个AI代理技能项目，能够研究Reddit、X、YouTube、HN、Polymarket和网络上的任何主题，并生成基于事实的总结。该项目使用Python编写，通过集成多个平台的API实现数据抓取，并利用自然语言处理技术进行信息合成。",
+          "language": "Python",
+          "stars": 57087,
+          "forks": 4993,
+          "stars_today": 206,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5759,
+            "repo_age_days": 191,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 95,
+            "pr_count": 705,
+            "star_fork_ratio": 11.43
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-03T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 10,
+          "Skills": 5,
+          "Agent": 4
+        }
+      }
     }
   ]
 }

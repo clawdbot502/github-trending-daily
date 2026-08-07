@@ -1896,6 +1896,326 @@
           "Agent": 7
         }
       }
+    },
+    {
+      "date": "2026-08-07",
+      "generated_at": "2026-08-07T08:00:02.725Z",
+      "projects": [
+        {
+          "id": "cloudflare/computer",
+          "name": "computer",
+          "owner": "cloudflare",
+          "url": "https://github.com/cloudflare/computer",
+          "description": "Give your agent a computer 👾",
+          "ai_summary": "为AI代理提供计算机环境，支持其执行代码和任务。基于TypeScript实现，提供安全的沙盒执行能力。",
+          "language": "TypeScript",
+          "stars": 5074,
+          "forks": 256,
+          "stars_today": 2802,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5887,
+            "repo_age_days": 62,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 22,
+            "pr_count": 45,
+            "star_fork_ratio": 19.82
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-06T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "ai_summary": "提供工程师实用技能集合，可直接应用于实际开发场景。通过Shell脚本实现，强调实用性和即插即用。",
+          "language": "Shell",
+          "stars": 207764,
+          "forks": 17941,
+          "stars_today": 1873,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3383,
+            "repo_age_days": 184,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 298,
+            "pr_count": 133,
+            "star_fork_ratio": 11.58
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-07T00:00:00.000Z"
+        },
+        {
+          "id": "TencentCloud/TencentDB-Agent-Memory",
+          "name": "TencentDB-Agent-Memory",
+          "owner": "TencentCloud",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+          "ai_summary": "构建团队级AI代理记忆中心，将对话、文档和代码转化为可复用记忆资产。采用TypeScript开发，支持四种标准化记忆类型的管理与共享。",
+          "language": "TypeScript",
+          "stars": 16911,
+          "forks": 1518,
+          "stars_today": 1057,
+          "stars_this_week": 6444,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3697,
+            "repo_age_days": 122,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 538,
+            "pr_count": 621,
+            "star_fork_ratio": 11.14
+          },
+          "trending_days": 6,
+          "first_seen": "2026-08-02T00:00:00.000Z"
+        },
+        {
+          "id": "esengine/DeepSeek-Reasonix",
+          "name": "DeepSeek-Reasonix",
+          "owner": "esengine",
+          "url": "https://github.com/esengine/DeepSeek-Reasonix",
+          "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+          "ai_summary": "DeepSeek-Reasonix 是一个终端 AI 编程助手，专注于提供稳定的编码辅助。采用前缀缓存技术确保长时间运行的稳定性，支持持续工作无需频繁重启。",
+          "language": "Go",
+          "stars": 32683,
+          "forks": 2107,
+          "stars_today": 888,
+          "stars_this_week": 4203,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3766,
+            "repo_age_days": 107,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 915,
+            "pr_count": 4095,
+            "star_fork_ratio": 15.51
+          },
+          "trending_days": 5,
+          "first_seen": "2026-08-03T00:00:00.000Z"
+        },
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "superpowers 是一个面向代理技能的框架和软件开发方法论，旨在提升开发效率。基于 Shell 实现，强调实用性和方法论的可操作性。",
+          "language": "Shell",
+          "stars": 268336,
+          "forks": 23974,
+          "stars_today": 858,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6418,
+            "repo_age_days": 301,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 321,
+            "pr_count": 1091,
+            "star_fork_ratio": 11.19
+          },
+          "trending_days": 3,
+          "first_seen": "2026-08-05T00:00:00.000Z"
+        },
+        {
+          "id": "huangruiteng/loopx",
+          "name": "loopx",
+          "owner": "huangruiteng",
+          "url": "https://github.com/huangruiteng/loopx",
+          "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+          "ai_summary": "loopx 是一个轻量级循环工程状态内核，用于管理长期运行的 AI 代理团队。支持多代理（如 Codex、Claude Code）的循环无关操作，具备持久目标、配额感知唤醒和可验证交接功能。",
+          "language": "Python",
+          "stars": 3121,
+          "forks": 233,
+          "stars_today": 847,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3958,
+            "repo_age_days": 67,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 32,
+            "pr_count": 2802,
+            "star_fork_ratio": 13.39
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-06T00:00:00.000Z"
+        },
+        {
+          "id": "addyosmani/agent-skills",
+          "name": "agent-skills",
+          "owner": "addyosmani",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "ai_summary": "为AI编码代理提供生产级工程技能。基于JavaScript实现，聚焦于提升AI代理的代码质量和工程实践能力。",
+          "language": "JavaScript",
+          "stars": 83246,
+          "forks": 8915,
+          "stars_today": 593,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 6214,
+            "repo_age_days": 172,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 101,
+            "pr_count": 323,
+            "star_fork_ratio": 9.34
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-06T00:00:00.000Z"
+        },
+        {
+          "id": "tirth8205/code-review-graph",
+          "name": "code-review-graph",
+          "owner": "tirth8205",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+          "ai_summary": "构建本地优先的代码智能图谱，优化AI工具在大型仓库中的上下文读取效率。采用Python实现，通过持久化代码地图显著减少评审和工作流中的冗余上下文。",
+          "language": "Python",
+          "stars": 29202,
+          "forks": 2689,
+          "stars_today": 237,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2207,
+            "repo_age_days": 161,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 73,
+            "pr_count": 499,
+            "star_fork_ratio": 10.86
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-07T00:00:00.000Z"
+        },
+        {
+          "id": "zhaoxuya520/reverse-skill",
+          "name": "reverse-skill",
+          "owner": "zhaoxuya520",
+          "url": "https://github.com/zhaoxuya520/reverse-skill",
+          "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+          "ai_summary": "集成逆向工程与渗透测试的智能路由工具包，支持主流AI编码客户端。基于PowerShell实现，提供动态工具链自举和自动化知识库演进能力。",
+          "language": "PowerShell",
+          "stars": 20137,
+          "forks": 2760,
+          "stars_today": 0,
+          "stars_this_week": 10091,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1035,
+            "repo_age_days": 85,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 15,
+            "pr_count": 31,
+            "star_fork_ratio": 7.3
+          },
+          "trending_days": 7,
+          "first_seen": "2026-08-01T00:00:00.000Z"
+        },
+        {
+          "id": "microsoft/AI-For-Beginners",
+          "name": "AI-For-Beginners",
+          "owner": "microsoft",
+          "url": "https://github.com/microsoft/AI-For-Beginners",
+          "description": "12 Weeks, 24 Lessons, AI for All!",
+          "ai_summary": "该项目为初学者提供为期12周的AI入门课程，包含24节课程，涵盖人工智能基础知识和实践应用。课程采用Jupyter Notebook形式，结合理论与实践，适合零基础学习者快速上手AI技术。",
+          "language": "Jupyter Notebook",
+          "stars": 62892,
+          "forks": 12207,
+          "stars_today": 0,
+          "stars_this_week": 9164,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4622,
+            "repo_age_days": 1982,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 24,
+            "pr_count": 473,
+            "star_fork_ratio": 5.15
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-07T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "Skills": 9,
+          "Agent": 7,
+          "AI": 8
+        }
+      }
     }
   ]
 }

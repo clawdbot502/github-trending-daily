@@ -2216,6 +2216,321 @@
           "AI": 8
         }
       }
+    },
+    {
+      "date": "2026-08-08",
+      "generated_at": "2026-08-08T07:35:41.730Z",
+      "projects": [
+        {
+          "id": "PrimeIntellect-ai/prime-agent",
+          "name": "prime-agent",
+          "owner": "PrimeIntellect-ai",
+          "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+          "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+          "ai_summary": "一个用于编码工作流和长期自主任务的自我改进强化学习代理。采用TypeScript实现，具备自主学习和任务持续优化能力。",
+          "language": "TypeScript",
+          "stars": 7134,
+          "forks": 586,
+          "stars_today": 2293,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1026,
+            "repo_age_days": 92,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 266,
+            "pr_count": 790,
+            "star_fork_ratio": 12.17
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-08T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "ai_summary": "提供工程师实用技能集的Shell脚本工具包。直接从开发者个人代理目录提取，强调实战场景下的高效技能组合。",
+          "language": "Shell",
+          "stars": 209172,
+          "forks": 18070,
+          "stars_today": 2152,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3384,
+            "repo_age_days": 185,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 307,
+            "pr_count": 134,
+            "star_fork_ratio": 11.58
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-07T00:00:00.000Z"
+        },
+        {
+          "id": "addyosmani/agent-skills",
+          "name": "agent-skills",
+          "owner": "addyosmani",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "ai_summary": "为AI编码代理设计的生产级工程技能库。基于JavaScript实现，包含经过工业验证的代码生成与问题解决能力。",
+          "language": "JavaScript",
+          "stars": 84079,
+          "forks": 8979,
+          "stars_today": 1131,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 6215,
+            "repo_age_days": 173,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 104,
+            "pr_count": 327,
+            "star_fork_ratio": 9.36
+          },
+          "trending_days": 3,
+          "first_seen": "2026-08-06T00:00:00.000Z"
+        },
+        {
+          "id": "cloudflare/computer",
+          "name": "computer",
+          "owner": "cloudflare",
+          "url": "https://github.com/cloudflare/computer",
+          "description": "Give your agent a computer 👾",
+          "ai_summary": "为智能代理提供计算机环境，支持其执行代码和任务。基于 TypeScript 实现，提供安全的沙箱执行能力。",
+          "language": "TypeScript",
+          "stars": 6035,
+          "forks": 301,
+          "stars_today": 872,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5888,
+            "repo_age_days": 63,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 22,
+            "pr_count": 57,
+            "star_fork_ratio": 20.05
+          },
+          "trending_days": 3,
+          "first_seen": "2026-08-06T00:00:00.000Z"
+        },
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "构建智能代理技能框架的软件开发方法论。通过 Shell 脚本实现模块化技能组合与任务编排。",
+          "language": "Shell",
+          "stars": 268911,
+          "forks": 24014,
+          "stars_today": 782,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6419,
+            "repo_age_days": 302,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 323,
+            "pr_count": 1097,
+            "star_fork_ratio": 11.2
+          },
+          "trending_days": 4,
+          "first_seen": "2026-08-05T00:00:00.000Z"
+        },
+        {
+          "id": "Significant-Gravitas/AutoGPT",
+          "name": "AutoGPT",
+          "owner": "Significant-Gravitas",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+          "ai_summary": "致力于降低 AI 使用和开发门槛的自动化工具集。采用 Python 实现，提供可扩展的 AI 基础能力组件。",
+          "language": "Python",
+          "stars": 186387,
+          "forks": 46064,
+          "stars_today": 355,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1212,
+            "repo_age_days": 1240,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 502,
+            "pr_count": 8531,
+            "star_fork_ratio": 4.05
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-08T00:00:00.000Z"
+        },
+        {
+          "id": "google/skills",
+          "name": "skills",
+          "owner": "google",
+          "url": "https://github.com/google/skills",
+          "description": "Agent Skills for Google products and technologies",
+          "ai_summary": "提供针对 Google 产品和技术优化的智能代理技能库。基于 Python 实现，封装了与 Google 生态深度集成的 API 调用和自动化流程。",
+          "language": "Python",
+          "stars": 16381,
+          "forks": 1296,
+          "stars_today": 327,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5316,
+            "repo_age_days": 129,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 32,
+            "pr_count": 175,
+            "star_fork_ratio": 12.64
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-08T00:00:00.000Z"
+        },
+        {
+          "id": "pranshuparmar/witr",
+          "name": "witr",
+          "owner": "pranshuparmar",
+          "url": "https://github.com/pranshuparmar/witr",
+          "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+          "ai_summary": "系统级进程溯源工具，可追踪进程、端口、容器或文件的启动来源。采用 Go 语言开发，提供 CLI 和 TUI 双界面，通过内核级监控实现精准溯源。",
+          "language": "Go",
+          "stars": 19917,
+          "forks": 648,
+          "stars_today": 234,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4852,
+            "repo_age_days": 230,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 6,
+            "pr_count": 125,
+            "star_fork_ratio": 30.74
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-08T00:00:00.000Z"
+        },
+        {
+          "id": "semantica-agi/semantica",
+          "name": "semantica",
+          "owner": "semantica-agi",
+          "url": "https://github.com/semantica-agi/semantica",
+          "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+          "ai_summary": "面向上下文感知 AI 系统的图原生基础设施，支持知识图谱的构建与推理。基于 Python 实现图计算引擎，提供可解释的语义网络建模能力。",
+          "language": "Python",
+          "stars": 2429,
+          "forks": 313,
+          "stars_today": 122,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 435,
+            "repo_age_days": 408,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 15,
+            "pr_count": 643,
+            "star_fork_ratio": 7.76
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-08T00:00:00.000Z"
+        },
+        {
+          "id": "zhaoxuya520/reverse-skill",
+          "name": "reverse-skill",
+          "owner": "zhaoxuya520",
+          "url": "https://github.com/zhaoxuya520/reverse-skill",
+          "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+          "ai_summary": "该项目是一个专注于逆向工程、授权渗透测试和安全研究的技能路由工具包。它采用AI自动路由技术，结合按需自举工具链和自我进化知识库，支持多种AI编码客户端如Claude Code、Kiro等。",
+          "language": "PowerShell",
+          "stars": 20716,
+          "forks": 2856,
+          "stars_today": 0,
+          "stars_this_week": 10400,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1036,
+            "repo_age_days": 86,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 17,
+            "pr_count": 32,
+            "star_fork_ratio": 7.25
+          },
+          "trending_days": 8,
+          "first_seen": "2026-08-01T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "Skills": 7,
+          "Agent": 6,
+          "AI": 6
+        }
+      }
     }
   ]
 }

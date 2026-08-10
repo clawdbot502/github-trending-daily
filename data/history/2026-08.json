@@ -2851,6 +2851,323 @@
           "金融": 1
         }
       }
+    },
+    {
+      "date": "2026-08-10",
+      "generated_at": "2026-08-10T08:16:48.616Z",
+      "projects": [
+        {
+          "id": "PrimeIntellect-ai/prime-agent",
+          "name": "prime-agent",
+          "owner": "PrimeIntellect-ai",
+          "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+          "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+          "ai_summary": "这是一个自我改进的强化学习代理，用于优化编码工作流和长期自主任务。采用TypeScript实现，具备动态学习和任务持续优化能力。",
+          "language": "TypeScript",
+          "stars": 12104,
+          "forks": 1219,
+          "stars_today": 2356,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1028,
+            "repo_age_days": 94,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 464,
+            "pr_count": 917,
+            "star_fork_ratio": 9.93
+          },
+          "trending_days": 3,
+          "first_seen": "2026-08-08T00:00:00.000Z"
+        },
+        {
+          "id": "msitarzewski/agency-agents",
+          "name": "agency-agents",
+          "owner": "msitarzewski",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+          "ai_summary": "提供全套AI代理解决方案，覆盖从前端开发到社区管理的多样化需求。基于Shell脚本构建，每个代理均为具备专业流程和个性特征的独立模块。",
+          "language": "Shell",
+          "stars": 141194,
+          "forks": 23036,
+          "stars_today": 858,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5140,
+            "repo_age_days": 300,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 110,
+            "pr_count": 506,
+            "star_fork_ratio": 6.13
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-10T00:00:00.000Z"
+        },
+        {
+          "id": "addyosmani/agent-skills",
+          "name": "agent-skills",
+          "owner": "addyosmani",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "ai_summary": "为AI编程代理提供生产级工程技能库。通过JavaScript实现标准化代码生成与质量管控能力。",
+          "language": "JavaScript",
+          "stars": 85372,
+          "forks": 9185,
+          "stars_today": 680,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 6217,
+            "repo_age_days": 175,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 106,
+            "pr_count": 335,
+            "star_fork_ratio": 9.29
+          },
+          "trending_days": 5,
+          "first_seen": "2026-08-06T00:00:00.000Z"
+        },
+        {
+          "id": "google/skills",
+          "name": "skills",
+          "owner": "google",
+          "url": "https://github.com/google/skills",
+          "description": "Agent Skills for Google products and technologies",
+          "ai_summary": "提供针对 Google 产品和技术的代理技能支持。基于 Python 实现，专注于扩展和优化 Google 生态系统的交互能力。",
+          "language": "Python",
+          "stars": 17422,
+          "forks": 1401,
+          "stars_today": 528,
+          "stars_this_week": 1626,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5318,
+            "repo_age_days": 131,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 34,
+            "pr_count": 175,
+            "star_fork_ratio": 12.44
+          },
+          "trending_days": 3,
+          "first_seen": "2026-08-08T00:00:00.000Z"
+        },
+        {
+          "id": "ZhuLinsen/daily_stock_analysis",
+          "name": "daily_stock_analysis",
+          "owner": "ZhuLinsen",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+          "ai_summary": "LLM 驱动的多市场股票分析系统，整合多源行情与实时新闻，提供决策看板和自动推送功能。采用 Python 实现，支持零成本定时运行，结合大语言模型进行智能分析。",
+          "language": "Python",
+          "stars": 61540,
+          "forks": 52114,
+          "stars_today": 306,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 2902,
+            "repo_age_days": 212,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 42,
+            "pr_count": 1332,
+            "star_fork_ratio": 1.18
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-10T00:00:00.000Z"
+        },
+        {
+          "id": "pranshuparmar/witr",
+          "name": "witr",
+          "owner": "pranshuparmar",
+          "url": "https://github.com/pranshuparmar/witr",
+          "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+          "ai_summary": "追踪进程、端口、容器或文件的来源，帮助用户快速定位问题。使用 Go 语言开发，提供 CLI 和 TUI 两种交互界面，实现高效的系统诊断。",
+          "language": "Go",
+          "stars": 21026,
+          "forks": 736,
+          "stars_today": 210,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4854,
+            "repo_age_days": 232,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 9,
+            "pr_count": 127,
+            "star_fork_ratio": 28.57
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-10T00:00:00.000Z"
+        },
+        {
+          "id": "zhaoxuya520/reverse-skill",
+          "name": "reverse-skill",
+          "owner": "zhaoxuya520",
+          "url": "https://github.com/zhaoxuya520/reverse-skill",
+          "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+          "ai_summary": "该项目是一个逆向工程与渗透测试技能路由包，支持AI自动路由和按需工具链自举。采用PowerShell实现，整合了多种AI编码客户端，并具备自动进化知识库功能。",
+          "language": "PowerShell",
+          "stars": 22918,
+          "forks": 3113,
+          "stars_today": 0,
+          "stars_this_week": 9784,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1038,
+            "repo_age_days": 88,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 11,
+            "pr_count": 32,
+            "star_fork_ratio": 7.36
+          },
+          "trending_days": 10,
+          "first_seen": "2026-08-01T00:00:00.000Z"
+        },
+        {
+          "id": "TencentCloud/TencentDB-Agent-Memory",
+          "name": "TencentDB-Agent-Memory",
+          "owner": "TencentCloud",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+          "ai_summary": "该项目是腾讯云开发的AI Agent团队级记忆中枢，可将对话、文档和代码转化为四种可复用记忆资产。基于TypeScript实现，支持跨Agent和框架的治理、共享和装备。",
+          "language": "TypeScript",
+          "stars": 19058,
+          "forks": 1722,
+          "stars_today": 0,
+          "stars_this_week": 8003,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3700,
+            "repo_age_days": 125,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 595,
+            "pr_count": 666,
+            "star_fork_ratio": 11.07
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-09T00:00:00.000Z"
+        },
+        {
+          "id": "microsoft/AI-For-Beginners",
+          "name": "AI-For-Beginners",
+          "owner": "microsoft",
+          "url": "https://github.com/microsoft/AI-For-Beginners",
+          "description": "12 Weeks, 24 Lessons, AI for All!",
+          "ai_summary": "该项目是微软推出的12周AI入门课程，包含24节课程。采用Jupyter Notebook形式，系统性地介绍人工智能基础知识。",
+          "language": "Jupyter Notebook",
+          "stars": 64230,
+          "forks": 12422,
+          "stars_today": 0,
+          "stars_this_week": 5514,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4625,
+            "repo_age_days": 1985,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 27,
+            "pr_count": 475,
+            "star_fork_ratio": 5.17
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-09T00:00:00.000Z"
+        },
+        {
+          "id": "lyogavin/airllm",
+          "name": "airllm",
+          "owner": "lyogavin",
+          "url": "https://github.com/lyogavin/airllm",
+          "description": "AirLLM 70B inference with single 4GB GPU",
+          "ai_summary": "AirLLM 是一个能在单张 4GB GPU 上运行 700 亿参数大模型推理的项目。它通过创新的内存优化和计算卸载技术，实现了在低显存设备上的高效推理。",
+          "language": "Jupyter Notebook",
+          "stars": 30448,
+          "forks": 3245,
+          "stars_today": 0,
+          "stars_this_week": 5129,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5418,
+            "repo_age_days": 1154,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 135,
+            "pr_count": 56,
+            "star_fork_ratio": 9.38
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-09T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "Skills": 6,
+          "Agent": 5,
+          "AI": 8,
+          "金融": 1
+        }
+      }
     }
   ]
 }

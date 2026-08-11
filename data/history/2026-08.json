@@ -3168,6 +3168,322 @@
           "金融": 1
         }
       }
+    },
+    {
+      "date": "2026-08-11",
+      "generated_at": "2026-08-11T07:56:25.726Z",
+      "projects": [
+        {
+          "id": "PrimeIntellect-ai/prime-agent",
+          "name": "prime-agent",
+          "owner": "PrimeIntellect-ai",
+          "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+          "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+          "ai_summary": "一个用于编码工作流和长期自主任务的自我改进强化学习代理。采用TypeScript实现，专注于通过强化学习机制持续优化任务执行策略。",
+          "language": "TypeScript",
+          "stars": 13438,
+          "forks": 1373,
+          "stars_today": 2642,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1029,
+            "repo_age_days": 95,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 502,
+            "pr_count": 977,
+            "star_fork_ratio": 9.79
+          },
+          "trending_days": 4,
+          "first_seen": "2026-08-08T00:00:00.000Z"
+        },
+        {
+          "id": "msitarzewski/agency-agents",
+          "name": "agency-agents",
+          "owner": "msitarzewski",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+          "ai_summary": "提供完整AI代理集合，涵盖从前端开发到社区管理的多种专业角色。基于Shell脚本实现，每个代理具备特定人格化处理流程和交付能力。",
+          "language": "Shell",
+          "stars": 142097,
+          "forks": 23165,
+          "stars_today": 1349,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5141,
+            "repo_age_days": 301,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 113,
+            "pr_count": 508,
+            "star_fork_ratio": 6.13
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-10T00:00:00.000Z"
+        },
+        {
+          "id": "semantica-agi/semantica",
+          "name": "semantica",
+          "owner": "semantica-agi",
+          "url": "https://github.com/semantica-agi/semantica",
+          "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+          "ai_summary": "面向上下文感知和可追溯AI系统的图原生基础设施。使用Python构建，通过图结构实现多维度关系建模与系统行为审计。",
+          "language": "Python",
+          "stars": 4429,
+          "forks": 495,
+          "stars_today": 970,
+          "stars_this_week": 2009,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 438,
+            "repo_age_days": 411,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 56,
+            "pr_count": 675,
+            "star_fork_ratio": 8.95
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-11T00:00:00.000Z"
+        },
+        {
+          "id": "vitali87/code-graph-rag",
+          "name": "code-graph-rag",
+          "owner": "vitali87",
+          "url": "https://github.com/vitali87/code-graph-rag",
+          "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+          "ai_summary": "该项目是一个基于知识图谱和AI的代码检索与理解工具，专为多语言单体仓库设计。它利用知识图谱技术构建代码关系网络，结合RAG（检索增强生成）实现精准的代码查询与编辑。",
+          "language": "Python",
+          "stars": 3634,
+          "forks": 553,
+          "stars_today": 682,
+          "stars_this_week": 920,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3608,
+            "repo_age_days": 420,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 45,
+            "pr_count": 717,
+            "star_fork_ratio": 6.57
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-11T00:00:00.000Z"
+        },
+        {
+          "id": "addyosmani/agent-skills",
+          "name": "agent-skills",
+          "owner": "addyosmani",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "ai_summary": "该项目为AI编程代理提供生产级工程技能支持。通过JavaScript实现了一系列标准化、可复用的AI代理核心能力模块。",
+          "language": "JavaScript",
+          "stars": 85938,
+          "forks": 9247,
+          "stars_today": 659,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 6218,
+            "repo_age_days": 176,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 107,
+            "pr_count": 336,
+            "star_fork_ratio": 9.29
+          },
+          "trending_days": 6,
+          "first_seen": "2026-08-06T00:00:00.000Z"
+        },
+        {
+          "id": "danielmiessler/LifeOS",
+          "name": "LifeOS",
+          "owner": "danielmiessler",
+          "url": "https://github.com/danielmiessler/LifeOS",
+          "description": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
+          "ai_summary": "这是一个通用型爬山算法AI框架，用于辅助个人生活与工作的状态优化。采用TypeScript实现，通过目标导向的渐进式优化策略实现状态跃迁。",
+          "language": "TypeScript",
+          "stars": 18123,
+          "forks": 2375,
+          "stars_today": 315,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 6401,
+            "repo_age_days": 336,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 45,
+            "pr_count": 699,
+            "star_fork_ratio": 7.63
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-11T00:00:00.000Z"
+        },
+        {
+          "id": "paperclipai/paperclip",
+          "name": "paperclip",
+          "owner": "paperclipai",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "ai_summary": "Paperclip是一个开源应用，用于管理工作中的智能体代理。采用TypeScript开发，提供高效的代理管理界面和协作功能。",
+          "language": "TypeScript",
+          "stars": 76779,
+          "forks": 14222,
+          "stars_today": 198,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 70,
+          "security_details": {
+            "author_age_days": 164,
+            "repo_age_days": 161,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 5093,
+            "pr_count": 8230,
+            "star_fork_ratio": 5.4
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-11T00:00:00.000Z"
+        },
+        {
+          "id": "TauricResearch/TradingAgents",
+          "name": "TradingAgents",
+          "owner": "TauricResearch",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "ai_summary": "TradingAgents是基于多智能体LLM的金融交易框架，支持自动化交易策略。使用Python实现，整合大语言模型与量化交易算法。",
+          "language": "Python",
+          "stars": 97425,
+          "forks": 18750,
+          "stars_today": 177,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "AI",
+            "Skills"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 592,
+            "repo_age_days": 591,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 354,
+            "pr_count": 739,
+            "star_fork_ratio": 5.2
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-11T00:00:00.000Z"
+        },
+        {
+          "id": "opa334/Dopamine",
+          "name": "Dopamine",
+          "owner": "opa334",
+          "url": "https://github.com/opa334/Dopamine",
+          "description": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
+          "ai_summary": "Dopamine是针对iOS 15至26.0.1的半越狱工具。采用C语言开发，实现无需电脑的持久化越狱环境。",
+          "language": "C",
+          "stars": 6120,
+          "forks": 6202,
+          "stars_today": 111,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3782,
+            "repo_age_days": 1287,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 84,
+            "pr_count": 170,
+            "star_fork_ratio": 0.99
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-11T00:00:00.000Z"
+        },
+        {
+          "id": "zhaoxuya520/reverse-skill",
+          "name": "reverse-skill",
+          "owner": "zhaoxuya520",
+          "url": "https://github.com/zhaoxuya520/reverse-skill",
+          "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+          "ai_summary": "该项目是一个专注于逆向工程、授权渗透测试和安全研究的技能路由工具包，提供AI驱动的自动化工作流支持。采用PowerShell实现动态工具链按需加载，并集成多款AI编程客户端实现知识库的持续自进化。",
+          "language": "PowerShell",
+          "stars": 23568,
+          "forks": 3201,
+          "stars_today": 0,
+          "stars_this_week": 8182,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1039,
+            "repo_age_days": 89,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 13,
+            "pr_count": 34,
+            "star_fork_ratio": 7.36
+          },
+          "trending_days": 11,
+          "first_seen": "2026-08-01T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "Skills": 6,
+          "Agent": 4,
+          "AI": 8,
+          "金融": 1
+        }
+      }
     }
   ]
 }

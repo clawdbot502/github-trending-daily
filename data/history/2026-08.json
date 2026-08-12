@@ -3484,6 +3484,323 @@
           "金融": 1
         }
       }
+    },
+    {
+      "date": "2026-08-12",
+      "generated_at": "2026-08-12T08:04:09.052Z",
+      "projects": [
+        {
+          "id": "cathrynlavery/diagram-design",
+          "name": "diagram-design",
+          "owner": "cathrynlavery",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+          "ai_summary": "提供29种编辑图表类型，用于Claude Code，采用自包含的HTML+SVG实现。特点是无需阴影、不使用Mermaid，保持简洁高效。",
+          "language": "HTML",
+          "stars": 7587,
+          "forks": 504,
+          "stars_today": 1616,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2651,
+            "repo_age_days": 117,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 5,
+            "pr_count": 24,
+            "star_fork_ratio": 15.05
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-12T00:00:00.000Z"
+        },
+        {
+          "id": "PrimeIntellect-ai/prime-agent",
+          "name": "prime-agent",
+          "owner": "PrimeIntellect-ai",
+          "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+          "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+          "ai_summary": "一个自我改进的强化学习代理，专注于编码工作流和长期自主任务。基于TypeScript实现，具备自适应和持续优化的能力。",
+          "language": "TypeScript",
+          "stars": 14475,
+          "forks": 1500,
+          "stars_today": 1138,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1030,
+            "repo_age_days": 96,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 541,
+            "pr_count": 1024,
+            "star_fork_ratio": 9.65
+          },
+          "trending_days": 5,
+          "first_seen": "2026-08-08T00:00:00.000Z"
+        },
+        {
+          "id": "msitarzewski/agency-agents",
+          "name": "agency-agents",
+          "owner": "msitarzewski",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+          "ai_summary": "提供一套完整的AI代理集合，涵盖从前端开发到社区管理的多种专业角色。每个代理均采用Shell脚本实现，具备独特个性和流程，可直接交付成果。",
+          "language": "Shell",
+          "stars": 143936,
+          "forks": 23361,
+          "stars_today": 958,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5142,
+            "repo_age_days": 302,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 122,
+            "pr_count": 518,
+            "star_fork_ratio": 6.16
+          },
+          "trending_days": 3,
+          "first_seen": "2026-08-10T00:00:00.000Z"
+        },
+        {
+          "id": "semantica-agi/semantica",
+          "name": "semantica",
+          "owner": "semantica-agi",
+          "url": "https://github.com/semantica-agi/semantica",
+          "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+          "ai_summary": "该项目是面向上下文和可问责AI系统的图原生基础设施，旨在优化AI系统的数据组织和追溯能力。采用Python实现，核心基于图结构存储和查询AI决策的上下文信息。",
+          "language": "Python",
+          "stars": 5221,
+          "forks": 567,
+          "stars_today": 893,
+          "stars_this_week": 2712,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 439,
+            "repo_age_days": 412,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 60,
+            "pr_count": 691,
+            "star_fork_ratio": 9.21
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-11T00:00:00.000Z"
+        },
+        {
+          "id": "stablyai/orca",
+          "name": "orca",
+          "owner": "stablyai",
+          "url": "https://github.com/stablyai/orca",
+          "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+          "ai_summary": "Orca是并行智能体集群的集成开发环境，支持多设备部署的编码智能体管理。基于TypeScript构建，提供跨平台（桌面/移动/VPS）的订阅式智能体调度能力。",
+          "language": "TypeScript",
+          "stars": 43176,
+          "forks": 3015,
+          "stars_today": 875,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1253,
+            "repo_age_days": 148,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 3588,
+            "pr_count": 10420,
+            "star_fork_ratio": 14.32
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-12T00:00:00.000Z"
+        },
+        {
+          "id": "paperclipai/paperclip",
+          "name": "paperclip",
+          "owner": "paperclipai",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "ai_summary": "该项目是开源的工作场景智能体管理工具，用于集中控制业务流程中的自动化代理。采用TypeScript开发，提供轻量级Web应用形态的智能体协调界面。",
+          "language": "TypeScript",
+          "stars": 77357,
+          "forks": 14277,
+          "stars_today": 748,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 70,
+          "security_details": {
+            "author_age_days": 165,
+            "repo_age_days": 162,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 5069,
+            "pr_count": 8272,
+            "star_fork_ratio": 5.42
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-11T00:00:00.000Z"
+        },
+        {
+          "id": "addyosmani/agent-skills",
+          "name": "agent-skills",
+          "owner": "addyosmani",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "ai_summary": "该项目为AI编码代理提供生产级工程技能。基于JavaScript实现，包含一系列高质量代码实践和优化技巧。",
+          "language": "JavaScript",
+          "stars": 86376,
+          "forks": 9273,
+          "stars_today": 578,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 6219,
+            "repo_age_days": 177,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 107,
+            "pr_count": 337,
+            "star_fork_ratio": 9.31
+          },
+          "trending_days": 7,
+          "first_seen": "2026-08-06T00:00:00.000Z"
+        },
+        {
+          "id": "anthropics/skills",
+          "name": "skills",
+          "owner": "anthropics",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "ai_summary": "公开的AI代理技能资源库，集中管理可复用的Agent能力模块。采用Python编写，包含标准化接口和模块化设计。",
+          "language": "Python",
+          "stars": 168358,
+          "forks": 20050,
+          "stars_today": 485,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2061,
+            "repo_age_days": 323,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 1079,
+            "pr_count": 1085,
+            "star_fork_ratio": 8.4
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-12T00:00:00.000Z"
+        },
+        {
+          "id": "calesthio/OpenMontage",
+          "name": "OpenMontage",
+          "owner": "calesthio",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+          "ai_summary": "首个开源智能视频制作系统，支持完整视频生产流程。基于Python构建，包含12条生产线、100+工具和700+技能文件，实现AI辅助视频工作室。",
+          "language": "Python",
+          "stars": 47583,
+          "forks": 5924,
+          "stars_today": 458,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 444,
+            "repo_age_days": 135,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 224,
+            "pr_count": 308,
+            "star_fork_ratio": 8.03
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-12T00:00:00.000Z"
+        },
+        {
+          "id": "vitali87/code-graph-rag",
+          "name": "code-graph-rag",
+          "owner": "vitali87",
+          "url": "https://github.com/vitali87/code-graph-rag",
+          "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+          "ai_summary": "该项目是一个面向单体仓库的检索增强生成(RAG)系统，支持通过AI查询、理解和编辑多语言代码库。其采用知识图谱技术构建代码关系网络，结合大语言模型实现精准的语义检索与代码生成。",
+          "language": "Python",
+          "stars": 3942,
+          "forks": 569,
+          "stars_today": 341,
+          "stars_this_week": 1189,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3609,
+            "repo_age_days": 421,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 44,
+            "pr_count": 729,
+            "star_fork_ratio": 6.93
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-11T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 7,
+          "Skills": 7,
+          "Agent": 7
+        }
+      }
     }
   ]
 }

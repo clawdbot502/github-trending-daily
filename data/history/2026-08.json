@@ -3801,6 +3801,322 @@
           "Agent": 7
         }
       }
+    },
+    {
+      "date": "2026-08-13",
+      "generated_at": "2026-08-13T08:05:24.076Z",
+      "projects": [
+        {
+          "id": "cathrynlavery/diagram-design",
+          "name": "diagram-design",
+          "owner": "cathrynlavery",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+          "ai_summary": "提供29种Claude Code编辑图表类型的自包含HTML+SVG解决方案。采用纯HTML+SVG实现，无阴影且不依赖Mermaid库。",
+          "language": "HTML",
+          "stars": 12004,
+          "forks": 748,
+          "stars_today": 2855,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2652,
+            "repo_age_days": 118,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 6,
+            "pr_count": 37,
+            "star_fork_ratio": 16.05
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-12T00:00:00.000Z"
+        },
+        {
+          "id": "msitarzewski/agency-agents",
+          "name": "agency-agents",
+          "owner": "msitarzewski",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+          "ai_summary": "构建完整AI代理体系，涵盖从前端开发到社区运营的各类专业角色。每个代理均采用Shell脚本实现，具备独立人格化特性和标准化交付流程。",
+          "language": "Shell",
+          "stars": 144850,
+          "forks": 23444,
+          "stars_today": 1873,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5143,
+            "repo_age_days": 303,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 130,
+            "pr_count": 523,
+            "star_fork_ratio": 6.18
+          },
+          "trending_days": 4,
+          "first_seen": "2026-08-10T00:00:00.000Z"
+        },
+        {
+          "id": "stablyai/orca",
+          "name": "orca",
+          "owner": "stablyai",
+          "url": "https://github.com/stablyai/orca",
+          "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+          "ai_summary": "面向并行Agent集群的集成开发环境(ADE)，支持多端运行编码Agent。基于TypeScript实现，可对接各类订阅服务实现分布式计算。",
+          "language": "TypeScript",
+          "stars": 44342,
+          "forks": 3087,
+          "stars_today": 1235,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1254,
+            "repo_age_days": 149,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 3706,
+            "pr_count": 10576,
+            "star_fork_ratio": 14.36
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-12T00:00:00.000Z"
+        },
+        {
+          "id": "semantica-agi/semantica",
+          "name": "semantica",
+          "owner": "semantica-agi",
+          "url": "https://github.com/semantica-agi/semantica",
+          "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+          "ai_summary": "该项目是面向上下文和可问责AI系统的图原生基础设施，旨在优化AI系统的数据组织和追溯能力。采用Python实现，基于图结构存储和关联数据，支持高效的上下文查询与审计跟踪。",
+          "language": "Python",
+          "stars": 5967,
+          "forks": 641,
+          "stars_today": 845,
+          "stars_this_week": 3585,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 440,
+            "repo_age_days": 413,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 63,
+            "pr_count": 708,
+            "star_fork_ratio": 9.31
+          },
+          "trending_days": 3,
+          "first_seen": "2026-08-11T00:00:00.000Z"
+        },
+        {
+          "id": "paperclipai/paperclip",
+          "name": "paperclip",
+          "owner": "paperclipai",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "ai_summary": "这是一个开源的工作代理管理工具，帮助团队集中管理自动化工作流程。使用TypeScript开发，提供可扩展的插件架构和可视化编排界面。",
+          "language": "TypeScript",
+          "stars": 77904,
+          "forks": 14302,
+          "stars_today": 571,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 70,
+          "security_details": {
+            "author_age_days": 166,
+            "repo_age_days": 163,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 5071,
+            "pr_count": 8318,
+            "star_fork_ratio": 5.45
+          },
+          "trending_days": 3,
+          "first_seen": "2026-08-11T00:00:00.000Z"
+        },
+        {
+          "id": "hugohe3/ppt-master",
+          "name": "ppt-master",
+          "owner": "hugohe3",
+          "url": "https://github.com/hugohe3/ppt-master",
+          "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+          "ai_summary": "该工具通过AI将文档或主题转换为原生PowerPoint演示文稿，支持动态图表、模板复用等高级功能。基于Python实现，整合NLP和计算机视觉技术实现智能排版与内容生成。",
+          "language": "Python",
+          "stars": 46120,
+          "forks": 3747,
+          "stars_today": 476,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 637,
+            "repo_age_days": 246,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 8,
+            "pr_count": 86,
+            "star_fork_ratio": 12.31
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-13T00:00:00.000Z"
+        },
+        {
+          "id": "macro-inc/macro",
+          "name": "macro",
+          "owner": "macro-inc",
+          "url": "https://github.com/macro-inc/macro",
+          "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+          "ai_summary": "Macro 是一个集成团队协作功能的统一工作空间，包含邮件、聊天、文档、任务、智能代理、通话和 CRM，通过共享的 AI 记忆实现功能联动。采用 Rust 开发，注重高性能与安全性，通过模块化架构支持多组件无缝集成。",
+          "language": "Rust",
+          "stars": 2210,
+          "forks": 251,
+          "stars_today": 227,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2275,
+            "repo_age_days": 277,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 64,
+            "pr_count": 5593,
+            "star_fork_ratio": 8.8
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-13T00:00:00.000Z"
+        },
+        {
+          "id": "localsend/localsend",
+          "name": "localsend",
+          "owner": "localsend",
+          "url": "https://github.com/localsend/localsend",
+          "description": "An open-source cross-platform alternative to AirDrop",
+          "ai_summary": "LocalSend 是一个开源的跨平台文件传输工具，可作为 AirDrop 的替代方案。基于 Dart 语言开发，支持点对点加密传输，无需依赖外部服务器或互联网连接。",
+          "language": "Dart",
+          "stars": 88043,
+          "forks": 4885,
+          "stars_today": 213,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 1336,
+            "repo_age_days": 1336,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1056,
+            "pr_count": 966,
+            "star_fork_ratio": 18.02
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-13T00:00:00.000Z"
+        },
+        {
+          "id": "infiniflow/ragflow",
+          "name": "ragflow",
+          "owner": "infiniflow",
+          "url": "https://github.com/infiniflow/ragflow",
+          "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+          "ai_summary": "RAGFlow 是领先的开源检索增强生成（RAG）引擎，结合 RAG 与智能代理技术为 LLM 提供增强的上下文处理能力。使用 Go 语言实现，采用高效索引和分布式计算架构优化检索性能。",
+          "language": "Go",
+          "stars": 87728,
+          "forks": 10330,
+          "stars_today": 139,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2183,
+            "repo_age_days": 975,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1876,
+            "pr_count": 9801,
+            "star_fork_ratio": 8.49
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-13T00:00:00.000Z"
+        },
+        {
+          "id": "cloudflare/computer",
+          "name": "computer",
+          "owner": "cloudflare",
+          "url": "https://github.com/cloudflare/computer",
+          "description": "Give your agent a computer 👾",
+          "ai_summary": "该项目为AI代理提供虚拟计算机环境，使其能够执行代码和访问计算资源。基于TypeScript实现，采用沙箱技术确保安全隔离与可控执行。",
+          "language": "TypeScript",
+          "stars": 7877,
+          "forks": 434,
+          "stars_today": 0,
+          "stars_this_week": 6020,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5893,
+            "repo_age_days": 68,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 12,
+            "pr_count": 65,
+            "star_fork_ratio": 18.15
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-13T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 8,
+          "Skills": 6,
+          "Agent": 6
+        }
+      }
     }
   ]
 }

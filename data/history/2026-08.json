@@ -4117,6 +4117,322 @@
           "Agent": 6
         }
       }
+    },
+    {
+      "date": "2026-08-14",
+      "generated_at": "2026-08-14T08:02:20.151Z",
+      "projects": [
+        {
+          "id": "cathrynlavery/diagram-design",
+          "name": "diagram-design",
+          "owner": "cathrynlavery",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+          "ai_summary": "提供29种Claude Code编辑图表类型，用于可视化展示。采用自包含的HTML+SVG实现，无阴影且不依赖Mermaid。",
+          "language": "HTML",
+          "stars": 15750,
+          "forks": 946,
+          "stars_today": 4475,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2653,
+            "repo_age_days": 119,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 7,
+            "pr_count": 43,
+            "star_fork_ratio": 16.65
+          },
+          "trending_days": 3,
+          "first_seen": "2026-08-12T00:00:00.000Z"
+        },
+        {
+          "id": "macro-inc/macro",
+          "name": "macro",
+          "owner": "macro-inc",
+          "url": "https://github.com/macro-inc/macro",
+          "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+          "ai_summary": "集成邮件、聊天、文档等功能的团队协作平台，通过@链接和共享AI记忆实现工作流统一。基于Rust构建的高效工作空间解决方案。",
+          "language": "Rust",
+          "stars": 2756,
+          "forks": 287,
+          "stars_today": 1239,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2276,
+            "repo_age_days": 278,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 51,
+            "pr_count": 5613,
+            "star_fork_ratio": 9.6
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-13T00:00:00.000Z"
+        },
+        {
+          "id": "msitarzewski/agency-agents",
+          "name": "agency-agents",
+          "owner": "msitarzewski",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+          "ai_summary": "提供从前端开发到社区管理的全套AI代理解决方案。每个代理均为具备专业流程和交付能力的Shell脚本实现专家系统。",
+          "language": "Shell",
+          "stars": 145348,
+          "forks": 23511,
+          "stars_today": 778,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5144,
+            "repo_age_days": 304,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 134,
+            "pr_count": 527,
+            "star_fork_ratio": 6.18
+          },
+          "trending_days": 5,
+          "first_seen": "2026-08-10T00:00:00.000Z"
+        },
+        {
+          "id": "semantica-agi/semantica",
+          "name": "semantica",
+          "owner": "semantica-agi",
+          "url": "https://github.com/semantica-agi/semantica",
+          "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+          "ai_summary": "该项目是一个基于图结构的AI系统基础设施，旨在为AI系统提供上下文感知和可追溯性支持。采用Python实现，通过图数据库原生存储和查询关系数据，优化AI决策的透明度和可解释性。",
+          "language": "Python",
+          "stars": 7073,
+          "forks": 733,
+          "stars_today": 713,
+          "stars_this_week": 4073,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 441,
+            "repo_age_days": 414,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 67,
+            "pr_count": 718,
+            "star_fork_ratio": 9.65
+          },
+          "trending_days": 4,
+          "first_seen": "2026-08-11T00:00:00.000Z"
+        },
+        {
+          "id": "infiniflow/ragflow",
+          "name": "ragflow",
+          "owner": "infiniflow",
+          "url": "https://github.com/infiniflow/ragflow",
+          "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+          "ai_summary": "RAGFlow是一个开源检索增强生成引擎，结合RAG与Agent技术为LLM提供高效上下文处理能力。使用Go语言开发，实现高并发检索与动态知识融合，支持多源异构数据实时接入。",
+          "language": "Go",
+          "stars": 88198,
+          "forks": 10364,
+          "stars_today": 465,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2184,
+            "repo_age_days": 976,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1847,
+            "pr_count": 9859,
+            "star_fork_ratio": 8.51
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-13T00:00:00.000Z"
+        },
+        {
+          "id": "NVIDIA-NeMo/Switchyard",
+          "name": "Switchyard",
+          "owner": "NVIDIA-NeMo",
+          "url": "https://github.com/NVIDIA-NeMo/Switchyard",
+          "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
+          "ai_summary": "该工具实现LLM应用的多模型路由调度，兼容OpenAI和Anthropic API协议，支持动态模型切换与性能对比。基于Rust构建，提供低延迟的请求转发和细粒度流量控制能力。",
+          "language": "Rust",
+          "stars": 1340,
+          "forks": 119,
+          "stars_today": 408,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 443,
+            "repo_age_days": 86,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 91,
+            "pr_count": 355,
+            "star_fork_ratio": 11.26
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-14T00:00:00.000Z"
+        },
+        {
+          "id": "unslothai/unsloth",
+          "name": "unsloth",
+          "owner": "unslothai",
+          "url": "https://github.com/unslothai/unsloth",
+          "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+          "ai_summary": "Unsloth 是一个本地化 UI 工具，用于运行和训练包括 Qwen3.8、Kimi K3 等在内的多种大语言模型和扩散模型。该项目基于 Python 实现，支持多种前沿模型的高效训练与推理。",
+          "language": "Python",
+          "stars": 71218,
+          "forks": 6419,
+          "stars_today": 328,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 1002,
+            "repo_age_days": 988,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1151,
+            "pr_count": 4520,
+            "star_fork_ratio": 11.09
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-14T00:00:00.000Z"
+        },
+        {
+          "id": "anthropics/skills",
+          "name": "skills",
+          "owner": "anthropics",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "ai_summary": "Skills 是一个公开的智能体技能仓库，旨在提供可复用的智能体能力模块。项目采用 Python 开发，结构清晰便于扩展和集成到各类智能体系统中。",
+          "language": "Python",
+          "stars": 169254,
+          "forks": 20147,
+          "stars_today": 312,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2063,
+            "repo_age_days": 325,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 1087,
+            "pr_count": 1093,
+            "star_fork_ratio": 8.4
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-14T00:00:00.000Z"
+        },
+        {
+          "id": "kepano/obsidian-skills",
+          "name": "obsidian-skills",
+          "owner": "kepano",
+          "url": "https://github.com/kepano/obsidian-skills",
+          "description": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.",
+          "ai_summary": "Obsidian-skills 为 Obsidian 知识管理工具提供智能体技能支持，包括 CLI 操作和 Markdown 等开放格式处理。该项目通过标准化接口实现智能体与 Obsidian 生态的无缝交互。",
+          "language": "",
+          "stars": 46058,
+          "forks": 3306,
+          "stars_today": 292,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4227,
+            "repo_age_days": 223,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 62,
+            "pr_count": 79,
+            "star_fork_ratio": 13.93
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-14T00:00:00.000Z"
+        },
+        {
+          "id": "holaboss-ai/holaOS",
+          "name": "holaOS",
+          "owner": "holaboss-ai",
+          "url": "https://github.com/holaboss-ai/holaOS",
+          "description": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.",
+          "ai_summary": "holaOS 是一个开源的一体化 AI 代理工作空间，支持运行多种 AI 代理（如 Claude Code、Codex）并集成 100 多种工具和应用。它采用 TypeScript 开发，支持内置模型或自带密钥（BYOK），并具备共享内存功能，实现跨工具、浏览器和文件的代理协作。",
+          "language": "TypeScript",
+          "stars": 6839,
+          "forks": 614,
+          "stars_today": 241,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 707,
+            "repo_age_days": 145,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 8,
+            "pr_count": 402,
+            "star_fork_ratio": 11.14
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-14T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 8,
+          "Skills": 6,
+          "Agent": 6
+        }
+      }
     }
   ]
 }

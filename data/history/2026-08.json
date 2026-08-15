@@ -4433,6 +4433,321 @@
           "Agent": 6
         }
       }
+    },
+    {
+      "date": "2026-08-15",
+      "generated_at": "2026-08-15T07:16:39.799Z",
+      "projects": [
+        {
+          "id": "cathrynlavery/diagram-design",
+          "name": "diagram-design",
+          "owner": "cathrynlavery",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+          "ai_summary": "提供29种编辑图表类型，专为Claude Code设计，采用自包含的HTML+SVG实现。无阴影效果，避免使用Mermaid等复杂图表库，保持简洁高效。",
+          "language": "HTML",
+          "stars": 17629,
+          "forks": 1056,
+          "stars_today": 3646,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2654,
+            "repo_age_days": 120,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 16,
+            "pr_count": 49,
+            "star_fork_ratio": 16.69
+          },
+          "trending_days": 4,
+          "first_seen": "2026-08-12T00:00:00.000Z"
+        },
+        {
+          "id": "semantica-agi/semantica",
+          "name": "semantica",
+          "owner": "semantica-agi",
+          "url": "https://github.com/semantica-agi/semantica",
+          "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+          "ai_summary": "构建面向上下文和可问责AI系统的图原生基础设施。基于Python实现，通过图结构优化AI系统的数据关联与追溯能力。",
+          "language": "Python",
+          "stars": 7643,
+          "forks": 794,
+          "stars_today": 1181,
+          "stars_this_week": 5135,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 442,
+            "repo_age_days": 415,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 71,
+            "pr_count": 735,
+            "star_fork_ratio": 9.63
+          },
+          "trending_days": 5,
+          "first_seen": "2026-08-11T00:00:00.000Z"
+        },
+        {
+          "id": "holaboss-ai/holaOS",
+          "name": "holaOS",
+          "owner": "holaboss-ai",
+          "url": "https://github.com/holaboss-ai/holaOS",
+          "description": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.",
+          "ai_summary": "开源一体化AI智能体工作空间，支持Claude Code等智能体跨工具、应用和文件运行。采用TypeScript开发，提供100+集成、共享内存机制及内置/BYOK模型支持。",
+          "language": "TypeScript",
+          "stars": 7415,
+          "forks": 642,
+          "stars_today": 769,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 708,
+            "repo_age_days": 145,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 6,
+            "pr_count": 402,
+            "star_fork_ratio": 11.55
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-14T00:00:00.000Z"
+        },
+        {
+          "id": "lightningpixel/modly",
+          "name": "modly",
+          "owner": "lightningpixel",
+          "url": "https://github.com/lightningpixel/modly",
+          "description": "Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU",
+          "ai_summary": "Modly 是一款桌面应用，通过本地 AI 从图像或提示生成 3D 模型。完全基于 GPU 运行，采用 TypeScript 实现，支持高效本地推理。",
+          "language": "TypeScript",
+          "stars": 6037,
+          "forks": 607,
+          "stars_today": 579,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2323,
+            "repo_age_days": 150,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 57,
+            "pr_count": 179,
+            "star_fork_ratio": 9.95
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-15T00:00:00.000Z"
+        },
+        {
+          "id": "unslothai/unsloth",
+          "name": "unsloth",
+          "owner": "unslothai",
+          "url": "https://github.com/unslothai/unsloth",
+          "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+          "ai_summary": "Unsloth 是本地化 UI 工具，用于运行和训练 LLM 及扩散模型（如 Qwen3.8、Gemma 4 等）。基于 Python 构建，支持多模型集成与本地训练。",
+          "language": "Python",
+          "stars": 71609,
+          "forks": 6464,
+          "stars_today": 501,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 1003,
+            "repo_age_days": 989,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1196,
+            "pr_count": 4586,
+            "star_fork_ratio": 11.08
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-14T00:00:00.000Z"
+        },
+        {
+          "id": "infiniflow/ragflow",
+          "name": "ragflow",
+          "owner": "infiniflow",
+          "url": "https://github.com/infiniflow/ragflow",
+          "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+          "ai_summary": "RAGFlow 是开源 RAG 引擎，结合检索增强生成与 Agent 能力优化 LLM 上下文层。采用 Go 语言开发，实现高效检索与生成流程融合。",
+          "language": "Go",
+          "stars": 88464,
+          "forks": 10382,
+          "stars_today": 473,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2185,
+            "repo_age_days": 977,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1784,
+            "pr_count": 9890,
+            "star_fork_ratio": 8.52
+          },
+          "trending_days": 3,
+          "first_seen": "2026-08-13T00:00:00.000Z"
+        },
+        {
+          "id": "macro-inc/macro",
+          "name": "macro",
+          "owner": "macro-inc",
+          "url": "https://github.com/macro-inc/macro",
+          "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+          "ai_summary": "Macro 是一个集成团队工作空间，整合了邮件、聊天、文档、任务、AI 代理、通话和 CRM 功能，通过 @ 链接和共享 AI 记忆实现协同。基于 Rust 开发，强调高性能和模块化架构，支持多平台统一体验。",
+          "language": "Rust",
+          "stars": 3114,
+          "forks": 310,
+          "stars_today": 436,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2277,
+            "repo_age_days": 279,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 53,
+            "pr_count": 5626,
+            "star_fork_ratio": 10.05
+          },
+          "trending_days": 3,
+          "first_seen": "2026-08-13T00:00:00.000Z"
+        },
+        {
+          "id": "megadose/holehe",
+          "name": "holehe",
+          "owner": "megadose",
+          "url": "https://github.com/megadose/holehe",
+          "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+          "ai_summary": "Holehe 是一款检测邮箱是否被各类网站（如 Twitter、Instagram）注册的工具，可通过忘记密码功能获取关联信息。采用 Python 实现，轻量级设计支持快速批量查询，避免直接与目标站点交互引发风控。",
+          "language": "Python",
+          "stars": 12925,
+          "forks": 1725,
+          "stars_today": 427,
+          "stars_this_week": 671,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2618,
+            "repo_age_days": 2241,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 102,
+            "pr_count": 105,
+            "star_fork_ratio": 7.49
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-15T00:00:00.000Z"
+        },
+        {
+          "id": "deepseek-ai/awesome-deepseek-agent",
+          "name": "awesome-deepseek-agent",
+          "owner": "deepseek-ai",
+          "url": "https://github.com/deepseek-ai/awesome-deepseek-agent",
+          "description": "",
+          "ai_summary": "该项目为 DeepSeek 相关智能代理资源的精选集合，内容未公开。推测聚焦于 AI 代理技术栈，可能涉及大语言模型应用或自动化任务解决方案。",
+          "language": "",
+          "stars": 5801,
+          "forks": 696,
+          "stars_today": 222,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 75,
+          "security_details": {
+            "author_age_days": 1031,
+            "repo_age_days": 110,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 309,
+            "pr_count": 256,
+            "star_fork_ratio": 8.33
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-15T00:00:00.000Z"
+        },
+        {
+          "id": "citrolabs/ego-lite",
+          "name": "ego-lite",
+          "owner": "citrolabs",
+          "url": "https://github.com/citrolabs/ego-lite",
+          "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+          "ai_summary": "专为AI代理设计的轻量级浏览器，支持无干扰共享登录状态以实现自动化操作。基于JavaScript构建，采用零配置、零成本架构，直接复用用户现有浏览器会话。",
+          "language": "JavaScript",
+          "stars": 10500,
+          "forks": 531,
+          "stars_today": 165,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 324,
+            "repo_age_days": 120,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 105,
+            "pr_count": 175,
+            "star_fork_ratio": 19.77
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-15T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 9,
+          "Skills": 5,
+          "Agent": 5
+        }
+      }
     }
   ]
 }

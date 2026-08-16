@@ -4748,6 +4748,318 @@
           "Agent": 5
         }
       }
+    },
+    {
+      "date": "2026-08-16",
+      "generated_at": "2026-08-16T07:18:16.469Z",
+      "projects": [
+        {
+          "id": "cathrynlavery/diagram-design",
+          "name": "diagram-design",
+          "owner": "cathrynlavery",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+          "ai_summary": "提供29种编辑图表类型，用于Claude Code的可视化需求。采用自包含的HTML+SVG实现，无阴影且不依赖Mermaid。",
+          "language": "HTML",
+          "stars": 18918,
+          "forks": 1146,
+          "stars_today": 1607,
+          "stars_this_week": 14735,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2655,
+            "repo_age_days": 121,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 21,
+            "pr_count": 53,
+            "star_fork_ratio": 16.51
+          },
+          "trending_days": 5,
+          "first_seen": "2026-08-12T00:00:00.000Z"
+        },
+        {
+          "id": "citrolabs/ego-lite",
+          "name": "ego-lite",
+          "owner": "citrolabs",
+          "url": "https://github.com/citrolabs/ego-lite",
+          "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+          "ai_summary": "专为AI代理设计的浏览器自动化工具，支持共享登录状态给Codex等AI代理。基于JavaScript实现，零成本、零配置。",
+          "language": "JavaScript",
+          "stars": 11160,
+          "forks": 569,
+          "stars_today": 545,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 325,
+            "repo_age_days": 121,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 108,
+            "pr_count": 177,
+            "star_fork_ratio": 19.61
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-15T00:00:00.000Z"
+        },
+        {
+          "id": "ToolJet/ToolJet",
+          "name": "ToolJet",
+          "owner": "ToolJet",
+          "url": "https://github.com/ToolJet/ToolJet",
+          "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+          "ai_summary": "开源企业级应用生成平台，用于构建内部工具、仪表盘和AI代理。采用JavaScript技术栈，支持工作流和业务应用开发。",
+          "language": "JavaScript",
+          "stars": 39660,
+          "forks": 5307,
+          "stars_today": 544,
+          "stars_this_week": 1047,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 1955,
+            "repo_age_days": 1964,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1128,
+            "pr_count": 11855,
+            "star_fork_ratio": 7.47
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-16T00:00:00.000Z"
+        },
+        {
+          "id": "unslothai/unsloth",
+          "name": "unsloth",
+          "owner": "unslothai",
+          "url": "https://github.com/unslothai/unsloth",
+          "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+          "ai_summary": "Unsloth 是一个本地化 UI 工具，用于运行和训练包括 Qwen3.8、Kimi K3 等在内的多种 LLM 和扩散模型。该项目采用 Python 实现，支持在本地环境高效部署和微调大规模语言模型。",
+          "language": "Python",
+          "stars": 72180,
+          "forks": 6503,
+          "stars_today": 434,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 1004,
+            "repo_age_days": 990,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1227,
+            "pr_count": 4617,
+            "star_fork_ratio": 11.1
+          },
+          "trending_days": 3,
+          "first_seen": "2026-08-14T00:00:00.000Z"
+        },
+        {
+          "id": "megadose/holehe",
+          "name": "holehe",
+          "owner": "megadose",
+          "url": "https://github.com/megadose/holehe",
+          "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+          "ai_summary": "Holehe 是一个用于检测邮箱是否在不同网站（如 Twitter、Instagram）注册过的工具，并能通过忘记密码功能获取相关信息。该项目基于 Python 开发，自动化实现了多平台的邮箱验证流程。",
+          "language": "Python",
+          "stars": 13186,
+          "forks": 1746,
+          "stars_today": 382,
+          "stars_this_week": 1059,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2619,
+            "repo_age_days": 2242,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 103,
+            "pr_count": 106,
+            "star_fork_ratio": 7.55
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-15T00:00:00.000Z"
+        },
+        {
+          "id": "MakazhanAlpamys/Soup",
+          "name": "Soup",
+          "owner": "MakazhanAlpamys",
+          "url": "https://github.com/MakazhanAlpamys/Soup",
+          "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+          "ai_summary": "Soup 是一个通过 YAML 配置文件即可微调 LLM 的工具，支持在低配置设备（如 4GB 显存笔记本 GPU）上训练 8B 参数模型。其核心技术是层流式训练（Layer streaming），实现了大模型在资源受限环境下的高效训练。",
+          "language": "Python",
+          "stars": 1799,
+          "forks": 273,
+          "stars_today": 297,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 640,
+            "repo_age_days": 176,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 91,
+            "pr_count": 64,
+            "star_fork_ratio": 6.59
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-16T00:00:00.000Z"
+        },
+        {
+          "id": "HKUDS/CLI-Anything",
+          "name": "CLI-Anything",
+          "owner": "HKUDS",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+          "ai_summary": "CLI-Anything 是一个将任意软件转化为命令行代理的工具，旨在提升软件在命令行环境中的可用性。该项目通过 Python 实现，提供 CLI-Hub 作为集中管理界面，支持快速集成各类软件。",
+          "language": "Python",
+          "stars": 47492,
+          "forks": 4398,
+          "stars_today": 118,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1370,
+            "repo_age_days": 160,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 90,
+            "pr_count": 293,
+            "star_fork_ratio": 10.8
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-16T00:00:00.000Z"
+        },
+        {
+          "id": "altic-dev/FluidVoice",
+          "name": "FluidVoice",
+          "owner": "altic-dev",
+          "url": "https://github.com/altic-dev/FluidVoice",
+          "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. DM us on X for an easter egg 😉 - https://x.com/fluidvoiceapp",
+          "ai_summary": "FluidVoice 是一款 macOS 听写应用，提供快速的本地语音转文本（STT）功能。采用 Swift 开发，结合自定义训练的 AI 增强模型，实现高效、隐私安全的语音处理。",
+          "language": "Swift",
+          "stars": 10399,
+          "forks": 702,
+          "stars_today": 104,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 376,
+            "repo_age_days": 328,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 108,
+            "pr_count": 329,
+            "star_fork_ratio": 14.81
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-16T00:00:00.000Z"
+        },
+        {
+          "id": "PrimeIntellect-ai/prime-agent",
+          "name": "prime-agent",
+          "owner": "PrimeIntellect-ai",
+          "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+          "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+          "ai_summary": "prime-agent 是一个自我改进的强化学习代理，专注于编码工作流和长期自主任务。基于 TypeScript 实现，具备动态优化能力，适用于复杂的自动化场景。",
+          "language": "TypeScript",
+          "stars": 16380,
+          "forks": 1759,
+          "stars_today": 0,
+          "stars_this_week": 8488,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1034,
+            "repo_age_days": 100,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 73,
+            "pr_count": 1105,
+            "star_fork_ratio": 9.31
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-16T00:00:00.000Z"
+        },
+        {
+          "id": "semantica-agi/semantica",
+          "name": "semantica",
+          "owner": "semantica-agi",
+          "url": "https://github.com/semantica-agi/semantica",
+          "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+          "ai_summary": "该项目是面向上下文感知和可追溯AI系统的图原生基础设施，通过图结构实现数据关联与溯源。采用Python开发，核心基于图数据库技术构建，支持复杂关系建模与动态上下文管理。",
+          "language": "Python",
+          "stars": 8002,
+          "forks": 819,
+          "stars_today": 0,
+          "stars_this_week": 5339,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 443,
+            "repo_age_days": 416,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 75,
+            "pr_count": 751,
+            "star_fork_ratio": 9.77
+          },
+          "trending_days": 6,
+          "first_seen": "2026-08-11T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 8,
+          "Skills": 4,
+          "Agent": 4
+        }
+      }
     }
   ]
 }

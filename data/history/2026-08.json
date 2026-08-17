@@ -5060,6 +5060,322 @@
           "Agent": 4
         }
       }
+    },
+    {
+      "date": "2026-08-17",
+      "generated_at": "2026-08-17T07:38:57.478Z",
+      "projects": [
+        {
+          "id": "unslothai/unsloth",
+          "name": "unsloth",
+          "owner": "unslothai",
+          "url": "https://github.com/unslothai/unsloth",
+          "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+          "ai_summary": "提供本地化UI界面用于运行和训练Qwen3.8、Kimi K3等主流LLM与扩散模型。基于Python实现，支持多模态模型统一管理及轻量化部署。",
+          "language": "Python",
+          "stars": 72867,
+          "forks": 6568,
+          "stars_today": 572,
+          "stars_this_week": 2645,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 1005,
+            "repo_age_days": 991,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1270,
+            "pr_count": 4692,
+            "star_fork_ratio": 11.09
+          },
+          "trending_days": 4,
+          "first_seen": "2026-08-14T00:00:00.000Z"
+        },
+        {
+          "id": "ToolJet/ToolJet",
+          "name": "ToolJet",
+          "owner": "ToolJet",
+          "url": "https://github.com/ToolJet/ToolJet",
+          "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+          "ai_summary": "开源企业级应用构建平台，支持快速开发内部工具、仪表盘及AI工作流。采用JavaScript技术栈，提供可视化低代码开发能力和模块化架构设计。",
+          "language": "JavaScript",
+          "stars": 40256,
+          "forks": 5341,
+          "stars_today": 452,
+          "stars_this_week": 1518,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 1956,
+            "repo_age_days": 1965,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1141,
+            "pr_count": 11869,
+            "star_fork_ratio": 7.54
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-16T00:00:00.000Z"
+        },
+        {
+          "id": "cathrynlavery/diagram-design",
+          "name": "diagram-design",
+          "owner": "cathrynlavery",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+          "ai_summary": "提供29种面向Claude Code的标准化图表模板库。基于纯HTML+SVG实现，采用无阴影设计且独立于Mermaid等渲染引擎。",
+          "language": "HTML",
+          "stars": 19934,
+          "forks": 1222,
+          "stars_today": 0,
+          "stars_this_week": 15600,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2656,
+            "repo_age_days": 122,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 23,
+            "pr_count": 56,
+            "star_fork_ratio": 16.31
+          },
+          "trending_days": 6,
+          "first_seen": "2026-08-12T00:00:00.000Z"
+        },
+        {
+          "id": "PrimeIntellect-ai/prime-agent",
+          "name": "prime-agent",
+          "owner": "PrimeIntellect-ai",
+          "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+          "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+          "ai_summary": "一个自我改进的强化学习代理，专注于编码工作流和长期自主任务。采用TypeScript实现，具备动态学习和任务适应能力。",
+          "language": "TypeScript",
+          "stars": 16696,
+          "forks": 1797,
+          "stars_today": 0,
+          "stars_this_week": 6435,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1035,
+            "repo_age_days": 101,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 73,
+            "pr_count": 1114,
+            "star_fork_ratio": 9.29
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-16T00:00:00.000Z"
+        },
+        {
+          "id": "semantica-agi/semantica",
+          "name": "semantica",
+          "owner": "semantica-agi",
+          "url": "https://github.com/semantica-agi/semantica",
+          "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+          "ai_summary": "为上下文感知和可问责AI系统设计的图原生基础设施。基于Python构建，通过图结构实现数据关联与系统透明性。",
+          "language": "Python",
+          "stars": 8320,
+          "forks": 854,
+          "stars_today": 0,
+          "stars_this_week": 5284,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 444,
+            "repo_age_days": 417,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 89,
+            "pr_count": 772,
+            "star_fork_ratio": 9.74
+          },
+          "trending_days": 7,
+          "first_seen": "2026-08-11T00:00:00.000Z"
+        },
+        {
+          "id": "TencentCloud/TencentDB-Agent-Memory",
+          "name": "TencentDB-Agent-Memory",
+          "owner": "TencentCloud",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+          "ai_summary": "团队级AI代理记忆中枢，将对话、文档和代码转化为可复用记忆资产。使用TypeScript开发，支持四种标准化记忆类型的治理与共享。",
+          "language": "TypeScript",
+          "stars": 22395,
+          "forks": 2041,
+          "stars_today": 0,
+          "stars_this_week": 3637,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3707,
+            "repo_age_days": 132,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 609,
+            "pr_count": 752,
+            "star_fork_ratio": 10.97
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-17T00:00:00.000Z"
+        },
+        {
+          "id": "addyosmani/agent-skills",
+          "name": "agent-skills",
+          "owner": "addyosmani",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "ai_summary": "提供适用于AI编码代理的生产级工程技能。该项目基于JavaScript实现，专注于提升AI代理在代码生成和工程实践中的能力。",
+          "language": "JavaScript",
+          "stars": 87865,
+          "forks": 9412,
+          "stars_today": 0,
+          "stars_this_week": 2882,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 6224,
+            "repo_age_days": 182,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 107,
+            "pr_count": 346,
+            "star_fork_ratio": 9.34
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-17T00:00:00.000Z"
+        },
+        {
+          "id": "macro-inc/macro",
+          "name": "macro",
+          "owner": "macro-inc",
+          "url": "https://github.com/macro-inc/macro",
+          "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+          "ai_summary": "集成邮件、聊天、文档、任务、代理、通话和CRM的团队统一工作空间。采用Rust开发，通过共享AI内存实现各模块的@联动。",
+          "language": "Rust",
+          "stars": 3456,
+          "forks": 346,
+          "stars_today": 0,
+          "stars_this_week": 2588,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2279,
+            "repo_age_days": 281,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 66,
+            "pr_count": 5635,
+            "star_fork_ratio": 9.99
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-17T00:00:00.000Z"
+        },
+        {
+          "id": "paperclipai/paperclip",
+          "name": "paperclip",
+          "owner": "paperclipai",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "ai_summary": "开源的工作场景AI代理管理工具。使用TypeScript构建，提供轻量级解决方案帮助团队高效管理各类AI代理。",
+          "language": "TypeScript",
+          "stars": 78601,
+          "forks": 14396,
+          "stars_today": 0,
+          "stars_this_week": 2499,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 70,
+          "security_details": {
+            "author_age_days": 170,
+            "repo_age_days": 167,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 5103,
+            "pr_count": 8469,
+            "star_fork_ratio": 5.46
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-17T00:00:00.000Z"
+        },
+        {
+          "id": "vitali87/code-graph-rag",
+          "name": "code-graph-rag",
+          "owner": "vitali87",
+          "url": "https://github.com/vitali87/code-graph-rag",
+          "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+          "ai_summary": "该项目是一个面向单代码库的检索增强生成（RAG）系统，旨在帮助开发者查询、理解和编辑多语言代码库。它结合AI技术与知识图谱，通过构建代码间的语义关联提升代码检索和分析效率。",
+          "language": "Python",
+          "stars": 4452,
+          "forks": 599,
+          "stars_today": 0,
+          "stars_this_week": 1686,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3614,
+            "repo_age_days": 426,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 50,
+            "pr_count": 785,
+            "star_fork_ratio": 7.43
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-17T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 8,
+          "Skills": 6,
+          "Agent": 6
+        }
+      }
     }
   ]
 }

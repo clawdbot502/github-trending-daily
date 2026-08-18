@@ -5376,6 +5376,319 @@
           "Agent": 6
         }
       }
+    },
+    {
+      "date": "2026-08-18",
+      "generated_at": "2026-08-18T07:24:22.419Z",
+      "projects": [
+        {
+          "id": "harry0703/MoneyPrinterTurbo",
+          "name": "MoneyPrinterTurbo",
+          "owner": "harry0703",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+          "ai_summary": "利用AI大模型自动化生成高清短视频，解决内容创作的效率问题。基于Python实现自动化工作流，整合多模态AI模型实现文本到视频的端到端生成。",
+          "language": "Python",
+          "stars": 106895,
+          "forks": 16217,
+          "stars_today": 1189,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4793,
+            "repo_age_days": 890,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 25,
+            "pr_count": 350,
+            "star_fork_ratio": 6.59
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-18T00:00:00.000Z"
+        },
+        {
+          "id": "usestrix/strix",
+          "name": "strix",
+          "owner": "usestrix",
+          "url": "https://github.com/usestrix/strix",
+          "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+          "ai_summary": "开源的AI渗透测试工具，用于自动化发现和修复应用漏洞。采用Python开发，结合机器学习算法实现智能化的漏洞检测与验证。",
+          "language": "Python",
+          "stars": 54570,
+          "forks": 5828,
+          "stars_today": 598,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 648,
+            "repo_age_days": 377,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 305,
+            "pr_count": 759,
+            "star_fork_ratio": 9.36
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-18T00:00:00.000Z"
+        },
+        {
+          "id": "santifer/career-ops",
+          "name": "career-ops",
+          "owner": "santifer",
+          "url": "https://github.com/santifer/career-ops",
+          "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+          "ai_summary": "本地化运行的AI求职辅助工具，提供职位搜索、评估和简历优化功能。基于JavaScript开发，采用结构化评分算法并与主流AI编程环境集成。",
+          "language": "JavaScript",
+          "stars": 65039,
+          "forks": 12670,
+          "stars_today": 218,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 70,
+          "security_details": {
+            "author_age_days": 206,
+            "repo_age_days": 135,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 337,
+            "pr_count": 1816,
+            "star_fork_ratio": 5.13
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-18T00:00:00.000Z"
+        },
+        {
+          "id": "akitaonrails/ai-memory",
+          "name": "ai-memory",
+          "owner": "akitaonrails",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+          "ai_summary": "为AI代理提供长期记忆解决方案，支持CLI编码并促进不同代理供应商间的交接。采用Rust实现，注重高效内存管理和跨平台兼容性。",
+          "language": "Rust",
+          "stars": 2317,
+          "forks": 208,
+          "stars_today": 207,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 6733,
+            "repo_age_days": 88,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 7,
+            "pr_count": 279,
+            "star_fork_ratio": 11.14
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-18T00:00:00.000Z"
+        },
+        {
+          "id": "AlexsJones/llmfit",
+          "name": "llmfit",
+          "owner": "AlexsJones",
+          "url": "https://github.com/AlexsJones/llmfit",
+          "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+          "ai_summary": "通过单一命令匹配用户硬件条件的大语言模型运行方案。基于Rust构建，集成数百个模型与供应商的硬件适配检测能力。",
+          "language": "Rust",
+          "stars": 32488,
+          "forks": 2007,
+          "stars_today": 198,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5372,
+            "repo_age_days": 183,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 67,
+            "pr_count": 651,
+            "star_fork_ratio": 16.19
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-18T00:00:00.000Z"
+        },
+        {
+          "id": "mukul975/Anthropic-Cybersecurity-Skills",
+          "name": "Anthropic-Cybersecurity-Skills",
+          "owner": "mukul975",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+          "ai_summary": "提供817项结构化网络安全技能数据集，覆盖29个安全领域并映射至6大行业框架。采用Python实现，兼容主流AI开发平台及Apache 2.0协议。",
+          "language": "Python",
+          "stars": 28650,
+          "forks": 3458,
+          "stars_today": 198,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2909,
+            "repo_age_days": 173,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 47,
+            "pr_count": 69,
+            "star_fork_ratio": 8.29
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-18T00:00:00.000Z"
+        },
+        {
+          "id": "nautechsystems/nautilus_trader",
+          "name": "nautilus_trader",
+          "owner": "nautechsystems",
+          "url": "https://github.com/nautechsystems/nautilus_trader",
+          "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+          "ai_summary": "这是一个生产级的Rust原生交易引擎，专注于提供高性能、低延迟的交易执行环境。采用确定性事件驱动架构，确保交易系统的可预测性和稳定性。",
+          "language": "Rust",
+          "stars": 26102,
+          "forks": 3386,
+          "stars_today": 120,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3209,
+            "repo_age_days": 2976,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 104,
+            "pr_count": 2985,
+            "star_fork_ratio": 7.71
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-18T00:00:00.000Z"
+        },
+        {
+          "id": "cathrynlavery/diagram-design",
+          "name": "diagram-design",
+          "owner": "cathrynlavery",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description": "27 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+          "ai_summary": "提供27种编辑图表类型，专为Claude Code设计，便于技术文档的可视化展示。基于自包含的HTML和SVG实现，避免复杂阴影和Mermaid图表的局限性。",
+          "language": "HTML",
+          "stars": 21036,
+          "forks": 1299,
+          "stars_today": 0,
+          "stars_this_week": 16260,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2657,
+            "repo_age_days": 123,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 23,
+            "pr_count": 63,
+            "star_fork_ratio": 16.19
+          },
+          "trending_days": 7,
+          "first_seen": "2026-08-12T00:00:00.000Z"
+        },
+        {
+          "id": "semantica-agi/semantica",
+          "name": "semantica",
+          "owner": "semantica-agi",
+          "url": "https://github.com/semantica-agi/semantica",
+          "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+          "ai_summary": "构建图原生的基础设施，旨在为AI系统提供上下文感知和可追溯性支持。利用Python实现，专注于图数据结构在AI系统中的核心作用。",
+          "language": "Python",
+          "stars": 8729,
+          "forks": 894,
+          "stars_today": 0,
+          "stars_this_week": 4746,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 445,
+            "repo_age_days": 418,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 101,
+            "pr_count": 792,
+            "star_fork_ratio": 9.76
+          },
+          "trending_days": 8,
+          "first_seen": "2026-08-11T00:00:00.000Z"
+        },
+        {
+          "id": "PrimeIntellect-ai/prime-agent",
+          "name": "prime-agent",
+          "owner": "PrimeIntellect-ai",
+          "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+          "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+          "ai_summary": "一个用于编码工作流和长期自主任务的自我改进强化学习代理。采用TypeScript实现，具备自主学习和任务持续优化能力。",
+          "language": "TypeScript",
+          "stars": 17008,
+          "forks": 1821,
+          "stars_today": 0,
+          "stars_this_week": 4328,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1036,
+            "repo_age_days": 102,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 68,
+            "pr_count": 1127,
+            "star_fork_ratio": 9.34
+          },
+          "trending_days": 3,
+          "first_seen": "2026-08-16T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 8,
+          "Skills": 4,
+          "Agent": 3,
+          "金融": 1
+        }
+      }
     }
   ]
 }

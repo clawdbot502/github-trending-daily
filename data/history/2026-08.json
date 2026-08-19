@@ -5689,6 +5689,321 @@
           "金融": 1
         }
       }
+    },
+    {
+      "date": "2026-08-19",
+      "generated_at": "2026-08-19T07:25:05.780Z",
+      "projects": [
+        {
+          "id": "harry0703/MoneyPrinterTurbo",
+          "name": "MoneyPrinterTurbo",
+          "owner": "harry0703",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+          "ai_summary": "利用AI大模型自动化生成高清短视频，解决内容创作的效率问题。基于Python实现自动化工作流，整合AI模型实现一键视频生成。",
+          "language": "Python",
+          "stars": 109149,
+          "forks": 16572,
+          "stars_today": 2304,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4794,
+            "repo_age_days": 891,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 26,
+            "pr_count": 360,
+            "star_fork_ratio": 6.59
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-18T00:00:00.000Z"
+        },
+        {
+          "id": "mukul975/Anthropic-Cybersecurity-Skills",
+          "name": "Anthropic-Cybersecurity-Skills",
+          "owner": "mukul975",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+          "ai_summary": "提供817种结构化网络安全技能数据集，支持AI代理的网络安全能力建设。采用Python实现，覆盖6大安全框架并兼容20+平台，遵循Apache 2.0协议。",
+          "language": "Python",
+          "stars": 29395,
+          "forks": 3505,
+          "stars_today": 730,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2910,
+            "repo_age_days": 174,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 47,
+            "pr_count": 69,
+            "star_fork_ratio": 8.39
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-18T00:00:00.000Z"
+        },
+        {
+          "id": "akitaonrails/ai-memory",
+          "name": "ai-memory",
+          "owner": "akitaonrails",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+          "ai_summary": "为AI代理CLI工具提供长期记忆解决方案，解决不同供应商代理间的数据交接问题。使用Rust开发，专注于高效稳定的内存管理实现。",
+          "language": "Rust",
+          "stars": 2933,
+          "forks": 244,
+          "stars_today": 648,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 6734,
+            "repo_age_days": 89,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 9,
+            "pr_count": 291,
+            "star_fork_ratio": 12.02
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-18T00:00:00.000Z"
+        },
+        {
+          "id": "jundot/omlx",
+          "name": "omlx",
+          "owner": "jundot",
+          "url": "https://github.com/jundot/omlx",
+          "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+          "ai_summary": "这是一个专为Apple Silicon优化的LLM推理服务器，支持连续批处理和SSD缓存。通过macOS菜单栏管理，采用Python实现，显著提升本地大模型推理效率。",
+          "language": "Python",
+          "stars": 19550,
+          "forks": 1677,
+          "stars_today": 370,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2307,
+            "repo_age_days": 186,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 940,
+            "pr_count": 997,
+            "star_fork_ratio": 11.66
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-19T00:00:00.000Z"
+        },
+        {
+          "id": "chaitanyagiri/munder-difflin",
+          "name": "munder-difflin",
+          "owner": "chaitanyagiri",
+          "url": "https://github.com/chaitanyagiri/munder-difflin",
+          "description": "local multi-agent harness",
+          "ai_summary": "本地多智能体协作框架，用于构建和测试多智能体系统。基于TypeScript开发，提供轻量级本地运行环境。",
+          "language": "TypeScript",
+          "stars": 2282,
+          "forks": 261,
+          "stars_today": 306,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3459,
+            "repo_age_days": 79,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 38,
+            "pr_count": 109,
+            "star_fork_ratio": 8.74
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-19T00:00:00.000Z"
+        },
+        {
+          "id": "volcengine/OpenViking",
+          "name": "OpenViking",
+          "owner": "volcengine",
+          "url": "https://github.com/volcengine/OpenViking",
+          "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+          "ai_summary": "面向AI智能体的自演进上下文数据库，统一管理记忆、知识检索与技能。采用Python实现，通过模块化设计实现智能体能力的持续进化。",
+          "language": "Python",
+          "stars": 29671,
+          "forks": 2316,
+          "stars_today": 213,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2246,
+            "repo_age_days": 226,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 457,
+            "pr_count": 3146,
+            "star_fork_ratio": 12.81
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-19T00:00:00.000Z"
+        },
+        {
+          "id": "cathrynlavery/diagram-design",
+          "name": "diagram-design",
+          "owner": "cathrynlavery",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description": "27 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+          "ai_summary": "提供27种编辑图表类型，用于Claude Code的可视化展示。采用自包含的HTML+SVG实现，无阴影效果，避免使用Mermaid图表库。",
+          "language": "HTML",
+          "stars": 22293,
+          "forks": 1368,
+          "stars_today": 0,
+          "stars_this_week": 15812,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2658,
+            "repo_age_days": 124,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 38,
+            "pr_count": 83,
+            "star_fork_ratio": 16.3
+          },
+          "trending_days": 8,
+          "first_seen": "2026-08-12T00:00:00.000Z"
+        },
+        {
+          "id": "semantica-agi/semantica",
+          "name": "semantica",
+          "owner": "semantica-agi",
+          "url": "https://github.com/semantica-agi/semantica",
+          "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+          "ai_summary": "构建面向上下文和可问责AI系统的图原生基础设施。基于Python实现，采用图结构存储和处理语义关系数据。",
+          "language": "Python",
+          "stars": 9214,
+          "forks": 953,
+          "stars_today": 0,
+          "stars_this_week": 4304,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 446,
+            "repo_age_days": 419,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 103,
+            "pr_count": 801,
+            "star_fork_ratio": 9.67
+          },
+          "trending_days": 9,
+          "first_seen": "2026-08-11T00:00:00.000Z"
+        },
+        {
+          "id": "unslothai/unsloth",
+          "name": "unsloth",
+          "owner": "unslothai",
+          "url": "https://github.com/unslothai/unsloth",
+          "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+          "ai_summary": "本地化UI工具，支持运行和训练LLM及扩散模型。集成多种主流模型如Qwen3.8、Gemma 4等，采用Python开发。",
+          "language": "Python",
+          "stars": 73677,
+          "forks": 6655,
+          "stars_today": 0,
+          "stars_this_week": 3636,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 1007,
+            "repo_age_days": 993,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1339,
+            "pr_count": 4829,
+            "star_fork_ratio": 11.07
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-19T00:00:00.000Z"
+        },
+        {
+          "id": "PrimeIntellect-ai/prime-agent",
+          "name": "prime-agent",
+          "owner": "PrimeIntellect-ai",
+          "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+          "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+          "ai_summary": "一个自我改进的强化学习代理，专注于优化编码工作流和执行长期自主任务。采用TypeScript实现，结合强化学习算法实现自主决策与持续优化能力。",
+          "language": "TypeScript",
+          "stars": 17262,
+          "forks": 1856,
+          "stars_today": 0,
+          "stars_this_week": 3475,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1037,
+            "repo_age_days": 103,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 66,
+            "pr_count": 1147,
+            "star_fork_ratio": 9.3
+          },
+          "trending_days": 4,
+          "first_seen": "2026-08-16T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 8,
+          "Skills": 6,
+          "Agent": 5
+        }
+      }
     }
   ]
 }

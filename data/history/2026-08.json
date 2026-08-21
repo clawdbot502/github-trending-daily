@@ -6319,6 +6319,323 @@
           "Agent": 5
         }
       }
+    },
+    {
+      "date": "2026-08-21",
+      "generated_at": "2026-08-21T07:28:56.575Z",
+      "projects": [
+        {
+          "id": "harry0703/MoneyPrinterTurbo",
+          "name": "MoneyPrinterTurbo",
+          "owner": "harry0703",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+          "ai_summary": "利用AI大模型自动化生成高清短视频，解决内容创作的效率问题。基于Python实现自动化工作流，整合多模态模型实现一键生成。",
+          "language": "Python",
+          "stars": 113300,
+          "forks": 17175,
+          "stars_today": 2761,
+          "stars_this_week": 9712,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4796,
+            "repo_age_days": 893,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 41,
+            "pr_count": 378,
+            "star_fork_ratio": 6.6
+          },
+          "trending_days": 4,
+          "first_seen": "2026-08-18T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "ai_summary": "提供工程师实用技能集合，聚焦实际开发场景需求。通过Shell脚本封装常用工具链，实现快速部署与调用。",
+          "language": "Shell",
+          "stars": 227469,
+          "forks": 19480,
+          "stars_today": 2192,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3397,
+            "repo_age_days": 198,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 372,
+            "pr_count": 146,
+            "star_fork_ratio": 11.68
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-20T00:00:00.000Z"
+        },
+        {
+          "id": "volcengine/OpenViking",
+          "name": "OpenViking",
+          "owner": "volcengine",
+          "url": "https://github.com/volcengine/OpenViking",
+          "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+          "ai_summary": "为AI智能体构建自演进上下文数据库，统一记忆、知识检索与技能管理。采用Python实现RAG架构，支持动态知识更新与多模态存储。",
+          "language": "Python",
+          "stars": 31252,
+          "forks": 2406,
+          "stars_today": 950,
+          "stars_this_week": 2444,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2248,
+            "repo_age_days": 228,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 477,
+            "pr_count": 3191,
+            "star_fork_ratio": 12.99
+          },
+          "trending_days": 3,
+          "first_seen": "2026-08-19T00:00:00.000Z"
+        },
+        {
+          "id": "santifer/career-ops",
+          "name": "career-ops",
+          "owner": "santifer",
+          "url": "https://github.com/santifer/career-ops",
+          "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+          "ai_summary": "开源AI求职工具，自动扫描招聘网站并按结构化评分标准（A-F等级和1.0-5.0分）评估职位列表，支持简历定制和申请追踪。基于JavaScript开发，可在本地AI编程CLI环境中运行（如Claude Code、Codex等）。",
+          "language": "JavaScript",
+          "stars": 66977,
+          "forks": 12840,
+          "stars_today": 816,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 70,
+          "security_details": {
+            "author_age_days": 209,
+            "repo_age_days": 138,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 312,
+            "pr_count": 1897,
+            "star_fork_ratio": 5.22
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-20T00:00:00.000Z"
+        },
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "智能体技能框架与软件开发方法论实现方案。采用Shell脚本构建，提供可操作的代理能力开发范式。",
+          "language": "Shell",
+          "stars": 275187,
+          "forks": 24620,
+          "stars_today": 727,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6432,
+            "repo_age_days": 315,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 298,
+            "pr_count": 1142,
+            "star_fork_ratio": 11.18
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-20T00:00:00.000Z"
+        },
+        {
+          "id": "chaitanyagiri/munder-difflin",
+          "name": "munder-difflin",
+          "owner": "chaitanyagiri",
+          "url": "https://github.com/chaitanyagiri/munder-difflin",
+          "description": "local multi-agent harness",
+          "ai_summary": "本地多智能体协同开发测试框架。基于TypeScript实现，提供轻量级多代理系统运行环境。",
+          "language": "TypeScript",
+          "stars": 3226,
+          "forks": 357,
+          "stars_today": 507,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3461,
+            "repo_age_days": 81,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 74,
+            "pr_count": 138,
+            "star_fork_ratio": 9.04
+          },
+          "trending_days": 3,
+          "first_seen": "2026-08-19T00:00:00.000Z"
+        },
+        {
+          "id": "akitaonrails/ai-memory",
+          "name": "ai-memory",
+          "owner": "akitaonrails",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+          "ai_summary": "为代理编码CLI提供长期记忆解决方案，支持不同代理供应商间的数据交接。采用Rust实现，注重高效内存管理和跨平台兼容性。",
+          "language": "Rust",
+          "stars": 3756,
+          "forks": 283,
+          "stars_today": 332,
+          "stars_this_week": 1952,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 6736,
+            "repo_age_days": 91,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 7,
+            "pr_count": 308,
+            "star_fork_ratio": 13.27
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-21T00:00:00.000Z"
+        },
+        {
+          "id": "JuliusBrussee/caveman",
+          "name": "caveman",
+          "owner": "JuliusBrussee",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+          "ai_summary": "通过简化Claude代码交互的语法表达，实现65%的token节省。基于Go语言开发，采用极简语法解析策略优化通信效率。",
+          "language": "Go",
+          "stars": 99806,
+          "forks": 5779,
+          "stars_today": 258,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1582,
+            "repo_age_days": 138,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 357,
+            "pr_count": 465,
+            "star_fork_ratio": 17.27
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-21T00:00:00.000Z"
+        },
+        {
+          "id": "RyanCodrai/turbovec",
+          "name": "turbovec",
+          "owner": "RyanCodrai",
+          "url": "https://github.com/RyanCodrai/turbovec",
+          "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+          "ai_summary": "基于TurboQuant构建的高性能向量索引库，支持快速相似性搜索。使用Rust编写并提供Python绑定，结合量化算法提升检索速度。",
+          "language": "Rust",
+          "stars": 16039,
+          "forks": 1390,
+          "stars_today": 230,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "量化"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4215,
+            "repo_age_days": 147,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 15,
+            "pr_count": 263,
+            "star_fork_ratio": 11.54
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-21T00:00:00.000Z"
+        },
+        {
+          "id": "cathrynlavery/diagram-design",
+          "name": "diagram-design",
+          "owner": "cathrynlavery",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+          "ai_summary": "提供38种用于Claude Code、Codex和Pi的编辑图表类型。采用自包含的HTML+SVG实现，无阴影设计，避免使用Mermaid的复杂方案。",
+          "language": "HTML",
+          "stars": 24559,
+          "forks": 1489,
+          "stars_today": 0,
+          "stars_this_week": 11325,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2660,
+            "repo_age_days": 126,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 25,
+            "pr_count": 106,
+            "star_fork_ratio": 16.49
+          },
+          "trending_days": 10,
+          "first_seen": "2026-08-12T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 7,
+          "Skills": 7,
+          "Agent": 5,
+          "量化": 1
+        }
+      }
     }
   ]
 }

@@ -6636,6 +6636,326 @@
           "量化": 1
         }
       }
+    },
+    {
+      "date": "2026-08-22",
+      "generated_at": "2026-08-22T07:19:14.671Z",
+      "projects": [
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "ai_summary": "该项目提供工程师实用技能集合，直接来自作者的.agents目录。采用Shell脚本实现，便于快速部署和使用。",
+          "language": "Shell",
+          "stars": 230160,
+          "forks": 19668,
+          "stars_today": 3362,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3398,
+            "repo_age_days": 199,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 377,
+            "pr_count": 147,
+            "star_fork_ratio": 11.7
+          },
+          "trending_days": 3,
+          "first_seen": "2026-08-20T00:00:00.000Z"
+        },
+        {
+          "id": "harry0703/MoneyPrinterTurbo",
+          "name": "MoneyPrinterTurbo",
+          "owner": "harry0703",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+          "ai_summary": "该项目通过AI大模型实现自动化短视频生成，用户输入主题或关键词即可输出高清视频。基于Python构建，整合多模态AI工作流实现端到端内容生产。",
+          "language": "Python",
+          "stars": 114164,
+          "forks": 17328,
+          "stars_today": 1201,
+          "stars_this_week": 10470,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4797,
+            "repo_age_days": 894,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 46,
+            "pr_count": 389,
+            "star_fork_ratio": 6.59
+          },
+          "trending_days": 5,
+          "first_seen": "2026-08-18T00:00:00.000Z"
+        },
+        {
+          "id": "santifer/career-ops",
+          "name": "career-ops",
+          "owner": "santifer",
+          "url": "https://github.com/santifer/career-ops",
+          "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+          "ai_summary": "该项目是开源的AI求职辅助工具，能自动扫描职位、评估匹配度并优化简历。使用JavaScript开发，支持在本地AI编程环境中运行，集成多模型评分系统。",
+          "language": "JavaScript",
+          "stars": 67592,
+          "forks": 12879,
+          "stars_today": 921,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 70,
+          "security_details": {
+            "author_age_days": 210,
+            "repo_age_days": 139,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 278,
+            "pr_count": 1922,
+            "star_fork_ratio": 5.25
+          },
+          "trending_days": 3,
+          "first_seen": "2026-08-20T00:00:00.000Z"
+        },
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "Superpowers 是一个代理技能框架和软件开发方法论，旨在提升开发效率。采用 Shell 脚本实现，强调技能组合与流程优化。",
+          "language": "Shell",
+          "stars": 275774,
+          "forks": 24659,
+          "stars_today": 790,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6433,
+            "repo_age_days": 316,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 299,
+            "pr_count": 1142,
+            "star_fork_ratio": 11.18
+          },
+          "trending_days": 3,
+          "first_seen": "2026-08-20T00:00:00.000Z"
+        },
+        {
+          "id": "affaan-m/ECC",
+          "name": "ECC",
+          "owner": "affaan-m",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "ai_summary": "ECC 是针对 Claude 等 AI 代码助手的性能优化系统，涵盖技能、记忆和安全模块。基于 JavaScript 实现，采用研究优先的开发范式。",
+          "language": "JavaScript",
+          "stars": 241884,
+          "forks": 36668,
+          "stars_today": 357,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1294,
+            "repo_age_days": 216,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 148,
+            "pr_count": 1987,
+            "star_fork_ratio": 6.6
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-22T00:00:00.000Z"
+        },
+        {
+          "id": "PostHog/posthog",
+          "name": "posthog",
+          "owner": "PostHog",
+          "url": "https://github.com/PostHog/posthog",
+          "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+          "ai_summary": "PostHog 是面向自驱动产品的全栈观测平台，集成分析、回放、实验等工具。基于 Python 构建，支持多终端访问与上下文智能诊断。",
+          "language": "Python",
+          "stars": 38364,
+          "forks": 3234,
+          "stars_today": 335,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2399,
+            "repo_age_days": 2402,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 5160,
+            "pr_count": 76445,
+            "star_fork_ratio": 11.86
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-22T00:00:00.000Z"
+        },
+        {
+          "id": "apache/maka",
+          "name": "maka",
+          "owner": "apache",
+          "url": "https://github.com/apache/maka",
+          "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+          "ai_summary": "Apache Maka 是一个本地优先的 AI 代理工作区，用于记录模型消息、工具调用、权限决策等事件。采用 TypeScript 实现，所有操作记录为仅追加日志，确保数据不可篡改。",
+          "language": "TypeScript",
+          "stars": 2091,
+          "forks": 245,
+          "stars_today": 148,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 6425,
+            "repo_age_days": 86,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 282,
+            "pr_count": 2732,
+            "star_fork_ratio": 8.53
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-22T00:00:00.000Z"
+        },
+        {
+          "id": "ruvnet/ruflo",
+          "name": "ruflo",
+          "owner": "ruvnet",
+          "url": "https://github.com/ruvnet/ruflo",
+          "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+          "ai_summary": "Ruflo 是智能多代理系统的元框架，支持部署自主工作流和构建对话式 AI 系统。基于 TypeScript 实现，具备自适应内存、自学习能力，并原生集成 Claude Code/Codex/Hermes 等多种模型。",
+          "language": "TypeScript",
+          "stars": 68733,
+          "forks": 8253,
+          "stars_today": 140,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5012,
+            "repo_age_days": 445,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 830,
+            "pr_count": 1319,
+            "star_fork_ratio": 8.33
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-22T00:00:00.000Z"
+        },
+        {
+          "id": "cathrynlavery/diagram-design",
+          "name": "diagram-design",
+          "owner": "cathrynlavery",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+          "ai_summary": "提供 38 种面向 Claude Code/Codex/Pi 的编辑图表类型。采用纯 HTML+SVG 实现，无阴影效果，避免 Mermaid 图表常见的渲染问题。",
+          "language": "HTML",
+          "stars": 25137,
+          "forks": 1537,
+          "stars_today": 0,
+          "stars_this_week": 8457,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2661,
+            "repo_age_days": 127,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 21,
+            "pr_count": 106,
+            "star_fork_ratio": 16.35
+          },
+          "trending_days": 11,
+          "first_seen": "2026-08-12T00:00:00.000Z"
+        },
+        {
+          "id": "volcengine/OpenViking",
+          "name": "OpenViking",
+          "owner": "volcengine",
+          "url": "https://github.com/volcengine/OpenViking",
+          "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+          "ai_summary": "OpenViking 是一个为 AI 代理设计的自演进上下文数据库，旨在统一代理记忆、知识检索增强生成（RAG）和技能管理。该项目基于 Python 实现，采用自演进架构以动态适应和优化代理的上下文数据存储与检索。",
+          "language": "Python",
+          "stars": 31777,
+          "forks": 2429,
+          "stars_today": 0,
+          "stars_this_week": 3033,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2249,
+            "repo_age_days": 229,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 484,
+            "pr_count": 3202,
+            "star_fork_ratio": 13.08
+          },
+          "trending_days": 4,
+          "first_seen": "2026-08-19T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 9,
+          "Skills": 8,
+          "Agent": 7
+        }
+      }
     }
   ]
 }

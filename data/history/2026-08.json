@@ -6956,6 +6956,326 @@
           "Agent": 7
         }
       }
+    },
+    {
+      "date": "2026-08-23",
+      "generated_at": "2026-08-23T07:20:23.741Z",
+      "projects": [
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "ai_summary": "提供实用工程师技能集合，直接来自作者的.agents目录。采用Shell脚本实现，便于快速集成到开发环境。",
+          "language": "Shell",
+          "stars": 232644,
+          "forks": 19847,
+          "stars_today": 2683,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3399,
+            "repo_age_days": 200,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 385,
+            "pr_count": 147,
+            "star_fork_ratio": 11.72
+          },
+          "trending_days": 4,
+          "first_seen": "2026-08-20T00:00:00.000Z"
+        },
+        {
+          "id": "openai/codex",
+          "name": "codex",
+          "owner": "openai",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "ai_summary": "轻量级终端代码生成代理，提升开发效率。基于Rust构建，注重性能与跨平台兼容性。",
+          "language": "Rust",
+          "stars": 114121,
+          "forks": 17442,
+          "stars_today": 1544,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3976,
+            "repo_age_days": 497,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 13504,
+            "pr_count": 15152,
+            "star_fork_ratio": 6.54
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-23T00:00:00.000Z"
+        },
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "实现有效的智能技能框架与软件开发方法论。通过Shell脚本提供模块化、可扩展的解决方案。",
+          "language": "Shell",
+          "stars": 276341,
+          "forks": 24719,
+          "stars_today": 592,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6434,
+            "repo_age_days": 317,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 308,
+            "pr_count": 1148,
+            "star_fork_ratio": 11.18
+          },
+          "trending_days": 4,
+          "first_seen": "2026-08-20T00:00:00.000Z"
+        },
+        {
+          "id": "affaan-m/ECC",
+          "name": "ECC",
+          "owner": "affaan-m",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "ai_summary": "该项目是一个针对Claude Code等AI代码生成工具的代理性能优化系统，专注于技能、本能、记忆、安全性和研究优先的开发。采用JavaScript实现，通过多维度优化提升AI代码生成的质量与效率。",
+          "language": "JavaScript",
+          "stars": 242269,
+          "forks": 36707,
+          "stars_today": 411,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1295,
+            "repo_age_days": 217,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 148,
+            "pr_count": 1988,
+            "star_fork_ratio": 6.6
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-22T00:00:00.000Z"
+        },
+        {
+          "id": "multica-ai/andrej-karpathy-skills",
+          "name": "andrej-karpathy-skills",
+          "owner": "multica-ai",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "ai_summary": "该项目通过单个CLAUDE.md文件改进Claude Code的行为模式，基于Andrej Karpathy对LLM编码缺陷的观察。采用简洁的Markdown格式集中解决大语言模型在代码生成中的常见问题。",
+          "language": "",
+          "stars": 205450,
+          "forks": 21017,
+          "stars_today": 315,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 70,
+          "security_details": {
+            "author_age_days": 221,
+            "repo_age_days": 208,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 127,
+            "pr_count": 155,
+            "star_fork_ratio": 9.78
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-23T00:00:00.000Z"
+        },
+        {
+          "id": "PostHog/posthog",
+          "name": "posthog",
+          "owner": "PostHog",
+          "url": "https://github.com/PostHog/posthog",
+          "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+          "ai_summary": "PostHog是面向自驱动产品开发的全栈分析平台，集成AI可观测性、会话回放、功能开关等工具链。基于Python构建，支持从Slack到Web的多终端访问，提供完整的产品迭代上下文。",
+          "language": "Python",
+          "stars": 38695,
+          "forks": 3248,
+          "stars_today": 286,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2400,
+            "repo_age_days": 2403,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 5202,
+            "pr_count": 76541,
+            "star_fork_ratio": 11.91
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-22T00:00:00.000Z"
+        },
+        {
+          "id": "Wei-Shaw/sub2api",
+          "name": "sub2api",
+          "owner": "Wei-Shaw",
+          "url": "https://github.com/Wei-Shaw/sub2api",
+          "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+          "ai_summary": "Sub2API 是一个开源中转服务，统一接入 Claude、OpenAI、Gemini 和 Grok 等 AI 服务的订阅，支持拼车共享以分摊成本。采用 Go 语言实现，提供原生工具的无缝集成和高效率的订阅管理。",
+          "language": "Go",
+          "stars": 38878,
+          "forks": 8046,
+          "stars_today": 278,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 3462,
+            "repo_age_days": 248,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 2809,
+            "pr_count": 2847,
+            "star_fork_ratio": 4.83
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-23T00:00:00.000Z"
+        },
+        {
+          "id": "Tencent/AI-Infra-Guard",
+          "name": "AI-Infra-Guard",
+          "owner": "Tencent",
+          "url": "https://github.com/Tencent/AI-Infra-Guard",
+          "description": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
+          "ai_summary": "AI-Infra-Guard 是一个全栈 AI 红队测试平台，通过 Agent 扫描、技能扫描、MCP 扫描和 LLM 越狱评估来保护 AI 生态系统。基于 Python 构建，提供全面的 AI 基础设施安全扫描和评估功能。",
+          "language": "Python",
+          "stars": 5592,
+          "forks": 526,
+          "stars_today": 150,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3782,
+            "repo_age_days": 606,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 28,
+            "pr_count": 435,
+            "star_fork_ratio": 10.63
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-23T00:00:00.000Z"
+        },
+        {
+          "id": "n8n-io/n8n",
+          "name": "n8n",
+          "owner": "n8n-io",
+          "url": "https://github.com/n8n-io/n8n",
+          "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+          "ai_summary": "n8n 是一个公平代码的工作流自动化平台，具备原生 AI 能力，支持可视化构建与自定义代码结合。采用 TypeScript 开发，提供 400 多种集成，支持自托管或云端部署。",
+          "language": "TypeScript",
+          "stars": 201940,
+          "forks": 60314,
+          "stars_today": 149,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2822,
+            "repo_age_days": 2618,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1069,
+            "pr_count": 26545,
+            "star_fork_ratio": 3.35
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-23T00:00:00.000Z"
+        },
+        {
+          "id": "anthropics/claude-code",
+          "name": "claude-code",
+          "owner": "anthropics",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+          "ai_summary": "Claude Code 是一个终端内的智能编码助手，通过自然语言命令帮助开发者执行常规任务、解释复杂代码和管理 Git 工作流。该项目基于 Python 实现，采用代理架构设计，能够理解代码库上下文并自动化处理开发流程。",
+          "language": "Python",
+          "stars": 142645,
+          "forks": 22847,
+          "stars_today": 127,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2072,
+            "repo_age_days": 546,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 15106,
+            "pr_count": 1276,
+            "star_fork_ratio": 6.24
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-23T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 8,
+          "Skills": 9,
+          "Agent": 7
+        }
+      }
     }
   ]
 }

@@ -7276,6 +7276,324 @@
           "Agent": 7
         }
       }
+    },
+    {
+      "date": "2026-08-24",
+      "generated_at": "2026-08-24T07:44:26.773Z",
+      "projects": [
+        {
+          "id": "openai/codex",
+          "name": "codex",
+          "owner": "openai",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "ai_summary": "Codex 是一个轻量级终端代码生成代理，可帮助开发者快速生成代码片段。基于 Rust 实现，具有高效、低延迟的特点，适合集成到开发工作流中。",
+          "language": "Rust",
+          "stars": 116252,
+          "forks": 17723,
+          "stars_today": 2715,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3977,
+            "repo_age_days": 498,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 13605,
+            "pr_count": 15174,
+            "star_fork_ratio": 6.56
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-23T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "ai_summary": "该项目提供实用工程师技能集合，包含可直接运行的 Shell 脚本工具。脚本设计注重模块化和可复用性，方便快速集成到自动化流程中。",
+          "language": "Shell",
+          "stars": 234419,
+          "forks": 19993,
+          "stars_today": 2447,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3400,
+            "repo_age_days": 201,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 391,
+            "pr_count": 147,
+            "star_fork_ratio": 11.73
+          },
+          "trending_days": 5,
+          "first_seen": "2026-08-20T00:00:00.000Z"
+        },
+        {
+          "id": "Alishahryar1/free-claude-code",
+          "name": "free-claude-code",
+          "owner": "Alishahryar1",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+          "ai_summary": "该项目提供免费访问 Claude Code、Codex 等 AI 代码生成服务的 Python 工具。支持终端、IDE 及语音交互，采用合规方式调用 API 并优化了令牌使用效率。",
+          "language": "Python",
+          "stars": 48239,
+          "forks": 7909,
+          "stars_today": 1081,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 3691,
+            "repo_age_days": 207,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 343,
+            "pr_count": 648,
+            "star_fork_ratio": 6.1
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-24T00:00:00.000Z"
+        },
+        {
+          "id": "NousResearch/hermes-agent",
+          "name": "hermes-agent",
+          "owner": "NousResearch",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "ai_summary": "Hermes-agent 是一个可成长的智能代理系统，旨在通过持续学习适应用户需求。采用 Python 实现，支持模块化扩展和自适应学习机制。",
+          "language": "Python",
+          "stars": 235259,
+          "forks": 47408,
+          "stars_today": 454,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1191,
+            "repo_age_days": 397,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 35138,
+            "pr_count": 69516,
+            "star_fork_ratio": 4.96
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-24T00:00:00.000Z"
+        },
+        {
+          "id": "affaan-m/ECC",
+          "name": "ECC",
+          "owner": "affaan-m",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "ai_summary": "ECC 是一个面向 AI 代码生成工具的性能优化系统，涵盖技能管理、安全增强和研究驱动开发。基于 JavaScript 构建，提供多平台支持与内存优化能力。",
+          "language": "JavaScript",
+          "stars": 242684,
+          "forks": 36733,
+          "stars_today": 427,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1296,
+            "repo_age_days": 218,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 155,
+            "pr_count": 1999,
+            "star_fork_ratio": 6.61
+          },
+          "trending_days": 3,
+          "first_seen": "2026-08-22T00:00:00.000Z"
+        },
+        {
+          "id": "virgiliojr94/book-to-skill",
+          "name": "book-to-skill",
+          "owner": "virgiliojr94",
+          "url": "https://github.com/virgiliojr94/book-to-skill",
+          "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+          "ai_summary": "该项目将技术书籍 PDF 转换为可操作的 Claude Code 技能库，支持学习与工作场景直接调用。使用 Python 实现文本解析和知识结构化处理。",
+          "language": "Python",
+          "stars": 24915,
+          "forks": 2599,
+          "stars_today": 417,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3562,
+            "repo_age_days": 115,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 18,
+            "pr_count": 145,
+            "star_fork_ratio": 9.59
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-24T00:00:00.000Z"
+        },
+        {
+          "id": "freestylefly/awesome-gpt-image-2",
+          "name": "awesome-gpt-image-2",
+          "owner": "freestylefly",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+          "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+          "ai_summary": "该项目是一个工业级GPT图像生成提示词引擎与模板库，提供530+逆向工程案例和20+工业级模板。采用Prompt as Code方法，通过结构化Skills分类实现高效提示词管理。",
+          "language": "JavaScript",
+          "stars": 14125,
+          "forks": 1524,
+          "stars_today": 401,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 2876,
+            "repo_age_days": 120,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 11,
+            "pr_count": 9,
+            "star_fork_ratio": 9.27
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-24T00:00:00.000Z"
+        },
+        {
+          "id": "anthropics/claude-plugins-community",
+          "name": "claude-plugins-community",
+          "owner": "anthropics",
+          "url": "https://github.com/anthropics/claude-plugins-community",
+          "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+          "ai_summary": "这是Claude协作平台和Claude代码工具的社区插件市场。作为只读镜像仓库，采用Python实现插件提交和分发系统。",
+          "language": "Python",
+          "stars": 1109,
+          "forks": 137,
+          "stars_today": 225,
+          "stars_this_week": 406,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2073,
+            "repo_age_days": 157,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 40,
+            "pr_count": 2342,
+            "star_fork_ratio": 8.09
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-24T00:00:00.000Z"
+        },
+        {
+          "id": "VoltAgent/awesome-agent-skills",
+          "name": "awesome-agent-skills",
+          "owner": "VoltAgent",
+          "url": "https://github.com/VoltAgent/awesome-agent-skills",
+          "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+          "ai_summary": "该项目整理了1000+个兼容多平台(Claude/Gemini等)的智能体技能库。通过社区贡献和官方开发团队维护实现技能持续更新。",
+          "language": "",
+          "stars": 31484,
+          "forks": 3370,
+          "stars_today": 156,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 541,
+            "repo_age_days": 299,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 9,
+            "pr_count": 834,
+            "star_fork_ratio": 9.34
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-24T00:00:00.000Z"
+        },
+        {
+          "id": "ruvnet/ruflo",
+          "name": "ruflo",
+          "owner": "ruvnet",
+          "url": "https://github.com/ruvnet/ruflo",
+          "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+          "ai_summary": "Ruflo是一个智能代理元框架，用于部署多智能体集群、协调自主工作流和构建对话式AI系统。该项目采用TypeScript开发，具备自适应记忆、自学习智能、RAG集成等特性，并原生支持Claude Code/Codex/Hermes等多种模型。",
+          "language": "TypeScript",
+          "stars": 69180,
+          "forks": 8280,
+          "stars_today": 131,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5014,
+            "repo_age_days": 447,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 834,
+            "pr_count": 1323,
+            "star_fork_ratio": 8.36
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-24T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "Skills": 8,
+          "Agent": 6,
+          "AI": 8
+        }
+      }
     }
   ]
 }

@@ -7594,6 +7594,322 @@
           "AI": 8
         }
       }
+    },
+    {
+      "date": "2026-08-25",
+      "generated_at": "2026-08-25T07:30:43.417Z",
+      "projects": [
+        {
+          "id": "freestylefly/awesome-gpt-image-2",
+          "name": "awesome-gpt-image-2",
+          "owner": "freestylefly",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+          "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+          "ai_summary": "该项目是一个工业级GPT图像生成提示词引擎与模板库，提供530+逆向工程案例和20+工业级模板。采用JavaScript实现，通过结构化Skills体系优化提示词效果，支持持续更新与案例扩展。",
+          "language": "JavaScript",
+          "stars": 16122,
+          "forks": 1690,
+          "stars_today": 2449,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 2877,
+            "repo_age_days": 121,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 12,
+            "pr_count": 9,
+            "star_fork_ratio": 9.54
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-24T00:00:00.000Z"
+        },
+        {
+          "id": "openai/codex",
+          "name": "codex",
+          "owner": "openai",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "ai_summary": "这是一个轻量级终端代码生成代理，能够直接在命令行中辅助编程。基于Rust构建，具有低延迟和高效率的特点，适合开发者快速实现代码片段生成。",
+          "language": "Rust",
+          "stars": 117538,
+          "forks": 17933,
+          "stars_today": 1994,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3978,
+            "repo_age_days": 499,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 13740,
+            "pr_count": 15234,
+            "star_fork_ratio": 6.55
+          },
+          "trending_days": 3,
+          "first_seen": "2026-08-23T00:00:00.000Z"
+        },
+        {
+          "id": "NousResearch/hermes-agent",
+          "name": "hermes-agent",
+          "owner": "NousResearch",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "ai_summary": "该项目是自适应成长的AI代理系统，旨在通过交互学习持续优化行为。采用Python开发，支持模块化扩展和个性化能力演进，适用于动态任务场景。",
+          "language": "Python",
+          "stars": 236033,
+          "forks": 47619,
+          "stars_today": 896,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1192,
+            "repo_age_days": 398,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 35562,
+            "pr_count": 70154,
+            "star_fork_ratio": 4.96
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-24T00:00:00.000Z"
+        },
+        {
+          "id": "Alishahryar1/free-claude-code",
+          "name": "free-claude-code",
+          "owner": "Alishahryar1",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+          "ai_summary": "提供免费访问Claude Code、Codex等AI编码服务的终端工具，支持1.3亿+免费token调用。通过Python实现跨平台CLI集成，支持语音交互并遵循服务条款。",
+          "language": "Python",
+          "stars": 49341,
+          "forks": 8036,
+          "stars_today": 891,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 3692,
+            "repo_age_days": 208,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 349,
+            "pr_count": 657,
+            "star_fork_ratio": 6.14
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-24T00:00:00.000Z"
+        },
+        {
+          "id": "VoltAgent/awesome-agent-skills",
+          "name": "awesome-agent-skills",
+          "owner": "VoltAgent",
+          "url": "https://github.com/VoltAgent/awesome-agent-skills",
+          "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+          "ai_summary": "汇集1000+官方与社区开发的AI代理技能库，适配Claude Code等多种AI编码工具。采用结构化分类存储方案，便于开发者快速集成技能模块。",
+          "language": "",
+          "stars": 32070,
+          "forks": 3411,
+          "stars_today": 602,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 542,
+            "repo_age_days": 300,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 16,
+            "pr_count": 841,
+            "star_fork_ratio": 9.4
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-24T00:00:00.000Z"
+        },
+        {
+          "id": "multica-ai/andrej-karpathy-skills",
+          "name": "andrej-karpathy-skills",
+          "owner": "multica-ai",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "ai_summary": "基于Andrej Karpathy对LLM编码缺陷的研究，优化Claude Code行为的配置文件。通过单文件CLAUSE.md集中实现代码生成质量改进策略。",
+          "language": "",
+          "stars": 206769,
+          "forks": 21104,
+          "stars_today": 588,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 70,
+          "security_details": {
+            "author_age_days": 223,
+            "repo_age_days": 210,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 129,
+            "pr_count": 157,
+            "star_fork_ratio": 9.8
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-25T00:00:00.000Z"
+        },
+        {
+          "id": "tinyhumansai/openhuman",
+          "name": "openhuman",
+          "owner": "tinyhumansai",
+          "url": "https://github.com/tinyhumansai/openhuman",
+          "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+          "ai_summary": "OpenHuman 是一个个人 AI 超级智能系统，用于构建本地优先的生活记忆、协调多代理工作流并进行深度研究。采用 Rust 实现，强调本地数据处理和高效的任务编排能力。",
+          "language": "Rust",
+          "stars": 37434,
+          "forks": 3713,
+          "stars_today": 515,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 273,
+            "repo_age_days": 187,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 296,
+            "pr_count": 3554,
+            "star_fork_ratio": 10.08
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-25T00:00:00.000Z"
+        },
+        {
+          "id": "anthropics/claude-plugins-community",
+          "name": "claude-plugins-community",
+          "owner": "anthropics",
+          "url": "https://github.com/anthropics/claude-plugins-community",
+          "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+          "ai_summary": "Claude 插件社区是 Claude Cowork 和 Claude Code 的插件市场镜像仓库。基于 Python 实现，提供只读访问，实际插件提交需通过官方渠道完成。",
+          "language": "Python",
+          "stars": 1480,
+          "forks": 161,
+          "stars_today": 489,
+          "stars_this_week": 877,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2074,
+            "repo_age_days": 158,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 39,
+            "pr_count": 2343,
+            "star_fork_ratio": 9.19
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-24T00:00:00.000Z"
+        },
+        {
+          "id": "MadsLorentzen/ai-job-search",
+          "name": "ai-job-search",
+          "owner": "MadsLorentzen",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+          "ai_summary": "AI 求职搜索框架支持本地化运行，可自动评估职位、定制简历、撰写求职信和准备面试。基于 Python 和 Claude Code 构建，用户可自主部署并完全控制流程。",
+          "language": "Python",
+          "stars": 34414,
+          "forks": 11954,
+          "stars_today": 434,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 75,
+          "security_details": {
+            "author_age_days": 2671,
+            "repo_age_days": 159,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 8,
+            "pr_count": 281,
+            "star_fork_ratio": 2.88
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-25T00:00:00.000Z"
+        },
+        {
+          "id": "apache/maka",
+          "name": "maka",
+          "owner": "apache",
+          "url": "https://github.com/apache/maka",
+          "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+          "ai_summary": "Apache Maka 是一个本地优先的 AI 代理工作区，用于记录和管理 AI 代理的交互数据。采用 TypeScript 开发，通过仅追加日志的方式记录模型消息、工具调用、结果、权限决策和终止事件。",
+          "language": "TypeScript",
+          "stars": 3045,
+          "forks": 312,
+          "stars_today": 411,
+          "stars_this_week": 1313,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 6428,
+            "repo_age_days": 89,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 267,
+            "pr_count": 2934,
+            "star_fork_ratio": 9.76
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-25T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 8,
+          "Skills": 7,
+          "Agent": 5
+        }
+      }
     }
   ]
 }

@@ -7910,6 +7910,321 @@
           "Agent": 5
         }
       }
+    },
+    {
+      "date": "2026-08-26",
+      "generated_at": "2026-08-26T07:32:28.942Z",
+      "projects": [
+        {
+          "id": "freestylefly/awesome-gpt-image-2",
+          "name": "awesome-gpt-image-2",
+          "owner": "freestylefly",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+          "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+          "ai_summary": "提供工业级GPT图像生成提示词引擎与模板库，包含530+逆向工程案例和20+工业级模板。基于JavaScript实现，通过模块化Skills设计提升提示词复用性和生成质量。",
+          "language": "JavaScript",
+          "stars": 19541,
+          "forks": 1989,
+          "stars_today": 1698,
+          "stars_this_week": 5329,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 2878,
+            "repo_age_days": 122,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 10,
+            "pr_count": 9,
+            "star_fork_ratio": 9.82
+          },
+          "trending_days": 3,
+          "first_seen": "2026-08-24T00:00:00.000Z"
+        },
+        {
+          "id": "MadsLorentzen/ai-job-search",
+          "name": "ai-job-search",
+          "owner": "MadsLorentzen",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+          "ai_summary": "本地化AI求职框架，支持职位评估、简历定制、求职信撰写和面试准备。采用Python构建，基于Claude模型实现自动化求职流程。",
+          "language": "Python",
+          "stars": 35677,
+          "forks": 12210,
+          "stars_today": 1265,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 75,
+          "security_details": {
+            "author_age_days": 2672,
+            "repo_age_days": 160,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 5,
+            "pr_count": 285,
+            "star_fork_ratio": 2.92
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-25T00:00:00.000Z"
+        },
+        {
+          "id": "openai/codex",
+          "name": "codex",
+          "owner": "openai",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "ai_summary": "轻量级终端代码生成工具，支持开发者快速编写代码片段。使用Rust实现，通过命令行交互提供低延迟的编码辅助。",
+          "language": "Rust",
+          "stars": 118445,
+          "forks": 18047,
+          "stars_today": 1181,
+          "stars_this_week": 11424,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3979,
+            "repo_age_days": 500,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 13861,
+            "pr_count": 15318,
+            "star_fork_ratio": 6.56
+          },
+          "trending_days": 4,
+          "first_seen": "2026-08-23T00:00:00.000Z"
+        },
+        {
+          "id": "DietrichGebert/ponytail",
+          "name": "ponytail",
+          "owner": "DietrichGebert",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+          "ai_summary": "Ponytail 是一个 AI 代理工具，旨在通过最小化代码编写量来提升开发效率。它采用 JavaScript 实现，模拟资深开发者思维，推崇‘不写代码就是最好的代码’理念。",
+          "language": "JavaScript",
+          "stars": 111511,
+          "forks": 6127,
+          "stars_today": 982,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1163,
+            "repo_age_days": 75,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 170,
+            "pr_count": 470,
+            "star_fork_ratio": 18.2
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-26T00:00:00.000Z"
+        },
+        {
+          "id": "multica-ai/andrej-karpathy-skills",
+          "name": "andrej-karpathy-skills",
+          "owner": "multica-ai",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "ai_summary": "该项目通过单个 CLAUDE.md 文件优化 Claude 代码生成行为，解决大语言模型编码常见缺陷。基于 Andrej Karpathy 对 LLM 编码问题的观察提炼而成。",
+          "language": "",
+          "stars": 207394,
+          "forks": 21151,
+          "stars_today": 830,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 70,
+          "security_details": {
+            "author_age_days": 224,
+            "repo_age_days": 211,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 129,
+            "pr_count": 157,
+            "star_fork_ratio": 9.81
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-25T00:00:00.000Z"
+        },
+        {
+          "id": "AgriciDaniel/claude-obsidian",
+          "name": "claude-obsidian",
+          "owner": "AgriciDaniel",
+          "url": "https://github.com/AgriciDaniel/claude-obsidian",
+          "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
+          "ai_summary": "为 Obsidian 和 Claude 构建自组织的 AI 第二大脑系统，实现知识图的自动化管理。采用 Python 开发，基于 Karpathy 的 LLM Wiki 模式，以纯 Markdown 构建可自主管理的知识库。",
+          "language": "Python",
+          "stars": 12966,
+          "forks": 1388,
+          "stars_today": 813,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 394,
+            "repo_age_days": 140,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 136,
+            "pr_count": 98,
+            "star_fork_ratio": 9.34
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-26T00:00:00.000Z"
+        },
+        {
+          "id": "rohitg00/ai-engineering-from-scratch",
+          "name": "ai-engineering-from-scratch",
+          "owner": "rohitg00",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "ai_summary": "该项目是一个AI工程实践教程，帮助用户从零开始学习、构建并部署AI应用。采用Python实现，涵盖从基础到实战的全流程开发。",
+          "language": "Python",
+          "stars": 49270,
+          "forks": 8595,
+          "stars_today": 569,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2722,
+            "repo_age_days": 160,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 96,
+            "pr_count": 341,
+            "star_fork_ratio": 5.73
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-26T00:00:00.000Z"
+        },
+        {
+          "id": "apache/maka",
+          "name": "maka",
+          "owner": "apache",
+          "url": "https://github.com/apache/maka",
+          "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+          "ai_summary": "Apache Maka是一个本地优先的AI代理工作区，用于记录模型消息、工具调用和权限决策等事件。基于TypeScript开发，采用仅追加日志架构实现数据持久化。",
+          "language": "TypeScript",
+          "stars": 3481,
+          "forks": 343,
+          "stars_today": 543,
+          "stars_this_week": 1769,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6429,
+            "repo_age_days": 90,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 304,
+            "pr_count": 2997,
+            "star_fork_ratio": 10.15
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-25T00:00:00.000Z"
+        },
+        {
+          "id": "tinyhumansai/openhuman",
+          "name": "openhuman",
+          "owner": "tinyhumansai",
+          "url": "https://github.com/tinyhumansai/openhuman",
+          "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+          "ai_summary": "OpenHuman是个人AI智能系统，具备本地化记忆存储和多智能体工作流编排能力。使用Rust构建，强调高性能和隐私安全的本地优先设计。",
+          "language": "Rust",
+          "stars": 37925,
+          "forks": 3740,
+          "stars_today": 542,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 274,
+            "repo_age_days": 188,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 302,
+            "pr_count": 3564,
+            "star_fork_ratio": 10.14
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-25T00:00:00.000Z"
+        },
+        {
+          "id": "anthropics/claude-plugins-community",
+          "name": "claude-plugins-community",
+          "owner": "anthropics",
+          "url": "https://github.com/anthropics/claude-plugins-community",
+          "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+          "ai_summary": "该项目是Claude Cowork和Claude Code的社区插件市场，为用户提供可扩展的功能插件。采用Python实现，通过集中式目录管理实现插件的发现与分发。",
+          "language": "Python",
+          "stars": 1920,
+          "forks": 182,
+          "stars_today": 351,
+          "stars_this_week": 1199,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2075,
+            "repo_age_days": 159,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 42,
+            "pr_count": 2344,
+            "star_fork_ratio": 10.55
+          },
+          "trending_days": 3,
+          "first_seen": "2026-08-24T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 9,
+          "Skills": 6,
+          "Agent": 4
+        }
+      }
     }
   ]
 }

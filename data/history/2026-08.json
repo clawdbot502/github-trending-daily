@@ -8225,6 +8225,326 @@
           "Agent": 4
         }
       }
+    },
+    {
+      "date": "2026-08-27",
+      "generated_at": "2026-08-27T17:54:38.374Z",
+      "projects": [
+        {
+          "id": "tt-a1i/archify",
+          "name": "archify",
+          "owner": "tt-a1i",
+          "url": "https://github.com/tt-a1i/archify",
+          "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+          "ai_summary": "Archify 是一个用于创建美观、可验证的架构、工作流、序列、数据流和生命周期图表的代理技能工具。它生成自包含的 HTML 文件，支持动画效果和高质量导出。",
+          "language": "JavaScript",
+          "stars": 22430,
+          "forks": 1447,
+          "stars_today": 4260,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2594,
+            "repo_age_days": 134,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 37,
+            "pr_count": 82,
+            "star_fork_ratio": 15.5
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-27T00:00:00.000Z"
+        },
+        {
+          "id": "freestylefly/awesome-gpt-image-2",
+          "name": "awesome-gpt-image-2",
+          "owner": "freestylefly",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+          "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+          "ai_summary": "Awesome GPT-Image-2 是一个工业级提示词引擎与模板库，包含 530+ 逆向工程案例和 20+ 工业级模板。它通过代码化提示词（Prompt as Code）和技能提炼提升生成效果。",
+          "language": "JavaScript",
+          "stars": 22864,
+          "forks": 2279,
+          "stars_today": 2093,
+          "stars_this_week": 9477,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2880,
+            "repo_age_days": 124,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 16,
+            "pr_count": 13,
+            "star_fork_ratio": 10.03
+          },
+          "trending_days": 4,
+          "first_seen": "2026-08-24T00:00:00.000Z"
+        },
+        {
+          "id": "DietrichGebert/ponytail",
+          "name": "ponytail",
+          "owner": "DietrichGebert",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+          "ai_summary": "Ponytail 是一个让 AI 代理像最懒的高级开发人员一样思考的工具，旨在通过最小化代码编写实现高效开发。它倡导“最好的代码是你从未写过的代码”理念。",
+          "language": "JavaScript",
+          "stars": 113784,
+          "forks": 6221,
+          "stars_today": 1610,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1165,
+            "repo_age_days": 76,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 177,
+            "pr_count": 476,
+            "star_fork_ratio": 18.29
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-26T00:00:00.000Z"
+        },
+        {
+          "id": "calesthio/OpenMontage",
+          "name": "OpenMontage",
+          "owner": "calesthio",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+          "ai_summary": "OpenMontage 是全球首个开源的自动化视频制作系统，提供12种制作流程和100多种工具，能将AI编程助手转化为完整的视频制作工作室。该项目基于Python开发，包含700多个代理技能与制作知识文件，实现高度模块化的视频生产流水线。",
+          "language": "Python",
+          "stars": 52143,
+          "forks": 6539,
+          "stars_today": 1284,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 460,
+            "repo_age_days": 151,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 248,
+            "pr_count": 368,
+            "star_fork_ratio": 7.97
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-27T00:00:00.000Z"
+        },
+        {
+          "id": "AgriciDaniel/claude-obsidian",
+          "name": "claude-obsidian",
+          "owner": "AgriciDaniel",
+          "url": "https://github.com/AgriciDaniel/claude-obsidian",
+          "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
+          "ai_summary": "claude-obsidian 是为Obsidian设计的自组织AI知识管理系统，能够自动读取、链接并归档各类资料到互联的Markdown知识图谱中。该项目采用Python实现，基于Karpathy的LLM Wiki模式，提供开源的个人知识管理解决方案。",
+          "language": "Python",
+          "stars": 13851,
+          "forks": 1418,
+          "stars_today": 631,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 396,
+            "repo_age_days": 142,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 140,
+            "pr_count": 101,
+            "star_fork_ratio": 9.77
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-26T00:00:00.000Z"
+        },
+        {
+          "id": "rohitg00/ai-engineering-from-scratch",
+          "name": "ai-engineering-from-scratch",
+          "owner": "rohitg00",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "ai_summary": "该项目提供从零开始学习AI工程化的完整路径，涵盖学习、构建到部署的全流程实践指导。采用Python技术栈，通过项目驱动的方式系统化培养AI工程能力。",
+          "language": "Python",
+          "stars": 50039,
+          "forks": 8702,
+          "stars_today": 547,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2724,
+            "repo_age_days": 161,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 97,
+            "pr_count": 343,
+            "star_fork_ratio": 5.75
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-26T00:00:00.000Z"
+        },
+        {
+          "id": "K-Dense-AI/scientific-agent-skills",
+          "name": "scientific-agent-skills",
+          "owner": "K-Dense-AI",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+          "ai_summary": "该项目是一个科学领域AI代理技能库，提供163个经过验证的技能和100多个科学数据库，覆盖生物学、化学、医学和药物发现等领域。采用Python实现，兼容多种AI代理平台和开放的Agent Skills标准。",
+          "language": "Python",
+          "stars": 35189,
+          "forks": 3386,
+          "stars_today": 494,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 314,
+            "repo_age_days": 311,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 10,
+            "pr_count": 145,
+            "star_fork_ratio": 10.39
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-27T00:00:00.000Z"
+        },
+        {
+          "id": "ConardLi/garden-skills",
+          "name": "garden-skills",
+          "owner": "ConardLi",
+          "url": "https://github.com/ConardLi/garden-skills",
+          "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+          "ai_summary": "该项目是一个开源技能集合，包含网页设计、知识检索、图像生成等多种功能。使用CSS等技术实现，适合快速集成到各类项目中。",
+          "language": "CSS",
+          "stars": 11257,
+          "forks": 1404,
+          "stars_today": 413,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 3310,
+            "repo_age_days": 128,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 16,
+            "pr_count": 13,
+            "star_fork_ratio": 8.02
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-27T00:00:00.000Z"
+        },
+        {
+          "id": "TauricResearch/TradingAgents",
+          "name": "TradingAgents",
+          "owner": "TauricResearch",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "ai_summary": "该项目是一个基于多代理LLM的金融交易框架，旨在通过智能代理进行金融交易决策。采用Python实现，结合了大型语言模型和金融交易策略。",
+          "language": "Python",
+          "stars": 101049,
+          "forks": 19453,
+          "stars_today": 323,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "AI",
+            "Skills"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 609,
+            "repo_age_days": 607,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 386,
+            "pr_count": 763,
+            "star_fork_ratio": 5.19
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-27T00:00:00.000Z"
+        },
+        {
+          "id": "JetBrains/go-modern-guidelines",
+          "name": "go-modern-guidelines",
+          "owner": "JetBrains",
+          "url": "https://github.com/JetBrains/go-modern-guidelines",
+          "description": "Help AI coding agents write modern Go",
+          "ai_summary": "该项目为AI编程助手提供现代Go语言编码规范指导，解决Go代码风格不一致问题。基于JetBrains团队实践，提炼类型安全、并发模式等关键规范，通过结构化规则提升生成代码质量。",
+          "language": "Go",
+          "stars": 1994,
+          "forks": 60,
+          "stars_today": 314,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5540,
+            "repo_age_days": 276,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 9,
+            "pr_count": 11,
+            "star_fork_ratio": 33.23
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-27T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 9,
+          "Skills": 8,
+          "Agent": 5,
+          "金融": 1
+        }
+      }
     }
   ]
 }

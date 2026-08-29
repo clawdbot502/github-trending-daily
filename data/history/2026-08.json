@@ -8862,6 +8862,321 @@
           "Agent": 5
         }
       }
+    },
+    {
+      "date": "2026-08-29",
+      "generated_at": "2026-08-29T12:50:17.156Z",
+      "projects": [
+        {
+          "id": "tt-a1i/archify",
+          "name": "archify",
+          "owner": "tt-a1i",
+          "url": "https://github.com/tt-a1i/archify",
+          "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+          "ai_summary": "Archify 是一个生成美观、可验证的架构、工作流、序列、数据流和生命周期图表的代理工具。它生成自包含的 HTML 文件，支持动画效果和高质量导出。",
+          "language": "JavaScript",
+          "stars": 29418,
+          "forks": 1845,
+          "stars_today": 3927,
+          "stars_this_week": 11099,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2596,
+            "repo_age_days": 136,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 68,
+            "pr_count": 110,
+            "star_fork_ratio": 15.94
+          },
+          "trending_days": 3,
+          "first_seen": "2026-08-27T00:00:00.000Z"
+        },
+        {
+          "id": "K-Dense-AI/scientific-agent-skills",
+          "name": "scientific-agent-skills",
+          "owner": "K-Dense-AI",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+          "ai_summary": "Scientific-agent-skills 是一个将 AI 代理转化为科学家的技能库，包含 163 个经过验证的技能和 100 多个科学数据库。它基于 Python 实现，兼容多种 AI 开发工具和开放的 Agent Skills 标准。",
+          "language": "Python",
+          "stars": 37343,
+          "forks": 3537,
+          "stars_today": 1604,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 316,
+            "repo_age_days": 313,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 19,
+            "pr_count": 153,
+            "star_fork_ratio": 10.56
+          },
+          "trending_days": 3,
+          "first_seen": "2026-08-27T00:00:00.000Z"
+        },
+        {
+          "id": "DietrichGebert/ponytail",
+          "name": "ponytail",
+          "owner": "DietrichGebert",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+          "ai_summary": "Ponytail 是一个让 AI 代理像资深开发者一样思考的工具，旨在通过最简代码解决问题。它使用 JavaScript 实现，强调代码简洁性和高效性。",
+          "language": "JavaScript",
+          "stars": 115975,
+          "forks": 6332,
+          "stars_today": 1171,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1167,
+            "repo_age_days": 78,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 181,
+            "pr_count": 480,
+            "star_fork_ratio": 18.32
+          },
+          "trending_days": 4,
+          "first_seen": "2026-08-26T00:00:00.000Z"
+        },
+        {
+          "id": "calesthio/OpenMontage",
+          "name": "OpenMontage",
+          "owner": "calesthio",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+          "ai_summary": "OpenMontage 是全球首个开源的自主视频制作系统，提供12种制作流程和100多种工具，能将AI编程助手转化为完整的视频制作工作室。该项目基于Python开发，包含700多个代理技能与制作知识文件，实现高度自动化的视频生产。",
+          "language": "Python",
+          "stars": 53714,
+          "forks": 6680,
+          "stars_today": 809,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 462,
+            "repo_age_days": 152,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 260,
+            "pr_count": 375,
+            "star_fork_ratio": 8.04
+          },
+          "trending_days": 3,
+          "first_seen": "2026-08-27T00:00:00.000Z"
+        },
+        {
+          "id": "tailscale/tailcat",
+          "name": "tailcat",
+          "owner": "tailscale",
+          "url": "https://github.com/tailscale/tailcat",
+          "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+          "ai_summary": "tailcat 是类似 netcat 的网络工具，但通过 Tailscale 数据平面传输数据，无需依赖其控制平面。该项目使用 Go 语言实现，提供简单高效的加密网络通信能力。",
+          "language": "Go",
+          "stars": 3090,
+          "forks": 90,
+          "stars_today": 790,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2713,
+            "repo_age_days": 668,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 12,
+            "pr_count": 11,
+            "star_fork_ratio": 34.33
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-28T00:00:00.000Z"
+        },
+        {
+          "id": "freestylefly/awesome-gpt-image-2",
+          "name": "awesome-gpt-image-2",
+          "owner": "freestylefly",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+          "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+          "ai_summary": "awesome-gpt-image-2 是一个工业级提示词引擎与模板库，包含530多个逆向工程案例和20多套工业级模板。该项目基于JavaScript，通过提炼Skills实现结构化提示词管理，持续优化生成效果。",
+          "language": "JavaScript",
+          "stars": 24740,
+          "forks": 2433,
+          "stars_today": 767,
+          "stars_this_week": 12877,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2881,
+            "repo_age_days": 126,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 17,
+            "pr_count": 13,
+            "star_fork_ratio": 10.17
+          },
+          "trending_days": 6,
+          "first_seen": "2026-08-24T00:00:00.000Z"
+        },
+        {
+          "id": "tashfeenahmed/freellmapi",
+          "name": "freellmapi",
+          "owner": "tashfeenahmed",
+          "url": "https://github.com/tashfeenahmed/freellmapi",
+          "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+          "ai_summary": "提供每月74亿token的免费LLM服务，聚合34家供应商的635个模型端点，统一通过/v1接口访问。采用智能路由和自动故障转移技术，支持自定义OpenAI兼容端点，密钥加密处理。",
+          "language": "TypeScript",
+          "stars": 21940,
+          "forks": 3086,
+          "stars_today": 612,
+          "stars_this_week": 2162,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4331,
+            "repo_age_days": 129,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 69,
+            "pr_count": 731,
+            "star_fork_ratio": 7.11
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-28T00:00:00.000Z"
+        },
+        {
+          "id": "abi/screenshot-to-code",
+          "name": "screenshot-to-code",
+          "owner": "abi",
+          "url": "https://github.com/abi/screenshot-to-code",
+          "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+          "ai_summary": "将截图自动转换为前端代码（支持HTML/Tailwind/React/Vue）。基于计算机视觉和深度学习技术实现界面元素识别与代码生成。",
+          "language": "Python",
+          "stars": 75820,
+          "forks": 9231,
+          "stars_today": 558,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6562,
+            "repo_age_days": 1018,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 131,
+            "pr_count": 192,
+            "star_fork_ratio": 8.21
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-29T00:00:00.000Z"
+        },
+        {
+          "id": "rohitg00/ai-engineering-from-scratch",
+          "name": "ai-engineering-from-scratch",
+          "owner": "rohitg00",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "ai_summary": "从零开始构建AI工程能力的实践教程。通过Python实现完整项目开发流程，涵盖模型训练到部署落地的关键技术栈。",
+          "language": "Python",
+          "stars": 50803,
+          "forks": 8801,
+          "stars_today": 359,
+          "stars_this_week": 3263,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2725,
+            "repo_age_days": 163,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 99,
+            "pr_count": 344,
+            "star_fork_ratio": 5.77
+          },
+          "trending_days": 4,
+          "first_seen": "2026-08-26T00:00:00.000Z"
+        },
+        {
+          "id": "anthropics/claude-plugins-official",
+          "name": "claude-plugins-official",
+          "owner": "anthropics",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+          "ai_summary": "该项目是Anthropic官方维护的高质量Claude代码插件目录，为开发者提供经过验证的插件资源。采用Python实现，通过集中化管理确保插件兼容性和稳定性。",
+          "language": "Python",
+          "stars": 35206,
+          "forks": 3947,
+          "stars_today": 356,
+          "stars_this_week": 1281,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2078,
+            "repo_age_days": 281,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1056,
+            "pr_count": 4567,
+            "star_fork_ratio": 8.92
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-28T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 10,
+          "Skills": 5,
+          "Agent": 4
+        }
+      }
     }
   ]
 }

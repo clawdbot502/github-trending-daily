@@ -9177,6 +9177,324 @@
           "Agent": 4
         }
       }
+    },
+    {
+      "date": "2026-08-30",
+      "generated_at": "2026-08-30T12:15:15.811Z",
+      "projects": [
+        {
+          "id": "tt-a1i/archify",
+          "name": "archify",
+          "owner": "tt-a1i",
+          "url": "https://github.com/tt-a1i/archify",
+          "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+          "ai_summary": "Archify 是一个用于生成美观、可验证的架构图、工作流、序列图、数据流和生命周期图的自包含 HTML 工具。它支持动态效果和高质量导出，基于 JavaScript 实现，提供轻量级且交互式的图表解决方案。",
+          "language": "JavaScript",
+          "stars": 32934,
+          "forks": 2073,
+          "stars_today": 3902,
+          "stars_this_week": 14875,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2597,
+            "repo_age_days": 137,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 68,
+            "pr_count": 131,
+            "star_fork_ratio": 15.89
+          },
+          "trending_days": 4,
+          "first_seen": "2026-08-27T00:00:00.000Z"
+        },
+        {
+          "id": "K-Dense-AI/scientific-agent-skills",
+          "name": "scientific-agent-skills",
+          "owner": "K-Dense-AI",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+          "ai_summary": "该项目为 AI 代理提供科学领域的技能库，包含 165 个经过验证的技能和 100+ 科学数据库，覆盖生物学、化学、医学和药物发现。基于 Python 实现，兼容多种 AI 开发工具和开放的 Agent Skills 标准。",
+          "language": "Python",
+          "stars": 38400,
+          "forks": 3599,
+          "stars_today": 1587,
+          "stars_this_week": 3642,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 317,
+            "repo_age_days": 314,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 15,
+            "pr_count": 153,
+            "star_fork_ratio": 10.67
+          },
+          "trending_days": 4,
+          "first_seen": "2026-08-27T00:00:00.000Z"
+        },
+        {
+          "id": "THU-MAIC/OpenMAIC",
+          "name": "OpenMAIC",
+          "owner": "THU-MAIC",
+          "url": "https://github.com/THU-MAIC/OpenMAIC",
+          "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+          "ai_summary": "OpenMAIC 是一个多代理交互式课堂平台，提供沉浸式学习体验。采用 TypeScript 开发，支持一键部署多代理协同教学环境。",
+          "language": "TypeScript",
+          "stars": 22934,
+          "forks": 4393,
+          "stars_today": 907,
+          "stars_this_week": 1946,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 895,
+            "repo_age_days": 172,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 212,
+            "pr_count": 727,
+            "star_fork_ratio": 5.22
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-30T00:00:00.000Z"
+        },
+        {
+          "id": "tashfeenahmed/freellmapi",
+          "name": "freellmapi",
+          "owner": "tashfeenahmed",
+          "url": "https://github.com/tashfeenahmed/freellmapi",
+          "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+          "ai_summary": "提供每月74亿token的免费LLM服务，聚合34家供应商的635个模型端点，统一通过/v1接口访问。采用智能路由、自动故障转移和密钥加密技术，支持自定义OpenAI兼容端点，仅限个人实验用途。",
+          "language": "TypeScript",
+          "stars": 22408,
+          "forks": 3128,
+          "stars_today": 622,
+          "stars_this_week": 2691,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4332,
+            "repo_age_days": 130,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 78,
+            "pr_count": 736,
+            "star_fork_ratio": 7.16
+          },
+          "trending_days": 3,
+          "first_seen": "2026-08-28T00:00:00.000Z"
+        },
+        {
+          "id": "mvanhorn/last30days-skill",
+          "name": "last30days-skill",
+          "owner": "mvanhorn",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+          "ai_summary": "AI代理技能，可跨Reddit、X、YouTube等平台研究任意主题并生成综合摘要。基于多源数据抓取与信息融合技术实现观点溯源和内容聚合。",
+          "language": "Python",
+          "stars": 60297,
+          "forks": 5287,
+          "stars_today": 272,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5786,
+            "repo_age_days": 218,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 180,
+            "pr_count": 797,
+            "star_fork_ratio": 11.4
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-30T00:00:00.000Z"
+        },
+        {
+          "id": "abhigyanpatwari/GitNexus",
+          "name": "GitNexus",
+          "owner": "abhigyanpatwari",
+          "url": "https://github.com/abhigyanpatwari/GitNexus",
+          "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
+          "ai_summary": "零服务端代码智能引擎，在浏览器端构建代码知识图谱。通过解析Git仓库或ZIP文件生成交互式图谱，集成Graph RAG代理实现代码探索，采用纯客户端计算架构。",
+          "language": "TypeScript",
+          "stars": 46436,
+          "forks": 5120,
+          "stars_today": 270,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1282,
+            "repo_age_days": 392,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 333,
+            "pr_count": 1854,
+            "star_fork_ratio": 9.07
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-30T00:00:00.000Z"
+        },
+        {
+          "id": "livekit/agents",
+          "name": "agents",
+          "owner": "livekit",
+          "url": "https://github.com/livekit/agents",
+          "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
+          "ai_summary": "这是一个构建实时语音AI代理的框架，支持语音和视频交互。采用Python开发，提供灵活的模块化设计，便于集成多种AI模型和实时通信协议。",
+          "language": "Python",
+          "stars": 13587,
+          "forks": 3646,
+          "stars_today": 254,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2211,
+            "repo_age_days": 1045,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 789,
+            "pr_count": 4903,
+            "star_fork_ratio": 3.73
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-30T00:00:00.000Z"
+        },
+        {
+          "id": "unclecode/crawl4ai",
+          "name": "crawl4ai",
+          "owner": "unclecode",
+          "url": "https://github.com/unclecode/crawl4ai",
+          "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+          "ai_summary": "这是一个专为大型语言模型优化的开源网络爬虫和抓取工具。基于Python实现，具备LLM友好的数据清洗和结构化输出能力。",
+          "language": "Python",
+          "stars": 80008,
+          "forks": 8296,
+          "stars_today": 229,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4122,
+            "repo_age_days": 843,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 174,
+            "pr_count": 718,
+            "star_fork_ratio": 9.64
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-30T00:00:00.000Z"
+        },
+        {
+          "id": "pollen-robotics/microduck_rl",
+          "name": "microduck_rl",
+          "owner": "pollen-robotics",
+          "url": "https://github.com/pollen-robotics/microduck_rl",
+          "description": "RL training environments for Microduck (mjlab)",
+          "ai_summary": "为Microduck机器人提供强化学习训练环境的工具包。使用Python构建，集成MuJoCo物理引擎，支持快速部署RL算法验证。",
+          "language": "Python",
+          "stars": 644,
+          "forks": 118,
+          "stars_today": 147,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 3766,
+            "repo_age_days": 266,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 9,
+            "pr_count": 12,
+            "star_fork_ratio": 5.46
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-30T00:00:00.000Z"
+        },
+        {
+          "id": "freestylefly/awesome-gpt-image-2",
+          "name": "awesome-gpt-image-2",
+          "owner": "freestylefly",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+          "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+          "ai_summary": "该项目是一个工业级GPT图像生成提示词引擎与模板库，提供530多个逆向工程案例和20多套工业级模板。采用Prompt as Code方法，通过系统化整理和提炼Skills实现高效提示词复用与优化。",
+          "language": "JavaScript",
+          "stars": 25394,
+          "forks": 2497,
+          "stars_today": 0,
+          "stars_this_week": 13141,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2882,
+            "repo_age_days": 127,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 20,
+            "pr_count": 15,
+            "star_fork_ratio": 10.17
+          },
+          "trending_days": 7,
+          "first_seen": "2026-08-24T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 9,
+          "Skills": 7,
+          "Agent": 6
+        }
+      }
     }
   ]
 }

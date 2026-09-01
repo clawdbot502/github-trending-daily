@@ -1,0 +1,322 @@
+{
+  "month": "2026-09",
+  "days": [
+    {
+      "date": "2026-09-01",
+      "generated_at": "2026-09-01T12:02:23.333Z",
+      "projects": [
+        {
+          "id": "THU-MAIC/OpenMAIC",
+          "name": "OpenMAIC",
+          "owner": "THU-MAIC",
+          "url": "https://github.com/THU-MAIC/OpenMAIC",
+          "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+          "ai_summary": "OpenMAIC 是一个多智能体交互式课堂平台，提供一键式沉浸式多智能体学习体验。采用 TypeScript 实现，支持多智能体协同学习与交互。",
+          "language": "TypeScript",
+          "stars": 28801,
+          "forks": 4921,
+          "stars_today": 2824,
+          "stars_this_week": 5014,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 897,
+            "repo_age_days": 174,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 238,
+            "pr_count": 756,
+            "star_fork_ratio": 5.85
+          },
+          "trending_days": 3,
+          "first_seen": "2026-08-30T00:00:00.000Z"
+        },
+        {
+          "id": "K-Dense-AI/scientific-agent-skills",
+          "name": "scientific-agent-skills",
+          "owner": "K-Dense-AI",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+          "ai_summary": "scientific-agent-skills 是一个科学领域的 AI 智能体技能库，可将任何 AI 智能体转化为科学家。基于 Python 实现，包含 165 种已验证技能和 100+ 科学数据库，覆盖生物学、化学、医学和药物发现领域。",
+          "language": "Python",
+          "stars": 41239,
+          "forks": 3799,
+          "stars_today": 1980,
+          "stars_this_week": 6248,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 319,
+            "repo_age_days": 316,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 27,
+            "pr_count": 163,
+            "star_fork_ratio": 10.86
+          },
+          "trending_days": 6,
+          "first_seen": "2026-08-27T00:00:00.000Z"
+        },
+        {
+          "id": "browser-use/video-use",
+          "name": "video-use",
+          "owner": "browser-use",
+          "url": "https://github.com/browser-use/video-use",
+          "description": "Edit videos with coding agents",
+          "ai_summary": "video-use 是一个通过编程智能体编辑视频的工具。使用 Python 实现，支持自动化视频处理和编辑任务。",
+          "language": "Python",
+          "stars": 22571,
+          "forks": 2789,
+          "stars_today": 591,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 622,
+            "repo_age_days": 142,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 79,
+            "pr_count": 92,
+            "star_fork_ratio": 8.09
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-01T00:00:00.000Z"
+        },
+        {
+          "id": "handsomestWei/patent-disclosure-skill",
+          "name": "patent-disclosure-skill",
+          "owner": "handsomestWei",
+          "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+          "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+          "ai_summary": "该项目提供中国专利点挖掘与交底书编写工具，支持发明、实用新型和外观设计专利的辅助撰写与政策分析。基于Python实现，具备专利文本解析、政策动态追踪和审查答复辅助功能。",
+          "language": "Python",
+          "stars": 6578,
+          "forks": 753,
+          "stars_today": 571,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 3120,
+            "repo_age_days": 146,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 6,
+            "pr_count": 12,
+            "star_fork_ratio": 8.74
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-31T00:00:00.000Z"
+        },
+        {
+          "id": "unclecode/crawl4ai",
+          "name": "crawl4ai",
+          "owner": "unclecode",
+          "url": "https://github.com/unclecode/crawl4ai",
+          "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+          "ai_summary": "这是一个面向大语言模型的友好型开源网络爬虫与抓取工具，旨在为AI应用提供高质量数据采集支持。采用Python开发，具备轻量级架构和LLM适配的数据清洗能力。",
+          "language": "Python",
+          "stars": 80661,
+          "forks": 8342,
+          "stars_today": 516,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4124,
+            "repo_age_days": 845,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 173,
+            "pr_count": 727,
+            "star_fork_ratio": 9.67
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-01T00:00:00.000Z"
+        },
+        {
+          "id": "affaan-m/ECC",
+          "name": "ECC",
+          "owner": "affaan-m",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "ai_summary": "该项目是面向Claude、Codex等AI编程助手的性能优化系统，提供技能管理、记忆增强和安全防护功能。基于JavaScript实现，采用模块化架构整合了代码分析、安全审计和研发辅助工具。",
+          "language": "JavaScript",
+          "stars": 245512,
+          "forks": 37070,
+          "stars_today": 512,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1305,
+            "repo_age_days": 226,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 126,
+            "pr_count": 2046,
+            "star_fork_ratio": 6.62
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-31T00:00:00.000Z"
+        },
+        {
+          "id": "jingyaogong/minimind",
+          "name": "minimind",
+          "owner": "jingyaogong",
+          "url": "https://github.com/jingyaogong/minimind",
+          "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+          "ai_summary": "该项目是一个轻量级语言模型训练框架，能在2小时内从头训练一个6400万参数的LLM。采用高效的Python实现和优化技术，显著降低了训练时间和资源需求。",
+          "language": "Python",
+          "stars": 56727,
+          "forks": 7387,
+          "stars_today": 495,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2359,
+            "repo_age_days": 766,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 59,
+            "pr_count": 113,
+            "star_fork_ratio": 7.68
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-31T00:00:00.000Z"
+        },
+        {
+          "id": "VoltAgent/awesome-design-md",
+          "name": "awesome-design-md",
+          "owner": "VoltAgent",
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+          "ai_summary": "该项目收集了流行品牌设计系统的DESIGN.md文件，用于参考和分析。通过提供标准化的设计文档模板，帮助开发者和AI代理快速生成匹配的UI界面。",
+          "language": "",
+          "stars": 112246,
+          "forks": 12747,
+          "stars_today": 487,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 549,
+            "repo_age_days": 153,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 320,
+            "pr_count": 69,
+            "star_fork_ratio": 8.81
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-01T00:00:00.000Z"
+        },
+        {
+          "id": "Imbad0202/academic-research-skills",
+          "name": "academic-research-skills",
+          "owner": "Imbad0202",
+          "url": "https://github.com/Imbad0202/academic-research-skills",
+          "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+          "ai_summary": "该项目提供了一套学术研究流程工具链，覆盖从研究到最终定稿的全过程。基于Python实现的研究-写作-评审-修改工作流，特别适配Claude代码辅助。",
+          "language": "Python",
+          "stars": 44559,
+          "forks": 3537,
+          "stars_today": 161,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 1216,
+            "repo_age_days": 187,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 19,
+            "pr_count": 452,
+            "star_fork_ratio": 12.6
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-01T00:00:00.000Z"
+        },
+        {
+          "id": "tt-a1i/archify",
+          "name": "archify",
+          "owner": "tt-a1i",
+          "url": "https://github.com/tt-a1i/archify",
+          "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+          "ai_summary": "Archify 是一个生成美观、可验证的架构图、工作流、序列图、数据流和生命周期图的代理工具。它使用 JavaScript 实现，输出自包含的 HTML 文件，支持动画效果和高质量导出。",
+          "language": "JavaScript",
+          "stars": 40855,
+          "forks": 2594,
+          "stars_today": 0,
+          "stars_this_week": 22095,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2599,
+            "repo_age_days": 139,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 89,
+            "pr_count": 156,
+            "star_fork_ratio": 15.75
+          },
+          "trending_days": 6,
+          "first_seen": "2026-08-27T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 7,
+          "Skills": 8,
+          "Agent": 6
+        }
+      }
+    }
+  ]
+}

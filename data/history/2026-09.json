@@ -953,6 +953,324 @@
           "Agent": 7
         }
       }
+    },
+    {
+      "date": "2026-09-04",
+      "generated_at": "2026-09-04T11:45:10.358Z",
+      "projects": [
+        {
+          "id": "DietrichGebert/ponytail",
+          "name": "ponytail",
+          "owner": "DietrichGebert",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+          "ai_summary": "Ponytail 是一个 AI 代理工具，旨在以最精简的方式生成代码，减少不必要的编码工作。它利用 JavaScript 实现，通过模拟资深开发者的懒惰思维，优化代码生成逻辑。",
+          "language": "JavaScript",
+          "stars": 124304,
+          "forks": 6704,
+          "stars_today": 2128,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1173,
+            "repo_age_days": 84,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 205,
+            "pr_count": 496,
+            "star_fork_ratio": 18.54
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-03T00:00:00.000Z"
+        },
+        {
+          "id": "google-research/timesfm",
+          "name": "timesfm",
+          "owner": "google-research",
+          "url": "https://github.com/google-research/timesfm",
+          "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+          "ai_summary": "TimesFM 是 Google Research 开发的时间序列预测基础模型，用于高效处理时间序列数据。该模型基于 Python 实现，采用预训练架构，适用于多种时间序列预测任务。",
+          "language": "Python",
+          "stars": 30880,
+          "forks": 2945,
+          "stars_today": 1618,
+          "stars_this_week": 2324,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2892,
+            "repo_age_days": 857,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 237,
+            "pr_count": 231,
+            "star_fork_ratio": 10.49
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-03T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "ai_summary": "Skills 是一个 Shell 脚本集合，提供工程师实用的技能工具。这些脚本直接来自作者的 .agents 目录，注重实用性和效率。",
+          "language": "Shell",
+          "stars": 248756,
+          "forks": 21064,
+          "stars_today": 1601,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3412,
+            "repo_age_days": 213,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 460,
+            "pr_count": 147,
+            "star_fork_ratio": 11.81
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-03T00:00:00.000Z"
+        },
+        {
+          "id": "blader/humanizer",
+          "name": "humanizer",
+          "owner": "blader",
+          "url": "https://github.com/blader/humanizer",
+          "description": "Agent skill that removes signs of AI-generated writing from text",
+          "ai_summary": "该项目是一个AI文本去痕迹工具，能够消除AI生成文本的典型特征。采用Python实现，通过自然语言处理技术识别并改写AI生成痕迹。",
+          "language": "Python",
+          "stars": 42105,
+          "forks": 3578,
+          "stars_today": 1208,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6762,
+            "repo_age_days": 229,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 33,
+            "pr_count": 155,
+            "star_fork_ratio": 11.77
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-03T00:00:00.000Z"
+        },
+        {
+          "id": "NousResearch/hermes-agent",
+          "name": "hermes-agent",
+          "owner": "NousResearch",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "ai_summary": "这是一个可成长的智能体系统，能够随着使用不断进化。基于Python构建，采用持续学习架构实现能力扩展。",
+          "language": "Python",
+          "stars": 241197,
+          "forks": 49438,
+          "stars_today": 774,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1202,
+            "repo_age_days": 408,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 39363,
+            "pr_count": 76300,
+            "star_fork_ratio": 4.88
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-03T00:00:00.000Z"
+        },
+        {
+          "id": "affaan-m/ECC",
+          "name": "ECC",
+          "owner": "affaan-m",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "ai_summary": "该项目是面向代码生成AI的性能优化系统，提供技能、记忆和安全增强功能。使用JavaScript开发，整合了多维度优化策略。",
+          "language": "JavaScript",
+          "stars": 247768,
+          "forks": 37339,
+          "stars_today": 751,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1307,
+            "repo_age_days": 229,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 133,
+            "pr_count": 2071,
+            "star_fork_ratio": 6.64
+          },
+          "trending_days": 5,
+          "first_seen": "2026-08-31T00:00:00.000Z"
+        },
+        {
+          "id": "JuliusBrussee/caveman",
+          "name": "caveman",
+          "owner": "JuliusBrussee",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+          "ai_summary": "该项目是一个Claude代码技能，通过简化语言表达减少65%的token使用量。采用Go语言实现，核心思路是模仿原始人简练的说话方式优化AI交互效率。",
+          "language": "Go",
+          "stars": 103348,
+          "forks": 6000,
+          "stars_today": 543,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1596,
+            "repo_age_days": 153,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 101,
+            "pr_count": 510,
+            "star_fork_ratio": 17.22
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-04T00:00:00.000Z"
+        },
+        {
+          "id": "cathrynlavery/diagram-design",
+          "name": "diagram-design",
+          "owner": "cathrynlavery",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+          "ai_summary": "提供38种可编辑的图表类型，适用于多种AI系统。基于HTML+SVG实现的自包含图表方案，摒弃阴影效果和Mermaid的复杂语法。",
+          "language": "HTML",
+          "stars": 30504,
+          "forks": 1960,
+          "stars_today": 426,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2674,
+            "repo_age_days": 140,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 39,
+            "pr_count": 124,
+            "star_fork_ratio": 15.56
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-04T00:00:00.000Z"
+        },
+        {
+          "id": "anomalyco/opencode",
+          "name": "opencode",
+          "owner": "anomalyco",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "ai_summary": "这是一个开源的编程代理工具，旨在辅助开发工作。使用TypeScript开发，提供智能化的代码生成和辅助功能。",
+          "language": "TypeScript",
+          "stars": 203717,
+          "forks": 26586,
+          "stars_today": 314,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2279,
+            "repo_age_days": 491,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 5657,
+            "pr_count": 20911,
+            "star_fork_ratio": 7.66
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-04T00:00:00.000Z"
+        },
+        {
+          "id": "anthropics/skills",
+          "name": "skills",
+          "owner": "anthropics",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "ai_summary": "该项目是一个公开的智能代理技能库，旨在为开发者提供可复用的AI代理功能模块。采用Python实现，通过模块化设计支持技能快速集成与扩展。",
+          "language": "Python",
+          "stars": 173900,
+          "forks": 20616,
+          "stars_today": 281,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2084,
+            "repo_age_days": 346,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 1207,
+            "pr_count": 1206,
+            "star_fork_ratio": 8.44
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-04T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 7,
+          "Skills": 8,
+          "Agent": 7
+        }
+      }
     }
   ]
 }

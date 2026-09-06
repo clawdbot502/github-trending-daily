@@ -1590,6 +1590,325 @@
           "Agent": 8
         }
       }
+    },
+    {
+      "date": "2026-09-06",
+      "generated_at": "2026-09-06T11:21:58.705Z",
+      "projects": [
+        {
+          "id": "DietrichGebert/ponytail",
+          "name": "ponytail",
+          "owner": "DietrichGebert",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+          "ai_summary": "Ponytail 是一个 AI 代理工具，旨在通过最小化代码量来解决问题，模仿高效开发者的思维方式。采用 JavaScript 实现，专注于代码精简和自动化决策。",
+          "language": "JavaScript",
+          "stars": 128596,
+          "forks": 6890,
+          "stars_today": 2845,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1175,
+            "repo_age_days": 86,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 221,
+            "pr_count": 511,
+            "star_fork_ratio": 18.66
+          },
+          "trending_days": 4,
+          "first_seen": "2026-09-03T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "ai_summary": "Skills 提供了一套面向实际工程师的技能工具集，直接来源于开发者的实战经验。基于 Shell 脚本实现，强调实用性和快速集成。",
+          "language": "Shell",
+          "stars": 253537,
+          "forks": 21391,
+          "stars_today": 2692,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3414,
+            "repo_age_days": 215,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 466,
+            "pr_count": 147,
+            "star_fork_ratio": 11.85
+          },
+          "trending_days": 4,
+          "first_seen": "2026-09-03T00:00:00.000Z"
+        },
+        {
+          "id": "affaan-m/ECC",
+          "name": "ECC",
+          "owner": "affaan-m",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "ai_summary": "ECC 是一个针对 AI 代码生成工具的性能优化系统，涵盖技能、记忆、安全和研究驱动的开发。使用 JavaScript 构建，支持多种主流代码生成平台。",
+          "language": "JavaScript",
+          "stars": 250436,
+          "forks": 37675,
+          "stars_today": 1314,
+          "stars_this_week": 5445,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1309,
+            "repo_age_days": 231,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 161,
+            "pr_count": 2097,
+            "star_fork_ratio": 6.65
+          },
+          "trending_days": 7,
+          "first_seen": "2026-08-31T00:00:00.000Z"
+        },
+        {
+          "id": "blader/humanizer",
+          "name": "humanizer",
+          "owner": "blader",
+          "url": "https://github.com/blader/humanizer",
+          "description": "Agent skill that removes signs of AI-generated writing from text",
+          "ai_summary": "该项目是一个去除AI生成文本痕迹的代理工具。采用Python实现，通过自然语言处理技术识别并改写AI特征明显的文本片段。",
+          "language": "Python",
+          "stars": 43819,
+          "forks": 3666,
+          "stars_today": 990,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6764,
+            "repo_age_days": 231,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 38,
+            "pr_count": 159,
+            "star_fork_ratio": 11.95
+          },
+          "trending_days": 4,
+          "first_seen": "2026-09-03T00:00:00.000Z"
+        },
+        {
+          "id": "cathrynlavery/diagram-design",
+          "name": "diagram-design",
+          "owner": "cathrynlavery",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+          "ai_summary": "提供38种面向Claude系列模型的编辑图表模板。基于纯HTML+SVG实现，无阴影依赖且避免Mermaid语法复杂性。",
+          "language": "HTML",
+          "stars": 31950,
+          "forks": 2056,
+          "stars_today": 855,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2676,
+            "repo_age_days": 142,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 32,
+            "pr_count": 128,
+            "star_fork_ratio": 15.54
+          },
+          "trending_days": 3,
+          "first_seen": "2026-09-04T00:00:00.000Z"
+        },
+        {
+          "id": "anomalyco/opencode",
+          "name": "opencode",
+          "owner": "anomalyco",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "ai_summary": "开源编程代理系统，支持自动化代码生成与处理。使用TypeScript开发，采用现代AI代理架构实现代码理解与生成。",
+          "language": "TypeScript",
+          "stars": 204909,
+          "forks": 26727,
+          "stars_today": 725,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2281,
+            "repo_age_days": 493,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 5713,
+            "pr_count": 21092,
+            "star_fork_ratio": 7.67
+          },
+          "trending_days": 3,
+          "first_seen": "2026-09-04T00:00:00.000Z"
+        },
+        {
+          "id": "magnitudedev/magnitude",
+          "name": "magnitude",
+          "owner": "magnitudedev",
+          "url": "https://github.com/magnitudedev/magnitude",
+          "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+          "ai_summary": "Magnitude 是一个开源推理服务器，旨在为用户硬件提供最佳本地模型运行环境，并与多种现有代理工具无缝集成。该项目基于 TypeScript 实现，支持包括 Pi、OpenCode 在内的多种代理框架，通过硬件适配优化实现高效推理。",
+          "language": "TypeScript",
+          "stars": 3403,
+          "forks": 245,
+          "stars_today": 674,
+          "stars_this_week": 1396,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 566,
+            "repo_age_days": 86,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 17,
+            "pr_count": 53,
+            "star_fork_ratio": 13.89
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-05T00:00:00.000Z"
+        },
+        {
+          "id": "NousResearch/hermes-agent",
+          "name": "hermes-agent",
+          "owner": "NousResearch",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "ai_summary": "Hermes-agent 是一个具备成长能力的智能代理系统，可根据使用场景动态扩展功能。采用 Python 实现，其架构设计强调模块化与可扩展性，支持通过持续学习优化代理行为。",
+          "language": "Python",
+          "stars": 242216,
+          "forks": 49779,
+          "stars_today": 575,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1204,
+            "repo_age_days": 410,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 40231,
+            "pr_count": 77337,
+            "star_fork_ratio": 4.87
+          },
+          "trending_days": 4,
+          "first_seen": "2026-09-03T00:00:00.000Z"
+        },
+        {
+          "id": "anthropics/skills",
+          "name": "skills",
+          "owner": "anthropics",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "ai_summary": "Skills 是面向智能代理的技能开源仓库，提供可复用的功能模块集合。基于 Python 开发，采用标准化接口设计，使开发者能快速集成技能到各类代理系统中。",
+          "language": "Python",
+          "stars": 174734,
+          "forks": 20684,
+          "stars_today": 475,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2086,
+            "repo_age_days": 348,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 1211,
+            "pr_count": 1211,
+            "star_fork_ratio": 8.45
+          },
+          "trending_days": 3,
+          "first_seen": "2026-09-04T00:00:00.000Z"
+        },
+        {
+          "id": "humanlayer/skills",
+          "name": "skills",
+          "owner": "humanlayer",
+          "url": "https://github.com/humanlayer/skills",
+          "description": "",
+          "ai_summary": "该项目是一个技能管理工具，帮助用户组织和追踪个人或团队的技术能力。采用TypeScript开发，提供类型安全的代码基础和模块化架构。",
+          "language": "TypeScript",
+          "stars": 2907,
+          "forks": 83,
+          "stars_today": 442,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 763,
+            "repo_age_days": 172,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 7,
+            "pr_count": 5,
+            "star_fork_ratio": 35.02
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-05T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 6,
+          "Skills": 9,
+          "Agent": 8
+        }
+      }
     }
   ]
 }

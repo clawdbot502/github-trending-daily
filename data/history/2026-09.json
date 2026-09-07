@@ -1909,6 +1909,329 @@
           "Agent": 8
         }
       }
+    },
+    {
+      "date": "2026-09-07",
+      "generated_at": "2026-09-07T13:02:19.049Z",
+      "projects": [
+        {
+          "id": "affaan-m/ECC",
+          "name": "ECC",
+          "owner": "affaan-m",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "ai_summary": "ECC是一个代理性能优化系统，专注于提升Claude Code、Codex等AI编码工具的效能。它采用JavaScript实现，整合了技能、本能、记忆与安全机制，支持研究优先的开发模式。",
+          "language": "JavaScript",
+          "stars": 252340,
+          "forks": 37872,
+          "stars_today": 1905,
+          "stars_this_week": 6394,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1311,
+            "repo_age_days": 232,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 177,
+            "pr_count": 2115,
+            "star_fork_ratio": 6.66
+          },
+          "trending_days": 8,
+          "first_seen": "2026-08-31T00:00:00.000Z"
+        },
+        {
+          "id": "ruvnet/ruflo",
+          "name": "ruflo",
+          "owner": "ruvnet",
+          "url": "https://github.com/ruvnet/ruflo",
+          "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+          "ai_summary": "Ruflo是智能多代理协同框架，用于部署自主工作流和构建对话式AI系统。基于TypeScript开发，具有自适应记忆、自学习能力和RAG集成，原生支持Claude Code等多种AI模型。",
+          "language": "TypeScript",
+          "stars": 71216,
+          "forks": 8448,
+          "stars_today": 392,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5028,
+            "repo_age_days": 461,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 943,
+            "pr_count": 1364,
+            "star_fork_ratio": 8.43
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-07T00:00:00.000Z"
+        },
+        {
+          "id": "coreyhaines31/marketingskills",
+          "name": "marketingskills",
+          "owner": "coreyhaines31",
+          "url": "https://github.com/coreyhaines31/marketingskills",
+          "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+          "ai_summary": "该项目为AI代理提供数字营销技能库，涵盖转化率优化、文案写作等核心领域。通过JavaScript实现营销工程化能力，专为Claude Code等AI工具设计。",
+          "language": "JavaScript",
+          "stars": 47849,
+          "forks": 7414,
+          "stars_today": 329,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 3179,
+            "repo_age_days": 234,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 106,
+            "pr_count": 385,
+            "star_fork_ratio": 6.45
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-07T00:00:00.000Z"
+        },
+        {
+          "id": "heygen-com/hyperframes",
+          "name": "hyperframes",
+          "owner": "heygen-com",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "ai_summary": "将 HTML 转换为视频渲染，专为自动化代理设计。基于 TypeScript 实现，提供高效的 HTML 到视频的转换能力。",
+          "language": "TypeScript",
+          "stars": 44827,
+          "forks": 4270,
+          "stars_today": 220,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2306,
+            "repo_age_days": 181,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 173,
+            "pr_count": 3369,
+            "star_fork_ratio": 10.5
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-07T00:00:00.000Z"
+        },
+        {
+          "id": "bytedance/deer-flow",
+          "name": "deer-flow",
+          "owner": "bytedance",
+          "url": "https://github.com/bytedance/deer-flow",
+          "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+          "ai_summary": "开源的长周期超级代理框架，支持研究、编码和创作任务。采用 Python 开发，集成沙盒、记忆、工具和子代理系统，处理分钟到小时级任务。",
+          "language": "Python",
+          "stars": 81690,
+          "forks": 11283,
+          "stars_today": 188,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4893,
+            "repo_age_days": 488,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 893,
+            "pr_count": 3108,
+            "star_fork_ratio": 7.24
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-07T00:00:00.000Z"
+        },
+        {
+          "id": "The-Swarm-Corporation/AutoHedge",
+          "name": "AutoHedge",
+          "owner": "The-Swarm-Corporation",
+          "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+          "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+          "ai_summary": "快速构建自主对冲基金，自动化市场分析、风险管理和交易执行。基于 Python，利用群体智能和 AI 代理技术实现高效决策。",
+          "language": "Python",
+          "stars": 5021,
+          "forks": 791,
+          "stars_today": 142,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 867,
+            "repo_age_days": 635,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 18,
+            "pr_count": 39,
+            "star_fork_ratio": 6.35
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-07T00:00:00.000Z"
+        },
+        {
+          "id": "jo-inc/camofox-browser",
+          "name": "camofox-browser",
+          "owner": "jo-inc",
+          "url": "https://github.com/jo-inc/camofox-browser",
+          "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+          "ai_summary": "Camofox 是一个用于 AI 代理的隐形无头浏览器，可绕过 Cloudflare、机器人检测和反爬虫机制。它作为 Puppeteer/Playwright 的替代方案，采用动态行为模拟和指纹混淆技术实现高隐蔽性。",
+          "language": "JavaScript",
+          "stars": 9334,
+          "forks": 1003,
+          "stars_today": 117,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 390,
+            "repo_age_days": 224,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 123,
+            "pr_count": 183,
+            "star_fork_ratio": 9.31
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-07T00:00:00.000Z"
+        },
+        {
+          "id": "lightpanda-io/browser",
+          "name": "browser",
+          "owner": "lightpanda-io",
+          "url": "https://github.com/lightpanda-io/browser",
+          "description": "Lightpanda: the headless browser designed for AI and automation",
+          "ai_summary": "Lightpanda 是为 AI 和自动化设计的无头浏览器，专注于高效执行网页操作。基于 Zig 语言开发，利用其内存安全特性和高性能并发模型实现轻量级架构。",
+          "language": "Zig",
+          "stars": 34640,
+          "forks": 1641,
+          "stars_today": 116,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 1078,
+            "repo_age_days": 1307,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 88,
+            "pr_count": 2896,
+            "star_fork_ratio": 21.11
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-07T00:00:00.000Z"
+        },
+        {
+          "id": "tt-a1i/archify",
+          "name": "archify",
+          "owner": "tt-a1i",
+          "url": "https://github.com/tt-a1i/archify",
+          "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+          "ai_summary": "Archify 是生成可验证架构图、工作流图的智能工具，支持动态展示和精准导出。通过自包含的 HTML 实现交互式可视化，结合 JavaScript 动态渲染技术保证图表清晰度与可移植性。",
+          "language": "JavaScript",
+          "stars": 51925,
+          "forks": 3392,
+          "stars_today": 0,
+          "stars_this_week": 17190,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2605,
+            "repo_age_days": 145,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 130,
+            "pr_count": 203,
+            "star_fork_ratio": 15.31
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-07T00:00:00.000Z"
+        },
+        {
+          "id": "DietrichGebert/ponytail",
+          "name": "ponytail",
+          "owner": "DietrichGebert",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+          "ai_summary": "Ponytail 是一个帮助 AI 代理以高效懒惰方式生成代码的项目，旨在减少不必要的代码编写。它利用 JavaScript 实现智能代码生成和优化，模拟资深开发者避免冗余代码的思维模式。",
+          "language": "JavaScript",
+          "stars": 130419,
+          "forks": 6990,
+          "stars_today": 0,
+          "stars_this_week": 12186,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1176,
+            "repo_age_days": 87,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 228,
+            "pr_count": 515,
+            "star_fork_ratio": 18.66
+          },
+          "trending_days": 5,
+          "first_seen": "2026-09-03T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 8,
+          "Skills": 10,
+          "Agent": 9
+        }
+      }
     }
   ]
 }

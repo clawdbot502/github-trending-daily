@@ -2232,6 +2232,324 @@
           "Agent": 9
         }
       }
+    },
+    {
+      "date": "2026-09-08",
+      "generated_at": "2026-09-08T11:45:16.490Z",
+      "projects": [
+        {
+          "id": "affaan-m/ECC",
+          "name": "ECC",
+          "owner": "affaan-m",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "ai_summary": "ECC是一个代理性能优化系统，专注于提升Claude Code、Codex等AI编码工具的技能、记忆和安全性。采用JavaScript实现，强调研究驱动的开发方法和多维度性能优化。",
+          "language": "JavaScript",
+          "stars": 253615,
+          "forks": 38039,
+          "stars_today": 1897,
+          "stars_this_week": 7735,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1311,
+            "repo_age_days": 233,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 176,
+            "pr_count": 2123,
+            "star_fork_ratio": 6.67
+          },
+          "trending_days": 9,
+          "first_seen": "2026-08-31T00:00:00.000Z"
+        },
+        {
+          "id": "cathrynlavery/diagram-design",
+          "name": "diagram-design",
+          "owner": "cathrynlavery",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+          "ai_summary": "该项目提供38种自包含的编辑图表类型，适用于Claude Code等AI工具的文档可视化。基于纯HTML+SVG实现，摒弃阴影效果和Mermaid语法依赖。",
+          "language": "HTML",
+          "stars": 33671,
+          "forks": 2152,
+          "stars_today": 1070,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2678,
+            "repo_age_days": 144,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 35,
+            "pr_count": 138,
+            "star_fork_ratio": 15.65
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-08T00:00:00.000Z"
+        },
+        {
+          "id": "coreyhaines31/marketingskills",
+          "name": "marketingskills",
+          "owner": "coreyhaines31",
+          "url": "https://github.com/coreyhaines31/marketingskills",
+          "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+          "ai_summary": "为AI代理提供营销技能训练模块，涵盖转化率优化、SEO等数字营销核心领域。通过JavaScript实现增长工程相关的自动化营销能力。",
+          "language": "JavaScript",
+          "stars": 48469,
+          "forks": 7466,
+          "stars_today": 580,
+          "stars_this_week": 1722,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 3180,
+            "repo_age_days": 235,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 106,
+            "pr_count": 385,
+            "star_fork_ratio": 6.49
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-07T00:00:00.000Z"
+        },
+        {
+          "id": "The-Swarm-Corporation/AutoHedge",
+          "name": "AutoHedge",
+          "owner": "The-Swarm-Corporation",
+          "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+          "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+          "ai_summary": "AutoHedge 是一个自动化对冲基金构建工具，通过 AI 代理和群体智能实现市场分析、风险管理和交易执行。基于 Python 技术栈，采用多智能体协作架构实现高效决策。",
+          "language": "Python",
+          "stars": 5476,
+          "forks": 829,
+          "stars_today": 517,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 868,
+            "repo_age_days": 636,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 19,
+            "pr_count": 40,
+            "star_fork_ratio": 6.61
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-07T00:00:00.000Z"
+        },
+        {
+          "id": "heygen-com/hyperframes",
+          "name": "hyperframes",
+          "owner": "heygen-com",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "ai_summary": "hyperframes 是一个将 HTML 转换为视频的渲染工具，专为 AI 代理场景设计。使用 TypeScript 实现，提供轻量级 DOM 到视频帧的实时转换能力。",
+          "language": "TypeScript",
+          "stars": 47318,
+          "forks": 4371,
+          "stars_today": 474,
+          "stars_this_week": 3811,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2307,
+            "repo_age_days": 182,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 182,
+            "pr_count": 3387,
+            "star_fork_ratio": 10.83
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-07T00:00:00.000Z"
+        },
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "superpowers 是面向智能体的技能开发框架和软件开发方法论。基于 Shell 脚本实现，采用模块化设计支持快速构建可组合的代理能力。",
+          "language": "Shell",
+          "stars": 283048,
+          "forks": 25365,
+          "stars_today": 446,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6450,
+            "repo_age_days": 333,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 341,
+            "pr_count": 1175,
+            "star_fork_ratio": 11.16
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-08T00:00:00.000Z"
+        },
+        {
+          "id": "ayghri/i-have-adhd",
+          "name": "i-have-adhd",
+          "owner": "ayghri",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+          "ai_summary": "这是一个帮助编码代理避免输出冗长答案的 Python 工具，特别适合 ADHD 用户。它通过简洁的输出格式和直接的问题解决方式优化用户体验。",
+          "language": "Python",
+          "stars": 28079,
+          "forks": 1757,
+          "stars_today": 422,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3272,
+            "repo_age_days": 117,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 28,
+            "pr_count": 94,
+            "star_fork_ratio": 15.98
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-08T00:00:00.000Z"
+        },
+        {
+          "id": "openai/skills",
+          "name": "skills",
+          "owner": "openai",
+          "url": "https://github.com/openai/skills",
+          "description": "Skills Catalog for Codex",
+          "ai_summary": "这是一个 Codex 技能目录项目，用于展示和分享各种 Codex 应用示例。项目采用 Python 实现，结构清晰，便于开发者快速查找和使用技能模板。",
+          "language": "Python",
+          "stars": 26289,
+          "forks": 1762,
+          "stars_today": 351,
+          "stars_this_week": 969,
+          "category": "hot",
+          "tags": [
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 3992,
+            "repo_age_days": 287,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 292,
+            "pr_count": 0,
+            "star_fork_ratio": 14.92
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-08T00:00:00.000Z"
+        },
+        {
+          "id": "browser-use/browser-use",
+          "name": "browser-use",
+          "owner": "browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "ai_summary": "该项目旨在让 AI 代理能够更便捷地访问和操作网站，实现自动化在线任务。基于 Python 构建，提供了一套简洁的接口和工具来模拟浏览器行为。",
+          "language": "Python",
+          "stars": 113052,
+          "forks": 12470,
+          "stars_today": 330,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 629,
+            "repo_age_days": 676,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 405,
+            "pr_count": 3645,
+            "star_fork_ratio": 9.07
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-08T00:00:00.000Z"
+        },
+        {
+          "id": "multica-ai/andrej-karpathy-skills",
+          "name": "andrej-karpathy-skills",
+          "owner": "multica-ai",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "ai_summary": "该项目通过一个CLAUDE.md文件优化Claude代码生成行为，解决LLM编码中的常见问题。基于Andrej Karpathy对大型语言模型编码缺陷的观察总结，提炼出针对性改进方案。",
+          "language": "",
+          "stars": 211071,
+          "forks": 21442,
+          "stars_today": 325,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 70,
+          "security_details": {
+            "author_age_days": 237,
+            "repo_age_days": 224,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 129,
+            "pr_count": 158,
+            "star_fork_ratio": 9.84
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-08T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 6,
+          "Skills": 9,
+          "Agent": 7
+        }
+      }
     }
   ]
 }

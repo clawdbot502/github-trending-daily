@@ -3504,6 +3504,326 @@
           "Web3": 1
         }
       }
+    },
+    {
+      "date": "2026-09-12",
+      "generated_at": "2026-09-12T11:17:02.264Z",
+      "projects": [
+        {
+          "id": "alsk1992/CloddsBot",
+          "name": "CloddsBot",
+          "owner": "alsk1992",
+          "url": "https://github.com/alsk1992/CloddsBot",
+          "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+          "ai_summary": "CloddsBot - Open Source AI trading agent that operates autonomously across 1000+ markets - P... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 2305,
+          "forks": 294,
+          "stars_today": 626,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "AI",
+            "Web3"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 615,
+            "repo_age_days": 228,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 26,
+            "pr_count": 64,
+            "star_fork_ratio": 7.84
+          },
+          "trending_days": 3,
+          "first_seen": "2026-09-10T00:00:00.000Z"
+        },
+        {
+          "id": "armory3d/armorpaint",
+          "name": "armorpaint",
+          "owner": "armory3d",
+          "url": "https://github.com/armory3d/armorpaint",
+          "description": "Graphics Creation Tools",
+          "ai_summary": "armorpaint - Graphics Creation Tools 使用 C 开发。",
+          "language": "C",
+          "stars": 4822,
+          "forks": 536,
+          "stars_today": 350,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3713,
+            "repo_age_days": 3504,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 107,
+            "pr_count": 230,
+            "star_fork_ratio": 9
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-12T00:00:00.000Z"
+        },
+        {
+          "id": "vxcontrol/pentagi",
+          "name": "pentagi",
+          "owner": "vxcontrol",
+          "url": "https://github.com/vxcontrol/pentagi",
+          "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+          "ai_summary": "pentagi - Fully autonomous AI Agents system capable of performing complex penetration test... 使用 Go 开发。",
+          "language": "Go",
+          "stars": 23054,
+          "forks": 3035,
+          "stars_today": 250,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3045,
+            "repo_age_days": 613,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 57,
+            "pr_count": 258,
+            "star_fork_ratio": 7.6
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-12T00:00:00.000Z"
+        },
+        {
+          "id": "yuliskov/SmartTube",
+          "name": "SmartTube",
+          "owner": "yuliskov",
+          "url": "https://github.com/yuliskov/SmartTube",
+          "description": "Browse media content with your own rules on Android TV",
+          "ai_summary": "SmartTube - Browse media content with your own rules on Android TV 使用 Java 开发。",
+          "language": "Java",
+          "stars": 33071,
+          "forks": 2009,
+          "stars_today": 247,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "内容创作"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4689,
+            "repo_age_days": 2236,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 710,
+            "pr_count": 1641,
+            "star_fork_ratio": 16.46
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-12T00:00:00.000Z"
+        },
+        {
+          "id": "Shubhamsaboo/awesome-llm-apps",
+          "name": "awesome-llm-apps",
+          "owner": "Shubhamsaboo",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+          "ai_summary": "awesome-llm-apps - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. 使用 Python 开发。",
+          "language": "Python",
+          "stars": 137332,
+          "forks": 20209,
+          "stars_today": 237,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3302,
+            "repo_age_days": 866,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 12,
+            "pr_count": 805,
+            "star_fork_ratio": 6.8
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-12T00:00:00.000Z"
+        },
+        {
+          "id": "asgeirtj/system_prompts_leaks",
+          "name": "system_prompts_leaks",
+          "owner": "asgeirtj",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+          "ai_summary": "system_prompts_leaks - Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Desig... 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 64978,
+          "forks": 10681,
+          "stars_today": 216,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3438,
+            "repo_age_days": 497,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 53,
+            "pr_count": 117,
+            "star_fork_ratio": 6.08
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-12T00:00:00.000Z"
+        },
+        {
+          "id": "multimodal-art-projection/YuE",
+          "name": "YuE",
+          "owner": "multimodal-art-projection",
+          "url": "https://github.com/multimodal-art-projection/YuE",
+          "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+          "ai_summary": "YuE - YuE2: frontier music generation with symbolic planning, zero-shot covers, and ag... 使用 Python 开发。",
+          "language": "Python",
+          "stars": 7007,
+          "forks": 801,
+          "stars_today": 193,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1188,
+            "repo_age_days": 597,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 10,
+            "pr_count": 29,
+            "star_fork_ratio": 8.75
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-12T00:00:00.000Z"
+        },
+        {
+          "id": "melgarafael/DeskcommCRM",
+          "name": "DeskcommCRM",
+          "owner": "melgarafael",
+          "url": "https://github.com/melgarafael/DeskcommCRM",
+          "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+          "ai_summary": "DeskcommCRM - Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 1549,
+          "forks": 514,
+          "stars_today": 152,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 70,
+          "security_details": {
+            "author_age_days": 1375,
+            "repo_age_days": 136,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 96,
+            "pr_count": 577,
+            "star_fork_ratio": 3.01
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-11T00:00:00.000Z"
+        },
+        {
+          "id": "jihe520/MathModelAgent",
+          "name": "MathModelAgent",
+          "owner": "jihe520",
+          "url": "https://github.com/jihe520/MathModelAgent",
+          "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+          "ai_summary": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+          "language": "Python",
+          "stars": 4987,
+          "forks": 396,
+          "stars_today": 129,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3141,
+            "repo_age_days": 589,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 42,
+            "pr_count": 75,
+            "star_fork_ratio": 12.59
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-11T00:00:00.000Z"
+        },
+        {
+          "id": "ayghri/i-have-adhd",
+          "name": "i-have-adhd",
+          "owner": "ayghri",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+          "ai_summary": "i-have-adhd - A skill to stop your coding agent from burying the answer. ADHD-friendly output. 使用 Python 开发。",
+          "language": "Python",
+          "stars": 42866,
+          "forks": 2438,
+          "stars_today": 0,
+          "stars_this_week": 13164,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3276,
+            "repo_age_days": 121,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 60,
+            "pr_count": 135,
+            "star_fork_ratio": 17.58
+          },
+          "trending_days": 5,
+          "first_seen": "2026-09-08T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "金融": 1,
+          "AI": 6,
+          "Web3": 1,
+          "Skills": 6,
+          "Agent": 6,
+          "内容创作": 1
+        }
+      }
     }
   ]
 }

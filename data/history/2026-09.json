@@ -3824,6 +3824,325 @@
           "内容创作": 1
         }
       }
+    },
+    {
+      "date": "2026-09-13",
+      "generated_at": "2026-09-13T12:18:38.136Z",
+      "projects": [
+        {
+          "id": "asgeirtj/system_prompts_leaks",
+          "name": "system_prompts_leaks",
+          "owner": "asgeirtj",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+          "ai_summary": "system_prompts_leaks - Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Desig... 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 65714,
+          "forks": 10777,
+          "stars_today": 727,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3439,
+            "repo_age_days": 498,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 56,
+            "pr_count": 118,
+            "star_fork_ratio": 6.1
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-12T00:00:00.000Z"
+        },
+        {
+          "id": "vxcontrol/pentagi",
+          "name": "pentagi",
+          "owner": "vxcontrol",
+          "url": "https://github.com/vxcontrol/pentagi",
+          "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+          "ai_summary": "pentagi - Fully autonomous AI Agents system capable of performing complex penetration test... 使用 Go 开发。",
+          "language": "Go",
+          "stars": 23686,
+          "forks": 3082,
+          "stars_today": 613,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3046,
+            "repo_age_days": 614,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 63,
+            "pr_count": 260,
+            "star_fork_ratio": 7.69
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-12T00:00:00.000Z"
+        },
+        {
+          "id": "SnailSploit/Claude-Red",
+          "name": "Claude-Red",
+          "owner": "SnailSploit",
+          "url": "https://github.com/SnailSploit/Claude-Red",
+          "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+          "ai_summary": "Claude-Red - claude-red is a curated library of offensive security skills designed for the Cl... 使用 Python 开发。",
+          "language": "Python",
+          "stars": 3858,
+          "forks": 570,
+          "stars_today": 507,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1736,
+            "repo_age_days": 193,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 12,
+            "pr_count": 12,
+            "star_fork_ratio": 6.77
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-13T00:00:00.000Z"
+        },
+        {
+          "id": "multimodal-art-projection/YuE",
+          "name": "YuE",
+          "owner": "multimodal-art-projection",
+          "url": "https://github.com/multimodal-art-projection/YuE",
+          "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+          "ai_summary": "YuE - YuE2: frontier music generation with symbolic planning, zero-shot covers, and ag... 使用 Python 开发。",
+          "language": "Python",
+          "stars": 7524,
+          "forks": 847,
+          "stars_today": 500,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1189,
+            "repo_age_days": 598,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 13,
+            "pr_count": 31,
+            "star_fork_ratio": 8.88
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-12T00:00:00.000Z"
+        },
+        {
+          "id": "alphaXiv/OpenResearch",
+          "name": "OpenResearch",
+          "owner": "alphaXiv",
+          "url": "https://github.com/alphaXiv/OpenResearch",
+          "description": "Run parallel research agents with any model",
+          "ai_summary": "OpenResearch - Run parallel research agents with any model 使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 1781,
+          "forks": 131,
+          "stars_today": 452,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1004,
+            "repo_age_days": 98,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 10,
+            "pr_count": 300,
+            "star_fork_ratio": 13.6
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-13T00:00:00.000Z"
+        },
+        {
+          "id": "melgarafael/DeskcommCRM",
+          "name": "DeskcommCRM",
+          "owner": "melgarafael",
+          "url": "https://github.com/melgarafael/DeskcommCRM",
+          "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+          "ai_summary": "DeskcommCRM - Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 2004,
+          "forks": 570,
+          "stars_today": 444,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 70,
+          "security_details": {
+            "author_age_days": 1376,
+            "repo_age_days": 137,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 124,
+            "pr_count": 601,
+            "star_fork_ratio": 3.52
+          },
+          "trending_days": 3,
+          "first_seen": "2026-09-11T00:00:00.000Z"
+        },
+        {
+          "id": "calesthio/OpenMontage",
+          "name": "OpenMontage",
+          "owner": "calesthio",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+          "ai_summary": "OpenMontage - World's first open-source, agentic video production system. 12 production pipeli... 使用 Python 开发。",
+          "language": "Python",
+          "stars": 58081,
+          "forks": 7319,
+          "stars_today": 383,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 477,
+            "repo_age_days": 167,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 316,
+            "pr_count": 437,
+            "star_fork_ratio": 7.94
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-13T00:00:00.000Z"
+        },
+        {
+          "id": "jihe520/MathModelAgent",
+          "name": "MathModelAgent",
+          "owner": "jihe520",
+          "url": "https://github.com/jihe520/MathModelAgent",
+          "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+          "ai_summary": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+          "language": "Python",
+          "stars": 5259,
+          "forks": 405,
+          "stars_today": 268,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3142,
+            "repo_age_days": 590,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 43,
+            "pr_count": 77,
+            "star_fork_ratio": 12.99
+          },
+          "trending_days": 3,
+          "first_seen": "2026-09-11T00:00:00.000Z"
+        },
+        {
+          "id": "alibaba/open-code-review",
+          "name": "open-code-review",
+          "owner": "alibaba",
+          "url": "https://github.com/alibaba/open-code-review",
+          "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+          "ai_summary": "open-code-review - Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code revi... 使用 Go 开发。",
+          "language": "Go",
+          "stars": 22883,
+          "forks": 1694,
+          "stars_today": 264,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5176,
+            "repo_age_days": 118,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 150,
+            "pr_count": 728,
+            "star_fork_ratio": 13.51
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-13T00:00:00.000Z"
+        },
+        {
+          "id": "yuliskov/SmartTube",
+          "name": "SmartTube",
+          "owner": "yuliskov",
+          "url": "https://github.com/yuliskov/SmartTube",
+          "description": "Browse media content with your own rules on Android TV",
+          "ai_summary": "SmartTube - Browse media content with your own rules on Android TV 使用 Java 开发。",
+          "language": "Java",
+          "stars": 33312,
+          "forks": 2021,
+          "stars_today": 238,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "内容创作"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4690,
+            "repo_age_days": 2237,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 712,
+            "pr_count": 1641,
+            "star_fork_ratio": 16.48
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-12T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 6,
+          "Skills": 8,
+          "Agent": 7,
+          "内容创作": 1
+        }
+      }
     }
   ]
 }

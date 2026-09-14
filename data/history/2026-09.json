@@ -4143,6 +4143,326 @@
           "内容创作": 1
         }
       }
+    },
+    {
+      "date": "2026-09-14",
+      "generated_at": "2026-09-14T13:22:30.642Z",
+      "projects": [
+        {
+          "id": "TauricResearch/TradingAgents",
+          "name": "TradingAgents",
+          "owner": "TauricResearch",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "ai_summary": "TradingAgents - TradingAgents: Multi-Agents LLM Financial Trading Framework 使用 Python 开发。",
+          "language": "Python",
+          "stars": 105712,
+          "forks": 20255,
+          "stars_today": 756,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "AI",
+            "Skills"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 627,
+            "repo_age_days": 625,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 387,
+            "pr_count": 811,
+            "star_fork_ratio": 5.22
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-14T00:00:00.000Z"
+        },
+        {
+          "id": "asgeirtj/system_prompts_leaks",
+          "name": "system_prompts_leaks",
+          "owner": "asgeirtj",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+          "ai_summary": "system_prompts_leaks - Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Desig... 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 66489,
+          "forks": 10846,
+          "stars_today": 706,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3440,
+            "repo_age_days": 499,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 56,
+            "pr_count": 118,
+            "star_fork_ratio": 6.13
+          },
+          "trending_days": 3,
+          "first_seen": "2026-09-12T00:00:00.000Z"
+        },
+        {
+          "id": "Panniantong/Agent-Reach",
+          "name": "Agent-Reach",
+          "owner": "Panniantong",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+          "ai_summary": "Agent-Reach - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi... 使用 Python 开发。",
+          "language": "Python",
+          "stars": 80833,
+          "forks": 7043,
+          "stars_today": 640,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2140,
+            "repo_age_days": 202,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 134,
+            "pr_count": 446,
+            "star_fork_ratio": 11.48
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-14T00:00:00.000Z"
+        },
+        {
+          "id": "SnailSploit/Claude-Red",
+          "name": "Claude-Red",
+          "owner": "SnailSploit",
+          "url": "https://github.com/SnailSploit/Claude-Red",
+          "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+          "ai_summary": "Claude-Red - claude-red is a curated library of offensive security skills designed for the Cl... 使用 Python 开发。",
+          "language": "Python",
+          "stars": 4482,
+          "forks": 612,
+          "stars_today": 506,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1737,
+            "repo_age_days": 194,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 14,
+            "pr_count": 14,
+            "star_fork_ratio": 7.32
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-13T00:00:00.000Z"
+        },
+        {
+          "id": "multimodal-art-projection/YuE",
+          "name": "YuE",
+          "owner": "multimodal-art-projection",
+          "url": "https://github.com/multimodal-art-projection/YuE",
+          "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+          "ai_summary": "YuE - YuE2: frontier music generation with symbolic planning, zero-shot covers, and ag... 使用 Python 开发。",
+          "language": "Python",
+          "stars": 8109,
+          "forks": 891,
+          "stars_today": 487,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1190,
+            "repo_age_days": 599,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 16,
+            "pr_count": 31,
+            "star_fork_ratio": 9.1
+          },
+          "trending_days": 3,
+          "first_seen": "2026-09-12T00:00:00.000Z"
+        },
+        {
+          "id": "alibaba/open-code-review",
+          "name": "open-code-review",
+          "owner": "alibaba",
+          "url": "https://github.com/alibaba/open-code-review",
+          "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+          "ai_summary": "open-code-review - Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code revi... 使用 Go 开发。",
+          "language": "Go",
+          "stars": 24620,
+          "forks": 1803,
+          "stars_today": 443,
+          "stars_this_week": 2213,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5177,
+            "repo_age_days": 119,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 149,
+            "pr_count": 736,
+            "star_fork_ratio": 13.66
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-13T00:00:00.000Z"
+        },
+        {
+          "id": "tech-leads-club/agent-skills",
+          "name": "agent-skills",
+          "owner": "tech-leads-club",
+          "url": "https://github.com/tech-leads-club/agent-skills",
+          "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+          "ai_summary": "agent-skills - The secure, validated skill registry for professional AI coding agents. Extend A... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 5915,
+          "forks": 510,
+          "stars_today": 265,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 1226,
+            "repo_age_days": 238,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 31,
+            "pr_count": 125,
+            "star_fork_ratio": 11.6
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-14T00:00:00.000Z"
+        },
+        {
+          "id": "localsend/localsend",
+          "name": "localsend",
+          "owner": "localsend",
+          "url": "https://github.com/localsend/localsend",
+          "description": "An open-source cross-platform alternative to AirDrop",
+          "ai_summary": "localsend - An open-source cross-platform alternative to AirDrop 使用 Dart 开发。",
+          "language": "Dart",
+          "stars": 91021,
+          "forks": 5080,
+          "stars_today": 213,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 1368,
+            "repo_age_days": 1368,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1114,
+            "pr_count": 1011,
+            "star_fork_ratio": 17.92
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-14T00:00:00.000Z"
+        },
+        {
+          "id": "huggingface/transformers",
+          "name": "transformers",
+          "owner": "huggingface",
+          "url": "https://github.com/huggingface/transformers",
+          "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+          "ai_summary": "transformers - 🤗 Transformers: the model-definition framework for state-of-the-art machine lea... 使用 Python 开发。",
+          "language": "Python",
+          "stars": 165812,
+          "forks": 34568,
+          "stars_today": 152,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Web3"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3501,
+            "repo_age_days": 2876,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 2441,
+            "pr_count": 28547,
+            "star_fork_ratio": 4.8
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-14T00:00:00.000Z"
+        },
+        {
+          "id": "ayghri/i-have-adhd",
+          "name": "i-have-adhd",
+          "owner": "ayghri",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+          "ai_summary": "i-have-adhd - A skill to stop your coding agent from burying the answer. ADHD-friendly output. 使用 Python 开发。",
+          "language": "Python",
+          "stars": 45031,
+          "forks": 2597,
+          "stars_today": 0,
+          "stars_this_week": 16740,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3278,
+            "repo_age_days": 123,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 67,
+            "pr_count": 145,
+            "star_fork_ratio": 17.34
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-14T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "金融": 1,
+          "AI": 8,
+          "Skills": 7,
+          "Agent": 5,
+          "Web3": 1
+        }
+      }
     }
   ]
 }

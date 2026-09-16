@@ -4785,6 +4785,326 @@
           "Agent": 10
         }
       }
+    },
+    {
+      "date": "2026-09-16",
+      "generated_at": "2026-09-16T12:06:57.357Z",
+      "projects": [
+        {
+          "id": "alibaba/open-code-review",
+          "name": "open-code-review",
+          "owner": "alibaba",
+          "url": "https://github.com/alibaba/open-code-review",
+          "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+          "ai_summary": "open-code-review - Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code revi... 使用 Go 开发。",
+          "language": "Go",
+          "stars": 30318,
+          "forks": 2159,
+          "stars_today": 2756,
+          "stars_this_week": 5169,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5179,
+            "repo_age_days": 121,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 163,
+            "pr_count": 777,
+            "star_fork_ratio": 14.04
+          },
+          "trending_days": 4,
+          "first_seen": "2026-09-13T00:00:00.000Z"
+        },
+        {
+          "id": "cloudflare/security-audit-skill",
+          "name": "security-audit-skill",
+          "owner": "cloudflare",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+          "ai_summary": "security-audit-skill - A coding-agent skill for multi-phase security audits with independently verified... 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 5505,
+          "forks": 336,
+          "stars_today": 1434,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 5927,
+            "repo_age_days": 89,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 6,
+            "pr_count": 8,
+            "star_fork_ratio": 16.38
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-16T00:00:00.000Z"
+        },
+        {
+          "id": "affaan-m/ECC",
+          "name": "ECC",
+          "owner": "affaan-m",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "ai_summary": "ECC - The agent harness performance optimization system. Skills, instincts, memory, se... 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 259715,
+          "forks": 38858,
+          "stars_today": 1046,
+          "stars_this_week": 5398,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1320,
+            "repo_age_days": 241,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 215,
+            "pr_count": 2214,
+            "star_fork_ratio": 6.68
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-16T00:00:00.000Z"
+        },
+        {
+          "id": "multimodal-art-projection/YuE",
+          "name": "YuE",
+          "owner": "multimodal-art-projection",
+          "url": "https://github.com/multimodal-art-projection/YuE",
+          "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+          "ai_summary": "YuE - YuE2: frontier music generation with symbolic planning, zero-shot covers, and ag... 使用 Python 开发。",
+          "language": "Python",
+          "stars": 9153,
+          "forks": 993,
+          "stars_today": 701,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1192,
+            "repo_age_days": 601,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 25,
+            "pr_count": 36,
+            "star_fork_ratio": 9.22
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-16T00:00:00.000Z"
+        },
+        {
+          "id": "SnailSploit/Claude-Red",
+          "name": "Claude-Red",
+          "owner": "SnailSploit",
+          "url": "https://github.com/SnailSploit/Claude-Red",
+          "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+          "ai_summary": "Claude-Red - claude-red is a curated library of offensive security skills designed for the Cl... 使用 Python 开发。",
+          "language": "Python",
+          "stars": 5521,
+          "forks": 715,
+          "stars_today": 699,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1739,
+            "repo_age_days": 196,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 18,
+            "pr_count": 16,
+            "star_fork_ratio": 7.72
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-16T00:00:00.000Z"
+        },
+        {
+          "id": "Tencent/WeKnora",
+          "name": "WeKnora",
+          "owner": "Tencent",
+          "url": "https://github.com/Tencent/WeKnora",
+          "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+          "ai_summary": "WeKnora - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an ... 使用 Go 开发。",
+          "language": "Go",
+          "stars": 24841,
+          "forks": 3441,
+          "stars_today": 696,
+          "stars_this_week": 1892,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3807,
+            "repo_age_days": 421,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 650,
+            "pr_count": 2170,
+            "star_fork_ratio": 7.22
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-16T00:00:00.000Z"
+        },
+        {
+          "id": "alphaXiv/OpenResearch",
+          "name": "OpenResearch",
+          "owner": "alphaXiv",
+          "url": "https://github.com/alphaXiv/OpenResearch",
+          "description": "Turn your coding agents into research agents",
+          "ai_summary": "OpenResearch - Turn your coding agents into research agents 使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 3906,
+          "forks": 248,
+          "stars_today": 531,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1007,
+            "repo_age_days": 101,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 30,
+            "pr_count": 334,
+            "star_fork_ratio": 15.75
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-15T00:00:00.000Z"
+        },
+        {
+          "id": "jamiepine/voicebox",
+          "name": "voicebox",
+          "owner": "jamiepine",
+          "url": "https://github.com/jamiepine/voicebox",
+          "description": "The open-source AI voice studio. Clone, dictate, create.",
+          "ai_summary": "voicebox - The open-source AI voice studio. Clone, dictate, create. 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 54072,
+          "forks": 6771,
+          "stars_today": 409,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 3251,
+            "repo_age_days": 233,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 693,
+            "pr_count": 380,
+            "star_fork_ratio": 7.99
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-16T00:00:00.000Z"
+        },
+        {
+          "id": "addyosmani/agent-skills",
+          "name": "agent-skills",
+          "owner": "addyosmani",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "ai_summary": "agent-skills - Production-grade engineering skills for AI coding agents. 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 95127,
+          "forks": 10087,
+          "stars_today": 307,
+          "stars_this_week": 1766,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 6254,
+            "repo_age_days": 212,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 128,
+            "pr_count": 404,
+            "star_fork_ratio": 9.43
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-15T00:00:00.000Z"
+        },
+        {
+          "id": "anthropics/claude-code",
+          "name": "claude-code",
+          "owner": "anthropics",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+          "ai_summary": "claude-code - Claude Code is an agentic coding tool that lives in your terminal, understands y... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 145261,
+          "forks": 23394,
+          "stars_today": 155,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2096,
+            "repo_age_days": 570,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 12419,
+            "pr_count": 1286,
+            "star_fork_ratio": 6.21
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-16T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 7,
+          "Skills": 9,
+          "Agent": 8
+        }
+      }
     }
   ]
 }

@@ -5105,6 +5105,328 @@
           "Agent": 8
         }
       }
+    },
+    {
+      "date": "2026-09-17",
+      "generated_at": "2026-09-17T12:07:37.809Z",
+      "projects": [
+        {
+          "id": "cloudflare/security-audit-skill",
+          "name": "security-audit-skill",
+          "owner": "cloudflare",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+          "ai_summary": "security-audit-skill - A coding-agent skill for multi-phase security audits with independently verified... 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 9098,
+          "forks": 490,
+          "stars_today": 3606,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5928,
+            "repo_age_days": 90,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 17,
+            "pr_count": 16,
+            "star_fork_ratio": 18.57
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-16T00:00:00.000Z"
+        },
+        {
+          "id": "alibaba/open-code-review",
+          "name": "open-code-review",
+          "owner": "alibaba",
+          "url": "https://github.com/alibaba/open-code-review",
+          "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+          "ai_summary": "open-code-review - Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code revi... 使用 Go 开发。",
+          "language": "Go",
+          "stars": 33572,
+          "forks": 2391,
+          "stars_today": 3290,
+          "stars_this_week": 8594,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5180,
+            "repo_age_days": 122,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 181,
+            "pr_count": 808,
+            "star_fork_ratio": 14.04
+          },
+          "trending_days": 5,
+          "first_seen": "2026-09-13T00:00:00.000Z"
+        },
+        {
+          "id": "Tencent/BrowserSkill",
+          "name": "BrowserSkill",
+          "owner": "Tencent",
+          "url": "https://github.com/Tencent/BrowserSkill",
+          "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+          "ai_summary": "BrowserSkill - Let AI agents use your real, logged-in browser without interrupting your work. C... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 3603,
+          "forks": 252,
+          "stars_today": 1350,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3808,
+            "repo_age_days": 87,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 47,
+            "pr_count": 171,
+            "star_fork_ratio": 14.3
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-17T00:00:00.000Z"
+        },
+        {
+          "id": "affaan-m/ECC",
+          "name": "ECC",
+          "owner": "affaan-m",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "ai_summary": "ECC - The agent harness performance optimization system. Skills, instincts, memory, se... 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 260817,
+          "forks": 39036,
+          "stars_today": 1173,
+          "stars_this_week": 5292,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1321,
+            "repo_age_days": 242,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 219,
+            "pr_count": 2221,
+            "star_fork_ratio": 6.68
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-16T00:00:00.000Z"
+        },
+        {
+          "id": "Tencent/WeKnora",
+          "name": "WeKnora",
+          "owner": "Tencent",
+          "url": "https://github.com/Tencent/WeKnora",
+          "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+          "ai_summary": "WeKnora - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an ... 使用 Go 开发。",
+          "language": "Go",
+          "stars": 25952,
+          "forks": 3532,
+          "stars_today": 1123,
+          "stars_this_week": 3034,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3808,
+            "repo_age_days": 422,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 663,
+            "pr_count": 2202,
+            "star_fork_ratio": 7.35
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-16T00:00:00.000Z"
+        },
+        {
+          "id": "alphaXiv/OpenResearch",
+          "name": "OpenResearch",
+          "owner": "alphaXiv",
+          "url": "https://github.com/alphaXiv/OpenResearch",
+          "description": "Turn your coding agents into research agents",
+          "ai_summary": "OpenResearch - Turn your coding agents into research agents 使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 4836,
+          "forks": 290,
+          "stars_today": 940,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1008,
+            "repo_age_days": 102,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 37,
+            "pr_count": 346,
+            "star_fork_ratio": 16.68
+          },
+          "trending_days": 3,
+          "first_seen": "2026-09-15T00:00:00.000Z"
+        },
+        {
+          "id": "addyosmani/agent-skills",
+          "name": "agent-skills",
+          "owner": "addyosmani",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "ai_summary": "agent-skills - Production-grade engineering skills for AI coding agents. 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 95787,
+          "forks": 10129,
+          "stars_today": 680,
+          "stars_this_week": 2119,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 6255,
+            "repo_age_days": 213,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 127,
+            "pr_count": 404,
+            "star_fork_ratio": 9.46
+          },
+          "trending_days": 3,
+          "first_seen": "2026-09-15T00:00:00.000Z"
+        },
+        {
+          "id": "jamiepine/voicebox",
+          "name": "voicebox",
+          "owner": "jamiepine",
+          "url": "https://github.com/jamiepine/voicebox",
+          "description": "The open-source AI voice studio. Clone, dictate, create.",
+          "ai_summary": "voicebox - The open-source AI voice studio. Clone, dictate, create. 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 54727,
+          "forks": 6805,
+          "stars_today": 665,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 3252,
+            "repo_age_days": 234,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 698,
+            "pr_count": 382,
+            "star_fork_ratio": 8.04
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-16T00:00:00.000Z"
+        },
+        {
+          "id": "anthropics/claude-code",
+          "name": "claude-code",
+          "owner": "anthropics",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+          "ai_summary": "claude-code - Claude Code is an agentic coding tool that lives in your terminal, understands y... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 145762,
+          "forks": 23517,
+          "stars_today": 538,
+          "stars_this_week": 938,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2097,
+            "repo_age_days": 571,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 12444,
+            "pr_count": 1288,
+            "star_fork_ratio": 6.2
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-16T00:00:00.000Z"
+        },
+        {
+          "id": "TencentCloud/Octop",
+          "name": "Octop",
+          "owner": "TencentCloud",
+          "url": "https://github.com/TencentCloud/Octop",
+          "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+          "ai_summary": "Octop - A smarter, self-hosted AI assistant — multi-user, multi-agent. 使用 Python 开发。",
+          "language": "Python",
+          "stars": 3213,
+          "forks": 339,
+          "stars_today": 396,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3738,
+            "repo_age_days": 70,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 231,
+            "pr_count": 475,
+            "star_fork_ratio": 9.48
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-17T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "Skills": 9,
+          "Agent": 9,
+          "AI": 8
+        }
+      }
     }
   ]
 }

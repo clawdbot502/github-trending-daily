@@ -5427,6 +5427,325 @@
           "AI": 8
         }
       }
+    },
+    {
+      "date": "2026-09-18",
+      "generated_at": "2026-09-18T11:51:52.199Z",
+      "projects": [
+        {
+          "id": "cloudflare/security-audit-skill",
+          "name": "security-audit-skill",
+          "owner": "cloudflare",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+          "ai_summary": "security-audit-skill - A coding-agent skill for multi-phase security audits with independently verified... 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 11838,
+          "forks": 642,
+          "stars_today": 3607,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5929,
+            "repo_age_days": 91,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 32,
+            "pr_count": 26,
+            "star_fork_ratio": 18.44
+          },
+          "trending_days": 3,
+          "first_seen": "2026-09-16T00:00:00.000Z"
+        },
+        {
+          "id": "alibaba/open-code-review",
+          "name": "open-code-review",
+          "owner": "alibaba",
+          "url": "https://github.com/alibaba/open-code-review",
+          "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+          "ai_summary": "open-code-review - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c... 使用 Go 开发。",
+          "language": "Go",
+          "stars": 36133,
+          "forks": 2570,
+          "stars_today": 3286,
+          "stars_this_week": 11489,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5181,
+            "repo_age_days": 123,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 219,
+            "pr_count": 854,
+            "star_fork_ratio": 14.06
+          },
+          "trending_days": 6,
+          "first_seen": "2026-09-13T00:00:00.000Z"
+        },
+        {
+          "id": "Tencent/BrowserSkill",
+          "name": "BrowserSkill",
+          "owner": "Tencent",
+          "url": "https://github.com/Tencent/BrowserSkill",
+          "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+          "ai_summary": "BrowserSkill - Let AI agents use your real, logged-in browser without interrupting your work. C... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 4856,
+          "forks": 342,
+          "stars_today": 1302,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3809,
+            "repo_age_days": 88,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 53,
+            "pr_count": 176,
+            "star_fork_ratio": 14.2
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-17T00:00:00.000Z"
+        },
+        {
+          "id": "affaan-m/ECC",
+          "name": "ECC",
+          "owner": "affaan-m",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "ai_summary": "ECC - The agent harness performance optimization system. Skills, instincts, memory, se... 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 261542,
+          "forks": 39145,
+          "stars_today": 1171,
+          "stars_this_week": 5607,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1321,
+            "repo_age_days": 243,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 227,
+            "pr_count": 2228,
+            "star_fork_ratio": 6.68
+          },
+          "trending_days": 3,
+          "first_seen": "2026-09-16T00:00:00.000Z"
+        },
+        {
+          "id": "addyosmani/agent-skills",
+          "name": "agent-skills",
+          "owner": "addyosmani",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "ai_summary": "agent-skills - Production-grade engineering skills for AI coding agents. 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 96148,
+          "forks": 10168,
+          "stars_today": 680,
+          "stars_this_week": 2560,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 6256,
+            "repo_age_days": 214,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 108,
+            "pr_count": 404,
+            "star_fork_ratio": 9.46
+          },
+          "trending_days": 4,
+          "first_seen": "2026-09-15T00:00:00.000Z"
+        },
+        {
+          "id": "supabase/supabase",
+          "name": "supabase",
+          "owner": "supabase",
+          "url": "https://github.com/supabase/supabase",
+          "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+          "ai_summary": "supabase - The Postgres development platform. Supabase gives you a dedicated Postgres datab... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 109957,
+          "forks": 14214,
+          "stars_today": 586,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2582,
+            "repo_age_days": 2533,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1131,
+            "pr_count": 24497,
+            "star_fork_ratio": 7.74
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-18T00:00:00.000Z"
+        },
+        {
+          "id": "anthropics/claude-code",
+          "name": "claude-code",
+          "owner": "anthropics",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+          "ai_summary": "claude-code - Claude Code is an agentic coding tool that lives in your terminal, understands y... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 146052,
+          "forks": 23695,
+          "stars_today": 538,
+          "stars_this_week": 1294,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2098,
+            "repo_age_days": 572,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 12427,
+            "pr_count": 1290,
+            "star_fork_ratio": 6.16
+          },
+          "trending_days": 3,
+          "first_seen": "2026-09-16T00:00:00.000Z"
+        },
+        {
+          "id": "TencentCloud/Octop",
+          "name": "Octop",
+          "owner": "TencentCloud",
+          "url": "https://github.com/TencentCloud/Octop",
+          "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+          "ai_summary": "Octop - A smarter, self-hosted AI assistant — multi-user, multi-agent. 使用 Python 开发。",
+          "language": "Python",
+          "stars": 3767,
+          "forks": 395,
+          "stars_today": 367,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3739,
+            "repo_age_days": 71,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 234,
+            "pr_count": 488,
+            "star_fork_ratio": 9.54
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-17T00:00:00.000Z"
+        },
+        {
+          "id": "Fission-AI/OpenSpec",
+          "name": "OpenSpec",
+          "owner": "Fission-AI",
+          "url": "https://github.com/Fission-AI/OpenSpec",
+          "description": "Spec-driven development (SDD) for AI coding assistants.",
+          "ai_summary": "OpenSpec - Spec-driven development (SDD) for AI coding assistants. 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 69060,
+          "forks": 4736,
+          "stars_today": 298,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 552,
+            "repo_age_days": 409,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 231,
+            "pr_count": 1010,
+            "star_fork_ratio": 14.58
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-18T00:00:00.000Z"
+        },
+        {
+          "id": "anthropics/knowledge-work-plugins",
+          "name": "knowledge-work-plugins",
+          "owner": "anthropics",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+          "ai_summary": "knowledge-work-plugins - Open source repository of plugins primarily intended for knowledge workers to us... 使用 Python 开发。",
+          "language": "Python",
+          "stars": 24709,
+          "forks": 2957,
+          "stars_today": 287,
+          "stars_this_week": 488,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2098,
+            "repo_age_days": 237,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 92,
+            "pr_count": 1106,
+            "star_fork_ratio": 8.36
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-18T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "Skills": 7,
+          "Agent": 7,
+          "AI": 9
+        }
+      }
     }
   ]
 }

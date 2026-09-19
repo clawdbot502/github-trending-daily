@@ -5746,6 +5746,322 @@
           "AI": 9
         }
       }
+    },
+    {
+      "date": "2026-09-19",
+      "generated_at": "2026-09-19T11:35:01.958Z",
+      "projects": [
+        {
+          "id": "cloudflare/security-audit-skill",
+          "name": "security-audit-skill",
+          "owner": "cloudflare",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+          "ai_summary": "security-audit-skill - A coding-agent skill for multi-phase security audits with independently verified... 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 14933,
+          "forks": 815,
+          "stars_today": 3006,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5930,
+            "repo_age_days": 92,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 37,
+            "pr_count": 30,
+            "star_fork_ratio": 18.32
+          },
+          "trending_days": 4,
+          "first_seen": "2026-09-16T00:00:00.000Z"
+        },
+        {
+          "id": "addyosmani/agent-skills",
+          "name": "agent-skills",
+          "owner": "addyosmani",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "ai_summary": "agent-skills - Production-grade engineering skills for AI coding agents. 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 96662,
+          "forks": 10209,
+          "stars_today": 675,
+          "stars_this_week": 3051,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 6257,
+            "repo_age_days": 215,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 111,
+            "pr_count": 406,
+            "star_fork_ratio": 9.47
+          },
+          "trending_days": 5,
+          "first_seen": "2026-09-15T00:00:00.000Z"
+        },
+        {
+          "id": "coder/coder",
+          "name": "coder",
+          "owner": "coder",
+          "url": "https://github.com/coder/coder",
+          "description": "Secure environments for developers and their agents",
+          "ai_summary": "coder - Secure environments for developers and their agents 使用 Go 开发。",
+          "language": "Go",
+          "stars": 15437,
+          "forks": 1509,
+          "stars_today": 478,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 1743,
+            "repo_age_days": 1732,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1047,
+            "pr_count": 21591,
+            "star_fork_ratio": 10.23
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-19T00:00:00.000Z"
+        },
+        {
+          "id": "Open-Dev-Society/OpenStock",
+          "name": "OpenStock",
+          "owner": "Open-Dev-Society",
+          "url": "https://github.com/Open-Dev-Society/OpenStock",
+          "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+          "ai_summary": "OpenStock - OpenStock is an open-source alternative to expensive market platforms. Track rea... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 15693,
+          "forks": 2053,
+          "stars_today": 477,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 778,
+            "repo_age_days": 355,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 29,
+            "pr_count": 50,
+            "star_fork_ratio": 7.64
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-19T00:00:00.000Z"
+        },
+        {
+          "id": "anthropics/claude-code",
+          "name": "claude-code",
+          "owner": "anthropics",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+          "ai_summary": "claude-code - Claude Code is an agentic coding tool that lives in your terminal, understands y... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 146511,
+          "forks": 23831,
+          "stars_today": 444,
+          "stars_this_week": 1620,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2099,
+            "repo_age_days": 573,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 12365,
+            "pr_count": 1295,
+            "star_fork_ratio": 6.15
+          },
+          "trending_days": 4,
+          "first_seen": "2026-09-16T00:00:00.000Z"
+        },
+        {
+          "id": "trycua/cua",
+          "name": "cua",
+          "owner": "trycua",
+          "url": "https://github.com/trycua/cua",
+          "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+          "ai_summary": "cua - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks... 使用 HTML 开发。",
+          "language": "HTML",
+          "stars": 23862,
+          "forks": 1651,
+          "stars_today": 383,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 649,
+            "repo_age_days": 595,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1013,
+            "pr_count": 2868,
+            "star_fork_ratio": 14.45
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-19T00:00:00.000Z"
+        },
+        {
+          "id": "higgsfield-ai/higgsfield",
+          "name": "higgsfield",
+          "owner": "higgsfield-ai",
+          "url": "https://github.com/higgsfield-ai/higgsfield",
+          "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+          "ai_summary": "higgsfield - Fault-tolerant, highly scalable GPU orchestration, and a machine learning framew... 使用 Jupyter Notebook 开发。",
+          "language": "Jupyter Notebook",
+          "stars": 4672,
+          "forks": 871,
+          "stars_today": 325,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1087,
+            "repo_age_days": 3037,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 12,
+            "pr_count": 19,
+            "star_fork_ratio": 5.36
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-19T00:00:00.000Z"
+        },
+        {
+          "id": "anthropics/knowledge-work-plugins",
+          "name": "knowledge-work-plugins",
+          "owner": "anthropics",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+          "ai_summary": "knowledge-work-plugins - Open source repository of plugins primarily intended for knowledge workers to us... 使用 Python 开发。",
+          "language": "Python",
+          "stars": 24974,
+          "forks": 2979,
+          "stars_today": 299,
+          "stars_this_week": 776,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2099,
+            "repo_age_days": 238,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 88,
+            "pr_count": 1117,
+            "star_fork_ratio": 8.38
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-18T00:00:00.000Z"
+        },
+        {
+          "id": "cactus-compute/needle",
+          "name": "needle",
+          "owner": "cactus-compute",
+          "url": "https://github.com/cactus-compute/needle",
+          "description": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.",
+          "ai_summary": "needle - Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, struct... 使用 Python 开发。",
+          "language": "Python",
+          "stars": 11400,
+          "forks": 727,
+          "stars_today": 207,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 599,
+            "repo_age_days": 207,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 38,
+            "pr_count": 76,
+            "star_fork_ratio": 15.68
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-19T00:00:00.000Z"
+        },
+        {
+          "id": "alibaba/open-code-review",
+          "name": "open-code-review",
+          "owner": "alibaba",
+          "url": "https://github.com/alibaba/open-code-review",
+          "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+          "ai_summary": "open-code-review - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c... 使用 Go 开发。",
+          "language": "Go",
+          "stars": 37157,
+          "forks": 2651,
+          "stars_today": 0,
+          "stars_this_week": 14144,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5182,
+            "repo_age_days": 124,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 222,
+            "pr_count": 873,
+            "star_fork_ratio": 14.02
+          },
+          "trending_days": 7,
+          "first_seen": "2026-09-13T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "Skills": 6,
+          "Agent": 5,
+          "AI": 7,
+          "金融": 1
+        }
+      }
     }
   ]
 }

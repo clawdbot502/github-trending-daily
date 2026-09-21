@@ -6381,6 +6381,322 @@
           "金融": 1
         }
       }
+    },
+    {
+      "date": "2026-09-21",
+      "generated_at": "2026-09-21T13:22:37.506Z",
+      "projects": [
+        {
+          "id": "Open-Dev-Society/OpenStock",
+          "name": "OpenStock",
+          "owner": "Open-Dev-Society",
+          "url": "https://github.com/Open-Dev-Society/OpenStock",
+          "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+          "ai_summary": "OpenStock - OpenStock is an open-source alternative to expensive market platforms. Track rea... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 17319,
+          "forks": 2163,
+          "stars_today": 843,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 780,
+            "repo_age_days": 357,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 29,
+            "pr_count": 52,
+            "star_fork_ratio": 8.01
+          },
+          "trending_days": 3,
+          "first_seen": "2026-09-19T00:00:00.000Z"
+        },
+        {
+          "id": "trycua/cua",
+          "name": "cua",
+          "owner": "trycua",
+          "url": "https://github.com/trycua/cua",
+          "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+          "ai_summary": "cua - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks... 使用 HTML 开发。",
+          "language": "HTML",
+          "stars": 25500,
+          "forks": 1754,
+          "stars_today": 609,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 651,
+            "repo_age_days": 597,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1033,
+            "pr_count": 2890,
+            "star_fork_ratio": 14.54
+          },
+          "trending_days": 3,
+          "first_seen": "2026-09-19T00:00:00.000Z"
+        },
+        {
+          "id": "BuilderIO/agent-native",
+          "name": "agent-native",
+          "owner": "BuilderIO",
+          "url": "https://github.com/BuilderIO/agent-native",
+          "description": "A framework for building agentic apps",
+          "ai_summary": "agent-native - A framework for building agentic apps 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 5617,
+          "forks": 521,
+          "stars_today": 607,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3163,
+            "repo_age_days": 192,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 79,
+            "pr_count": 4861,
+            "star_fork_ratio": 10.78
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-21T00:00:00.000Z"
+        },
+        {
+          "id": "coder/coder",
+          "name": "coder",
+          "owner": "coder",
+          "url": "https://github.com/coder/coder",
+          "description": "Secure environments for developers and their agents",
+          "ai_summary": "coder - Secure environments for developers and their agents 使用 Go 开发。",
+          "language": "Go",
+          "stars": 16277,
+          "forks": 1558,
+          "stars_today": 461,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 1745,
+            "repo_age_days": 1734,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1080,
+            "pr_count": 21637,
+            "star_fork_ratio": 10.45
+          },
+          "trending_days": 3,
+          "first_seen": "2026-09-19T00:00:00.000Z"
+        },
+        {
+          "id": "zhouxiaoka/autoclip",
+          "name": "autoclip",
+          "owner": "zhouxiaoka",
+          "url": "https://github.com/zhouxiaoka/autoclip",
+          "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+          "ai_summary": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+          "language": "Python",
+          "stars": 8024,
+          "forks": 1556,
+          "stars_today": 395,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2063,
+            "repo_age_days": 440,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 12,
+            "pr_count": 38,
+            "star_fork_ratio": 5.16
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-21T00:00:00.000Z"
+        },
+        {
+          "id": "Crosstalk-Solutions/project-nomad",
+          "name": "project-nomad",
+          "owner": "Crosstalk-Solutions",
+          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+          "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+          "ai_summary": "project-nomad - Project NOMAD is an offline-first knowledge and education server. Wikipedia, tho... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 37610,
+          "forks": 3751,
+          "stars_today": 360,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 1584,
+            "repo_age_days": 453,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 97,
+            "pr_count": 647,
+            "star_fork_ratio": 10.03
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-21T00:00:00.000Z"
+        },
+        {
+          "id": "yynxxxxx/Codex-X",
+          "name": "Codex-X",
+          "owner": "yynxxxxx",
+          "url": "https://github.com/yynxxxxx/Codex-X",
+          "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+          "ai_summary": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+          "language": "Rust",
+          "stars": 3596,
+          "forks": 455,
+          "stars_today": 210,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 75,
+          "security_details": {
+            "author_age_days": 1169,
+            "repo_age_days": 79,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 11,
+            "pr_count": 7,
+            "star_fork_ratio": 7.9
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-21T00:00:00.000Z"
+        },
+        {
+          "id": "akitaonrails/ai-memory",
+          "name": "ai-memory",
+          "owner": "akitaonrails",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+          "ai_summary": "ai-memory - Solution for long term memory for agent coding CLIs and to facilitate handoff be... 使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 7444,
+          "forks": 512,
+          "stars_today": 114,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6767,
+            "repo_age_days": 122,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 15,
+            "pr_count": 547,
+            "star_fork_ratio": 14.54
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-21T00:00:00.000Z"
+        },
+        {
+          "id": "alibaba/open-code-review",
+          "name": "open-code-review",
+          "owner": "alibaba",
+          "url": "https://github.com/alibaba/open-code-review",
+          "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+          "ai_summary": "open-code-review - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c... 使用 Go 开发。",
+          "language": "Go",
+          "stars": 38926,
+          "forks": 2782,
+          "stars_today": 0,
+          "stars_this_week": 15504,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5184,
+            "repo_age_days": 126,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 222,
+            "pr_count": 922,
+            "star_fork_ratio": 13.99
+          },
+          "trending_days": 9,
+          "first_seen": "2026-09-13T00:00:00.000Z"
+        },
+        {
+          "id": "cloudflare/security-audit-skill",
+          "name": "security-audit-skill",
+          "owner": "cloudflare",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+          "ai_summary": "security-audit-skill - A coding-agent skill for multi-phase security audits with independently verified... 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 18648,
+          "forks": 1049,
+          "stars_today": 0,
+          "stars_this_week": 14864,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5932,
+            "repo_age_days": 94,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 46,
+            "pr_count": 34,
+            "star_fork_ratio": 17.78
+          },
+          "trending_days": 6,
+          "first_seen": "2026-09-16T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "金融": 1,
+          "AI": 7,
+          "Skills": 6,
+          "Agent": 5
+        }
+      }
     }
   ]
 }

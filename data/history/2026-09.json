@@ -6697,6 +6697,327 @@
           "Agent": 5
         }
       }
+    },
+    {
+      "date": "2026-09-22",
+      "generated_at": "2026-09-22T12:03:43.671Z",
+      "projects": [
+        {
+          "id": "google/ax",
+          "name": "ax",
+          "owner": "google",
+          "url": "https://github.com/google/ax",
+          "description": "Google's open agentic orchestration runtime",
+          "ai_summary": "ax - Google's open agentic orchestration runtime 使用 Go 开发。",
+          "language": "Go",
+          "stars": 6774,
+          "forks": 319,
+          "stars_today": 2324,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5361,
+            "repo_age_days": 175,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 21,
+            "pr_count": 185,
+            "star_fork_ratio": 21.24
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-22T00:00:00.000Z"
+        },
+        {
+          "id": "agent-substrate/substrate",
+          "name": "substrate",
+          "owner": "agent-substrate",
+          "url": "https://github.com/agent-substrate/substrate",
+          "description": "Agent Substrate: the core system",
+          "ai_summary": "substrate - Agent Substrate: the core system 使用 Go 开发。",
+          "language": "Go",
+          "stars": 2689,
+          "forks": 366,
+          "stars_today": 498,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 70,
+          "security_details": {
+            "author_age_days": 145,
+            "repo_age_days": 131,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 513,
+            "pr_count": 1177,
+            "star_fork_ratio": 7.35
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-22T00:00:00.000Z"
+        },
+        {
+          "id": "dream-num/univer",
+          "name": "univer",
+          "owner": "dream-num",
+          "url": "https://github.com/dream-num/univer",
+          "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+          "ai_summary": "univer - The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relationa... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 14916,
+          "forks": 1352,
+          "stars_today": 202,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2401,
+            "repo_age_days": 1453,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 137,
+            "pr_count": 5171,
+            "star_fork_ratio": 11.03
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-22T00:00:00.000Z"
+        },
+        {
+          "id": "superdesigndev/treg",
+          "name": "treg",
+          "owner": "superdesigndev",
+          "url": "https://github.com/superdesigndev/treg",
+          "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+          "ai_summary": "treg - OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn 使用 Python 开发。",
+          "language": "Python",
+          "stars": 1975,
+          "forks": 206,
+          "stars_today": 197,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 459,
+            "repo_age_days": 68,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 81,
+            "pr_count": 602,
+            "star_fork_ratio": 9.59
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-22T00:00:00.000Z"
+        },
+        {
+          "id": "browser-use/video-use",
+          "name": "video-use",
+          "owner": "browser-use",
+          "url": "https://github.com/browser-use/video-use",
+          "description": "Edit videos with coding agents",
+          "ai_summary": "video-use - Edit videos with coding agents 使用 Python 开发。",
+          "language": "Python",
+          "stars": 25511,
+          "forks": 3095,
+          "stars_today": 155,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 643,
+            "repo_age_days": 163,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 114,
+            "pr_count": 127,
+            "star_fork_ratio": 8.24
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-22T00:00:00.000Z"
+        },
+        {
+          "id": "cloudflare/security-audit-skill",
+          "name": "security-audit-skill",
+          "owner": "cloudflare",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+          "ai_summary": "security-audit-skill - A coding-agent skill for multi-phase security audits with independently verified... 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 19651,
+          "forks": 1105,
+          "stars_today": 0,
+          "stars_this_week": 15675,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5933,
+            "repo_age_days": 95,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 48,
+            "pr_count": 35,
+            "star_fork_ratio": 17.78
+          },
+          "trending_days": 7,
+          "first_seen": "2026-09-16T00:00:00.000Z"
+        },
+        {
+          "id": "alibaba/open-code-review",
+          "name": "open-code-review",
+          "owner": "alibaba",
+          "url": "https://github.com/alibaba/open-code-review",
+          "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+          "ai_summary": "open-code-review - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c... 使用 Go 开发。",
+          "language": "Go",
+          "stars": 39506,
+          "forks": 2831,
+          "stars_today": 0,
+          "stars_this_week": 14499,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5185,
+            "repo_age_days": 127,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 217,
+            "pr_count": 933,
+            "star_fork_ratio": 13.95
+          },
+          "trending_days": 10,
+          "first_seen": "2026-09-13T00:00:00.000Z"
+        },
+        {
+          "id": "affaan-m/ECC",
+          "name": "ECC",
+          "owner": "affaan-m",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "ai_summary": "ECC - The agent harness performance optimization system. Skills, instincts, memory, se... 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 265047,
+          "forks": 39595,
+          "stars_today": 0,
+          "stars_this_week": 6865,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1326,
+            "repo_age_days": 247,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 208,
+            "pr_count": 2265,
+            "star_fork_ratio": 6.69
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-22T00:00:00.000Z"
+        },
+        {
+          "id": "stablyai/orca",
+          "name": "orca",
+          "owner": "stablyai",
+          "url": "https://github.com/stablyai/orca",
+          "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+          "ai_summary": "orca - Orca is the ADE for working with a fleet of parallel agents. Run any coding agen... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 75163,
+          "forks": 4916,
+          "stars_today": 0,
+          "stars_this_week": 6125,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 1294,
+            "repo_age_days": 189,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 6505,
+            "pr_count": 16031,
+            "star_fork_ratio": 15.29
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-22T00:00:00.000Z"
+        },
+        {
+          "id": "Tencent/WeKnora",
+          "name": "WeKnora",
+          "owner": "Tencent",
+          "url": "https://github.com/Tencent/WeKnora",
+          "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+          "ai_summary": "WeKnora - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an ... 使用 Go 开发。",
+          "language": "Go",
+          "stars": 28785,
+          "forks": 3868,
+          "stars_today": 0,
+          "stars_this_week": 5455,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3813,
+            "repo_age_days": 427,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 599,
+            "pr_count": 2345,
+            "star_fork_ratio": 7.44
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-22T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "Skills": 10,
+          "Agent": 10,
+          "AI": 5
+        }
+      }
     }
   ]
 }

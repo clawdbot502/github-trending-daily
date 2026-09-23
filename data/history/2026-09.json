@@ -7018,6 +7018,324 @@
           "AI": 5
         }
       }
+    },
+    {
+      "date": "2026-09-23",
+      "generated_at": "2026-09-23T12:14:34.622Z",
+      "projects": [
+        {
+          "id": "google/ax",
+          "name": "ax",
+          "owner": "google",
+          "url": "https://github.com/google/ax",
+          "description": "Google's open agentic orchestration runtime",
+          "ai_summary": "ax - Google's open agentic orchestration runtime 使用 Go 开发。",
+          "language": "Go",
+          "stars": 8328,
+          "forks": 383,
+          "stars_today": 2305,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5362,
+            "repo_age_days": 176,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 36,
+            "pr_count": 185,
+            "star_fork_ratio": 21.74
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-22T00:00:00.000Z"
+        },
+        {
+          "id": "Open-Dev-Society/OpenStock",
+          "name": "OpenStock",
+          "owner": "Open-Dev-Society",
+          "url": "https://github.com/Open-Dev-Society/OpenStock",
+          "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+          "ai_summary": "OpenStock - OpenStock is an open-source alternative to expensive market platforms. Track rea... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 18556,
+          "forks": 2271,
+          "stars_today": 832,
+          "stars_this_week": 4009,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 782,
+            "repo_age_days": 359,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 39,
+            "pr_count": 58,
+            "star_fork_ratio": 8.17
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-23T00:00:00.000Z"
+        },
+        {
+          "id": "BuilderIO/agent-native",
+          "name": "agent-native",
+          "owner": "BuilderIO",
+          "url": "https://github.com/BuilderIO/agent-native",
+          "description": "A framework for building agentic apps",
+          "ai_summary": "agent-native - A framework for building agentic apps 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 6368,
+          "forks": 575,
+          "stars_today": 609,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3165,
+            "repo_age_days": 194,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 81,
+            "pr_count": 4990,
+            "star_fork_ratio": 11.07
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-23T00:00:00.000Z"
+        },
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "superpowers - An agentic skills framework & software development methodology that works. 使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 290435,
+          "forks": 25986,
+          "stars_today": 528,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6465,
+            "repo_age_days": 348,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 398,
+            "pr_count": 1261,
+            "star_fork_ratio": 11.18
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-23T00:00:00.000Z"
+        },
+        {
+          "id": "pbakaus/impeccable",
+          "name": "impeccable",
+          "owner": "pbakaus",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description": "The design language that makes your AI harness better at design.",
+          "ai_summary": "impeccable - The design language that makes your AI harness better at design. 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 70073,
+          "forks": 4259,
+          "stars_today": 287,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6477,
+            "repo_age_days": 311,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 41,
+            "pr_count": 517,
+            "star_fork_ratio": 16.45
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-23T00:00:00.000Z"
+        },
+        {
+          "id": "dream-num/univer",
+          "name": "univer",
+          "owner": "dream-num",
+          "url": "https://github.com/dream-num/univer",
+          "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+          "ai_summary": "univer - The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relationa... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 16054,
+          "forks": 1420,
+          "stars_today": 255,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2402,
+            "repo_age_days": 1455,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 138,
+            "pr_count": 5174,
+            "star_fork_ratio": 11.31
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-22T00:00:00.000Z"
+        },
+        {
+          "id": "agent-substrate/substrate",
+          "name": "substrate",
+          "owner": "agent-substrate",
+          "url": "https://github.com/agent-substrate/substrate",
+          "description": "Agent Substrate: the core system",
+          "ai_summary": "substrate - Agent Substrate: the core system 使用 Go 开发。",
+          "language": "Go",
+          "stars": 3253,
+          "forks": 397,
+          "stars_today": 245,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 70,
+          "security_details": {
+            "author_age_days": 146,
+            "repo_age_days": 132,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 525,
+            "pr_count": 1199,
+            "star_fork_ratio": 8.19
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-22T00:00:00.000Z"
+        },
+        {
+          "id": "superdesigndev/treg",
+          "name": "treg",
+          "owner": "superdesigndev",
+          "url": "https://github.com/superdesigndev/treg",
+          "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+          "ai_summary": "treg - OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn 使用 Python 开发。",
+          "language": "Python",
+          "stars": 2481,
+          "forks": 230,
+          "stars_today": 230,
+          "stars_this_week": 1023,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 460,
+            "repo_age_days": 69,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 71,
+            "pr_count": 617,
+            "star_fork_ratio": 10.79
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-22T00:00:00.000Z"
+        },
+        {
+          "id": "browser-use/video-use",
+          "name": "video-use",
+          "owner": "browser-use",
+          "url": "https://github.com/browser-use/video-use",
+          "description": "Edit videos with coding agents",
+          "ai_summary": "video-use - Edit videos with coding agents 使用 Python 开发。",
+          "language": "Python",
+          "stars": 26248,
+          "forks": 3146,
+          "stars_today": 191,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 644,
+            "repo_age_days": 164,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 116,
+            "pr_count": 128,
+            "star_fork_ratio": 8.34
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-22T00:00:00.000Z"
+        },
+        {
+          "id": "TNT-Likely/PanWatch",
+          "name": "PanWatch",
+          "owner": "TNT-Likely",
+          "url": "https://github.com/TNT-Likely/PanWatch",
+          "description": "盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送",
+          "ai_summary": "盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送",
+          "language": "Python",
+          "stars": 1366,
+          "forks": 287,
+          "stars_today": 175,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "AI",
+            "Skills"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 4359,
+            "repo_age_days": 242,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 63,
+            "pr_count": 66,
+            "star_fork_ratio": 4.76
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-23T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "Skills": 8,
+          "Agent": 7,
+          "金融": 2,
+          "AI": 4
+        }
+      }
     }
   ]
 }

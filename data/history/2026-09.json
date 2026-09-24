@@ -7336,6 +7336,325 @@
           "AI": 4
         }
       }
+    },
+    {
+      "date": "2026-09-24",
+      "generated_at": "2026-09-24T12:14:07.992Z",
+      "projects": [
+        {
+          "id": "vectorize-io/hindsight",
+          "name": "hindsight",
+          "owner": "vectorize-io",
+          "url": "https://github.com/vectorize-io/hindsight",
+          "description": "Hindsight: Agent Memory That Learns",
+          "ai_summary": "hindsight - Hindsight: Agent Memory That Learns 使用 Python 开发。",
+          "language": "Python",
+          "stars": 26936,
+          "forks": 2532,
+          "stars_today": 1607,
+          "stars_this_week": 3181,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2000,
+            "repo_age_days": 329,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 168,
+            "pr_count": 3429,
+            "star_fork_ratio": 10.64
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-24T00:00:00.000Z"
+        },
+        {
+          "id": "google/ax",
+          "name": "ax",
+          "owner": "google",
+          "url": "https://github.com/google/ax",
+          "description": "Google's open agentic orchestration runtime",
+          "ai_summary": "ax - Google's open agentic orchestration runtime 使用 Go 开发。",
+          "language": "Go",
+          "stars": 9687,
+          "forks": 476,
+          "stars_today": 1376,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5363,
+            "repo_age_days": 177,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 39,
+            "pr_count": 189,
+            "star_fork_ratio": 20.35
+          },
+          "trending_days": 3,
+          "first_seen": "2026-09-22T00:00:00.000Z"
+        },
+        {
+          "id": "dream-num/univer",
+          "name": "univer",
+          "owner": "dream-num",
+          "url": "https://github.com/dream-num/univer",
+          "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+          "ai_summary": "univer - The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relationa... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 17101,
+          "forks": 1495,
+          "stars_today": 1060,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2403,
+            "repo_age_days": 1456,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 140,
+            "pr_count": 5178,
+            "star_fork_ratio": 11.44
+          },
+          "trending_days": 3,
+          "first_seen": "2026-09-22T00:00:00.000Z"
+        },
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "superpowers - An agentic skills framework & software development methodology that works. 使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 290989,
+          "forks": 26034,
+          "stars_today": 606,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6466,
+            "repo_age_days": 349,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 399,
+            "pr_count": 1261,
+            "star_fork_ratio": 11.18
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-23T00:00:00.000Z"
+        },
+        {
+          "id": "superdesigndev/treg",
+          "name": "treg",
+          "owner": "superdesigndev",
+          "url": "https://github.com/superdesigndev/treg",
+          "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+          "ai_summary": "treg - OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn 使用 Python 开发。",
+          "language": "Python",
+          "stars": 2949,
+          "forks": 251,
+          "stars_today": 470,
+          "stars_this_week": 1067,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 461,
+            "repo_age_days": 70,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 79,
+            "pr_count": 642,
+            "star_fork_ratio": 11.75
+          },
+          "trending_days": 3,
+          "first_seen": "2026-09-22T00:00:00.000Z"
+        },
+        {
+          "id": "strands-agents/harness-sdk",
+          "name": "harness-sdk",
+          "owner": "strands-agents",
+          "url": "https://github.com/strands-agents/harness-sdk",
+          "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+          "ai_summary": "harness-sdk - Build an agent harness and control it end-to-end. Open-source SDK for production... 使用 Python 开发。",
+          "language": "Python",
+          "stars": 8076,
+          "forks": 1217,
+          "stars_today": 463,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 516,
+            "repo_age_days": 497,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 814,
+            "pr_count": 2806,
+            "star_fork_ratio": 6.64
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-24T00:00:00.000Z"
+        },
+        {
+          "id": "HKUDS/CLI-Anything",
+          "name": "CLI-Anything",
+          "owner": "HKUDS",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+          "ai_summary": "CLI-Anything - \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything... 使用 Python 开发。",
+          "language": "Python",
+          "stars": 50147,
+          "forks": 4609,
+          "stars_today": 415,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 1410,
+            "repo_age_days": 199,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 105,
+            "pr_count": 337,
+            "star_fork_ratio": 10.88
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-24T00:00:00.000Z"
+        },
+        {
+          "id": "rohitg00/ai-engineering-from-scratch",
+          "name": "ai-engineering-from-scratch",
+          "owner": "rohitg00",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "ai_summary": "ai-engineering-from-scratch - Learn it. Build it. Ship it for others. 使用 Python 开发。",
+          "language": "Python",
+          "stars": 55925,
+          "forks": 9871,
+          "stars_today": 310,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2751,
+            "repo_age_days": 189,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 40,
+            "pr_count": 374,
+            "star_fork_ratio": 5.67
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-24T00:00:00.000Z"
+        },
+        {
+          "id": "alibaba/open-code-review",
+          "name": "open-code-review",
+          "owner": "alibaba",
+          "url": "https://github.com/alibaba/open-code-review",
+          "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+          "ai_summary": "open-code-review - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c... 使用 Go 开发。",
+          "language": "Go",
+          "stars": 40495,
+          "forks": 2912,
+          "stars_today": 0,
+          "stars_this_week": 9833,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5187,
+            "repo_age_days": 129,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 216,
+            "pr_count": 951,
+            "star_fork_ratio": 13.91
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-24T00:00:00.000Z"
+        },
+        {
+          "id": "affaan-m/ECC",
+          "name": "ECC",
+          "owner": "affaan-m",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "ai_summary": "ECC - The agent harness performance optimization system. Skills, instincts, memory, se... 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 266470,
+          "forks": 39828,
+          "stars_today": 0,
+          "stars_this_week": 6695,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1328,
+            "repo_age_days": 249,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 224,
+            "pr_count": 2273,
+            "star_fork_ratio": 6.69
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-24T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "Skills": 9,
+          "Agent": 9,
+          "AI": 5
+        }
+      }
     }
   ]
 }

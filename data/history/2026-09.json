@@ -7972,6 +7972,324 @@
           "AI": 5
         }
       }
+    },
+    {
+      "date": "2026-09-26",
+      "generated_at": "2026-09-26T11:49:33.113Z",
+      "projects": [
+        {
+          "id": "paperclipai/paperclip",
+          "name": "paperclip",
+          "owner": "paperclipai",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "ai_summary": "paperclip - The open-source app everyone uses to manage agents at work 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 85914,
+          "forks": 15312,
+          "stars_today": 2109,
+          "stars_this_week": 2616,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 75,
+          "security_details": {
+            "author_age_days": 210,
+            "repo_age_days": 207,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 5724,
+            "pr_count": 10540,
+            "star_fork_ratio": 5.61
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-25T00:00:00.000Z"
+        },
+        {
+          "id": "vectorize-io/hindsight",
+          "name": "hindsight",
+          "owner": "vectorize-io",
+          "url": "https://github.com/vectorize-io/hindsight",
+          "description": "Hindsight: Agent Memory That Learns",
+          "ai_summary": "hindsight - Hindsight: Agent Memory That Learns 使用 Python 开发。",
+          "language": "Python",
+          "stars": 30605,
+          "forks": 3301,
+          "stars_today": 1653,
+          "stars_this_week": 4869,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2002,
+            "repo_age_days": 331,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 140,
+            "pr_count": 3500,
+            "star_fork_ratio": 9.27
+          },
+          "trending_days": 3,
+          "first_seen": "2026-09-24T00:00:00.000Z"
+        },
+        {
+          "id": "rohitg00/ai-engineering-from-scratch",
+          "name": "ai-engineering-from-scratch",
+          "owner": "rohitg00",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "ai_summary": "ai-engineering-from-scratch - Learn it. Build it. Ship it for others. 使用 Python 开发。",
+          "language": "Python",
+          "stars": 57884,
+          "forks": 10058,
+          "stars_today": 1177,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2753,
+            "repo_age_days": 191,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 46,
+            "pr_count": 383,
+            "star_fork_ratio": 5.76
+          },
+          "trending_days": 3,
+          "first_seen": "2026-09-24T00:00:00.000Z"
+        },
+        {
+          "id": "dream-num/univer",
+          "name": "univer",
+          "owner": "dream-num",
+          "url": "https://github.com/dream-num/univer",
+          "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+          "ai_summary": "univer - The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relationa... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 18942,
+          "forks": 1615,
+          "stars_today": 1050,
+          "stars_this_week": 3928,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2405,
+            "repo_age_days": 1457,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 146,
+            "pr_count": 5183,
+            "star_fork_ratio": 11.73
+          },
+          "trending_days": 5,
+          "first_seen": "2026-09-22T00:00:00.000Z"
+        },
+        {
+          "id": "zhaoxuya520/reverse-skill",
+          "name": "reverse-skill",
+          "owner": "zhaoxuya520",
+          "url": "https://github.com/zhaoxuya520/reverse-skill",
+          "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+          "ai_summary": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, …",
+          "language": "PowerShell",
+          "stars": 37717,
+          "forks": 5242,
+          "stars_today": 409,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1085,
+            "repo_age_days": 135,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 22,
+            "pr_count": 105,
+            "star_fork_ratio": 7.2
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-26T00:00:00.000Z"
+        },
+        {
+          "id": "NVIDIA/Model-Optimizer",
+          "name": "Model-Optimizer",
+          "owner": "NVIDIA",
+          "url": "https://github.com/NVIDIA/Model-Optimizer",
+          "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+          "ai_summary": "Model-Optimizer - A unified library of SOTA model optimization techniques like quantization, disti... 使用 Python 开发。",
+          "language": "Python",
+          "stars": 4592,
+          "forks": 656,
+          "stars_today": 359,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "量化",
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5251,
+            "repo_age_days": 885,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 419,
+            "pr_count": 2083,
+            "star_fork_ratio": 7
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-26T00:00:00.000Z"
+        },
+        {
+          "id": "mobile-next/mobile-mcp",
+          "name": "mobile-mcp",
+          "owner": "mobile-next",
+          "url": "https://github.com/mobile-next/mobile-mcp",
+          "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
+          "ai_summary": "mobile-mcp - Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, ... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 7058,
+          "forks": 627,
+          "stars_today": 143,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 546,
+            "repo_age_days": 546,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 43,
+            "pr_count": 257,
+            "star_fork_ratio": 11.26
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-26T00:00:00.000Z"
+        },
+        {
+          "id": "cloudflare/security-audit-skill",
+          "name": "security-audit-skill",
+          "owner": "cloudflare",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+          "ai_summary": "security-audit-skill - A coding-agent skill for multi-phase security audits with independently verified... 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 21824,
+          "forks": 1258,
+          "stars_today": 0,
+          "stars_this_week": 9547,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5937,
+            "repo_age_days": 99,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 50,
+            "pr_count": 36,
+            "star_fork_ratio": 17.35
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-26T00:00:00.000Z"
+        },
+        {
+          "id": "stablyai/orca",
+          "name": "orca",
+          "owner": "stablyai",
+          "url": "https://github.com/stablyai/orca",
+          "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+          "ai_summary": "orca - Orca is the ADE for working with a fleet of parallel agents. Run any coding agen... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 78618,
+          "forks": 5139,
+          "stars_today": 0,
+          "stars_this_week": 6537,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 1298,
+            "repo_age_days": 193,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 6959,
+            "pr_count": 16635,
+            "star_fork_ratio": 15.3
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-26T00:00:00.000Z"
+        },
+        {
+          "id": "affaan-m/ECC",
+          "name": "ECC",
+          "owner": "affaan-m",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "ai_summary": "ECC - The agent harness performance optimization system. Skills, instincts, memory, se... 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 267716,
+          "forks": 39989,
+          "stars_today": 0,
+          "stars_this_week": 6037,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1329,
+            "repo_age_days": 251,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 235,
+            "pr_count": 2281,
+            "star_fork_ratio": 6.69
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-26T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "Skills": 8,
+          "Agent": 6,
+          "AI": 6,
+          "量化": 1
+        }
+      }
     }
   ]
 }

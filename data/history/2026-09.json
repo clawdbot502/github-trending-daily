@@ -8603,6 +8603,323 @@
           "量化": 1
         }
       }
+    },
+    {
+      "date": "2026-09-28",
+      "generated_at": "2026-09-28T14:30:53.085Z",
+      "projects": [
+        {
+          "id": "vectorize-io/hindsight",
+          "name": "hindsight",
+          "owner": "vectorize-io",
+          "url": "https://github.com/vectorize-io/hindsight",
+          "description": "Hindsight: Agent Memory That Learns",
+          "ai_summary": "hindsight - Hindsight: Agent Memory That Learns 使用 Python 开发。",
+          "language": "Python",
+          "stars": 39958,
+          "forks": 5336,
+          "stars_today": 4413,
+          "stars_this_week": 11089,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2004,
+            "repo_age_days": 333,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 171,
+            "pr_count": 3545,
+            "star_fork_ratio": 7.49
+          },
+          "trending_days": 5,
+          "first_seen": "2026-09-24T00:00:00.000Z"
+        },
+        {
+          "id": "paperclipai/paperclip",
+          "name": "paperclip",
+          "owner": "paperclipai",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "ai_summary": "paperclip - The open-source app everyone uses to manage agents at work 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 91877,
+          "forks": 15823,
+          "stars_today": 3185,
+          "stars_this_week": 7364,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 75,
+          "security_details": {
+            "author_age_days": 212,
+            "repo_age_days": 209,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 5922,
+            "pr_count": 10726,
+            "star_fork_ratio": 5.81
+          },
+          "trending_days": 4,
+          "first_seen": "2026-09-25T00:00:00.000Z"
+        },
+        {
+          "id": "dream-num/univer",
+          "name": "univer",
+          "owner": "dream-num",
+          "url": "https://github.com/dream-num/univer",
+          "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+          "ai_summary": "univer - The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relationa... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 21006,
+          "forks": 1786,
+          "stars_today": 1105,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2407,
+            "repo_age_days": 1460,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 145,
+            "pr_count": 5200,
+            "star_fork_ratio": 11.76
+          },
+          "trending_days": 7,
+          "first_seen": "2026-09-22T00:00:00.000Z"
+        },
+        {
+          "id": "mvschwarz/openrig",
+          "name": "openrig",
+          "owner": "mvschwarz",
+          "url": "https://github.com/mvschwarz/openrig",
+          "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+          "ai_summary": "openrig - Multi-agent harness that runs Claude Code and Codex together as one system 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 1440,
+          "forks": 125,
+          "stars_today": 781,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 844,
+            "repo_age_days": 180,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 52,
+            "pr_count": 42,
+            "star_fork_ratio": 11.52
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-28T00:00:00.000Z"
+        },
+        {
+          "id": "byoungd/up",
+          "name": "up",
+          "owner": "byoungd",
+          "url": "https://github.com/byoungd/up",
+          "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
+          "ai_summary": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
+          "language": "JavaScript",
+          "stars": 64442,
+          "forks": 6500,
+          "stars_today": 310,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3951,
+            "repo_age_days": 3408,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 32,
+            "pr_count": 47,
+            "star_fork_ratio": 9.91
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-28T00:00:00.000Z"
+        },
+        {
+          "id": "stablyai/orca",
+          "name": "orca",
+          "owner": "stablyai",
+          "url": "https://github.com/stablyai/orca",
+          "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+          "ai_summary": "orca - Orca is the ADE for working with a fleet of parallel agents. Run any coding agen... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 80382,
+          "forks": 5238,
+          "stars_today": 0,
+          "stars_this_week": 6227,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 1300,
+            "repo_age_days": 195,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 6966,
+            "pr_count": 16902,
+            "star_fork_ratio": 15.35
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-28T00:00:00.000Z"
+        },
+        {
+          "id": "cloudflare/security-audit-skill",
+          "name": "security-audit-skill",
+          "owner": "cloudflare",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+          "ai_summary": "security-audit-skill - A coding-agent skill for multi-phase security audits with independently verified... 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 22587,
+          "forks": 1313,
+          "stars_today": 0,
+          "stars_this_week": 4805,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5939,
+            "repo_age_days": 102,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 51,
+            "pr_count": 37,
+            "star_fork_ratio": 17.2
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-28T00:00:00.000Z"
+        },
+        {
+          "id": "rohitg00/ai-engineering-from-scratch",
+          "name": "ai-engineering-from-scratch",
+          "owner": "rohitg00",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "ai_summary": "ai-engineering-from-scratch - Learn it. Build it. Ship it for others. 使用 Python 开发。",
+          "language": "Python",
+          "stars": 60110,
+          "forks": 10353,
+          "stars_today": 0,
+          "stars_this_week": 3850,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2755,
+            "repo_age_days": 193,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 43,
+            "pr_count": 385,
+            "star_fork_ratio": 5.81
+          },
+          "trending_days": 5,
+          "first_seen": "2026-09-24T00:00:00.000Z"
+        },
+        {
+          "id": "Tencent/WeKnora",
+          "name": "WeKnora",
+          "owner": "Tencent",
+          "url": "https://github.com/Tencent/WeKnora",
+          "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+          "ai_summary": "WeKnora - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an ... 使用 Go 开发。",
+          "language": "Go",
+          "stars": 30864,
+          "forks": 4125,
+          "stars_today": 0,
+          "stars_this_week": 2705,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3819,
+            "repo_age_days": 433,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 567,
+            "pr_count": 2523,
+            "star_fork_ratio": 7.48
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-28T00:00:00.000Z"
+        },
+        {
+          "id": "trycua/cua",
+          "name": "cua",
+          "owner": "trycua",
+          "url": "https://github.com/trycua/cua",
+          "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+          "ai_summary": "cua - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks... 使用 HTML 开发。",
+          "language": "HTML",
+          "stars": 26759,
+          "forks": 1859,
+          "stars_today": 0,
+          "stars_this_week": 1559,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 658,
+            "repo_age_days": 604,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1049,
+            "pr_count": 3083,
+            "star_fork_ratio": 14.39
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-28T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "Skills": 7,
+          "Agent": 7,
+          "AI": 7
+        }
+      }
     }
   ]
 }

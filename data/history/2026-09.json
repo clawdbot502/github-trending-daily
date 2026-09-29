@@ -8920,6 +8920,323 @@
           "AI": 7
         }
       }
+    },
+    {
+      "date": "2026-09-29",
+      "generated_at": "2026-09-29T13:20:52.932Z",
+      "projects": [
+        {
+          "id": "vectorize-io/hindsight",
+          "name": "hindsight",
+          "owner": "vectorize-io",
+          "url": "https://github.com/vectorize-io/hindsight",
+          "description": "Hindsight: Agent Memory That Learns",
+          "ai_summary": "hindsight - Hindsight: Agent Memory That Learns 使用 Python 开发。",
+          "language": "Python",
+          "stars": 42079,
+          "forks": 5644,
+          "stars_today": 2541,
+          "stars_this_week": 15537,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2005,
+            "repo_age_days": 334,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 142,
+            "pr_count": 3576,
+            "star_fork_ratio": 7.46
+          },
+          "trending_days": 6,
+          "first_seen": "2026-09-24T00:00:00.000Z"
+        },
+        {
+          "id": "paperclipai/paperclip",
+          "name": "paperclip",
+          "owner": "paperclipai",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "ai_summary": "paperclip - The open-source app everyone uses to manage agents at work 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 93972,
+          "forks": 15992,
+          "stars_today": 2412,
+          "stars_this_week": 10518,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 75,
+          "security_details": {
+            "author_age_days": 213,
+            "repo_age_days": 210,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 6041,
+            "pr_count": 10831,
+            "star_fork_ratio": 5.88
+          },
+          "trending_days": 5,
+          "first_seen": "2026-09-25T00:00:00.000Z"
+        },
+        {
+          "id": "rohitg00/ai-engineering-from-scratch",
+          "name": "ai-engineering-from-scratch",
+          "owner": "rohitg00",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "ai_summary": "ai-engineering-from-scratch - Learn it. Build it. Ship it for others. 使用 Python 开发。",
+          "language": "Python",
+          "stars": 60873,
+          "forks": 10480,
+          "stars_today": 1287,
+          "stars_this_week": 5004,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2756,
+            "repo_age_days": 194,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 55,
+            "pr_count": 391,
+            "star_fork_ratio": 5.81
+          },
+          "trending_days": 6,
+          "first_seen": "2026-09-24T00:00:00.000Z"
+        },
+        {
+          "id": "NVIDIA/OpenShell",
+          "name": "OpenShell",
+          "owner": "NVIDIA",
+          "url": "https://github.com/NVIDIA/OpenShell",
+          "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+          "ai_summary": "OpenShell - OpenShell is the safe, private runtime for autonomous AI agents. 使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 10027,
+          "forks": 1379,
+          "stars_today": 978,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5254,
+            "repo_age_days": 216,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 466,
+            "pr_count": 2239,
+            "star_fork_ratio": 7.27
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-29T00:00:00.000Z"
+        },
+        {
+          "id": "mvschwarz/openrig",
+          "name": "openrig",
+          "owner": "mvschwarz",
+          "url": "https://github.com/mvschwarz/openrig",
+          "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+          "ai_summary": "openrig - Multi-agent harness that runs Claude Code and Codex together as one system 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 2115,
+          "forks": 158,
+          "stars_today": 733,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 845,
+            "repo_age_days": 181,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 72,
+            "pr_count": 73,
+            "star_fork_ratio": 13.39
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-28T00:00:00.000Z"
+        },
+        {
+          "id": "dream-num/univer",
+          "name": "univer",
+          "owner": "dream-num",
+          "url": "https://github.com/dream-num/univer",
+          "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+          "ai_summary": "univer - The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relationa... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 21633,
+          "forks": 1828,
+          "stars_today": 692,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2408,
+            "repo_age_days": 1461,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 145,
+            "pr_count": 5215,
+            "star_fork_ratio": 11.83
+          },
+          "trending_days": 8,
+          "first_seen": "2026-09-22T00:00:00.000Z"
+        },
+        {
+          "id": "t8y2/dbx",
+          "name": "dbx",
+          "owner": "t8y2",
+          "url": "https://github.com/t8y2/dbx",
+          "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
+          "ai_summary": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Doc…",
+          "language": "Rust",
+          "stars": 21677,
+          "forks": 2074,
+          "stars_today": 460,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2073,
+            "repo_age_days": 153,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1264,
+            "pr_count": 3638,
+            "star_fork_ratio": 10.45
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-29T00:00:00.000Z"
+        },
+        {
+          "id": "willfaust/Madeira",
+          "name": "Madeira",
+          "owner": "willfaust",
+          "url": "https://github.com/willfaust/Madeira",
+          "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+          "ai_summary": "Madeira - Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT 使用 C 开发。",
+          "language": "C",
+          "stars": 1028,
+          "forks": 179,
+          "stars_today": 229,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 3064,
+            "repo_age_days": 205,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 18,
+            "pr_count": 44,
+            "star_fork_ratio": 5.74
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-29T00:00:00.000Z"
+        },
+        {
+          "id": "stablyai/orca",
+          "name": "orca",
+          "owner": "stablyai",
+          "url": "https://github.com/stablyai/orca",
+          "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+          "ai_summary": "orca - Orca is the ADE for working with a fleet of parallel agents. Run any coding agen... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 81283,
+          "forks": 5287,
+          "stars_today": 0,
+          "stars_this_week": 6151,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 1301,
+            "repo_age_days": 196,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 7056,
+            "pr_count": 17062,
+            "star_fork_ratio": 15.37
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-28T00:00:00.000Z"
+        },
+        {
+          "id": "cloudflare/security-audit-skill",
+          "name": "security-audit-skill",
+          "owner": "cloudflare",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+          "ai_summary": "security-audit-skill - A coding-agent skill for multi-phase security audits with independently verified... 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 23000,
+          "forks": 1341,
+          "stars_today": 0,
+          "stars_this_week": 3962,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5940,
+            "repo_age_days": 102,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 53,
+            "pr_count": 39,
+            "star_fork_ratio": 17.15
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-28T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "Skills": 7,
+          "Agent": 7,
+          "AI": 7
+        }
+      }
     }
   ]
 }

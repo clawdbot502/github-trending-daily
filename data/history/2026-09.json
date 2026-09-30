@@ -9237,6 +9237,323 @@
           "AI": 7
         }
       }
+    },
+    {
+      "date": "2026-09-30",
+      "generated_at": "2026-09-30T13:01:48.724Z",
+      "projects": [
+        {
+          "id": "NVIDIA/OpenShell",
+          "name": "OpenShell",
+          "owner": "NVIDIA",
+          "url": "https://github.com/NVIDIA/OpenShell",
+          "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+          "ai_summary": "OpenShell - OpenShell is the safe, private runtime for autonomous AI agents. 使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 11345,
+          "forks": 1474,
+          "stars_today": 1280,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5255,
+            "repo_age_days": 217,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 509,
+            "pr_count": 2278,
+            "star_fork_ratio": 7.7
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-29T00:00:00.000Z"
+        },
+        {
+          "id": "t8y2/dbx",
+          "name": "dbx",
+          "owner": "t8y2",
+          "url": "https://github.com/t8y2/dbx",
+          "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
+          "ai_summary": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Doc…",
+          "language": "Rust",
+          "stars": 22814,
+          "forks": 2124,
+          "stars_today": 1133,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2074,
+            "repo_age_days": 154,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1303,
+            "pr_count": 3687,
+            "star_fork_ratio": 10.74
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-29T00:00:00.000Z"
+        },
+        {
+          "id": "byoungd/up",
+          "name": "up",
+          "owner": "byoungd",
+          "url": "https://github.com/byoungd/up",
+          "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
+          "ai_summary": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
+          "language": "JavaScript",
+          "stars": 66138,
+          "forks": 6620,
+          "stars_today": 1102,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3953,
+            "repo_age_days": 3410,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 33,
+            "pr_count": 48,
+            "star_fork_ratio": 9.99
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-30T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "ai_summary": "skills - Skills for Real Engineers. Straight from my .agents directory. 使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 272589,
+          "forks": 22934,
+          "stars_today": 736,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3438,
+            "repo_age_days": 239,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 535,
+            "pr_count": 151,
+            "star_fork_ratio": 11.89
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-30T00:00:00.000Z"
+        },
+        {
+          "id": "DietrichGebert/ponytail",
+          "name": "ponytail",
+          "owner": "DietrichGebert",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+          "ai_summary": "ponytail - Makes your AI agent think like the laziest senior dev in the room. The best code... 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 148643,
+          "forks": 7998,
+          "stars_today": 675,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1199,
+            "repo_age_days": 110,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 318,
+            "pr_count": 614,
+            "star_fork_ratio": 18.59
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-30T00:00:00.000Z"
+        },
+        {
+          "id": "mvschwarz/openrig",
+          "name": "openrig",
+          "owner": "mvschwarz",
+          "url": "https://github.com/mvschwarz/openrig",
+          "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+          "ai_summary": "openrig - Multi-agent harness that runs Claude Code and Codex together as one system 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 2716,
+          "forks": 196,
+          "stars_today": 622,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 846,
+            "repo_age_days": 182,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 89,
+            "pr_count": 105,
+            "star_fork_ratio": 13.86
+          },
+          "trending_days": 3,
+          "first_seen": "2026-09-28T00:00:00.000Z"
+        },
+        {
+          "id": "harry0703/MoneyPrinterTurbo",
+          "name": "MoneyPrinterTurbo",
+          "owner": "harry0703",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+          "ai_summary": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+          "language": "Python",
+          "stars": 127268,
+          "forks": 19905,
+          "stars_today": 338,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4837,
+            "repo_age_days": 933,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 40,
+            "pr_count": 633,
+            "star_fork_ratio": 6.39
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-30T00:00:00.000Z"
+        },
+        {
+          "id": "heygen-com/hyperframes",
+          "name": "hyperframes",
+          "owner": "heygen-com",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "ai_summary": "hyperframes - Write HTML. Render video. Built for agents. 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 54427,
+          "forks": 4948,
+          "stars_today": 324,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2329,
+            "repo_age_days": 204,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 186,
+            "pr_count": 4332,
+            "star_fork_ratio": 11
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-30T00:00:00.000Z"
+        },
+        {
+          "id": "openclaw/openclaw",
+          "name": "openclaw",
+          "owner": "openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+          "ai_summary": "openclaw - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 390840,
+          "forks": 82207,
+          "stars_today": 136,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 65,
+          "security_details": {
+            "author_age_days": 269,
+            "repo_age_days": 310,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 9074,
+            "pr_count": 102443,
+            "star_fork_ratio": 4.75
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-30T00:00:00.000Z"
+        },
+        {
+          "id": "ComposioHQ/awesome-claude-skills",
+          "name": "awesome-claude-skills",
+          "owner": "ComposioHQ",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "ai_summary": "awesome-claude-skills - A curated list of awesome Claude Skills, resources, and tools for customizing Cl... 使用 Python 开发。",
+          "language": "Python",
+          "stars": 75963,
+          "forks": 8867,
+          "stars_today": 118,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1289,
+            "repo_age_days": 348,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 1581,
+            "pr_count": 1812,
+            "star_fork_ratio": 8.57
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-30T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 9,
+          "Skills": 7,
+          "Agent": 5
+        }
+      }
     }
   ]
 }

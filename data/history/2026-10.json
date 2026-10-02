@@ -320,6 +320,328 @@
           "Agent": 8
         }
       }
+    },
+    {
+      "date": "2026-10-02",
+      "generated_at": "2026-10-02T13:12:42.244Z",
+      "projects": [
+        {
+          "id": "DietrichGebert/ponytail",
+          "name": "ponytail",
+          "owner": "DietrichGebert",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+          "ai_summary": "ponytail - Makes your AI agent think like the laziest senior dev in the room. The best code... 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 151192,
+          "forks": 8115,
+          "stars_today": 1429,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1201,
+            "repo_age_days": 112,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 337,
+            "pr_count": 633,
+            "star_fork_ratio": 18.63
+          },
+          "trending_days": 3,
+          "first_seen": "2026-09-30T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "ai_summary": "skills - Skills for Real Engineers. Straight from my .agents directory. 使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 274375,
+          "forks": 23051,
+          "stars_today": 955,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3440,
+            "repo_age_days": 241,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 544,
+            "pr_count": 151,
+            "star_fork_ratio": 11.9
+          },
+          "trending_days": 3,
+          "first_seen": "2026-09-30T00:00:00.000Z"
+        },
+        {
+          "id": "pbakaus/impeccable",
+          "name": "impeccable",
+          "owner": "pbakaus",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description": "The design language that makes your AI harness better at design.",
+          "ai_summary": "impeccable - The design language that makes your AI harness better at design. 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 73992,
+          "forks": 4465,
+          "stars_today": 717,
+          "stars_this_week": 2704,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6486,
+            "repo_age_days": 320,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 54,
+            "pr_count": 549,
+            "star_fork_ratio": 16.57
+          },
+          "trending_days": 2,
+          "first_seen": "2026-10-01T00:00:00.000Z"
+        },
+        {
+          "id": "mvschwarz/openrig",
+          "name": "openrig",
+          "owner": "mvschwarz",
+          "url": "https://github.com/mvschwarz/openrig",
+          "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+          "ai_summary": "openrig - Build your own network of agents from Claude Code, Codex and Pi: persistent team... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 4040,
+          "forks": 269,
+          "stars_today": 691,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 848,
+            "repo_age_days": 184,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 115,
+            "pr_count": 322,
+            "star_fork_ratio": 15.02
+          },
+          "trending_days": 5,
+          "first_seen": "2026-09-28T00:00:00.000Z"
+        },
+        {
+          "id": "Panniantong/Agent-Reach",
+          "name": "Agent-Reach",
+          "owner": "Panniantong",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+          "ai_summary": "Agent-Reach - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi... 使用 Python 开发。",
+          "language": "Python",
+          "stars": 87896,
+          "forks": 7754,
+          "stars_today": 683,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2158,
+            "repo_age_days": 220,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 174,
+            "pr_count": 477,
+            "star_fork_ratio": 11.34
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-02T00:00:00.000Z"
+        },
+        {
+          "id": "heygen-com/hyperframes",
+          "name": "hyperframes",
+          "owner": "heygen-com",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "ai_summary": "hyperframes - Write HTML. Render video. Built for agents. 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 55636,
+          "forks": 5036,
+          "stars_today": 584,
+          "stars_this_week": 2667,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2331,
+            "repo_age_days": 206,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 171,
+            "pr_count": 4457,
+            "star_fork_ratio": 11.05
+          },
+          "trending_days": 3,
+          "first_seen": "2026-09-30T00:00:00.000Z"
+        },
+        {
+          "id": "NVIDIA/OpenShell",
+          "name": "OpenShell",
+          "owner": "NVIDIA",
+          "url": "https://github.com/NVIDIA/OpenShell",
+          "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+          "ai_summary": "OpenShell - OpenShell is the safe, private runtime for autonomous AI agents. 使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 14253,
+          "forks": 1645,
+          "stars_today": 584,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5257,
+            "repo_age_days": 219,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 527,
+            "pr_count": 2364,
+            "star_fork_ratio": 8.66
+          },
+          "trending_days": 4,
+          "first_seen": "2026-09-29T00:00:00.000Z"
+        },
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "superpowers - An agentic skills framework & software development methodology that works. 使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 294225,
+          "forks": 26314,
+          "stars_today": 561,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6474,
+            "repo_age_days": 357,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 293,
+            "pr_count": 1291,
+            "star_fork_ratio": 11.18
+          },
+          "trending_days": 2,
+          "first_seen": "2026-10-01T00:00:00.000Z"
+        },
+        {
+          "id": "mksglu/context-mode",
+          "name": "context-mode",
+          "owner": "mksglu",
+          "url": "https://github.com/mksglu/context-mode",
+          "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+          "ai_summary": "context-mode - Context window optimization for AI coding agents. Sandboxes tool output (98% red... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 24925,
+          "forks": 1793,
+          "stars_today": 276,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4689,
+            "repo_age_days": 221,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 313,
+            "pr_count": 621,
+            "star_fork_ratio": 13.9
+          },
+          "trending_days": 2,
+          "first_seen": "2026-10-01T00:00:00.000Z"
+        },
+        {
+          "id": "colbymchenry/codegraph",
+          "name": "codegraph",
+          "owner": "colbymchenry",
+          "url": "https://github.com/colbymchenry/codegraph",
+          "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+          "ai_summary": "codegraph - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, C... 使用 C 开发。",
+          "language": "C",
+          "stars": 72840,
+          "forks": 4679,
+          "stars_today": 241,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3824,
+            "repo_age_days": 256,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 503,
+            "pr_count": 1468,
+            "star_fork_ratio": 15.57
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-02T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 8,
+          "Skills": 9,
+          "Agent": 9
+        }
+      }
     }
   ]
 }

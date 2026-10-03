@@ -642,6 +642,327 @@
           "Agent": 9
         }
       }
+    },
+    {
+      "date": "2026-10-03",
+      "generated_at": "2026-10-03T12:03:47.807Z",
+      "projects": [
+        {
+          "id": "Panniantong/Agent-Reach",
+          "name": "Agent-Reach",
+          "owner": "Panniantong",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+          "ai_summary": "Agent-Reach - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi... 使用 Python 开发。",
+          "language": "Python",
+          "stars": 89354,
+          "forks": 7865,
+          "stars_today": 1683,
+          "stars_this_week": 3959,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2159,
+            "repo_age_days": 221,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 195,
+            "pr_count": 495,
+            "star_fork_ratio": 11.36
+          },
+          "trending_days": 2,
+          "first_seen": "2026-10-02T00:00:00.000Z"
+        },
+        {
+          "id": "DietrichGebert/ponytail",
+          "name": "ponytail",
+          "owner": "DietrichGebert",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+          "ai_summary": "ponytail - Makes your AI agent think like the laziest senior dev in the room. The best code... 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 152386,
+          "forks": 8176,
+          "stars_today": 1289,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1202,
+            "repo_age_days": 113,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 209,
+            "pr_count": 647,
+            "star_fork_ratio": 18.64
+          },
+          "trending_days": 4,
+          "first_seen": "2026-09-30T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "ai_summary": "skills - Skills for Real Engineers. Straight from my .agents directory. 使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 275026,
+          "forks": 23083,
+          "stars_today": 750,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3441,
+            "repo_age_days": 242,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 545,
+            "pr_count": 151,
+            "star_fork_ratio": 11.91
+          },
+          "trending_days": 4,
+          "first_seen": "2026-09-30T00:00:00.000Z"
+        },
+        {
+          "id": "pbakaus/impeccable",
+          "name": "impeccable",
+          "owner": "pbakaus",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description": "The design language that makes your AI harness better at design.",
+          "ai_summary": "impeccable - The design language that makes your AI harness better at design. 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 74663,
+          "forks": 4493,
+          "stars_today": 705,
+          "stars_this_week": 3124,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6487,
+            "repo_age_days": 321,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 64,
+            "pr_count": 560,
+            "star_fork_ratio": 16.62
+          },
+          "trending_days": 3,
+          "first_seen": "2026-10-01T00:00:00.000Z"
+        },
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "superpowers - An agentic skills framework & software development methodology that works. 使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 294688,
+          "forks": 26335,
+          "stars_today": 578,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6475,
+            "repo_age_days": 358,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 298,
+            "pr_count": 1291,
+            "star_fork_ratio": 11.19
+          },
+          "trending_days": 3,
+          "first_seen": "2026-10-01T00:00:00.000Z"
+        },
+        {
+          "id": "affaan-m/ECC",
+          "name": "ECC",
+          "owner": "affaan-m",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "ai_summary": "ECC - The agent harness performance optimization system. Skills, instincts, memory, se... 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 271757,
+          "forks": 40587,
+          "stars_today": 578,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1337,
+            "repo_age_days": 258,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 340,
+            "pr_count": 2440,
+            "star_fork_ratio": 6.7
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-03T00:00:00.000Z"
+        },
+        {
+          "id": "JuliusBrussee/caveman",
+          "name": "caveman",
+          "owner": "JuliusBrussee",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+          "ai_summary": "caveman - 🪨 why use many token when few token do trick. Viral skill + proxy for coding ag... 使用 Go 开发。",
+          "language": "Go",
+          "stars": 109307,
+          "forks": 6323,
+          "stars_today": 505,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 1625,
+            "repo_age_days": 182,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 143,
+            "pr_count": 623,
+            "star_fork_ratio": 17.29
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-03T00:00:00.000Z"
+        },
+        {
+          "id": "earendil-works/pi",
+          "name": "pi",
+          "owner": "earendil-works",
+          "url": "https://github.com/earendil-works/pi",
+          "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+          "ai_summary": "pi - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 111945,
+          "forks": 14201,
+          "stars_today": 408,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 534,
+            "repo_age_days": 419,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 258,
+            "pr_count": 3331,
+            "star_fork_ratio": 7.88
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-03T00:00:00.000Z"
+        },
+        {
+          "id": "mksglu/context-mode",
+          "name": "context-mode",
+          "owner": "mksglu",
+          "url": "https://github.com/mksglu/context-mode",
+          "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+          "ai_summary": "context-mode - Context window optimization for AI coding agents. Sandboxes tool output (98% red... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 25157,
+          "forks": 1804,
+          "stars_today": 256,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4690,
+            "repo_age_days": 222,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 318,
+            "pr_count": 625,
+            "star_fork_ratio": 13.95
+          },
+          "trending_days": 3,
+          "first_seen": "2026-10-01T00:00:00.000Z"
+        },
+        {
+          "id": "jamwithai/production-agentic-rag-course",
+          "name": "production-agentic-rag-course",
+          "owner": "jamwithai",
+          "url": "https://github.com/jamwithai/production-agentic-rag-course",
+          "description": "",
+          "ai_summary": "production-agentic-rag-course - 开源项目 使用 Python 开发。",
+          "language": "Python",
+          "stars": 9274,
+          "forks": 2056,
+          "stars_today": 192,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 706,
+            "repo_age_days": 422,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 29,
+            "pr_count": 29,
+            "star_fork_ratio": 4.51
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-03T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 7,
+          "Skills": 9,
+          "Agent": 9
+        }
+      }
     }
   ]
 }

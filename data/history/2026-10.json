@@ -1603,6 +1603,323 @@
           "Agent": 9
         }
       }
+    },
+    {
+      "date": "2026-10-06",
+      "generated_at": "2026-10-06T13:38:45.698Z",
+      "projects": [
+        {
+          "id": "morluto/rea",
+          "name": "rea",
+          "owner": "morluto",
+          "url": "https://github.com/morluto/rea",
+          "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+          "ai_summary": "rea - Reverse engineer anything with agents, from app behavior down to native binaries... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 7177,
+          "forks": 798,
+          "stars_today": 2963,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2114,
+            "repo_age_days": 175,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 69,
+            "pr_count": 407,
+            "star_fork_ratio": 8.99
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-06T00:00:00.000Z"
+        },
+        {
+          "id": "DuarteSantos8/openGym",
+          "name": "openGym",
+          "owner": "DuarteSantos8",
+          "url": "https://github.com/DuarteSantos8/openGym",
+          "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+          "ai_summary": "openGym - Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, ... 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 5006,
+          "forks": 724,
+          "stars_today": 1419,
+          "stars_this_week": 2702,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 851,
+            "repo_age_days": 79,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 154,
+            "pr_count": 188,
+            "star_fork_ratio": 6.91
+          },
+          "trending_days": 2,
+          "first_seen": "2026-10-05T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "ai_summary": "skills - Skills for Real Engineers. Straight from my .agents directory. 使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 277587,
+          "forks": 23258,
+          "stars_today": 1028,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3444,
+            "repo_age_days": 245,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 419,
+            "pr_count": 167,
+            "star_fork_ratio": 11.94
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-06T00:00:00.000Z"
+        },
+        {
+          "id": "pbakaus/impeccable",
+          "name": "impeccable",
+          "owner": "pbakaus",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description": "The design language that makes your AI harness better at design.",
+          "ai_summary": "impeccable - The design language that makes your AI harness better at design. 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 77412,
+          "forks": 4609,
+          "stars_today": 947,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6490,
+            "repo_age_days": 324,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 54,
+            "pr_count": 588,
+            "star_fork_ratio": 16.8
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-06T00:00:00.000Z"
+        },
+        {
+          "id": "msitarzewski/agency-agents",
+          "name": "agency-agents",
+          "owner": "msitarzewski",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+          "ai_summary": "agency-agents - A complete AI agency at your fingertips - From frontend wizards to Reddit commun... 使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 157582,
+          "forks": 25406,
+          "stars_today": 621,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5197,
+            "repo_age_days": 358,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 184,
+            "pr_count": 761,
+            "star_fork_ratio": 6.2
+          },
+          "trending_days": 2,
+          "first_seen": "2026-10-05T00:00:00.000Z"
+        },
+        {
+          "id": "earthtojake/text-to-cad",
+          "name": "text-to-cad",
+          "owner": "earthtojake",
+          "url": "https://github.com/earthtojake/text-to-cad",
+          "description": "Give your agent CAD superpowers.",
+          "ai_summary": "text-to-cad - Give your agent CAD superpowers. 使用 Python 开发。",
+          "language": "Python",
+          "stars": 17737,
+          "forks": 1784,
+          "stars_today": 620,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4268,
+            "repo_age_days": 167,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 36,
+            "pr_count": 501,
+            "star_fork_ratio": 9.94
+          },
+          "trending_days": 2,
+          "first_seen": "2026-10-05T00:00:00.000Z"
+        },
+        {
+          "id": "thedotmack/claude-mem",
+          "name": "claude-mem",
+          "owner": "thedotmack",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+          "ai_summary": "claude-mem - Persistent Context Across Sessions for Every Agent – Captures everything your ag... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 96920,
+          "forks": 8543,
+          "stars_today": 536,
+          "stars_this_week": 1759,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5676,
+            "repo_age_days": 400,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 92,
+            "pr_count": 2122,
+            "star_fork_ratio": 11.34
+          },
+          "trending_days": 3,
+          "first_seen": "2026-10-04T00:00:00.000Z"
+        },
+        {
+          "id": "ayghri/i-have-adhd",
+          "name": "i-have-adhd",
+          "owner": "ayghri",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+          "ai_summary": "i-have-adhd - A skill to stop your coding agent from burying the answer. ADHD-friendly output. 使用 Python 开发。",
+          "language": "Python",
+          "stars": 54156,
+          "forks": 3111,
+          "stars_today": 318,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3300,
+            "repo_age_days": 145,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 81,
+            "pr_count": 171,
+            "star_fork_ratio": 17.41
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-06T00:00:00.000Z"
+        },
+        {
+          "id": "cathrynlavery/diagram-design",
+          "name": "diagram-design",
+          "owner": "cathrynlavery",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+          "ai_summary": "diagram-design - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, ... 使用 HTML 开发。",
+          "language": "HTML",
+          "stars": 43679,
+          "forks": 2830,
+          "stars_today": 227,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2706,
+            "repo_age_days": 172,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 27,
+            "pr_count": 191,
+            "star_fork_ratio": 15.43
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-06T00:00:00.000Z"
+        },
+        {
+          "id": "NVIDIA/OpenShell",
+          "name": "OpenShell",
+          "owner": "NVIDIA",
+          "url": "https://github.com/NVIDIA/OpenShell",
+          "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+          "ai_summary": "OpenShell - OpenShell is the safe, private runtime for autonomous AI agents. 使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 15064,
+          "forks": 1712,
+          "stars_today": 0,
+          "stars_this_week": 5915,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5261,
+            "repo_age_days": 223,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 530,
+            "pr_count": 2432,
+            "star_fork_ratio": 8.8
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-06T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "Skills": 7,
+          "Agent": 7,
+          "AI": 7
+        }
+      }
     }
   ]
 }

@@ -1920,6 +1920,323 @@
           "AI": 7
         }
       }
+    },
+    {
+      "date": "2026-10-07",
+      "generated_at": "2026-10-07T13:57:44.804Z",
+      "projects": [
+        {
+          "id": "morluto/rea",
+          "name": "rea",
+          "owner": "morluto",
+          "url": "https://github.com/morluto/rea",
+          "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+          "ai_summary": "rea - Reverse engineer anything with agents, from app behavior down to native binaries... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 12115,
+          "forks": 1302,
+          "stars_today": 4666,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2115,
+            "repo_age_days": 176,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 103,
+            "pr_count": 591,
+            "star_fork_ratio": 9.3
+          },
+          "trending_days": 2,
+          "first_seen": "2026-10-06T00:00:00.000Z"
+        },
+        {
+          "id": "DuarteSantos8/openGym",
+          "name": "openGym",
+          "owner": "DuarteSantos8",
+          "url": "https://github.com/DuarteSantos8/openGym",
+          "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+          "ai_summary": "openGym - Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, ... 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 6459,
+          "forks": 865,
+          "stars_today": 1494,
+          "stars_this_week": 3318,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 852,
+            "repo_age_days": 80,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 174,
+            "pr_count": 202,
+            "star_fork_ratio": 7.47
+          },
+          "trending_days": 3,
+          "first_seen": "2026-10-05T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "ai_summary": "skills - Skills for Real Engineers. Straight from my .agents directory. 使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 278978,
+          "forks": 23369,
+          "stars_today": 1406,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3445,
+            "repo_age_days": 246,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 152,
+            "pr_count": 176,
+            "star_fork_ratio": 11.94
+          },
+          "trending_days": 2,
+          "first_seen": "2026-10-06T00:00:00.000Z"
+        },
+        {
+          "id": "cathrynlavery/diagram-design",
+          "name": "diagram-design",
+          "owner": "cathrynlavery",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+          "ai_summary": "diagram-design - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, ... 使用 HTML 开发。",
+          "language": "HTML",
+          "stars": 44554,
+          "forks": 2865,
+          "stars_today": 828,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2707,
+            "repo_age_days": 173,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 90,
+            "pr_count": 229,
+            "star_fork_ratio": 15.55
+          },
+          "trending_days": 2,
+          "first_seen": "2026-10-06T00:00:00.000Z"
+        },
+        {
+          "id": "ayghri/i-have-adhd",
+          "name": "i-have-adhd",
+          "owner": "ayghri",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+          "ai_summary": "i-have-adhd - A skill to stop your coding agent from burying the answer. ADHD-friendly output. 使用 Python 开发。",
+          "language": "Python",
+          "stars": 54777,
+          "forks": 3143,
+          "stars_today": 620,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3301,
+            "repo_age_days": 146,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 72,
+            "pr_count": 172,
+            "star_fork_ratio": 17.43
+          },
+          "trending_days": 2,
+          "first_seen": "2026-10-06T00:00:00.000Z"
+        },
+        {
+          "id": "thedotmack/claude-mem",
+          "name": "claude-mem",
+          "owner": "thedotmack",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+          "ai_summary": "claude-mem - Persistent Context Across Sessions for Every Agent – Captures everything your ag... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 97464,
+          "forks": 8584,
+          "stars_today": 578,
+          "stars_this_week": 2104,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5677,
+            "repo_age_days": 401,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 109,
+            "pr_count": 2138,
+            "star_fork_ratio": 11.35
+          },
+          "trending_days": 4,
+          "first_seen": "2026-10-04T00:00:00.000Z"
+        },
+        {
+          "id": "cloudflare/security-audit-skill",
+          "name": "security-audit-skill",
+          "owner": "cloudflare",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+          "ai_summary": "security-audit-skill - A coding-agent skill for multi-phase security audits with independently verified... 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 25696,
+          "forks": 1548,
+          "stars_today": 538,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5948,
+            "repo_age_days": 110,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 55,
+            "pr_count": 42,
+            "star_fork_ratio": 16.6
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-07T00:00:00.000Z"
+        },
+        {
+          "id": "addyosmani/agent-skills",
+          "name": "agent-skills",
+          "owner": "addyosmani",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "ai_summary": "agent-skills - Production-grade engineering skills for AI coding agents. 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 102437,
+          "forks": 10735,
+          "stars_today": 453,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 6275,
+            "repo_age_days": 233,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 131,
+            "pr_count": 469,
+            "star_fork_ratio": 9.54
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-07T00:00:00.000Z"
+        },
+        {
+          "id": "trycua/cua",
+          "name": "cua",
+          "owner": "trycua",
+          "url": "https://github.com/trycua/cua",
+          "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+          "ai_summary": "cua - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks... 使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 28592,
+          "forks": 2034,
+          "stars_today": 229,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 667,
+            "repo_age_days": 613,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1160,
+            "pr_count": 3468,
+            "star_fork_ratio": 14.06
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-07T00:00:00.000Z"
+        },
+        {
+          "id": "Panniantong/Agent-Reach",
+          "name": "Agent-Reach",
+          "owner": "Panniantong",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+          "ai_summary": "Agent-Reach - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi... 使用 Python 开发。",
+          "language": "Python",
+          "stars": 92991,
+          "forks": 8145,
+          "stars_today": 0,
+          "stars_this_week": 6454,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2163,
+            "repo_age_days": 225,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 218,
+            "pr_count": 515,
+            "star_fork_ratio": 11.42
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-07T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "Skills": 7,
+          "Agent": 7,
+          "AI": 7
+        }
+      }
     }
   ]
 }

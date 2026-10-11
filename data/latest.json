@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-10",
-  "generated_at": "2026-10-10T13:04:25.897Z",
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T13:33:18.472Z",
   "projects": [
     {
       "id": "morluto/rea",
@@ -10,9 +10,9 @@
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "ai_summary": "rea - Reverse engineer anything with agents, from app behavior down to native binaries... 使用 TypeScript 开发。",
       "language": "TypeScript",
-      "stars": 61699,
-      "forks": 12405,
-      "stars_today": 25784,
+      "stars": 88546,
+      "forks": 19337,
+      "stars_today": 25585,
       "stars_this_week": 0,
       "category": "hot",
       "tags": [
@@ -21,16 +21,74 @@
       ],
       "security_score": 80,
       "security_details": {
-        "author_age_days": 2118,
-        "repo_age_days": 179,
+        "author_age_days": 2119,
+        "repo_age_days": 180,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 136,
-        "pr_count": 1018,
-        "star_fork_ratio": 4.97
+        "issue_count": 148,
+        "pr_count": 1204,
+        "star_fork_ratio": 4.58
       },
-      "trending_days": 5,
+      "trending_days": 6,
       "first_seen": "2026-10-06T00:00:00.000Z"
+    },
+    {
+      "id": "cathrynlavery/diagram-design",
+      "name": "diagram-design",
+      "owner": "cathrynlavery",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "ai_summary": "diagram-design - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory... 使用 HTML 开发。",
+      "language": "HTML",
+      "stars": 49667,
+      "forks": 3147,
+      "stars_today": 1083,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 2711,
+        "repo_age_days": 177,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 84,
+        "pr_count": 277,
+        "star_fork_ratio": 15.78
+      },
+      "trending_days": 6,
+      "first_seen": "2026-10-06T00:00:00.000Z"
+    },
+    {
+      "id": "lyogavin/airllm",
+      "name": "airllm",
+      "owner": "lyogavin",
+      "url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "ai_summary": "airllm - AirLLM 70B inference with single 4GB GPU 使用 Jupyter Notebook 开发。",
+      "language": "Jupyter Notebook",
+      "stars": 36152,
+      "forks": 3792,
+      "stars_today": 541,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 5481,
+        "repo_age_days": 1216,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 157,
+        "pr_count": 75,
+        "star_fork_ratio": 9.53
+      },
+      "trending_days": 1,
+      "first_seen": "2026-10-11T00:00:00.000Z"
     },
     {
       "id": "mattpocock/skills",
@@ -40,10 +98,10 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "ai_summary": "skills - Skills for Real Engineers. Straight from my .agents directory. 使用 Shell 开发。",
       "language": "Shell",
-      "stars": 283686,
-      "forks": 23762,
-      "stars_today": 1737,
-      "stars_this_week": 8156,
+      "stars": 285475,
+      "forks": 23901,
+      "stars_today": 0,
+      "stars_this_week": 9179,
       "category": "hot",
       "tags": [
         "AI",
@@ -52,193 +110,16 @@
       ],
       "security_score": 100,
       "security_details": {
-        "author_age_days": 3448,
-        "repo_age_days": 249,
+        "author_age_days": 3449,
+        "repo_age_days": 250,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 163,
+        "issue_count": 165,
         "pr_count": 189,
         "star_fork_ratio": 11.94
       },
-      "trending_days": 5,
-      "first_seen": "2026-10-06T00:00:00.000Z"
-    },
-    {
-      "id": "cathrynlavery/diagram-design",
-      "name": "diagram-design",
-      "owner": "cathrynlavery",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "ai_summary": "diagram-design - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, ... 使用 HTML 开发。",
-      "language": "HTML",
-      "stars": 48502,
-      "forks": 3064,
-      "stars_today": 1189,
-      "stars_this_week": 0,
-      "category": "hot",
-      "tags": [
-        "AI"
-      ],
-      "security_score": 100,
-      "security_details": {
-        "author_age_days": 2710,
-        "repo_age_days": 176,
-        "has_license": true,
-        "has_readme": true,
-        "issue_count": 82,
-        "pr_count": 275,
-        "star_fork_ratio": 15.83
-      },
-      "trending_days": 5,
-      "first_seen": "2026-10-06T00:00:00.000Z"
-    },
-    {
-      "id": "anthropics/knowledge-work-plugins",
-      "name": "knowledge-work-plugins",
-      "owner": "anthropics",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "ai_summary": "knowledge-work-plugins - Open source repository of plugins primarily intended for knowledge workers to us... 使用 Python 开发。",
-      "language": "Python",
-      "stars": 28594,
-      "forks": 3267,
-      "stars_today": 626,
-      "stars_this_week": 0,
-      "category": "hot",
-      "tags": [
-        "AI"
-      ],
-      "security_score": 95,
-      "security_details": {
-        "author_age_days": 2120,
-        "repo_age_days": 259,
-        "has_license": true,
-        "has_readme": true,
-        "issue_count": 140,
-        "pr_count": 1202,
-        "star_fork_ratio": 8.75
-      },
-      "trending_days": 3,
-      "first_seen": "2026-10-08T00:00:00.000Z"
-    },
-    {
-      "id": "hugohe3/ppt-master",
-      "name": "ppt-master",
-      "owner": "hugohe3",
-      "url": "https://github.com/hugohe3/ppt-master",
-      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
-      "ai_summary": "ppt-master - AI turns documents or topics into real, native PowerPoint decks—with native shap... 使用 Python 开发。",
-      "language": "Python",
-      "stars": 59019,
-      "forks": 4659,
-      "stars_today": 372,
-      "stars_this_week": 0,
-      "category": "hot",
-      "tags": [
-        "AI"
-      ],
-      "security_score": 90,
-      "security_details": {
-        "author_age_days": 696,
-        "repo_age_days": 304,
-        "has_license": true,
-        "has_readme": true,
-        "issue_count": 6,
-        "pr_count": 106,
-        "star_fork_ratio": 12.67
-      },
-      "trending_days": 1,
-      "first_seen": "2026-10-10T00:00:00.000Z"
-    },
-    {
-      "id": "multica-ai/andrej-karpathy-skills",
-      "name": "andrej-karpathy-skills",
-      "owner": "multica-ai",
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "ai_summary": "andrej-karpathy-skills - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar... 使用 多语言 开发。",
-      "language": "",
-      "stars": 217881,
-      "forks": 21964,
-      "stars_today": 279,
-      "stars_this_week": 0,
-      "category": "hot",
-      "tags": [
-        "AI",
-        "Skills"
-      ],
-      "security_score": 70,
-      "security_details": {
-        "author_age_days": 269,
-        "repo_age_days": 256,
-        "has_license": false,
-        "has_readme": true,
-        "issue_count": 132,
-        "pr_count": 165,
-        "star_fork_ratio": 9.92
-      },
-      "trending_days": 1,
-      "first_seen": "2026-10-10T00:00:00.000Z"
-    },
-    {
-      "id": "mksglu/context-mode",
-      "name": "context-mode",
-      "owner": "mksglu",
-      "url": "https://github.com/mksglu/context-mode",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "ai_summary": "context-mode - Context window optimization for AI coding agents. Sandboxes tool output (98% red... 使用 TypeScript 开发。",
-      "language": "TypeScript",
-      "stars": 26064,
-      "forks": 1879,
-      "stars_today": 178,
-      "stars_this_week": 0,
-      "category": "hot",
-      "tags": [
-        "AI",
-        "Skills",
-        "Agent"
-      ],
-      "security_score": 100,
-      "security_details": {
-        "author_age_days": 4697,
-        "repo_age_days": 229,
-        "has_license": true,
-        "has_readme": true,
-        "issue_count": 339,
-        "pr_count": 640,
-        "star_fork_ratio": 13.87
-      },
-      "trending_days": 1,
-      "first_seen": "2026-10-10T00:00:00.000Z"
-    },
-    {
-      "id": "DuarteSantos8/openGym",
-      "name": "openGym",
-      "owner": "DuarteSantos8",
-      "url": "https://github.com/DuarteSantos8/openGym",
-      "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
-      "ai_summary": "openGym - Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, ... 使用 JavaScript 开发。",
-      "language": "JavaScript",
-      "stars": 8992,
-      "forks": 1112,
-      "stars_today": 0,
-      "stars_this_week": 6749,
-      "category": "hot",
-      "tags": [
-        "AI"
-      ],
-      "security_score": 80,
-      "security_details": {
-        "author_age_days": 855,
-        "repo_age_days": 83,
-        "has_license": true,
-        "has_readme": true,
-        "issue_count": 83,
-        "pr_count": 247,
-        "star_fork_ratio": 8.09
-      },
       "trending_days": 6,
-      "first_seen": "2026-10-05T00:00:00.000Z"
+      "first_seen": "2026-10-06T00:00:00.000Z"
     },
     {
       "id": "heygen-com/hyperframes",
@@ -248,10 +129,10 @@
       "description": "Write HTML. Render video. Built for agents.",
       "ai_summary": "hyperframes - Write HTML. Render video. Built for agents. 使用 TypeScript 开发。",
       "language": "TypeScript",
-      "stars": 60113,
-      "forks": 5368,
+      "stars": 60628,
+      "forks": 5420,
       "stars_today": 0,
-      "stars_this_week": 4003,
+      "stars_this_week": 4081,
       "category": "hot",
       "tags": [
         "Skills",
@@ -259,15 +140,15 @@
       ],
       "security_score": 100,
       "security_details": {
-        "author_age_days": 2339,
-        "repo_age_days": 214,
+        "author_age_days": 2340,
+        "repo_age_days": 215,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 237,
-        "pr_count": 4921,
-        "star_fork_ratio": 11.2
+        "issue_count": 250,
+        "pr_count": 4956,
+        "star_fork_ratio": 11.19
       },
-      "trending_days": 3,
+      "trending_days": 4,
       "first_seen": "2026-10-08T00:00:00.000Z"
     },
     {
@@ -278,10 +159,10 @@
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "ai_summary": "claude-mem - Persistent Context Across Sessions for Every Agent – Captures everything your ag... 使用 TypeScript 开发。",
       "language": "TypeScript",
-      "stars": 99111,
-      "forks": 8679,
+      "stars": 99517,
+      "forks": 8727,
       "stars_today": 0,
-      "stars_this_week": 3850,
+      "stars_this_week": 4035,
       "category": "hot",
       "tags": [
         "AI",
@@ -290,26 +171,118 @@
       ],
       "security_score": 100,
       "security_details": {
-        "author_age_days": 5680,
-        "repo_age_days": 404,
+        "author_age_days": 5681,
+        "repo_age_days": 405,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 143,
-        "pr_count": 2157,
-        "star_fork_ratio": 11.42
+        "issue_count": 193,
+        "pr_count": 2205,
+        "star_fork_ratio": 11.4
       },
-      "trending_days": 7,
+      "trending_days": 8,
       "first_seen": "2026-10-04T00:00:00.000Z"
+    },
+    {
+      "id": "earthtojake/text-to-cad",
+      "name": "text-to-cad",
+      "owner": "earthtojake",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "Give your agent CAD superpowers.",
+      "ai_summary": "text-to-cad - Give your agent CAD superpowers. 使用 Python 开发。",
+      "language": "Python",
+      "stars": 19132,
+      "forks": 1888,
+      "stars_today": 0,
+      "stars_this_week": 2369,
+      "category": "hot",
+      "tags": [
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 4273,
+        "repo_age_days": 172,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 32,
+        "pr_count": 539,
+        "star_fork_ratio": 10.13
+      },
+      "trending_days": 1,
+      "first_seen": "2026-10-11T00:00:00.000Z"
+    },
+    {
+      "id": "mvschwarz/openrig",
+      "name": "openrig",
+      "owner": "mvschwarz",
+      "url": "https://github.com/mvschwarz/openrig",
+      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "ai_summary": "openrig - Build your own network of agents from Claude Code, Codex and Pi: persistent team... 使用 TypeScript 开发。",
+      "language": "TypeScript",
+      "stars": 6840,
+      "forks": 511,
+      "stars_today": 0,
+      "stars_this_week": 2068,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 95,
+      "security_details": {
+        "author_age_days": 857,
+        "repo_age_days": 193,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 178,
+        "pr_count": 838,
+        "star_fork_ratio": 13.39
+      },
+      "trending_days": 1,
+      "first_seen": "2026-10-11T00:00:00.000Z"
+    },
+    {
+      "id": "danyuchn/asd-ste100-skill",
+      "name": "asd-ste100-skill",
+      "owner": "danyuchn",
+      "url": "https://github.com/danyuchn/asd-ste100-skill",
+      "description": "ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English.",
+      "ai_summary": "asd-ste100-skill - ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill... 使用 Python 开发。",
+      "language": "Python",
+      "stars": 4375,
+      "forks": 253,
+      "stars_today": 0,
+      "stars_this_week": 945,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 80,
+      "security_details": {
+        "author_age_days": 1276,
+        "repo_age_days": 82,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 5,
+        "pr_count": 16,
+        "star_fork_ratio": 17.29
+      },
+      "trending_days": 1,
+      "first_seen": "2026-10-11T00:00:00.000Z"
     }
   ],
   "stats": {
-    "total": 10,
-    "hot": 10,
+    "total": 9,
+    "hot": 9,
     "gem": 0,
     "by_tag": {
-      "Skills": 6,
-      "Agent": 5,
-      "AI": 8
+      "Skills": 7,
+      "Agent": 7,
+      "AI": 6
     }
   }
 }

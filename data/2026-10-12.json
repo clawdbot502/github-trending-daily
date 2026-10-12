@@ -1,0 +1,312 @@
+{
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T16:09:17.750Z",
+  "projects": [
+    {
+      "id": "morluto/rea",
+      "name": "rea",
+      "owner": "morluto",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "ai_summary": "rea - Reverse engineer anything with agents, from app behavior down to native binaries... 使用 TypeScript 开发。",
+      "language": "TypeScript",
+      "stars": 141714,
+      "forks": 32563,
+      "stars_today": 45495,
+      "stars_this_week": 126976,
+      "category": "hot",
+      "tags": [
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 85,
+      "security_details": {
+        "author_age_days": 2120,
+        "repo_age_days": 181,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 286,
+        "pr_count": 1462,
+        "star_fork_ratio": 4.35
+      },
+      "trending_days": 7,
+      "first_seen": "2026-10-06T00:00:00.000Z"
+    },
+    {
+      "id": "cathrynlavery/diagram-design",
+      "name": "diagram-design",
+      "owner": "cathrynlavery",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "ai_summary": "diagram-design - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory... 使用 HTML 开发。",
+      "language": "HTML",
+      "stars": 52078,
+      "forks": 3281,
+      "stars_today": 2100,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 2712,
+        "repo_age_days": 178,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 70,
+        "pr_count": 284,
+        "star_fork_ratio": 15.87
+      },
+      "trending_days": 7,
+      "first_seen": "2026-10-06T00:00:00.000Z"
+    },
+    {
+      "id": "lyogavin/airllm",
+      "name": "airllm",
+      "owner": "lyogavin",
+      "url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "ai_summary": "airllm - AirLLM 70B inference with single 4GB GPU 使用 Jupyter Notebook 开发。",
+      "language": "Jupyter Notebook",
+      "stars": 37218,
+      "forks": 3855,
+      "stars_today": 886,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 5482,
+        "repo_age_days": 1217,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 161,
+        "pr_count": 78,
+        "star_fork_ratio": 9.65
+      },
+      "trending_days": 2,
+      "first_seen": "2026-10-11T00:00:00.000Z"
+    },
+    {
+      "id": "Alishahryar1/free-claude-code",
+      "name": "free-claude-code",
+      "owner": "Alishahryar1",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "ai_summary": "free-claude-code - Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for fre... 使用 Python 开发。",
+      "language": "Python",
+      "stars": 58594,
+      "forks": 9270,
+      "stars_today": 705,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI"
+      ],
+      "security_score": 95,
+      "security_details": {
+        "author_age_days": 3741,
+        "repo_age_days": 256,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 302,
+        "pr_count": 956,
+        "star_fork_ratio": 6.32
+      },
+      "trending_days": 1,
+      "first_seen": "2026-10-12T00:00:00.000Z"
+    },
+    {
+      "id": "mksglu/context-mode",
+      "name": "context-mode",
+      "owner": "mksglu",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "ai_summary": "context-mode - Context window optimization for AI coding agents. Sandboxes tool output (98% red... 使用 TypeScript 开发。",
+      "language": "TypeScript",
+      "stars": 26990,
+      "forks": 1932,
+      "stars_today": 394,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 4700,
+        "repo_age_days": 231,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 347,
+        "pr_count": 648,
+        "star_fork_ratio": 13.97
+      },
+      "trending_days": 1,
+      "first_seen": "2026-10-12T00:00:00.000Z"
+    },
+    {
+      "id": "microsoft/BitNet",
+      "name": "BitNet",
+      "owner": "microsoft",
+      "url": "https://github.com/microsoft/BitNet",
+      "description": "Official inference framework for 1-bit LLMs",
+      "ai_summary": "BitNet - Official inference framework for 1-bit LLMs 使用 C++ 开发。",
+      "language": "C++",
+      "stars": 40798,
+      "forks": 3801,
+      "stars_today": 195,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 4688,
+        "repo_age_days": 798,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 339,
+        "pr_count": 238,
+        "star_fork_ratio": 10.73
+      },
+      "trending_days": 1,
+      "first_seen": "2026-10-12T00:00:00.000Z"
+    },
+    {
+      "id": "open-webui/open-webui",
+      "name": "open-webui",
+      "owner": "open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "ai_summary": "open-webui - User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 使用 Python 开发。",
+      "language": "Python",
+      "stars": 154641,
+      "forks": 22621,
+      "stars_today": 142,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI"
+      ],
+      "security_score": 90,
+      "security_details": {
+        "author_age_days": 986,
+        "repo_age_days": 1101,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 170,
+        "pr_count": 11814,
+        "star_fork_ratio": 6.84
+      },
+      "trending_days": 1,
+      "first_seen": "2026-10-12T00:00:00.000Z"
+    },
+    {
+      "id": "mattpocock/skills",
+      "name": "skills",
+      "owner": "mattpocock",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "ai_summary": "skills - Skills for Real Engineers. Straight from my .agents directory. 使用 Shell 开发。",
+      "language": "Shell",
+      "stars": 287513,
+      "forks": 24130,
+      "stars_today": 0,
+      "stars_this_week": 10330,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 3450,
+        "repo_age_days": 251,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 163,
+        "pr_count": 190,
+        "star_fork_ratio": 11.92
+      },
+      "trending_days": 7,
+      "first_seen": "2026-10-06T00:00:00.000Z"
+    },
+    {
+      "id": "DuarteSantos8/openGym",
+      "name": "openGym",
+      "owner": "DuarteSantos8",
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+      "ai_summary": "openGym - Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, ... 使用 JavaScript 开发。",
+      "language": "JavaScript",
+      "stars": 10230,
+      "forks": 1256,
+      "stars_today": 0,
+      "stars_this_week": 7383,
+      "category": "hot",
+      "tags": [
+        "AI"
+      ],
+      "security_score": 80,
+      "security_details": {
+        "author_age_days": 858,
+        "repo_age_days": 85,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 123,
+        "pr_count": 275,
+        "star_fork_ratio": 8.14
+      },
+      "trending_days": 1,
+      "first_seen": "2026-10-12T00:00:00.000Z"
+    },
+    {
+      "id": "heygen-com/hyperframes",
+      "name": "hyperframes",
+      "owner": "heygen-com",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "ai_summary": "hyperframes - Write HTML. Render video. Built for agents. 使用 TypeScript 开发。",
+      "language": "TypeScript",
+      "stars": 61563,
+      "forks": 5511,
+      "stars_today": 0,
+      "stars_this_week": 4223,
+      "category": "hot",
+      "tags": [
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 2341,
+        "repo_age_days": 216,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 268,
+        "pr_count": 4982,
+        "star_fork_ratio": 11.17
+      },
+      "trending_days": 5,
+      "first_seen": "2026-10-08T00:00:00.000Z"
+    }
+  ],
+  "stats": {
+    "total": 10,
+    "hot": 10,
+    "gem": 0,
+    "by_tag": {
+      "Skills": 4,
+      "Agent": 4,
+      "AI": 8
+    }
+  }
+}

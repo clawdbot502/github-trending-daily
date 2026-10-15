@@ -4395,6 +4395,327 @@
           "AI": 7
         }
       }
+    },
+    {
+      "date": "2026-10-15",
+      "generated_at": "2026-10-15T12:08:53.967Z",
+      "projects": [
+        {
+          "id": "morluto/rea",
+          "name": "rea",
+          "owner": "morluto",
+          "url": "https://github.com/morluto/rea",
+          "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+          "ai_summary": "rea - Reverse engineer anything with agents, from app behavior down to native binaries... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 258299,
+          "forks": 64944,
+          "stars_today": 32282,
+          "stars_this_week": 214837,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 2123,
+            "repo_age_days": 184,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 935,
+            "pr_count": 2413,
+            "star_fork_ratio": 3.98
+          },
+          "trending_days": 10,
+          "first_seen": "2026-10-06T00:00:00.000Z"
+        },
+        {
+          "id": "K-Dense-AI/scientific-agent-skills",
+          "name": "scientific-agent-skills",
+          "owner": "K-Dense-AI",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+          "ai_summary": "scientific-agent-skills - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,... 使用 Python 开发。",
+          "language": "Python",
+          "stars": 49945,
+          "forks": 4455,
+          "stars_today": 1091,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 363,
+            "repo_age_days": 360,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 32,
+            "pr_count": 211,
+            "star_fork_ratio": 11.21
+          },
+          "trending_days": 2,
+          "first_seen": "2026-10-14T00:00:00.000Z"
+        },
+        {
+          "id": "affaan-m/ECC",
+          "name": "ECC",
+          "owner": "affaan-m",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "ai_summary": "ECC - The agent harness performance optimization system. Skills, instincts, memory, se... 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 279876,
+          "forks": 41634,
+          "stars_today": 1015,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1349,
+            "repo_age_days": 270,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 261,
+            "pr_count": 2568,
+            "star_fork_ratio": 6.72
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-15T00:00:00.000Z"
+        },
+        {
+          "id": "mksglu/context-mode",
+          "name": "context-mode",
+          "owner": "mksglu",
+          "url": "https://github.com/mksglu/context-mode",
+          "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+          "ai_summary": "context-mode - Context window optimization for AI coding agents. Sandboxes tool output (98% red... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 29569,
+          "forks": 2063,
+          "stars_today": 902,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4702,
+            "repo_age_days": 234,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 359,
+            "pr_count": 0,
+            "star_fork_ratio": 14.33
+          },
+          "trending_days": 4,
+          "first_seen": "2026-10-12T00:00:00.000Z"
+        },
+        {
+          "id": "xerj-org/xerj",
+          "name": "xerj",
+          "owner": "xerj-org",
+          "url": "https://github.com/xerj-org/xerj",
+          "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
+          "ai_summary": "xerj - XERJ is the new way for AI to search data. Its autoindex capability activates ag... 使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 4789,
+          "forks": 296,
+          "stars_today": 725,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 109,
+            "repo_age_days": 107,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 34,
+            "pr_count": 979,
+            "star_fork_ratio": 16.18
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-15T00:00:00.000Z"
+        },
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "superpowers - An agentic skills framework & software development methodology that works. 使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 299469,
+          "forks": 26751,
+          "stars_today": 534,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6487,
+            "repo_age_days": 370,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 353,
+            "pr_count": 1314,
+            "star_fork_ratio": 11.19
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-15T00:00:00.000Z"
+        },
+        {
+          "id": "JuliusBrussee/caveman",
+          "name": "caveman",
+          "owner": "JuliusBrussee",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+          "ai_summary": "caveman - 🪨 why use many token when few token do trick. Viral skill + proxy for coding ag... 使用 Go 开发。",
+          "language": "Go",
+          "stars": 112082,
+          "forks": 6500,
+          "stars_today": 398,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 1637,
+            "repo_age_days": 194,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 55,
+            "pr_count": 686,
+            "star_fork_ratio": 17.24
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-15T00:00:00.000Z"
+        },
+        {
+          "id": "anthropics/claude-plugins-official",
+          "name": "claude-plugins-official",
+          "owner": "anthropics",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+          "ai_summary": "claude-plugins-official - Official, Anthropic-managed directory of high quality Claude Code Plugins. 使用 Python 开发。",
+          "language": "Python",
+          "stars": 38310,
+          "forks": 4286,
+          "stars_today": 181,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2125,
+            "repo_age_days": 328,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1254,
+            "pr_count": 5335,
+            "star_fork_ratio": 8.94
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-15T00:00:00.000Z"
+        },
+        {
+          "id": "ruvnet/ruflo",
+          "name": "ruflo",
+          "owner": "ruvnet",
+          "url": "https://github.com/ruvnet/ruflo",
+          "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+          "ai_summary": "ruflo - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinat... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 74786,
+          "forks": 8897,
+          "stars_today": 146,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5066,
+            "repo_age_days": 499,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1049,
+            "pr_count": 2075,
+            "star_fork_ratio": 8.41
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-15T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "ai_summary": "skills - Skills for Real Engineers. Straight from my .agents directory. 使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 292108,
+          "forks": 24492,
+          "stars_today": 0,
+          "stars_this_week": 12292,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3453,
+            "repo_age_days": 254,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 183,
+            "pr_count": 191,
+            "star_fork_ratio": 11.93
+          },
+          "trending_days": 10,
+          "first_seen": "2026-10-06T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "Skills": 9,
+          "Agent": 9,
+          "AI": 7
+        }
+      }
     }
   ]
 }

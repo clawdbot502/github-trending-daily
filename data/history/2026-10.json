@@ -5987,6 +5987,325 @@
           "Agent": 8
         }
       }
+    },
+    {
+      "date": "2026-10-20",
+      "generated_at": "2026-10-20T12:14:40.130Z",
+      "projects": [
+        {
+          "id": "MadsLorentzen/ai-job-search",
+          "name": "ai-job-search",
+          "owner": "MadsLorentzen",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+          "ai_summary": "ai-job-search - The job search that runs on your machine. AI job application framework built on ... 使用 Python 开发。",
+          "language": "Python",
+          "stars": 59101,
+          "forks": 18544,
+          "stars_today": 3890,
+          "stars_this_week": 9073,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 2727,
+            "repo_age_days": 215,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 25,
+            "pr_count": 517,
+            "star_fork_ratio": 3.19
+          },
+          "trending_days": 5,
+          "first_seen": "2026-10-16T00:00:00.000Z"
+        },
+        {
+          "id": "stablyai/orca",
+          "name": "orca",
+          "owner": "stablyai",
+          "url": "https://github.com/stablyai/orca",
+          "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+          "ai_summary": "orca - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 99055,
+          "forks": 6310,
+          "stars_today": 1559,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 1322,
+            "repo_age_days": 217,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 8572,
+            "pr_count": 22360,
+            "star_fork_ratio": 15.7
+          },
+          "trending_days": 4,
+          "first_seen": "2026-10-17T00:00:00.000Z"
+        },
+        {
+          "id": "anomalyco/opencode",
+          "name": "opencode",
+          "owner": "anomalyco",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "ai_summary": "opencode - The open source coding agent. 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 218386,
+          "forks": 29165,
+          "stars_today": 1256,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2325,
+            "repo_age_days": 537,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 3779,
+            "pr_count": 25710,
+            "star_fork_ratio": 7.49
+          },
+          "trending_days": 4,
+          "first_seen": "2026-10-17T00:00:00.000Z"
+        },
+        {
+          "id": "YuJunZhiXue/dsh-purge",
+          "name": "dsh-purge",
+          "owner": "YuJunZhiXue",
+          "url": "https://github.com/YuJunZhiXue/dsh-purge",
+          "description": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
+          "ai_summary": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
+          "language": "JavaScript",
+          "stars": 10459,
+          "forks": 2209,
+          "stars_today": 1168,
+          "stars_this_week": 2933,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 70,
+          "security_details": {
+            "author_age_days": 705,
+            "repo_age_days": 62,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 36,
+            "pr_count": 36,
+            "star_fork_ratio": 4.73
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-20T00:00:00.000Z"
+        },
+        {
+          "id": "DietrichGebert/ponytail",
+          "name": "ponytail",
+          "owner": "DietrichGebert",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+          "ai_summary": "ponytail - Makes your AI agent think like the laziest senior dev in the room. The best code... 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 168704,
+          "forks": 9169,
+          "stars_today": 1007,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1219,
+            "repo_age_days": 130,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 39,
+            "pr_count": 777,
+            "star_fork_ratio": 18.4
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-20T00:00:00.000Z"
+        },
+        {
+          "id": "cloudflare/security-audit-skill",
+          "name": "security-audit-skill",
+          "owner": "cloudflare",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+          "ai_summary": "security-audit-skill - A coding-agent skill for multi-phase security audits with independently verified... 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 33113,
+          "forks": 2074,
+          "stars_today": 849,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5961,
+            "repo_age_days": 123,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 70,
+            "pr_count": 49,
+            "star_fork_ratio": 15.97
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-20T00:00:00.000Z"
+        },
+        {
+          "id": "Graphify-Labs/graphify",
+          "name": "graphify",
+          "owner": "Graphify-Labs",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+          "ai_summary": "graphify - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryab... 使用 Python 开发。",
+          "language": "Python",
+          "stars": 129540,
+          "forks": 12484,
+          "stars_today": 751,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 113,
+            "repo_age_days": 199,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1573,
+            "pr_count": 2388,
+            "star_fork_ratio": 10.38
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-20T00:00:00.000Z"
+        },
+        {
+          "id": "ruvnet/ruflo",
+          "name": "ruflo",
+          "owner": "ruvnet",
+          "url": "https://github.com/ruvnet/ruflo",
+          "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+          "ai_summary": "ruflo - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinat... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 77514,
+          "forks": 9123,
+          "stars_today": 683,
+          "stars_this_week": 2543,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5071,
+            "repo_age_days": 504,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 988,
+            "pr_count": 2150,
+            "star_fork_ratio": 8.5
+          },
+          "trending_days": 6,
+          "first_seen": "2026-10-15T00:00:00.000Z"
+        },
+        {
+          "id": "msitarzewski/agency-agents",
+          "name": "agency-agents",
+          "owner": "msitarzewski",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+          "ai_summary": "agency-agents - A complete AI agency at your fingertips - From frontend wizards to Reddit commun... 使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 161984,
+          "forks": 26223,
+          "stars_today": 590,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5211,
+            "repo_age_days": 372,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 166,
+            "pr_count": 872,
+            "star_fork_ratio": 6.18
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-20T00:00:00.000Z"
+        },
+        {
+          "id": "headroomlabs-ai/headroom",
+          "name": "headroom",
+          "owner": "headroomlabs-ai",
+          "url": "https://github.com/headroomlabs-ai/headroom",
+          "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+          "ai_summary": "headroom - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20... 使用 Python 开发。",
+          "language": "Python",
+          "stars": 76520,
+          "forks": 5939,
+          "stars_today": 555,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 125,
+            "repo_age_days": 285,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 495,
+            "pr_count": 2950,
+            "star_fork_ratio": 12.88
+          },
+          "trending_days": 2,
+          "first_seen": "2026-10-19T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 8,
+          "Skills": 8,
+          "Agent": 7
+        }
+      }
     }
   ]
 }

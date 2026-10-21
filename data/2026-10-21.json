@@ -1,0 +1,316 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T12:27:01.766Z",
+  "projects": [
+    {
+      "id": "MadsLorentzen/ai-job-search",
+      "name": "ai-job-search",
+      "owner": "MadsLorentzen",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "ai_summary": "ai-job-search - The job search that runs on your machine. AI job application framework built on ... 使用 Python 开发。",
+      "language": "Python",
+      "stars": 62172,
+      "forks": 19210,
+      "stars_today": 3131,
+      "stars_this_week": 12848,
+      "category": "hot",
+      "tags": [
+        "AI"
+      ],
+      "security_score": 85,
+      "security_details": {
+        "author_age_days": 2728,
+        "repo_age_days": 216,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 48,
+        "pr_count": 564,
+        "star_fork_ratio": 3.24
+      },
+      "trending_days": 6,
+      "first_seen": "2026-10-16T00:00:00.000Z"
+    },
+    {
+      "id": "DietrichGebert/ponytail",
+      "name": "ponytail",
+      "owner": "DietrichGebert",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "ai_summary": "ponytail - Makes your AI agent think like the laziest senior dev in the room. The best code... 使用 JavaScript 开发。",
+      "language": "JavaScript",
+      "stars": 170712,
+      "forks": 9284,
+      "stars_today": 2051,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 90,
+      "security_details": {
+        "author_age_days": 1220,
+        "repo_age_days": 131,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 59,
+        "pr_count": 791,
+        "star_fork_ratio": 18.39
+      },
+      "trending_days": 2,
+      "first_seen": "2026-10-20T00:00:00.000Z"
+    },
+    {
+      "id": "cloudflare/security-audit-skill",
+      "name": "security-audit-skill",
+      "owner": "cloudflare",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "ai_summary": "security-audit-skill - A coding-agent skill for multi-phase security audits with independently verified... 使用 JavaScript 开发。",
+      "language": "JavaScript",
+      "stars": 35095,
+      "forks": 2207,
+      "stars_today": 1997,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 5962,
+        "repo_age_days": 124,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 77,
+        "pr_count": 54,
+        "star_fork_ratio": 15.9
+      },
+      "trending_days": 2,
+      "first_seen": "2026-10-20T00:00:00.000Z"
+    },
+    {
+      "id": "stablyai/orca",
+      "name": "orca",
+      "owner": "stablyai",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "ai_summary": "orca - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code... 使用 TypeScript 开发。",
+      "language": "TypeScript",
+      "stars": 100542,
+      "forks": 6355,
+      "stars_today": 1543,
+      "stars_this_week": 8173,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 95,
+      "security_details": {
+        "author_age_days": 1323,
+        "repo_age_days": 218,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 8554,
+        "pr_count": 22642,
+        "star_fork_ratio": 15.82
+      },
+      "trending_days": 5,
+      "first_seen": "2026-10-17T00:00:00.000Z"
+    },
+    {
+      "id": "Graphify-Labs/graphify",
+      "name": "graphify",
+      "owner": "Graphify-Labs",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "ai_summary": "graphify - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryab... 使用 Python 开发。",
+      "language": "Python",
+      "stars": 130933,
+      "forks": 12584,
+      "stars_today": 1434,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills"
+      ],
+      "security_score": 85,
+      "security_details": {
+        "author_age_days": 114,
+        "repo_age_days": 200,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 1577,
+        "pr_count": 2419,
+        "star_fork_ratio": 10.4
+      },
+      "trending_days": 2,
+      "first_seen": "2026-10-20T00:00:00.000Z"
+    },
+    {
+      "id": "akitaonrails/ai-memory",
+      "name": "ai-memory",
+      "owner": "akitaonrails",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "ai_summary": "ai-memory - Solution for long term memory for agent coding CLIs and to facilitate handoff be... 使用 Rust 开发。",
+      "language": "Rust",
+      "stars": 12028,
+      "forks": 853,
+      "stars_today": 810,
+      "stars_this_week": 2640,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 95,
+      "security_details": {
+        "author_age_days": 6797,
+        "repo_age_days": 152,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 9,
+        "pr_count": 1016,
+        "star_fork_ratio": 14.1
+      },
+      "trending_days": 1,
+      "first_seen": "2026-10-21T00:00:00.000Z"
+    },
+    {
+      "id": "supabase/supabase",
+      "name": "supabase",
+      "owner": "supabase",
+      "url": "https://github.com/supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "ai_summary": "supabase - The Postgres development platform. Supabase gives you a dedicated Postgres datab... 使用 TypeScript 开发。",
+      "language": "TypeScript",
+      "stars": 112624,
+      "forks": 16819,
+      "stars_today": 509,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 2615,
+        "repo_age_days": 2566,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 1183,
+        "pr_count": 25500,
+        "star_fork_ratio": 6.7
+      },
+      "trending_days": 1,
+      "first_seen": "2026-10-21T00:00:00.000Z"
+    },
+    {
+      "id": "headroomlabs-ai/headroom",
+      "name": "headroom",
+      "owner": "headroomlabs-ai",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+      "ai_summary": "headroom - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20... 使用 Python 开发。",
+      "language": "Python",
+      "stars": 76992,
+      "forks": 5976,
+      "stars_today": 477,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 85,
+      "security_details": {
+        "author_age_days": 126,
+        "repo_age_days": 286,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 505,
+        "pr_count": 2965,
+        "star_fork_ratio": 12.88
+      },
+      "trending_days": 3,
+      "first_seen": "2026-10-19T00:00:00.000Z"
+    },
+    {
+      "id": "vllm-project/vllm",
+      "name": "vllm",
+      "owner": "vllm-project",
+      "url": "https://github.com/vllm-project/vllm",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "ai_summary": "vllm - A high-throughput and memory-efficient inference and serving engine for LLMs 使用 Python 开发。",
+      "language": "Python",
+      "stars": 94667,
+      "forks": 23712,
+      "stars_today": 439,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI"
+      ],
+      "security_score": 80,
+      "security_details": {
+        "author_age_days": 1220,
+        "repo_age_days": 1350,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 9204,
+        "pr_count": 42848,
+        "star_fork_ratio": 3.99
+      },
+      "trending_days": 1,
+      "first_seen": "2026-10-21T00:00:00.000Z"
+    },
+    {
+      "id": "twentyhq/twenty",
+      "name": "twenty",
+      "owner": "twentyhq",
+      "url": "https://github.com/twentyhq/twenty",
+      "description": "The open alternative to Salesforce, designed for AI.",
+      "ai_summary": "twenty - The open alternative to Salesforce, designed for AI. 使用 TypeScript 开发。",
+      "language": "TypeScript",
+      "stars": 58809,
+      "forks": 9644,
+      "stars_today": 105,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI"
+      ],
+      "security_score": 90,
+      "security_details": {
+        "author_age_days": 1419,
+        "repo_age_days": 1419,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 137,
+        "pr_count": 20129,
+        "star_fork_ratio": 6.1
+      },
+      "trending_days": 1,
+      "first_seen": "2026-10-21T00:00:00.000Z"
+    }
+  ],
+  "stats": {
+    "total": 10,
+    "hot": 10,
+    "gem": 0,
+    "by_tag": {
+      "AI": 9,
+      "Skills": 6,
+      "Agent": 5
+    }
+  }
+}

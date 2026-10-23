@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-22",
-  "generated_at": "2026-10-22T12:28:55.770Z",
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T12:09:01.746Z",
   "projects": [
     {
       "id": "cloudflare/security-audit-skill",
@@ -10,9 +10,9 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "ai_summary": "security-audit-skill - A coding-agent skill for multi-phase security audits with independently verified... 使用 JavaScript 开发。",
       "language": "JavaScript",
-      "stars": 38131,
-      "forks": 2381,
-      "stars_today": 2979,
+      "stars": 40777,
+      "forks": 2545,
+      "stars_today": 2706,
       "stars_this_week": 0,
       "category": "hot",
       "tags": [
@@ -21,137 +21,16 @@
       ],
       "security_score": 100,
       "security_details": {
-        "author_age_days": 5963,
-        "repo_age_days": 125,
+        "author_age_days": 5964,
+        "repo_age_days": 126,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 80,
-        "pr_count": 57,
-        "star_fork_ratio": 16.01
+        "issue_count": 79,
+        "pr_count": 56,
+        "star_fork_ratio": 16.02
       },
-      "trending_days": 3,
+      "trending_days": 4,
       "first_seen": "2026-10-20T00:00:00.000Z"
-    },
-    {
-      "id": "DietrichGebert/ponytail",
-      "name": "ponytail",
-      "owner": "DietrichGebert",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "ai_summary": "ponytail - Makes your AI agent think like the laziest senior dev in the room. The best code... 使用 JavaScript 开发。",
-      "language": "JavaScript",
-      "stars": 172627,
-      "forks": 9389,
-      "stars_today": 1949,
-      "stars_this_week": 0,
-      "category": "hot",
-      "tags": [
-        "AI",
-        "Skills",
-        "Agent"
-      ],
-      "security_score": 90,
-      "security_details": {
-        "author_age_days": 1221,
-        "repo_age_days": 132,
-        "has_license": true,
-        "has_readme": true,
-        "issue_count": 81,
-        "pr_count": 806,
-        "star_fork_ratio": 18.39
-      },
-      "trending_days": 3,
-      "first_seen": "2026-10-20T00:00:00.000Z"
-    },
-    {
-      "id": "Graphify-Labs/graphify",
-      "name": "graphify",
-      "owner": "Graphify-Labs",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-      "ai_summary": "graphify - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryab... 使用 Python 开发。",
-      "language": "Python",
-      "stars": 132319,
-      "forks": 12685,
-      "stars_today": 1407,
-      "stars_this_week": 0,
-      "category": "hot",
-      "tags": [
-        "AI",
-        "Skills"
-      ],
-      "security_score": 85,
-      "security_details": {
-        "author_age_days": 115,
-        "repo_age_days": 201,
-        "has_license": true,
-        "has_readme": true,
-        "issue_count": 1626,
-        "pr_count": 2457,
-        "star_fork_ratio": 10.43
-      },
-      "trending_days": 3,
-      "first_seen": "2026-10-20T00:00:00.000Z"
-    },
-    {
-      "id": "supabase/supabase",
-      "name": "supabase",
-      "owner": "supabase",
-      "url": "https://github.com/supabase/supabase",
-      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "ai_summary": "supabase - The Postgres development platform. Supabase gives you a dedicated Postgres datab... 使用 TypeScript 开发。",
-      "language": "TypeScript",
-      "stars": 113280,
-      "forks": 16988,
-      "stars_today": 683,
-      "stars_this_week": 0,
-      "category": "hot",
-      "tags": [
-        "AI"
-      ],
-      "security_score": 100,
-      "security_details": {
-        "author_age_days": 2616,
-        "repo_age_days": 2567,
-        "has_license": true,
-        "has_readme": true,
-        "issue_count": 1188,
-        "pr_count": 25561,
-        "star_fork_ratio": 6.67
-      },
-      "trending_days": 2,
-      "first_seen": "2026-10-21T00:00:00.000Z"
-    },
-    {
-      "id": "luongnv89/claude-howto",
-      "name": "claude-howto",
-      "owner": "luongnv89",
-      "url": "https://github.com/luongnv89/claude-howto",
-      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "ai_summary": "claude-howto - A visual, example-driven guide to Claude Code — from basic concepts to advanced ... 使用 Python 开发。",
-      "language": "Python",
-      "stars": 42641,
-      "forks": 5351,
-      "stars_today": 428,
-      "stars_this_week": 0,
-      "category": "hot",
-      "tags": [
-        "AI",
-        "Skills",
-        "Agent"
-      ],
-      "security_score": 95,
-      "security_details": {
-        "author_age_days": 5026,
-        "repo_age_days": 348,
-        "has_license": true,
-        "has_readme": true,
-        "issue_count": 34,
-        "pr_count": 129,
-        "star_fork_ratio": 7.97
-      },
-      "trending_days": 1,
-      "first_seen": "2026-10-22T00:00:00.000Z"
     },
     {
       "id": "anthropics/knowledge-work-plugins",
@@ -161,9 +40,9 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "ai_summary": "knowledge-work-plugins - Open source repository of plugins primarily intended for knowledge workers to us... 使用 Python 开发。",
       "language": "Python",
-      "stars": 31303,
-      "forks": 3507,
-      "stars_today": 303,
+      "stars": 31925,
+      "forks": 3553,
+      "stars_today": 643,
       "stars_this_week": 0,
       "category": "hot",
       "tags": [
@@ -171,45 +50,77 @@
       ],
       "security_score": 95,
       "security_details": {
-        "author_age_days": 2132,
-        "repo_age_days": 271,
+        "author_age_days": 2133,
+        "repo_age_days": 272,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 131,
-        "pr_count": 1268,
-        "star_fork_ratio": 8.93
+        "issue_count": 136,
+        "pr_count": 1274,
+        "star_fork_ratio": 8.99
       },
-      "trending_days": 1,
+      "trending_days": 2,
       "first_seen": "2026-10-22T00:00:00.000Z"
     },
     {
-      "id": "Meloong-Git/PCL",
-      "name": "PCL",
-      "owner": "Meloong-Git",
-      "url": "https://github.com/Meloong-Git/PCL",
-      "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
-      "ai_summary": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
-      "language": "Visual Basic .NET",
-      "stars": 8548,
-      "forks": 1180,
-      "stars_today": 115,
+      "id": "NVIDIA/OpenShell",
+      "name": "OpenShell",
+      "owner": "NVIDIA",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "ai_summary": "OpenShell - OpenShell is the safe, private runtime for autonomous AI agents. 使用 Rust 开发。",
+      "language": "Rust",
+      "stars": 18256,
+      "forks": 1852,
+      "stars_today": 211,
       "stars_this_week": 0,
       "category": "hot",
       "tags": [
-        "AI"
+        "AI",
+        "Skills",
+        "Agent"
       ],
-      "security_score": 100,
+      "security_score": 95,
       "security_details": {
-        "author_age_days": 2176,
-        "repo_age_days": 1548,
+        "author_age_days": 5278,
+        "repo_age_days": 240,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 299,
-        "pr_count": 553,
-        "star_fork_ratio": 7.24
+        "issue_count": 563,
+        "pr_count": 2717,
+        "star_fork_ratio": 9.86
       },
       "trending_days": 1,
-      "first_seen": "2026-10-22T00:00:00.000Z"
+      "first_seen": "2026-10-23T00:00:00.000Z"
+    },
+    {
+      "id": "SnailSploit/Claude-Red",
+      "name": "Claude-Red",
+      "owner": "SnailSploit",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "ai_summary": "Claude-Red - claude-red is a curated library of offensive security skills designed for the Cl... 使用 Python 开发。",
+      "language": "Python",
+      "stars": 8029,
+      "forks": 1069,
+      "stars_today": 209,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills"
+      ],
+      "security_score": 85,
+      "security_details": {
+        "author_age_days": 1776,
+        "repo_age_days": 233,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 18,
+        "pr_count": 22,
+        "star_fork_ratio": 7.51
+      },
+      "trending_days": 1,
+      "first_seen": "2026-10-23T00:00:00.000Z"
     },
     {
       "id": "morluto/rea",
@@ -219,10 +130,10 @@
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "ai_summary": "rea - Reverse engineer anything with agents, from app behavior down to native binaries... 使用 TypeScript 开发。",
       "language": "TypeScript",
-      "stars": 362421,
-      "forks": 90924,
+      "stars": 370160,
+      "forks": 92705,
       "stars_today": 0,
-      "stars_this_week": 129417,
+      "stars_this_week": 106341,
       "category": "hot",
       "tags": [
         "Skills",
@@ -230,15 +141,15 @@
       ],
       "security_score": 85,
       "security_details": {
-        "author_age_days": 2130,
-        "repo_age_days": 191,
+        "author_age_days": 2131,
+        "repo_age_days": 192,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 1655,
-        "pr_count": 3433,
+        "issue_count": 1694,
+        "pr_count": 3541,
         "star_fork_ratio": 3.99
       },
-      "trending_days": 1,
+      "trending_days": 2,
       "first_seen": "2026-10-22T00:00:00.000Z"
     },
     {
@@ -249,10 +160,10 @@
       "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "ai_summary": "orca - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code... 使用 TypeScript 开发。",
       "language": "TypeScript",
-      "stars": 102192,
-      "forks": 6451,
+      "stars": 103343,
+      "forks": 6526,
       "stars_today": 0,
-      "stars_this_week": 8705,
+      "stars_this_week": 9401,
       "category": "hot",
       "tags": [
         "AI",
@@ -261,15 +172,15 @@
       ],
       "security_score": 95,
       "security_details": {
-        "author_age_days": 1324,
-        "repo_age_days": 219,
+        "author_age_days": 1325,
+        "repo_age_days": 220,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 8662,
-        "pr_count": 23001,
+        "issue_count": 8832,
+        "pr_count": 23357,
         "star_fork_ratio": 15.84
       },
-      "trending_days": 6,
+      "trending_days": 7,
       "first_seen": "2026-10-17T00:00:00.000Z"
     },
     {
@@ -280,10 +191,10 @@
       "description": "The open source coding agent.",
       "ai_summary": "opencode - The open source coding agent. 使用 TypeScript 开发。",
       "language": "TypeScript",
-      "stars": 219973,
-      "forks": 29392,
+      "stars": 220427,
+      "forks": 29473,
       "stars_today": 0,
-      "stars_this_week": 6545,
+      "stars_this_week": 6750,
       "category": "hot",
       "tags": [
         "Skills",
@@ -291,16 +202,106 @@
       ],
       "security_score": 100,
       "security_details": {
-        "author_age_days": 2327,
-        "repo_age_days": 539,
+        "author_age_days": 2328,
+        "repo_age_days": 540,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 3728,
-        "pr_count": 26121,
+        "issue_count": 3681,
+        "pr_count": 26300,
         "star_fork_ratio": 7.48
       },
-      "trending_days": 1,
+      "trending_days": 2,
       "first_seen": "2026-10-22T00:00:00.000Z"
+    },
+    {
+      "id": "heygen-com/hyperframes",
+      "name": "hyperframes",
+      "owner": "heygen-com",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "ai_summary": "hyperframes - Write HTML. Render video. Built for agents. 使用 TypeScript 开发。",
+      "language": "TypeScript",
+      "stars": 70375,
+      "forks": 6372,
+      "stars_today": 0,
+      "stars_this_week": 5669,
+      "category": "hot",
+      "tags": [
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 2352,
+        "repo_age_days": 227,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 400,
+        "pr_count": 5547,
+        "star_fork_ratio": 11.04
+      },
+      "trending_days": 1,
+      "first_seen": "2026-10-23T00:00:00.000Z"
+    },
+    {
+      "id": "anthropics/claude-plugins-official",
+      "name": "claude-plugins-official",
+      "owner": "anthropics",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "ai_summary": "claude-plugins-official - Official, Anthropic-managed directory of high quality Claude Code Plugins. 使用 Python 开发。",
+      "language": "Python",
+      "stars": 44017,
+      "forks": 4633,
+      "stars_today": 0,
+      "stars_this_week": 5649,
+      "category": "hot",
+      "tags": [
+        "AI"
+      ],
+      "security_score": 95,
+      "security_details": {
+        "author_age_days": 2133,
+        "repo_age_days": 336,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 1203,
+        "pr_count": 5531,
+        "star_fork_ratio": 9.5
+      },
+      "trending_days": 1,
+      "first_seen": "2026-10-23T00:00:00.000Z"
+    },
+    {
+      "id": "K-Dense-AI/scientific-agent-skills",
+      "name": "scientific-agent-skills",
+      "owner": "K-Dense-AI",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "ai_summary": "scientific-agent-skills - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,... 使用 Python 开发。",
+      "language": "Python",
+      "stars": 54076,
+      "forks": 4771,
+      "stars_today": 0,
+      "stars_this_week": 3967,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 371,
+        "repo_age_days": 368,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 64,
+        "pr_count": 236,
+        "star_fork_ratio": 11.33
+      },
+      "trending_days": 1,
+      "first_seen": "2026-10-23T00:00:00.000Z"
     }
   ],
   "stats": {
@@ -308,9 +309,9 @@
     "hot": 10,
     "gem": 0,
     "by_tag": {
-      "Skills": 7,
-      "Agent": 6,
-      "AI": 7
+      "Skills": 8,
+      "Agent": 7,
+      "AI": 6
     }
   }
 }

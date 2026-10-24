@@ -7255,6 +7255,325 @@
           "AI": 6
         }
       }
+    },
+    {
+      "date": "2026-10-24",
+      "generated_at": "2026-10-24T11:39:32.944Z",
+      "projects": [
+        {
+          "id": "cloudflare/security-audit-skill",
+          "name": "security-audit-skill",
+          "owner": "cloudflare",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+          "ai_summary": "security-audit-skill - A coding-agent skill for multi-phase security audits with independently verified... 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 42952,
+          "forks": 2682,
+          "stars_today": 2271,
+          "stars_this_week": 11223,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5965,
+            "repo_age_days": 127,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 85,
+            "pr_count": 60,
+            "star_fork_ratio": 16.01
+          },
+          "trending_days": 5,
+          "first_seen": "2026-10-20T00:00:00.000Z"
+        },
+        {
+          "id": "luongnv89/claude-howto",
+          "name": "claude-howto",
+          "owner": "luongnv89",
+          "url": "https://github.com/luongnv89/claude-howto",
+          "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+          "ai_summary": "claude-howto - A visual, example-driven guide to Claude Code — from basic concepts to advanced ... 使用 Python 开发。",
+          "language": "Python",
+          "stars": 44139,
+          "forks": 5466,
+          "stars_today": 1053,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5028,
+            "repo_age_days": 350,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 40,
+            "pr_count": 135,
+            "star_fork_ratio": 8.08
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-24T00:00:00.000Z"
+        },
+        {
+          "id": "NVIDIA/OpenShell",
+          "name": "OpenShell",
+          "owner": "NVIDIA",
+          "url": "https://github.com/NVIDIA/OpenShell",
+          "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+          "ai_summary": "OpenShell - OpenShell is the safe, private runtime for autonomous AI agents. 使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 19113,
+          "forks": 1907,
+          "stars_today": 893,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5279,
+            "repo_age_days": 241,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 576,
+            "pr_count": 2738,
+            "star_fork_ratio": 10.02
+          },
+          "trending_days": 2,
+          "first_seen": "2026-10-23T00:00:00.000Z"
+        },
+        {
+          "id": "Nutlope/hallmark",
+          "name": "hallmark",
+          "owner": "Nutlope",
+          "url": "https://github.com/Nutlope/hallmark",
+          "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+          "ai_summary": "hallmark - Anti-AI-slop design skill for Claude Code, Cursor, and Codex. 使用 CSS 开发。",
+          "language": "CSS",
+          "stars": 31484,
+          "forks": 1624,
+          "stars_today": 567,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2382,
+            "repo_age_days": 179,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 48,
+            "pr_count": 49,
+            "star_fork_ratio": 19.39
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-24T00:00:00.000Z"
+        },
+        {
+          "id": "pbakaus/impeccable",
+          "name": "impeccable",
+          "owner": "pbakaus",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description": "The design language that makes your AI harness better at design.",
+          "ai_summary": "impeccable - The design language that makes your AI harness better at design. 使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 85837,
+          "forks": 5133,
+          "stars_today": 541,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6508,
+            "repo_age_days": 342,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 39,
+            "pr_count": 729,
+            "star_fork_ratio": 16.72
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-24T00:00:00.000Z"
+        },
+        {
+          "id": "makecindy/cindy",
+          "name": "cindy",
+          "owner": "makecindy",
+          "url": "https://github.com/makecindy/cindy",
+          "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+          "ai_summary": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+          "language": "TypeScript",
+          "stars": 3738,
+          "forks": 559,
+          "stars_today": 471,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 70,
+          "security_details": {
+            "author_age_days": 96,
+            "repo_age_days": 93,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1896,
+            "pr_count": 3879,
+            "star_fork_ratio": 6.69
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-24T00:00:00.000Z"
+        },
+        {
+          "id": "morluto/rea",
+          "name": "rea",
+          "owner": "morluto",
+          "url": "https://github.com/morluto/rea",
+          "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+          "ai_summary": "rea - Reverse engineer anything with agents, from app behavior down to native binaries... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 375603,
+          "forks": 93892,
+          "stars_today": 0,
+          "stars_this_week": 88243,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 2132,
+            "repo_age_days": 193,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1220,
+            "pr_count": 3655,
+            "star_fork_ratio": 4
+          },
+          "trending_days": 3,
+          "first_seen": "2026-10-22T00:00:00.000Z"
+        },
+        {
+          "id": "stablyai/orca",
+          "name": "orca",
+          "owner": "stablyai",
+          "url": "https://github.com/stablyai/orca",
+          "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+          "ai_summary": "orca - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 104396,
+          "forks": 6591,
+          "stars_today": 0,
+          "stars_this_week": 9545,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 1326,
+            "repo_age_days": 221,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 8690,
+            "pr_count": 23953,
+            "star_fork_ratio": 15.84
+          },
+          "trending_days": 8,
+          "first_seen": "2026-10-17T00:00:00.000Z"
+        },
+        {
+          "id": "Graphify-Labs/graphify",
+          "name": "graphify",
+          "owner": "Graphify-Labs",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+          "ai_summary": "graphify - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryab... 使用 Python 开发。",
+          "language": "Python",
+          "stars": 134120,
+          "forks": 12806,
+          "stars_today": 0,
+          "stars_this_week": 6875,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 117,
+            "repo_age_days": 203,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1608,
+            "pr_count": 2504,
+            "star_fork_ratio": 10.47
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-24T00:00:00.000Z"
+        },
+        {
+          "id": "anomalyco/opencode",
+          "name": "opencode",
+          "owner": "anomalyco",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "ai_summary": "opencode - The open source coding agent. 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 220903,
+          "forks": 29531,
+          "stars_today": 0,
+          "stars_this_week": 6765,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2329,
+            "repo_age_days": 541,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 3743,
+            "pr_count": 26414,
+            "star_fork_ratio": 7.48
+          },
+          "trending_days": 3,
+          "first_seen": "2026-10-22T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "Skills": 9,
+          "Agent": 7,
+          "AI": 7
+        }
+      }
     }
   ]
 }

@@ -1,0 +1,321 @@
+{
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T13:36:29.949Z",
+  "projects": [
+    {
+      "id": "Nutlope/hallmark",
+      "name": "hallmark",
+      "owner": "Nutlope",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "ai_summary": "hallmark - Anti-AI-slop design skill for Claude Code, Cursor, and Codex. 使用 CSS 开发。",
+      "language": "CSS",
+      "stars": 35262,
+      "forks": 1838,
+      "stars_today": 2235,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 2384,
+        "repo_age_days": 181,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 62,
+        "pr_count": 63,
+        "star_fork_ratio": 19.18
+      },
+      "trending_days": 3,
+      "first_seen": "2026-10-24T00:00:00.000Z"
+    },
+    {
+      "id": "pbakaus/impeccable",
+      "name": "impeccable",
+      "owner": "pbakaus",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "ai_summary": "impeccable - The design language that makes your AI harness better at design. 使用 Rust 开发。",
+      "language": "Rust",
+      "stars": 88538,
+      "forks": 5283,
+      "stars_today": 1551,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 6510,
+        "repo_age_days": 344,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 42,
+        "pr_count": 742,
+        "star_fork_ratio": 16.76
+      },
+      "trending_days": 3,
+      "first_seen": "2026-10-24T00:00:00.000Z"
+    },
+    {
+      "id": "TauricResearch/TradingAgents",
+      "name": "TradingAgents",
+      "owner": "TauricResearch",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "ai_summary": "TradingAgents - TradingAgents: Multi-Agents LLM Financial Trading Framework 使用 Python 开发。",
+      "language": "Python",
+      "stars": 115379,
+      "forks": 22197,
+      "stars_today": 1376,
+      "stars_this_week": 2461,
+      "category": "hot",
+      "tags": [
+        "金融",
+        "AI",
+        "Skills"
+      ],
+      "security_score": 90,
+      "security_details": {
+        "author_age_days": 669,
+        "repo_age_days": 667,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 152,
+        "pr_count": 1011,
+        "star_fork_ratio": 5.2
+      },
+      "trending_days": 2,
+      "first_seen": "2026-10-25T00:00:00.000Z"
+    },
+    {
+      "id": "makecindy/cindy",
+      "name": "cindy",
+      "owner": "makecindy",
+      "url": "https://github.com/makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "ai_summary": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "language": "TypeScript",
+      "stars": 5799,
+      "forks": 732,
+      "stars_today": 1268,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 70,
+      "security_details": {
+        "author_age_days": 98,
+        "repo_age_days": 95,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 2012,
+        "pr_count": 4045,
+        "star_fork_ratio": 7.92
+      },
+      "trending_days": 3,
+      "first_seen": "2026-10-24T00:00:00.000Z"
+    },
+    {
+      "id": "JetBrains/thinkrail",
+      "name": "thinkrail",
+      "owner": "JetBrains",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "ai_summary": "thinkrail - Vibe code with pi in a lightweight, real IDE that customises itself around the w... 使用 TypeScript 开发。",
+      "language": "TypeScript",
+      "stars": 2362,
+      "forks": 132,
+      "stars_today": 1156,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 5600,
+        "repo_age_days": 110,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 222,
+        "pr_count": 620,
+        "star_fork_ratio": 17.89
+      },
+      "trending_days": 1,
+      "first_seen": "2026-10-26T00:00:00.000Z"
+    },
+    {
+      "id": "affaan-m/ECC",
+      "name": "ECC",
+      "owner": "affaan-m",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "ai_summary": "ECC - The agent harness performance optimization system. Skills, instincts, memory, se... 使用 JavaScript 开发。",
+      "language": "JavaScript",
+      "stars": 289311,
+      "forks": 42868,
+      "stars_today": 853,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 85,
+      "security_details": {
+        "author_age_days": 1360,
+        "repo_age_days": 281,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 240,
+        "pr_count": 2660,
+        "star_fork_ratio": 6.75
+      },
+      "trending_days": 1,
+      "first_seen": "2026-10-26T00:00:00.000Z"
+    },
+    {
+      "id": "Panniantong/Agent-Reach",
+      "name": "Agent-Reach",
+      "owner": "Panniantong",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "ai_summary": "Agent-Reach - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi... 使用 Python 开发。",
+      "language": "Python",
+      "stars": 103000,
+      "forks": 9137,
+      "stars_today": 723,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 2182,
+        "repo_age_days": 244,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 245,
+        "pr_count": 556,
+        "star_fork_ratio": 11.27
+      },
+      "trending_days": 1,
+      "first_seen": "2026-10-26T00:00:00.000Z"
+    },
+    {
+      "id": "multica-ai/andrej-karpathy-skills",
+      "name": "andrej-karpathy-skills",
+      "owner": "multica-ai",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "ai_summary": "andrej-karpathy-skills - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar... 使用 多语言 开发。",
+      "language": "",
+      "stars": 224204,
+      "forks": 22439,
+      "stars_today": 457,
+      "stars_this_week": 2937,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills"
+      ],
+      "security_score": 70,
+      "security_details": {
+        "author_age_days": 285,
+        "repo_age_days": 272,
+        "has_license": false,
+        "has_readme": true,
+        "issue_count": 138,
+        "pr_count": 169,
+        "star_fork_ratio": 9.99
+      },
+      "trending_days": 1,
+      "first_seen": "2026-10-26T00:00:00.000Z"
+    },
+    {
+      "id": "NVIDIA/SkillSpector",
+      "name": "SkillSpector",
+      "owner": "NVIDIA",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+      "ai_summary": "SkillSpector - Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns... 使用 Python 开发。",
+      "language": "Python",
+      "stars": 21786,
+      "forks": 1911,
+      "stars_today": 203,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 5281,
+        "repo_age_days": 219,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 171,
+        "pr_count": 570,
+        "star_fork_ratio": 11.4
+      },
+      "trending_days": 1,
+      "first_seen": "2026-10-26T00:00:00.000Z"
+    },
+    {
+      "id": "alchaincyf/huashu-design",
+      "name": "huashu-design",
+      "owner": "alchaincyf",
+      "url": "https://github.com/alchaincyf/huashu-design",
+      "description": "Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent",
+      "ai_summary": "Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent",
+      "language": "HTML",
+      "stars": 26519,
+      "forks": 2950,
+      "stars_today": 177,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 75,
+      "security_details": {
+        "author_age_days": 1323,
+        "repo_age_days": 189,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 5,
+        "pr_count": 18,
+        "star_fork_ratio": 8.99
+      },
+      "trending_days": 1,
+      "first_seen": "2026-10-26T00:00:00.000Z"
+    }
+  ],
+  "stats": {
+    "total": 10,
+    "hot": 10,
+    "gem": 0,
+    "by_tag": {
+      "AI": 10,
+      "Skills": 8,
+      "金融": 1,
+      "Agent": 5
+    }
+  }
+}

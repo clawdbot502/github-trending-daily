@@ -8531,6 +8531,325 @@
           "Agent": 6
         }
       }
+    },
+    {
+      "date": "2026-10-28",
+      "generated_at": "2026-10-28T13:33:22.547Z",
+      "projects": [
+        {
+          "id": "Nutlope/hallmark",
+          "name": "hallmark",
+          "owner": "Nutlope",
+          "url": "https://github.com/Nutlope/hallmark",
+          "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+          "ai_summary": "hallmark - Anti-AI-slop design skill for Claude Code, Cursor, and Codex. 使用 CSS 开发。",
+          "language": "CSS",
+          "stars": 40075,
+          "forks": 2089,
+          "stars_today": 2109,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2386,
+            "repo_age_days": 183,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 65,
+            "pr_count": 69,
+            "star_fork_ratio": 19.18
+          },
+          "trending_days": 5,
+          "first_seen": "2026-10-24T00:00:00.000Z"
+        },
+        {
+          "id": "togg53192-cmd/jailbreaks",
+          "name": "jailbreaks",
+          "owner": "togg53192-cmd",
+          "url": "https://github.com/togg53192-cmd/jailbreaks",
+          "description": "LIST OF ALL MY JAILBREAKS",
+          "ai_summary": "jailbreaks - LIST OF ALL MY JAILBREAKS 使用 多语言 开发。",
+          "language": "",
+          "stars": 6473,
+          "forks": 935,
+          "stars_today": 1478,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 70,
+          "security_details": {
+            "author_age_days": 459,
+            "repo_age_days": 131,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 15,
+            "pr_count": 6,
+            "star_fork_ratio": 6.92
+          },
+          "trending_days": 2,
+          "first_seen": "2026-10-27T00:00:00.000Z"
+        },
+        {
+          "id": "pbakaus/impeccable",
+          "name": "impeccable",
+          "owner": "pbakaus",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+          "ai_summary": "impeccable - The design vocabulary for your coding agent. Steer with polish and bolder, revie... 使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 91445,
+          "forks": 5407,
+          "stars_today": 1471,
+          "stars_this_week": 6713,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6512,
+            "repo_age_days": 346,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 44,
+            "pr_count": 761,
+            "star_fork_ratio": 16.91
+          },
+          "trending_days": 5,
+          "first_seen": "2026-10-24T00:00:00.000Z"
+        },
+        {
+          "id": "elayadesign/ai-design-skills",
+          "name": "ai-design-skills",
+          "owner": "elayadesign",
+          "url": "https://github.com/elayadesign/ai-design-skills",
+          "description": "",
+          "ai_summary": "ai-design-skills - 开源项目 使用 多语言 开发。",
+          "language": "",
+          "stars": 10645,
+          "forks": 758,
+          "stars_today": 1395,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 486,
+            "repo_age_days": 91,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 7,
+            "pr_count": 5,
+            "star_fork_ratio": 14.04
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-28T00:00:00.000Z"
+        },
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "superpowers - An agentic skills framework & software development methodology that works. 使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 307006,
+          "forks": 27323,
+          "stars_today": 1096,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6500,
+            "repo_age_days": 383,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 365,
+            "pr_count": 1359,
+            "star_fork_ratio": 11.24
+          },
+          "trending_days": 2,
+          "first_seen": "2026-10-27T00:00:00.000Z"
+        },
+        {
+          "id": "JetBrains/thinkrail",
+          "name": "thinkrail",
+          "owner": "JetBrains",
+          "url": "https://github.com/JetBrains/thinkrail",
+          "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+          "ai_summary": "thinkrail - Vibe code with pi in a lightweight, real IDE that customises itself around the w... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 4615,
+          "forks": 240,
+          "stars_today": 1075,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5602,
+            "repo_age_days": 112,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 232,
+            "pr_count": 659,
+            "star_fork_ratio": 19.23
+          },
+          "trending_days": 3,
+          "first_seen": "2026-10-26T00:00:00.000Z"
+        },
+        {
+          "id": "nightly-labs/openbot",
+          "name": "openbot",
+          "owner": "nightly-labs",
+          "url": "https://github.com/nightly-labs/openbot",
+          "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+          "ai_summary": "openbot - A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, ... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 2948,
+          "forks": 290,
+          "stars_today": 1053,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1709,
+            "repo_age_days": 76,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 267,
+            "pr_count": 2373,
+            "star_fork_ratio": 10.17
+          },
+          "trending_days": 2,
+          "first_seen": "2026-10-27T00:00:00.000Z"
+        },
+        {
+          "id": "makecindy/cindy",
+          "name": "cindy",
+          "owner": "makecindy",
+          "url": "https://github.com/makecindy/cindy",
+          "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+          "ai_summary": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+          "language": "TypeScript",
+          "stars": 7853,
+          "forks": 923,
+          "stars_today": 740,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 70,
+          "security_details": {
+            "author_age_days": 100,
+            "repo_age_days": 97,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 2137,
+            "pr_count": 4273,
+            "star_fork_ratio": 8.51
+          },
+          "trending_days": 5,
+          "first_seen": "2026-10-24T00:00:00.000Z"
+        },
+        {
+          "id": "expo/skills",
+          "name": "skills",
+          "owner": "expo",
+          "url": "https://github.com/expo/skills",
+          "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+          "ai_summary": "skills - A collection of AI agent skills for working with Expo projects and Expo Applicat... 使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 3387,
+          "forks": 217,
+          "stars_today": 212,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4180,
+            "repo_age_days": 332,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 95,
+            "pr_count": 221,
+            "star_fork_ratio": 15.61
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-28T00:00:00.000Z"
+        },
+        {
+          "id": "macro-inc/macro",
+          "name": "macro",
+          "owner": "macro-inc",
+          "url": "https://github.com/macro-inc/macro",
+          "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+          "ai_summary": "macro - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls,... 使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 5214,
+          "forks": 507,
+          "stars_today": 106,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2351,
+            "repo_age_days": 353,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 416,
+            "pr_count": 8880,
+            "star_fork_ratio": 10.28
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-28T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 9,
+          "Skills": 8,
+          "Agent": 6
+        }
+      }
     }
   ]
 }

@@ -1,0 +1,319 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T13:36:42.684Z",
+  "projects": [
+    {
+      "id": "pbakaus/impeccable",
+      "name": "impeccable",
+      "owner": "pbakaus",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "ai_summary": "impeccable - The design vocabulary for your coding agent. Steer with polish and bolder, revie... 使用 Rust 开发。",
+      "language": "Rust",
+      "stars": 96469,
+      "forks": 5679,
+      "stars_today": 2299,
+      "stars_this_week": 9713,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 6514,
+        "repo_age_days": 348,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 49,
+        "pr_count": 774,
+        "star_fork_ratio": 16.99
+      },
+      "trending_days": 7,
+      "first_seen": "2026-10-24T00:00:00.000Z"
+    },
+    {
+      "id": "togg53192-cmd/jailbreaks",
+      "name": "jailbreaks",
+      "owner": "togg53192-cmd",
+      "url": "https://github.com/togg53192-cmd/jailbreaks",
+      "description": "LIST OF ALL MY JAILBREAKS",
+      "ai_summary": "jailbreaks - LIST OF ALL MY JAILBREAKS 使用 多语言 开发。",
+      "language": "",
+      "stars": 10092,
+      "forks": 1438,
+      "stars_today": 2053,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI"
+      ],
+      "security_score": 70,
+      "security_details": {
+        "author_age_days": 461,
+        "repo_age_days": 133,
+        "has_license": false,
+        "has_readme": true,
+        "issue_count": 20,
+        "pr_count": 8,
+        "star_fork_ratio": 7.02
+      },
+      "trending_days": 4,
+      "first_seen": "2026-10-27T00:00:00.000Z"
+    },
+    {
+      "id": "obra/superpowers",
+      "name": "superpowers",
+      "owner": "obra",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "ai_summary": "superpowers - An agentic skills framework & software development methodology that works. 使用 Shell 开发。",
+      "language": "Shell",
+      "stars": 309135,
+      "forks": 27492,
+      "stars_today": 1255,
+      "stars_this_week": 4894,
+      "category": "hot",
+      "tags": [
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 6502,
+        "repo_age_days": 385,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 374,
+        "pr_count": 1370,
+        "star_fork_ratio": 11.24
+      },
+      "trending_days": 4,
+      "first_seen": "2026-10-27T00:00:00.000Z"
+    },
+    {
+      "id": "thedotmack/claude-mem",
+      "name": "claude-mem",
+      "owner": "thedotmack",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "ai_summary": "claude-mem - Persistent Context Across Sessions for Every Agent – Captures everything your ag... 使用 TypeScript 开发。",
+      "language": "TypeScript",
+      "stars": 105474,
+      "forks": 9294,
+      "stars_today": 1145,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 5700,
+        "repo_age_days": 424,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 126,
+        "pr_count": 2601,
+        "star_fork_ratio": 11.35
+      },
+      "trending_days": 2,
+      "first_seen": "2026-10-29T00:00:00.000Z"
+    },
+    {
+      "id": "mattpocock/skills",
+      "name": "skills",
+      "owner": "mattpocock",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "ai_summary": "skills - Skills for Real Engineers. Straight from my .agents directory. 使用 Shell 开发。",
+      "language": "Shell",
+      "stars": 307078,
+      "forks": 25831,
+      "stars_today": 882,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 3468,
+        "repo_age_days": 269,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 208,
+        "pr_count": 196,
+        "star_fork_ratio": 11.89
+      },
+      "trending_days": 1,
+      "first_seen": "2026-10-30T00:00:00.000Z"
+    },
+    {
+      "id": "JetBrains/thinkrail",
+      "name": "thinkrail",
+      "owner": "JetBrains",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "ai_summary": "thinkrail - Vibe code with pi in a lightweight, real IDE that customises itself around the w... 使用 TypeScript 开发。",
+      "language": "TypeScript",
+      "stars": 6379,
+      "forks": 348,
+      "stars_today": 717,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 5604,
+        "repo_age_days": 114,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 308,
+        "pr_count": 727,
+        "star_fork_ratio": 18.33
+      },
+      "trending_days": 5,
+      "first_seen": "2026-10-26T00:00:00.000Z"
+    },
+    {
+      "id": "CopilotKit/OpenBot",
+      "name": "OpenBot",
+      "owner": "CopilotKit",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "ai_summary": "OpenBot - Open-source AI coworkers that each get a computer of their own: a browser, files... 使用 TypeScript 开发。",
+      "language": "TypeScript",
+      "stars": 8492,
+      "forks": 1075,
+      "stars_today": 707,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 80,
+      "security_details": {
+        "author_age_days": 1289,
+        "repo_age_days": 74,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 58,
+        "pr_count": 713,
+        "star_fork_ratio": 7.9
+      },
+      "trending_days": 2,
+      "first_seen": "2026-10-29T00:00:00.000Z"
+    },
+    {
+      "id": "lightpanda-io/browser",
+      "name": "browser",
+      "owner": "lightpanda-io",
+      "url": "https://github.com/lightpanda-io/browser",
+      "description": "Lightpanda: the headless browser designed for AI and automation",
+      "ai_summary": "browser - Lightpanda: the headless browser designed for AI and automation 使用 Zig 开发。",
+      "language": "Zig",
+      "stars": 37939,
+      "forks": 1849,
+      "stars_today": 559,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 1131,
+        "repo_age_days": 1360,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 98,
+        "pr_count": 3670,
+        "star_fork_ratio": 20.52
+      },
+      "trending_days": 1,
+      "first_seen": "2026-10-30T00:00:00.000Z"
+    },
+    {
+      "id": "macro-inc/macro",
+      "name": "macro",
+      "owner": "macro-inc",
+      "url": "https://github.com/macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "ai_summary": "macro - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls,... 使用 Rust 开发。",
+      "language": "Rust",
+      "stars": 5715,
+      "forks": 536,
+      "stars_today": 379,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 2353,
+        "repo_age_days": 355,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 291,
+        "pr_count": 9069,
+        "star_fork_ratio": 10.66
+      },
+      "trending_days": 1,
+      "first_seen": "2026-10-30T00:00:00.000Z"
+    },
+    {
+      "id": "anthropics/skills",
+      "name": "skills",
+      "owner": "anthropics",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "ai_summary": "skills - Public repository for Agent Skills 使用 Python 开发。",
+      "language": "Python",
+      "stars": 185002,
+      "forks": 21877,
+      "stars_today": 287,
+      "stars_this_week": 1877,
+      "category": "hot",
+      "tags": [
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 95,
+      "security_details": {
+        "author_age_days": 2140,
+        "repo_age_days": 402,
+        "has_license": false,
+        "has_readme": true,
+        "issue_count": 1450,
+        "pr_count": 1452,
+        "star_fork_ratio": 8.46
+      },
+      "trending_days": 1,
+      "first_seen": "2026-10-30T00:00:00.000Z"
+    }
+  ],
+  "stats": {
+    "total": 10,
+    "hot": 10,
+    "gem": 0,
+    "by_tag": {
+      "AI": 8,
+      "Skills": 8,
+      "Agent": 7
+    }
+  }
+}

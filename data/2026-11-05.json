@@ -1,0 +1,317 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T14:58:21.354Z",
+  "projects": [
+    {
+      "id": "NVIDIA/auto-ontology",
+      "name": "auto-ontology",
+      "owner": "NVIDIA",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "ai_summary": "auto-ontology - Auto Ontology is a Python framework for building semantic, graph-based reasoning... 使用 Python 开发。",
+      "language": "Python",
+      "stars": 6637,
+      "forks": 521,
+      "stars_today": 2707,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 5291,
+        "repo_age_days": 191,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 52,
+        "pr_count": 393,
+        "star_fork_ratio": 12.74
+      },
+      "trending_days": 2,
+      "first_seen": "2026-11-04T00:00:00.000Z"
+    },
+    {
+      "id": "vercel-labs/agent-desktop",
+      "name": "agent-desktop",
+      "owner": "vercel-labs",
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "description": "Computer use CLI for AI agents",
+      "ai_summary": "agent-desktop - Computer use CLI for AI agents 使用 Rust 开发。",
+      "language": "Rust",
+      "stars": 16320,
+      "forks": 1143,
+      "stars_today": 2173,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 95,
+      "security_details": {
+        "author_age_days": 1587,
+        "repo_age_days": 258,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 169,
+        "pr_count": 451,
+        "star_fork_ratio": 14.28
+      },
+      "trending_days": 4,
+      "first_seen": "2026-11-02T00:00:00.000Z"
+    },
+    {
+      "id": "mattpocock/skills",
+      "name": "skills",
+      "owner": "mattpocock",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "ai_summary": "skills - Skills for Real Engineers. Straight from my .agents directory. 使用 Shell 开发。",
+      "language": "Shell",
+      "stars": 314482,
+      "forks": 26346,
+      "stars_today": 2053,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 3474,
+        "repo_age_days": 275,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 214,
+        "pr_count": 206,
+        "star_fork_ratio": 11.94
+      },
+      "trending_days": 4,
+      "first_seen": "2026-11-02T00:00:00.000Z"
+    },
+    {
+      "id": "D4Vinci/Scrapling",
+      "name": "Scrapling",
+      "owner": "D4Vinci",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+      "ai_summary": "Scrapling - 🕷️ The BEST Web Scraping framework that handles everything from a single reques... 使用 Python 开发。",
+      "language": "Python",
+      "stars": 97529,
+      "forks": 10222,
+      "stars_today": 1661,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 3757,
+        "repo_age_days": 752,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 12,
+        "pr_count": 311,
+        "star_fork_ratio": 9.54
+      },
+      "trending_days": 4,
+      "first_seen": "2026-11-02T00:00:00.000Z"
+    },
+    {
+      "id": "scenario-labs/skills",
+      "name": "skills",
+      "owner": "scenario-labs",
+      "url": "https://github.com/scenario-labs/skills",
+      "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+      "ai_summary": "skills - Get production-ready images, video, audio, and 3D from any AI agent: skills that... 使用 Python 开发。",
+      "language": "Python",
+      "stars": 2824,
+      "forks": 259,
+      "stars_today": 674,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 2234,
+        "repo_age_days": 85,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 41,
+        "pr_count": 335,
+        "star_fork_ratio": 10.9
+      },
+      "trending_days": 2,
+      "first_seen": "2026-11-04T00:00:00.000Z"
+    },
+    {
+      "id": "garrytan/gstack",
+      "name": "gstack",
+      "owner": "garrytan",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "ai_summary": "gstack - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO,... 使用 TypeScript 开发。",
+      "language": "TypeScript",
+      "stars": 139717,
+      "forks": 20670,
+      "stars_today": 608,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI"
+      ],
+      "security_score": 95,
+      "security_details": {
+        "author_age_days": 6663,
+        "repo_age_days": 238,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 78,
+        "pr_count": 2837,
+        "star_fork_ratio": 6.76
+      },
+      "trending_days": 2,
+      "first_seen": "2026-11-04T00:00:00.000Z"
+    },
+    {
+      "id": "max-sixty/worktrunk",
+      "name": "worktrunk",
+      "owner": "max-sixty",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "ai_summary": "worktrunk - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent w... 使用 Rust 开发。",
+      "language": "Rust",
+      "stars": 11354,
+      "forks": 427,
+      "stars_today": 546,
+      "stars_this_week": 1261,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 4776,
+        "repo_age_days": 383,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 51,
+        "pr_count": 3960,
+        "star_fork_ratio": 26.59
+      },
+      "trending_days": 4,
+      "first_seen": "2026-11-02T00:00:00.000Z"
+    },
+    {
+      "id": "Usagi-org/ai-goofish-monitor",
+      "name": "ai-goofish-monitor",
+      "owner": "Usagi-org",
+      "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+      "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+      "ai_summary": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+      "language": "Python",
+      "stars": 17396,
+      "forks": 2932,
+      "stars_today": 242,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI"
+      ],
+      "security_score": 90,
+      "security_details": {
+        "author_age_days": 408,
+        "repo_age_days": 477,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 47,
+        "pr_count": 190,
+        "star_fork_ratio": 5.93
+      },
+      "trending_days": 1,
+      "first_seen": "2026-11-05T00:00:00.000Z"
+    },
+    {
+      "id": "microsoft/VibeVoice",
+      "name": "VibeVoice",
+      "owner": "microsoft",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "ai_summary": "VibeVoice - Open-Source Frontier Voice AI 使用 Python 开发。",
+      "language": "Python",
+      "stars": 55491,
+      "forks": 6249,
+      "stars_today": 214,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 4712,
+        "repo_age_days": 437,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 204,
+        "pr_count": 186,
+        "star_fork_ratio": 8.88
+      },
+      "trending_days": 1,
+      "first_seen": "2026-11-05T00:00:00.000Z"
+    },
+    {
+      "id": "google/skills",
+      "name": "skills",
+      "owner": "google",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "ai_summary": "skills - Agent Skills for Google products and technologies 使用 Python 开发。",
+      "language": "Python",
+      "stars": 22167,
+      "forks": 1883,
+      "stars_today": 199,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 5405,
+        "repo_age_days": 218,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 25,
+        "pr_count": 183,
+        "star_fork_ratio": 11.77
+      },
+      "trending_days": 1,
+      "first_seen": "2026-11-05T00:00:00.000Z"
+    }
+  ],
+  "stats": {
+    "total": 10,
+    "hot": 10,
+    "gem": 0,
+    "by_tag": {
+      "AI": 9,
+      "Skills": 6,
+      "Agent": 6
+    }
+  }
+}

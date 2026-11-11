@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-10",
-  "generated_at": "2026-11-10T15:47:10.065Z",
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T14:43:59.644Z",
   "projects": [
     {
       "id": "meta/astryx",
@@ -10,9 +10,9 @@
       "description": "An open source design system that's fully customizable and agent ready",
       "ai_summary": "astryx - An open source design system that's fully customizable and agent ready 使用 TypeScript 开发。",
       "language": "TypeScript",
-      "stars": 21989,
-      "forks": 1742,
-      "stars_today": 3111,
+      "stars": 24368,
+      "forks": 1900,
+      "stars_today": 2842,
       "stars_this_week": 0,
       "category": "hot",
       "tags": [
@@ -21,105 +21,105 @@
       ],
       "security_score": 100,
       "security_details": {
-        "author_age_days": 6431,
-        "repo_age_days": 304,
+        "author_age_days": 6432,
+        "repo_age_days": 305,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 682,
-        "pr_count": 9303,
-        "star_fork_ratio": 12.62
+        "issue_count": 658,
+        "pr_count": 9492,
+        "star_fork_ratio": 12.83
       },
-      "trending_days": 4,
+      "trending_days": 5,
       "first_seen": "2026-11-07T00:00:00.000Z"
     },
     {
-      "id": "anthropics/skills",
-      "name": "skills",
-      "owner": "anthropics",
-      "url": "https://github.com/anthropics/skills",
-      "description": "Public repository for Agent Skills",
-      "ai_summary": "skills - Public repository for Agent Skills 使用 Python 开发。",
-      "language": "Python",
-      "stars": 191941,
-      "forks": 22594,
-      "stars_today": 1676,
-      "stars_this_week": 3796,
+      "id": "we-promise/sure",
+      "name": "sure",
+      "owner": "we-promise",
+      "url": "https://github.com/we-promise/sure",
+      "description": "The personal finance app for everyone (by everyone)",
+      "ai_summary": "sure - The personal finance app for everyone (by everyone) 使用 Ruby 开发。",
+      "language": "Ruby",
+      "stars": 12607,
+      "forks": 935,
+      "stars_today": 1079,
+      "stars_this_week": 0,
       "category": "hot",
       "tags": [
-        "Skills",
-        "Agent"
+        "金融"
       ],
-      "security_score": 95,
+      "security_score": 100,
       "security_details": {
-        "author_age_days": 2151,
-        "repo_age_days": 413,
-        "has_license": false,
+        "author_age_days": 476,
+        "repo_age_days": 476,
+        "has_license": true,
         "has_readme": true,
-        "issue_count": 1511,
-        "pr_count": 1505,
-        "star_fork_ratio": 8.5
+        "issue_count": 894,
+        "pr_count": 3313,
+        "star_fork_ratio": 13.48
       },
-      "trending_days": 4,
-      "first_seen": "2026-11-07T00:00:00.000Z"
+      "trending_days": 2,
+      "first_seen": "2026-11-10T00:00:00.000Z"
     },
     {
-      "id": "mattpocock/skills",
-      "name": "skills",
-      "owner": "mattpocock",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "ai_summary": "skills - Skills for Real Engineers. Straight from my .agents directory. 使用 Shell 开发。",
-      "language": "Shell",
-      "stars": 320526,
-      "forks": 26870,
-      "stars_today": 1223,
-      "stars_this_week": 9800,
+      "id": "ZhuLinsen/daily_stock_analysis",
+      "name": "daily_stock_analysis",
+      "owner": "ZhuLinsen",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "ai_summary": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-f…",
+      "language": "Python",
+      "stars": 69892,
+      "forks": 56773,
+      "stars_today": 960,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "金融",
+        "AI"
+      ],
+      "security_score": 85,
+      "security_details": {
+        "author_age_days": 2995,
+        "repo_age_days": 305,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 47,
+        "pr_count": 1559,
+        "star_fork_ratio": 1.23
+      },
+      "trending_days": 1,
+      "first_seen": "2026-11-11T00:00:00.000Z"
+    },
+    {
+      "id": "addyosmani/agent-skills",
+      "name": "agent-skills",
+      "owner": "addyosmani",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "ai_summary": "agent-skills - Production-grade engineering skills for AI coding agents. 使用 JavaScript 开发。",
+      "language": "JavaScript",
+      "stars": 115637,
+      "forks": 12129,
+      "stars_today": 788,
+      "stars_this_week": 0,
       "category": "hot",
       "tags": [
         "AI",
         "Skills",
         "Agent"
       ],
-      "security_score": 100,
+      "security_score": 95,
       "security_details": {
-        "author_age_days": 3479,
-        "repo_age_days": 280,
+        "author_age_days": 6310,
+        "repo_age_days": 268,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 232,
-        "pr_count": 207,
-        "star_fork_ratio": 11.93
+        "issue_count": 135,
+        "pr_count": 583,
+        "star_fork_ratio": 9.53
       },
-      "trending_days": 9,
-      "first_seen": "2026-11-02T00:00:00.000Z"
-    },
-    {
-      "id": "homeassistant-ai/ha-mcp",
-      "name": "ha-mcp",
-      "owner": "homeassistant-ai",
-      "url": "https://github.com/homeassistant-ai/ha-mcp",
-      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-      "ai_summary": "ha-mcp - Configure and automate Home Assistant with Claude, ChatGPT, and other AI assista... 使用 Python 开发。",
-      "language": "Python",
-      "stars": 6422,
-      "forks": 397,
-      "stars_today": 792,
-      "stars_this_week": 0,
-      "category": "hot",
-      "tags": [
-        "AI"
-      ],
-      "security_score": 100,
-      "security_details": {
-        "author_age_days": 422,
-        "repo_age_days": 422,
-        "has_license": true,
-        "has_readme": true,
-        "issue_count": 15,
-        "pr_count": 2041,
-        "star_fork_ratio": 16.18
-      },
-      "trending_days": 1,
+      "trending_days": 2,
       "first_seen": "2026-11-10T00:00:00.000Z"
     },
     {
@@ -130,10 +130,10 @@
       "description": "Browser automation CLI for AI agents",
       "ai_summary": "agent-browser - Browser automation CLI for AI agents 使用 Rust 开发。",
       "language": "Rust",
-      "stars": 49000,
-      "forks": 3423,
-      "stars_today": 775,
-      "stars_this_week": 2994,
+      "stars": 49652,
+      "forks": 3474,
+      "stars_today": 712,
+      "stars_this_week": 3606,
       "category": "hot",
       "tags": [
         "AI",
@@ -142,28 +142,28 @@
       ],
       "security_score": 95,
       "security_details": {
-        "author_age_days": 1592,
-        "repo_age_days": 303,
+        "author_age_days": 1593,
+        "repo_age_days": 304,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 556,
-        "pr_count": 1648,
-        "star_fork_ratio": 14.31
+        "issue_count": 583,
+        "pr_count": 1676,
+        "star_fork_ratio": 14.29
       },
-      "trending_days": 4,
+      "trending_days": 5,
       "first_seen": "2026-11-07T00:00:00.000Z"
     },
     {
-      "id": "anthropics/claude-quickstarts",
-      "name": "claude-quickstarts",
-      "owner": "anthropics",
-      "url": "https://github.com/anthropics/claude-quickstarts",
-      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "ai_summary": "claude-quickstarts - A collection of projects designed to help developers quickly get started with bu... 使用 Python 开发。",
+      "id": "homeassistant-ai/ha-mcp",
+      "name": "ha-mcp",
+      "owner": "homeassistant-ai",
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "ai_summary": "ha-mcp - Configure and automate Home Assistant with Claude, ChatGPT, and other AI assista... 使用 Python 开发。",
       "language": "Python",
-      "stars": 20326,
-      "forks": 3434,
-      "stars_today": 530,
+      "stars": 7035,
+      "forks": 445,
+      "stars_today": 640,
       "stars_this_week": 0,
       "category": "hot",
       "tags": [
@@ -171,107 +171,16 @@
       ],
       "security_score": 100,
       "security_details": {
-        "author_age_days": 2151,
-        "repo_age_days": 802,
+        "author_age_days": 423,
+        "repo_age_days": 423,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 240,
-        "pr_count": 300,
-        "star_fork_ratio": 5.92
+        "issue_count": 19,
+        "pr_count": 2059,
+        "star_fork_ratio": 15.81
       },
       "trending_days": 2,
-      "first_seen": "2026-11-09T00:00:00.000Z"
-    },
-    {
-      "id": "addyosmani/agent-skills",
-      "name": "agent-skills",
-      "owner": "addyosmani",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "ai_summary": "agent-skills - Production-grade engineering skills for AI coding agents. 使用 JavaScript 开发。",
-      "language": "JavaScript",
-      "stars": 114903,
-      "forks": 12047,
-      "stars_today": 465,
-      "stars_this_week": 0,
-      "category": "hot",
-      "tags": [
-        "AI",
-        "Skills",
-        "Agent"
-      ],
-      "security_score": 95,
-      "security_details": {
-        "author_age_days": 6309,
-        "repo_age_days": 267,
-        "has_license": true,
-        "has_readme": true,
-        "issue_count": 133,
-        "pr_count": 582,
-        "star_fork_ratio": 9.54
-      },
-      "trending_days": 1,
       "first_seen": "2026-11-10T00:00:00.000Z"
-    },
-    {
-      "id": "we-promise/sure",
-      "name": "sure",
-      "owner": "we-promise",
-      "url": "https://github.com/we-promise/sure",
-      "description": "The personal finance app for everyone (by everyone)",
-      "ai_summary": "sure - The personal finance app for everyone (by everyone) 使用 Ruby 开发。",
-      "language": "Ruby",
-      "stars": 11586,
-      "forks": 851,
-      "stars_today": 184,
-      "stars_this_week": 0,
-      "category": "hot",
-      "tags": [
-        "金融"
-      ],
-      "security_score": 100,
-      "security_details": {
-        "author_age_days": 475,
-        "repo_age_days": 475,
-        "has_license": true,
-        "has_readme": true,
-        "issue_count": 880,
-        "pr_count": 3277,
-        "star_fork_ratio": 13.61
-      },
-      "trending_days": 1,
-      "first_seen": "2026-11-10T00:00:00.000Z"
-    },
-    {
-      "id": "vercel-labs/agent-desktop",
-      "name": "agent-desktop",
-      "owner": "vercel-labs",
-      "url": "https://github.com/vercel-labs/agent-desktop",
-      "description": "Computer use CLI for AI agents",
-      "ai_summary": "agent-desktop - Computer use CLI for AI agents 使用 Rust 开发。",
-      "language": "Rust",
-      "stars": 21160,
-      "forks": 1574,
-      "stars_today": 0,
-      "stars_this_week": 12120,
-      "category": "hot",
-      "tags": [
-        "AI",
-        "Skills",
-        "Agent"
-      ],
-      "security_score": 95,
-      "security_details": {
-        "author_age_days": 1592,
-        "repo_age_days": 263,
-        "has_license": true,
-        "has_readme": true,
-        "issue_count": 208,
-        "pr_count": 485,
-        "star_fork_ratio": 13.44
-      },
-      "trending_days": 2,
-      "first_seen": "2026-11-09T00:00:00.000Z"
     },
     {
       "id": "cloudflare/security-audit-skill",
@@ -281,10 +190,10 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "ai_summary": "security-audit-skill - A coding-agent skill for multi-phase security audits with independently verified... 使用 JavaScript 开发。",
       "language": "JavaScript",
-      "stars": 68795,
-      "forks": 4533,
+      "stars": 69956,
+      "forks": 4636,
       "stars_today": 0,
-      "stars_this_week": 10695,
+      "stars_this_week": 10967,
       "category": "hot",
       "tags": [
         "Skills",
@@ -292,15 +201,108 @@
       ],
       "security_score": 100,
       "security_details": {
-        "author_age_days": 5982,
-        "repo_age_days": 145,
+        "author_age_days": 5983,
+        "repo_age_days": 146,
         "has_license": true,
         "has_readme": true,
         "issue_count": 123,
         "pr_count": 91,
-        "star_fork_ratio": 15.18
+        "star_fork_ratio": 15.09
       },
-      "trending_days": 2,
+      "trending_days": 3,
+      "first_seen": "2026-11-09T00:00:00.000Z"
+    },
+    {
+      "id": "mattpocock/skills",
+      "name": "skills",
+      "owner": "mattpocock",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "ai_summary": "skills - Skills for Real Engineers. Straight from my .agents directory. 使用 Shell 开发。",
+      "language": "Shell",
+      "stars": 321618,
+      "forks": 26962,
+      "stars_today": 0,
+      "stars_this_week": 9872,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 3480,
+        "repo_age_days": 281,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 235,
+        "pr_count": 208,
+        "star_fork_ratio": 11.93
+      },
+      "trending_days": 10,
+      "first_seen": "2026-11-02T00:00:00.000Z"
+    },
+    {
+      "id": "NVIDIA/auto-ontology",
+      "name": "auto-ontology",
+      "owner": "NVIDIA",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "ai_summary": "auto-ontology - Auto Ontology is a Python framework for building semantic, graph-based reasoning... 使用 Python 开发。",
+      "language": "Python",
+      "stars": 11708,
+      "forks": 961,
+      "stars_today": 0,
+      "stars_this_week": 9621,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 5297,
+        "repo_age_days": 197,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 116,
+        "pr_count": 428,
+        "star_fork_ratio": 12.18
+      },
+      "trending_days": 1,
+      "first_seen": "2026-11-11T00:00:00.000Z"
+    },
+    {
+      "id": "vercel-labs/agent-desktop",
+      "name": "agent-desktop",
+      "owner": "vercel-labs",
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "description": "Computer use CLI for AI agents",
+      "ai_summary": "agent-desktop - Computer use CLI for AI agents 使用 Rust 开发。",
+      "language": "Rust",
+      "stars": 21844,
+      "forks": 1624,
+      "stars_today": 0,
+      "stars_this_week": 9502,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 95,
+      "security_details": {
+        "author_age_days": 1593,
+        "repo_age_days": 264,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 212,
+        "pr_count": 493,
+        "star_fork_ratio": 13.45
+      },
+      "trending_days": 3,
       "first_seen": "2026-11-09T00:00:00.000Z"
     }
   ],
@@ -311,8 +313,8 @@
     "by_tag": {
       "Skills": 7,
       "Agent": 7,
-      "AI": 6,
-      "金融": 1
+      "金融": 2,
+      "AI": 7
     }
   }
 }

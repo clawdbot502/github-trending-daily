@@ -3511,6 +3511,323 @@
           "AI": 7
         }
       }
+    },
+    {
+      "date": "2026-11-12",
+      "generated_at": "2026-11-12T15:37:05.105Z",
+      "projects": [
+        {
+          "id": "meta/astryx",
+          "name": "astryx",
+          "owner": "meta",
+          "url": "https://github.com/meta/astryx",
+          "description": "An open source design system that's fully customizable and agent ready",
+          "ai_summary": "astryx - An open source design system that's fully customizable and agent ready 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 26147,
+          "forks": 2027,
+          "stars_today": 1789,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6433,
+            "repo_age_days": 306,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 621,
+            "pr_count": 9636,
+            "star_fork_ratio": 12.9
+          },
+          "trending_days": 6,
+          "first_seen": "2026-11-07T00:00:00.000Z"
+        },
+        {
+          "id": "we-promise/sure",
+          "name": "sure",
+          "owner": "we-promise",
+          "url": "https://github.com/we-promise/sure",
+          "description": "The personal finance app for everyone (by everyone)",
+          "ai_summary": "sure - The personal finance app for everyone (by everyone) 使用 Ruby 开发。",
+          "language": "Ruby",
+          "stars": 13627,
+          "forks": 1007,
+          "stars_today": 974,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 477,
+            "repo_age_days": 477,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 902,
+            "pr_count": 3352,
+            "star_fork_ratio": 13.53
+          },
+          "trending_days": 3,
+          "first_seen": "2026-11-10T00:00:00.000Z"
+        },
+        {
+          "id": "addyosmani/agent-skills",
+          "name": "agent-skills",
+          "owner": "addyosmani",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "ai_summary": "agent-skills - Production-grade engineering skills for AI coding agents. 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 116448,
+          "forks": 12197,
+          "stars_today": 812,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 6311,
+            "repo_age_days": 269,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 137,
+            "pr_count": 585,
+            "star_fork_ratio": 9.55
+          },
+          "trending_days": 3,
+          "first_seen": "2026-11-10T00:00:00.000Z"
+        },
+        {
+          "id": "openai/codex-security",
+          "name": "codex-security",
+          "owner": "openai",
+          "url": "https://github.com/openai/codex-security",
+          "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+          "ai_summary": "codex-security - OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixi... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 12173,
+          "forks": 967,
+          "stars_today": 663,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4057,
+            "repo_age_days": 121,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 142,
+            "pr_count": 2409,
+            "star_fork_ratio": 12.59
+          },
+          "trending_days": 1,
+          "first_seen": "2026-11-12T00:00:00.000Z"
+        },
+        {
+          "id": "Alishahryar1/free-claude-code",
+          "name": "free-claude-code",
+          "owner": "Alishahryar1",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+          "ai_summary": "free-claude-code - Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harne... 使用 Python 开发。",
+          "language": "Python",
+          "stars": 68989,
+          "forks": 10731,
+          "stars_today": 461,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 3772,
+            "repo_age_days": 287,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 388,
+            "pr_count": 1059,
+            "star_fork_ratio": 6.43
+          },
+          "trending_days": 1,
+          "first_seen": "2026-11-12T00:00:00.000Z"
+        },
+        {
+          "id": "CopilotKit/OpenBot",
+          "name": "OpenBot",
+          "owner": "CopilotKit",
+          "url": "https://github.com/CopilotKit/OpenBot",
+          "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+          "ai_summary": "OpenBot - Open-source AI coworkers that each get a computer of their own: a browser, files... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 11338,
+          "forks": 1403,
+          "stars_today": 291,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1303,
+            "repo_age_days": 87,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 82,
+            "pr_count": 1297,
+            "star_fork_ratio": 8.08
+          },
+          "trending_days": 1,
+          "first_seen": "2026-11-12T00:00:00.000Z"
+        },
+        {
+          "id": "ggml-org/llama.cpp",
+          "name": "llama.cpp",
+          "owner": "ggml-org",
+          "url": "https://github.com/ggml-org/llama.cpp",
+          "description": "LLM inference in C/C++",
+          "ai_summary": "llama.cpp - LLM inference in C/C++ 使用 C++ 开发。",
+          "language": "C++",
+          "stars": 134349,
+          "forks": 25483,
+          "stars_today": 287,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1270,
+            "repo_age_days": 1342,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 2575,
+            "pr_count": 17094,
+            "star_fork_ratio": 5.27
+          },
+          "trending_days": 1,
+          "first_seen": "2026-11-12T00:00:00.000Z"
+        },
+        {
+          "id": "QwenLM/qwen-code",
+          "name": "qwen-code",
+          "owner": "QwenLM",
+          "url": "https://github.com/QwenLM/qwen-code",
+          "description": "An open-source AI coding agent that lives in your terminal.",
+          "ai_summary": "qwen-code - An open-source AI coding agent that lives in your terminal. 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 29633,
+          "forks": 3388,
+          "stars_today": 151,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1198,
+            "repo_age_days": 504,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 2215,
+            "pr_count": 9902,
+            "star_fork_ratio": 8.75
+          },
+          "trending_days": 1,
+          "first_seen": "2026-11-12T00:00:00.000Z"
+        },
+        {
+          "id": "cloudflare/security-audit-skill",
+          "name": "security-audit-skill",
+          "owner": "cloudflare",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+          "ai_summary": "security-audit-skill - A coding-agent skill for multi-phase security audits with independently verified... 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 70887,
+          "forks": 4717,
+          "stars_today": 0,
+          "stars_this_week": 11507,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5984,
+            "repo_age_days": 147,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 126,
+            "pr_count": 93,
+            "star_fork_ratio": 15.03
+          },
+          "trending_days": 4,
+          "first_seen": "2026-11-09T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "ai_summary": "skills - Skills for Real Engineers. Straight from my .agents directory. 使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 322706,
+          "forks": 27068,
+          "stars_today": 0,
+          "stars_this_week": 9575,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3481,
+            "repo_age_days": 282,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 238,
+            "pr_count": 209,
+            "star_fork_ratio": 11.92
+          },
+          "trending_days": 11,
+          "first_seen": "2026-11-02T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "Skills": 6,
+          "Agent": 6,
+          "金融": 1,
+          "AI": 7
+        }
+      }
     }
   ]
 }

@@ -3828,6 +3828,322 @@
           "AI": 7
         }
       }
+    },
+    {
+      "date": "2026-11-13",
+      "generated_at": "2026-11-13T14:55:32.817Z",
+      "projects": [
+        {
+          "id": "GoogleChrome/modern-web-guidance-src",
+          "name": "modern-web-guidance-src",
+          "owner": "GoogleChrome",
+          "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+          "description": "Keep your coding agent up to date with the latest web best practices",
+          "ai_summary": "modern-web-guidance-src - Keep your coding agent up to date with the latest web best practices 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 4349,
+          "forks": 249,
+          "stars_today": 1875,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5284,
+            "repo_age_days": 289,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 391,
+            "pr_count": 1530,
+            "star_fork_ratio": 17.47
+          },
+          "trending_days": 1,
+          "first_seen": "2026-11-13T00:00:00.000Z"
+        },
+        {
+          "id": "we-promise/sure",
+          "name": "sure",
+          "owner": "we-promise",
+          "url": "https://github.com/we-promise/sure",
+          "description": "The personal finance app for everyone (by everyone)",
+          "ai_summary": "sure - The personal finance app for everyone (by everyone) 使用 Ruby 开发。",
+          "language": "Ruby",
+          "stars": 14451,
+          "forks": 1092,
+          "stars_today": 944,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 478,
+            "repo_age_days": 478,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 916,
+            "pr_count": 3391,
+            "star_fork_ratio": 13.23
+          },
+          "trending_days": 4,
+          "first_seen": "2026-11-10T00:00:00.000Z"
+        },
+        {
+          "id": "openai/codex-security",
+          "name": "codex-security",
+          "owner": "openai",
+          "url": "https://github.com/openai/codex-security",
+          "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+          "ai_summary": "codex-security - OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixi... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 12896,
+          "forks": 1009,
+          "stars_today": 754,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4058,
+            "repo_age_days": 122,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 156,
+            "pr_count": 2423,
+            "star_fork_ratio": 12.78
+          },
+          "trending_days": 2,
+          "first_seen": "2026-11-12T00:00:00.000Z"
+        },
+        {
+          "id": "ZhuLinsen/daily_stock_analysis",
+          "name": "daily_stock_analysis",
+          "owner": "ZhuLinsen",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+          "ai_summary": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-f…",
+          "language": "Python",
+          "stars": 71335,
+          "forks": 57233,
+          "stars_today": 272,
+          "stars_this_week": 3569,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 2997,
+            "repo_age_days": 307,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 54,
+            "pr_count": 1577,
+            "star_fork_ratio": 1.25
+          },
+          "trending_days": 1,
+          "first_seen": "2026-11-13T00:00:00.000Z"
+        },
+        {
+          "id": "Likely7/Veyra-NRVideo",
+          "name": "Veyra-NRVideo",
+          "owner": "Likely7",
+          "url": "https://github.com/Likely7/Veyra-NRVideo",
+          "description": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
+          "ai_summary": "Veyra-NRVideo - Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and captu... 使用 C++ 开发。",
+          "language": "C++",
+          "stars": 1465,
+          "forks": 66,
+          "stars_today": 245,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 365,
+            "repo_age_days": 65,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 60,
+            "pr_count": 28,
+            "star_fork_ratio": 22.2
+          },
+          "trending_days": 1,
+          "first_seen": "2026-11-13T00:00:00.000Z"
+        },
+        {
+          "id": "alibaba/open-code-review",
+          "name": "open-code-review",
+          "owner": "alibaba",
+          "url": "https://github.com/alibaba/open-code-review",
+          "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+          "ai_summary": "open-code-review - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c... 使用 Go 开发。",
+          "language": "Go",
+          "stars": 50278,
+          "forks": 3733,
+          "stars_today": 206,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5237,
+            "repo_age_days": 179,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 336,
+            "pr_count": 1187,
+            "star_fork_ratio": 13.47
+          },
+          "trending_days": 1,
+          "first_seen": "2026-11-13T00:00:00.000Z"
+        },
+        {
+          "id": "tailscale/tailcat",
+          "name": "tailcat",
+          "owner": "tailscale",
+          "url": "https://github.com/tailscale/tailcat",
+          "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+          "ai_summary": "tailcat - like netcat, but over Tailscale's data plane, without Tailscale's control plane 使用 Go 开发。",
+          "language": "Go",
+          "stars": 9266,
+          "forks": 426,
+          "stars_today": 173,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2789,
+            "repo_age_days": 744,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 41,
+            "pr_count": 99,
+            "star_fork_ratio": 21.75
+          },
+          "trending_days": 1,
+          "first_seen": "2026-11-13T00:00:00.000Z"
+        },
+        {
+          "id": "cloudflare/security-audit-skill",
+          "name": "security-audit-skill",
+          "owner": "cloudflare",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+          "ai_summary": "security-audit-skill - A coding-agent skill for multi-phase security audits with independently verified... 使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 71606,
+          "forks": 4770,
+          "stars_today": 0,
+          "stars_this_week": 10700,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5985,
+            "repo_age_days": 148,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 126,
+            "pr_count": 93,
+            "star_fork_ratio": 15.01
+          },
+          "trending_days": 5,
+          "first_seen": "2026-11-09T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "ai_summary": "skills - Skills for Real Engineers. Straight from my .agents directory. 使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 323528,
+          "forks": 27150,
+          "stars_today": 0,
+          "stars_this_week": 8731,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3482,
+            "repo_age_days": 283,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 243,
+            "pr_count": 211,
+            "star_fork_ratio": 11.92
+          },
+          "trending_days": 12,
+          "first_seen": "2026-11-02T00:00:00.000Z"
+        },
+        {
+          "id": "vercel-labs/agent-desktop",
+          "name": "agent-desktop",
+          "owner": "vercel-labs",
+          "url": "https://github.com/vercel-labs/agent-desktop",
+          "description": "Computer use CLI for AI agents",
+          "ai_summary": "agent-desktop - Computer use CLI for AI agents 使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 23121,
+          "forks": 1713,
+          "stars_today": 0,
+          "stars_this_week": 6414,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 1595,
+            "repo_age_days": 266,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 237,
+            "pr_count": 513,
+            "star_fork_ratio": 13.5
+          },
+          "trending_days": 1,
+          "first_seen": "2026-11-13T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "Skills": 5,
+          "Agent": 5,
+          "金融": 2,
+          "AI": 7
+        }
+      }
     }
   ]
 }

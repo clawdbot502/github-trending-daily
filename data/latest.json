@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-14",
-  "generated_at": "2026-11-14T13:48:26.352Z",
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T14:19:32.555Z",
   "projects": [
     {
       "id": "GoogleChrome/modern-web-guidance-src",
@@ -10,9 +10,9 @@
       "description": "Keep your coding agent up to date with the latest web best practices",
       "ai_summary": "modern-web-guidance-src - Keep your coding agent up to date with the latest web best practices 使用 TypeScript 开发。",
       "language": "TypeScript",
-      "stars": 5427,
-      "forks": 295,
-      "stars_today": 1225,
+      "stars": 6746,
+      "forks": 534,
+      "stars_today": 1220,
       "stars_this_week": 0,
       "category": "hot",
       "tags": [
@@ -21,137 +21,16 @@
       ],
       "security_score": 100,
       "security_details": {
-        "author_age_days": 5285,
-        "repo_age_days": 290,
+        "author_age_days": 5286,
+        "repo_age_days": 291,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 390,
-        "pr_count": 1553,
-        "star_fork_ratio": 18.4
+        "issue_count": 396,
+        "pr_count": 1560,
+        "star_fork_ratio": 12.63
       },
-      "trending_days": 2,
+      "trending_days": 3,
       "first_seen": "2026-11-13T00:00:00.000Z"
-    },
-    {
-      "id": "alibaba/open-code-review",
-      "name": "open-code-review",
-      "owner": "alibaba",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "ai_summary": "open-code-review - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c... 使用 Go 开发。",
-      "language": "Go",
-      "stars": 51122,
-      "forks": 3811,
-      "stars_today": 897,
-      "stars_this_week": 0,
-      "category": "hot",
-      "tags": [
-        "AI",
-        "Skills",
-        "Agent"
-      ],
-      "security_score": 100,
-      "security_details": {
-        "author_age_days": 5238,
-        "repo_age_days": 180,
-        "has_license": true,
-        "has_readme": true,
-        "issue_count": 334,
-        "pr_count": 1183,
-        "star_fork_ratio": 13.41
-      },
-      "trending_days": 2,
-      "first_seen": "2026-11-13T00:00:00.000Z"
-    },
-    {
-      "id": "ChromeDevTools/chrome-devtools-mcp",
-      "name": "chrome-devtools-mcp",
-      "owner": "ChromeDevTools",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "description": "Chrome DevTools for coding agents",
-      "ai_summary": "chrome-devtools-mcp - Chrome DevTools for coding agents 使用 TypeScript 开发。",
-      "language": "TypeScript",
-      "stars": 55971,
-      "forks": 4636,
-      "stars_today": 673,
-      "stars_this_week": 0,
-      "category": "hot",
-      "tags": [
-        "Skills",
-        "Agent"
-      ],
-      "security_score": 100,
-      "security_details": {
-        "author_age_days": 4275,
-        "repo_age_days": 429,
-        "has_license": true,
-        "has_readme": true,
-        "issue_count": 121,
-        "pr_count": 2154,
-        "star_fork_ratio": 12.07
-      },
-      "trending_days": 1,
-      "first_seen": "2026-11-14T00:00:00.000Z"
-    },
-    {
-      "id": "we-promise/sure",
-      "name": "sure",
-      "owner": "we-promise",
-      "url": "https://github.com/we-promise/sure",
-      "description": "The personal finance app for everyone (by everyone)",
-      "ai_summary": "sure - The personal finance app for everyone (by everyone) 使用 Ruby 开发。",
-      "language": "Ruby",
-      "stars": 15043,
-      "forks": 1145,
-      "stars_today": 659,
-      "stars_this_week": 0,
-      "category": "hot",
-      "tags": [
-        "金融"
-      ],
-      "security_score": 100,
-      "security_details": {
-        "author_age_days": 479,
-        "repo_age_days": 479,
-        "has_license": true,
-        "has_readme": true,
-        "issue_count": 924,
-        "pr_count": 3417,
-        "star_fork_ratio": 13.14
-      },
-      "trending_days": 5,
-      "first_seen": "2026-11-10T00:00:00.000Z"
-    },
-    {
-      "id": "tradermonty/claude-trading-skills",
-      "name": "claude-trading-skills",
-      "owner": "tradermonty",
-      "url": "https://github.com/tradermonty/claude-trading-skills",
-      "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-      "ai_summary": "claude-trading-skills - Claude Code skills for equity investors and traders — market analysis, technical... 使用 Python 开发。",
-      "language": "Python",
-      "stars": 4465,
-      "forks": 887,
-      "stars_today": 556,
-      "stars_this_week": 0,
-      "category": "hot",
-      "tags": [
-        "金融",
-        "量化",
-        "AI"
-      ],
-      "security_score": 90,
-      "security_details": {
-        "author_age_days": 594,
-        "repo_age_days": 390,
-        "has_license": true,
-        "has_readme": true,
-        "issue_count": 85,
-        "pr_count": 506,
-        "star_fork_ratio": 5.03
-      },
-      "trending_days": 1,
-      "first_seen": "2026-11-14T00:00:00.000Z"
     },
     {
       "id": "dream-num/univer",
@@ -161,9 +40,9 @@
       "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
       "ai_summary": "univer - Build your own AI office with Univer Office SDK. Bring editing, calculation, col... 使用 TypeScript 开发。",
       "language": "TypeScript",
-      "stars": 24239,
-      "forks": 2098,
-      "stars_today": 495,
+      "stars": 25276,
+      "forks": 2315,
+      "stars_today": 1041,
       "stars_this_week": 0,
       "category": "hot",
       "tags": [
@@ -173,76 +52,16 @@
       ],
       "security_score": 100,
       "security_details": {
-        "author_age_days": 2454,
-        "repo_age_days": 1507,
+        "author_age_days": 2455,
+        "repo_age_days": 1508,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 165,
-        "pr_count": 5490,
-        "star_fork_ratio": 11.55
-      },
-      "trending_days": 1,
-      "first_seen": "2026-11-14T00:00:00.000Z"
-    },
-    {
-      "id": "QwenLM/qwen-code",
-      "name": "qwen-code",
-      "owner": "QwenLM",
-      "url": "https://github.com/QwenLM/qwen-code",
-      "description": "An open-source AI coding agent that lives in your terminal.",
-      "ai_summary": "qwen-code - An open-source AI coding agent that lives in your terminal. 使用 TypeScript 开发。",
-      "language": "TypeScript",
-      "stars": 30152,
-      "forks": 3418,
-      "stars_today": 462,
-      "stars_this_week": 0,
-      "category": "hot",
-      "tags": [
-        "AI",
-        "Skills",
-        "Agent"
-      ],
-      "security_score": 90,
-      "security_details": {
-        "author_age_days": 1200,
-        "repo_age_days": 506,
-        "has_license": true,
-        "has_readme": true,
-        "issue_count": 2261,
-        "pr_count": 10027,
-        "star_fork_ratio": 8.82
-      },
-      "trending_days": 1,
-      "first_seen": "2026-11-14T00:00:00.000Z"
-    },
-    {
-      "id": "Likely7/Veyra-NRVideo",
-      "name": "Veyra-NRVideo",
-      "owner": "Likely7",
-      "url": "https://github.com/Likely7/Veyra-NRVideo",
-      "description": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
-      "ai_summary": "Veyra-NRVideo - Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and captu... 使用 C++ 开发。",
-      "language": "C++",
-      "stars": 1871,
-      "forks": 83,
-      "stars_today": 423,
-      "stars_this_week": 0,
-      "category": "hot",
-      "tags": [
-        "AI"
-      ],
-      "security_score": 90,
-      "security_details": {
-        "author_age_days": 366,
-        "repo_age_days": 66,
-        "has_license": true,
-        "has_readme": true,
-        "issue_count": 63,
-        "pr_count": 29,
-        "star_fork_ratio": 22.54
+        "issue_count": 167,
+        "pr_count": 5491,
+        "star_fork_ratio": 10.92
       },
       "trending_days": 2,
-      "first_seen": "2026-11-13T00:00:00.000Z"
+      "first_seen": "2026-11-14T00:00:00.000Z"
     },
     {
       "id": "backnotprop/plannotator",
@@ -252,10 +71,10 @@
       "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
       "ai_summary": "plannotator - The workspace to stay in the loop and on top of agents - shape, decide, plan, an... 使用 TypeScript 开发。",
       "language": "TypeScript",
-      "stars": 10716,
-      "forks": 796,
-      "stars_today": 412,
-      "stars_this_week": 511,
+      "stars": 11621,
+      "forks": 1021,
+      "stars_today": 860,
+      "stars_this_week": 818,
       "category": "hot",
       "tags": [
         "Skills",
@@ -263,45 +82,229 @@
       ],
       "security_score": 100,
       "security_details": {
-        "author_age_days": 4601,
-        "repo_age_days": 321,
+        "author_age_days": 4602,
+        "repo_age_days": 322,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 222,
-        "pr_count": 2593,
-        "star_fork_ratio": 13.46
+        "issue_count": 236,
+        "pr_count": 2662,
+        "star_fork_ratio": 11.38
       },
-      "trending_days": 1,
+      "trending_days": 2,
       "first_seen": "2026-11-14T00:00:00.000Z"
     },
     {
-      "id": "martin-olivier/airgorah",
-      "name": "airgorah",
-      "owner": "martin-olivier",
-      "url": "https://github.com/martin-olivier/airgorah",
-      "description": "A WiFi security auditing software",
-      "ai_summary": "airgorah - A WiFi security auditing software 使用 Rust 开发。",
-      "language": "Rust",
-      "stars": 5495,
-      "forks": 921,
-      "stars_today": 269,
+      "id": "ChromeDevTools/chrome-devtools-mcp",
+      "name": "chrome-devtools-mcp",
+      "owner": "ChromeDevTools",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "ai_summary": "chrome-devtools-mcp - Chrome DevTools for coding agents 使用 TypeScript 开发。",
+      "language": "TypeScript",
+      "stars": 56653,
+      "forks": 4793,
+      "stars_today": 718,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 4276,
+        "repo_age_days": 430,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 131,
+        "pr_count": 2162,
+        "star_fork_ratio": 11.82
+      },
+      "trending_days": 2,
+      "first_seen": "2026-11-14T00:00:00.000Z"
+    },
+    {
+      "id": "tradermonty/claude-trading-skills",
+      "name": "claude-trading-skills",
+      "owner": "tradermonty",
+      "url": "https://github.com/tradermonty/claude-trading-skills",
+      "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+      "ai_summary": "claude-trading-skills - Claude Code skills for equity investors and traders — market analysis, technical... 使用 Python 开发。",
+      "language": "Python",
+      "stars": 5220,
+      "forks": 1101,
+      "stars_today": 707,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "金融",
+        "量化",
+        "AI"
+      ],
+      "security_score": 80,
+      "security_details": {
+        "author_age_days": 595,
+        "repo_age_days": 391,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 73,
+        "pr_count": 517,
+        "star_fork_ratio": 4.74
+      },
+      "trending_days": 2,
+      "first_seen": "2026-11-14T00:00:00.000Z"
+    },
+    {
+      "id": "alibaba/open-code-review",
+      "name": "open-code-review",
+      "owner": "alibaba",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "ai_summary": "open-code-review - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c... 使用 Go 开发。",
+      "language": "Go",
+      "stars": 51760,
+      "forks": 4027,
+      "stars_today": 688,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 5239,
+        "repo_age_days": 181,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 345,
+        "pr_count": 1192,
+        "star_fork_ratio": 12.85
+      },
+      "trending_days": 3,
+      "first_seen": "2026-11-13T00:00:00.000Z"
+    },
+    {
+      "id": "Tencent/LoopForge",
+      "name": "LoopForge",
+      "owner": "Tencent",
+      "url": "https://github.com/Tencent/LoopForge",
+      "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+      "ai_summary": "LoopForge - Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex an... 使用 Go 开发。",
+      "language": "Go",
+      "stars": 1220,
+      "forks": 251,
+      "stars_today": 484,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 80,
+      "security_details": {
+        "author_age_days": 3867,
+        "repo_age_days": 110,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 72,
+        "pr_count": 206,
+        "star_fork_ratio": 4.86
+      },
+      "trending_days": 1,
+      "first_seen": "2026-11-15T00:00:00.000Z"
+    },
+    {
+      "id": "ag-ui-protocol/ag-ui",
+      "name": "ag-ui",
+      "owner": "ag-ui-protocol",
+      "url": "https://github.com/ag-ui-protocol/ag-ui",
+      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "ai_summary": "ag-ui - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applicati... 使用 TypeScript 开发。",
+      "language": "TypeScript",
+      "stars": 17596,
+      "forks": 1759,
+      "stars_today": 393,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 90,
+      "security_details": {
+        "author_age_days": 564,
+        "repo_age_days": 557,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 591,
+        "pr_count": 2321,
+        "star_fork_ratio": 10
+      },
+      "trending_days": 1,
+      "first_seen": "2026-11-15T00:00:00.000Z"
+    },
+    {
+      "id": "google-labs-code/stitch-skills",
+      "name": "stitch-skills",
+      "owner": "google-labs-code",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "ai_summary": "stitch-skills - A library of Agent Skills designed to work with the Stitch MCP server. Each skil... 使用 TypeScript 开发。",
+      "language": "TypeScript",
+      "stars": 9075,
+      "forks": 1078,
+      "stars_today": 248,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 85,
+      "security_details": {
+        "author_age_days": 992,
+        "repo_age_days": 302,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 19,
+        "pr_count": 65,
+        "star_fork_ratio": 8.42
+      },
+      "trending_days": 1,
+      "first_seen": "2026-11-15T00:00:00.000Z"
+    },
+    {
+      "id": "ggml-org/ggml",
+      "name": "ggml",
+      "owner": "ggml-org",
+      "url": "https://github.com/ggml-org/ggml",
+      "description": "Tensor library for machine learning",
+      "ai_summary": "ggml - Tensor library for machine learning 使用 C++ 开发。",
+      "language": "C++",
+      "stars": 15804,
+      "forks": 1947,
+      "stars_today": 154,
       "stars_this_week": 0,
       "category": "hot",
       "tags": [
         "AI"
       ],
-      "security_score": 100,
+      "security_score": 90,
       "security_details": {
-        "author_age_days": 2538,
-        "repo_age_days": 1506,
+        "author_age_days": 1273,
+        "repo_age_days": 1518,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 14,
-        "pr_count": 199,
-        "star_fork_ratio": 5.97
+        "issue_count": 386,
+        "pr_count": 951,
+        "star_fork_ratio": 8.12
       },
       "trending_days": 1,
-      "first_seen": "2026-11-14T00:00:00.000Z"
+      "first_seen": "2026-11-15T00:00:00.000Z"
     }
   ],
   "stats": {
@@ -309,10 +312,10 @@
     "hot": 10,
     "gem": 0,
     "by_tag": {
-      "Skills": 6,
-      "Agent": 6,
+      "Skills": 8,
+      "Agent": 8,
       "AI": 6,
-      "金融": 2,
+      "金融": 1,
       "量化": 1
     }
   }

@@ -1,7 +1,37 @@
 {
-  "date": "2026-11-18",
-  "generated_at": "2026-11-18T15:59:05.803Z",
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T16:04:50.092Z",
   "projects": [
+    {
+      "id": "obra/superpowers",
+      "name": "superpowers",
+      "owner": "obra",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "ai_summary": "superpowers - An agentic skills framework & software development methodology that works. 使用 Shell 开发。",
+      "language": "Shell",
+      "stars": 321817,
+      "forks": 28605,
+      "stars_today": 2029,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 6522,
+        "repo_age_days": 405,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 360,
+        "pr_count": 1384,
+        "star_fork_ratio": 11.25
+      },
+      "trending_days": 3,
+      "first_seen": "2026-11-17T00:00:00.000Z"
+    },
     {
       "id": "elementalsouls/Claude-BugHunter",
       "name": "Claude-BugHunter",
@@ -10,88 +40,26 @@
       "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "ai_summary": "Claude-BugHunter - A Claude Code skill bundle for bug hunting and external red-team work - 82 skill... 使用 Python 开发。",
       "language": "Python",
-      "stars": 10803,
-      "forks": 1483,
-      "stars_today": 2322,
-      "stars_this_week": 2508,
+      "stars": 12008,
+      "forks": 1563,
+      "stars_today": 1353,
+      "stars_this_week": 0,
       "category": "hot",
       "tags": [
         "AI",
         "Skills"
       ],
-      "security_score": 95,
+      "security_score": 90,
       "security_details": {
-        "author_age_days": 2785,
-        "repo_age_days": 197,
+        "author_age_days": 2786,
+        "repo_age_days": 198,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 12,
-        "pr_count": 157,
-        "star_fork_ratio": 7.28
-      },
-      "trending_days": 2,
-      "first_seen": "2026-11-17T00:00:00.000Z"
-    },
-    {
-      "id": "google-research/paper-orchestra",
-      "name": "paper-orchestra",
-      "owner": "google-research",
-      "url": "https://github.com/google-research/paper-orchestra",
-      "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
-      "ai_summary": "paper-orchestra - PaperOrchestra is a multi-agent framework for automated AI research paper writin... 使用 Python 开发。",
-      "language": "Python",
-      "stars": 3931,
-      "forks": 497,
-      "stars_today": 1529,
-      "stars_this_week": 0,
-      "category": "hot",
-      "tags": [
-        "AI",
-        "Skills",
-        "Agent"
-      ],
-      "security_score": 95,
-      "security_details": {
-        "author_age_days": 2967,
-        "repo_age_days": 200,
-        "has_license": true,
-        "has_readme": true,
-        "issue_count": 37,
-        "pr_count": 40,
-        "star_fork_ratio": 7.91
+        "issue_count": 5,
+        "pr_count": 162,
+        "star_fork_ratio": 7.68
       },
       "trending_days": 3,
-      "first_seen": "2026-11-16T00:00:00.000Z"
-    },
-    {
-      "id": "affaan-m/ECC",
-      "name": "ECC",
-      "owner": "affaan-m",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "ai_summary": "ECC - The agent harness performance optimization system. Skills, instincts, memory, se... 使用 JavaScript 开发。",
-      "language": "JavaScript",
-      "stars": 306230,
-      "forks": 45087,
-      "stars_today": 1109,
-      "stars_this_week": 0,
-      "category": "hot",
-      "tags": [
-        "AI",
-        "Skills",
-        "Agent"
-      ],
-      "security_score": 85,
-      "security_details": {
-        "author_age_days": 1383,
-        "repo_age_days": 304,
-        "has_license": true,
-        "has_readme": true,
-        "issue_count": 164,
-        "pr_count": 2862,
-        "star_fork_ratio": 6.79
-      },
-      "trending_days": 2,
       "first_seen": "2026-11-17T00:00:00.000Z"
     },
     {
@@ -102,10 +70,10 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "ai_summary": "last30days-skill - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark... 使用 Python 开发。",
       "language": "Python",
-      "stars": 69733,
-      "forks": 6230,
-      "stars_today": 1062,
-      "stars_this_week": 1548,
+      "stars": 70608,
+      "forks": 6288,
+      "stars_today": 952,
+      "stars_this_week": 2423,
       "category": "hot",
       "tags": [
         "AI",
@@ -114,45 +82,15 @@
       ],
       "security_score": 100,
       "security_details": {
-        "author_age_days": 5866,
-        "repo_age_days": 298,
+        "author_age_days": 5867,
+        "repo_age_days": 299,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 22,
-        "pr_count": 1195,
-        "star_fork_ratio": 11.19
+        "issue_count": 23,
+        "pr_count": 1197,
+        "star_fork_ratio": 11.23
       },
-      "trending_days": 2,
-      "first_seen": "2026-11-17T00:00:00.000Z"
-    },
-    {
-      "id": "obra/superpowers",
-      "name": "superpowers",
-      "owner": "obra",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "ai_summary": "superpowers - An agentic skills framework & software development methodology that works. 使用 Shell 开发。",
-      "language": "Shell",
-      "stars": 319816,
-      "forks": 28529,
-      "stars_today": 823,
-      "stars_this_week": 0,
-      "category": "hot",
-      "tags": [
-        "Skills",
-        "Agent"
-      ],
-      "security_score": 100,
-      "security_details": {
-        "author_age_days": 6521,
-        "repo_age_days": 404,
-        "has_license": true,
-        "has_readme": true,
-        "issue_count": 359,
-        "pr_count": 1384,
-        "star_fork_ratio": 11.21
-      },
-      "trending_days": 2,
+      "trending_days": 3,
       "first_seen": "2026-11-17T00:00:00.000Z"
     },
     {
@@ -163,9 +101,9 @@
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "ai_summary": "CLI-Anything - \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything... 使用 Python 开发。",
       "language": "Python",
-      "stars": 59459,
-      "forks": 5400,
-      "stars_today": 384,
+      "stars": 60333,
+      "forks": 5472,
+      "stars_today": 899,
       "stars_this_week": 0,
       "category": "hot",
       "tags": [
@@ -174,16 +112,135 @@
       ],
       "security_score": 95,
       "security_details": {
-        "author_age_days": 1465,
-        "repo_age_days": 255,
+        "author_age_days": 1466,
+        "repo_age_days": 256,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 242,
-        "pr_count": 445,
-        "star_fork_ratio": 11.01
+        "issue_count": 265,
+        "pr_count": 458,
+        "star_fork_ratio": 11.03
+      },
+      "trending_days": 2,
+      "first_seen": "2026-11-18T00:00:00.000Z"
+    },
+    {
+      "id": "firecrawl/firecrawl",
+      "name": "firecrawl",
+      "owner": "firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
+      "ai_summary": "firecrawl - Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ da... 使用 TypeScript 开发。",
+      "language": "TypeScript",
+      "stars": 203795,
+      "forks": 10676,
+      "stars_today": 795,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 1268,
+        "repo_age_days": 947,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 833,
+        "pr_count": 4652,
+        "star_fork_ratio": 19.09
       },
       "trending_days": 1,
-      "first_seen": "2026-11-18T00:00:00.000Z"
+      "first_seen": "2026-11-19T00:00:00.000Z"
+    },
+    {
+      "id": "jingyaogong/minimind",
+      "name": "minimind",
+      "owner": "jingyaogong",
+      "url": "https://github.com/jingyaogong/minimind",
+      "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+      "ai_summary": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+      "language": "Python",
+      "stars": 66721,
+      "forks": 8769,
+      "stars_today": 687,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 2438,
+        "repo_age_days": 845,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 63,
+        "pr_count": 176,
+        "star_fork_ratio": 7.61
+      },
+      "trending_days": 1,
+      "first_seen": "2026-11-19T00:00:00.000Z"
+    },
+    {
+      "id": "mjmirza/app-store-compliance",
+      "name": "app-store-compliance",
+      "owner": "mjmirza",
+      "url": "https://github.com/mjmirza/app-store-compliance",
+      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "ai_summary": "app-store-compliance - Avoid common App Store and Google Play rejections. Open playbook and pre-submiss... 使用 Shell 开发。",
+      "language": "Shell",
+      "stars": 1626,
+      "forks": 120,
+      "stars_today": 542,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 3280,
+        "repo_age_days": 166,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 32,
+        "pr_count": 963,
+        "star_fork_ratio": 13.55
+      },
+      "trending_days": 1,
+      "first_seen": "2026-11-19T00:00:00.000Z"
+    },
+    {
+      "id": "cathrynlavery/diagram-design",
+      "name": "diagram-design",
+      "owner": "cathrynlavery",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "ai_summary": "diagram-design - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory... 使用 HTML 开发。",
+      "language": "HTML",
+      "stars": 68460,
+      "forks": 4603,
+      "stars_today": 332,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 2750,
+        "repo_age_days": 216,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 38,
+        "pr_count": 367,
+        "star_fork_ratio": 14.87
+      },
+      "trending_days": 1,
+      "first_seen": "2026-11-19T00:00:00.000Z"
     },
     {
       "id": "google-labs-code/stitch-skills",
@@ -193,10 +250,10 @@
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "ai_summary": "stitch-skills - A library of Agent Skills designed to work with the Stitch MCP server. Each skil... 使用 TypeScript 开发。",
       "language": "TypeScript",
-      "stars": 10317,
-      "forks": 1362,
-      "stars_today": 369,
-      "stars_this_week": 1197,
+      "stars": 10619,
+      "forks": 1380,
+      "stars_today": 303,
+      "stars_this_week": 1567,
       "category": "hot",
       "tags": [
         "AI",
@@ -205,107 +262,45 @@
       ],
       "security_score": 85,
       "security_details": {
-        "author_age_days": 995,
-        "repo_age_days": 305,
+        "author_age_days": 996,
+        "repo_age_days": 306,
         "has_license": true,
         "has_readme": true,
         "issue_count": 21,
         "pr_count": 68,
-        "star_fork_ratio": 7.57
+        "star_fork_ratio": 7.69
       },
-      "trending_days": 1,
+      "trending_days": 2,
       "first_seen": "2026-11-18T00:00:00.000Z"
     },
     {
-      "id": "NVIDIA/SkillEvaluator",
-      "name": "SkillEvaluator",
-      "owner": "NVIDIA",
-      "url": "https://github.com/NVIDIA/SkillEvaluator",
-      "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
-      "ai_summary": "SkillEvaluator - Multi-tier framework for evaluating AI agent skills and plugins with quality gat... 使用 Python 开发。",
-      "language": "Python",
-      "stars": 3548,
-      "forks": 498,
-      "stars_today": 323,
+      "id": "openvinotoolkit/openvino",
+      "name": "openvino",
+      "owner": "openvinotoolkit",
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "ai_summary": "openvino - OpenVINO™ is an open source toolkit for optimizing and deploying AI inference 使用 C++ 开发。",
+      "language": "C++",
+      "stars": 11496,
+      "forks": 3614,
+      "stars_today": 246,
       "stars_this_week": 0,
       "category": "hot",
       "tags": [
-        "AI",
-        "Skills",
-        "Agent"
+        "AI"
       ],
       "security_score": 90,
       "security_details": {
-        "author_age_days": 5304,
-        "repo_age_days": 147,
+        "author_age_days": 2620,
+        "repo_age_days": 2957,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 56,
-        "pr_count": 669,
-        "star_fork_ratio": 7.12
+        "issue_count": 1164,
+        "pr_count": 35333,
+        "star_fork_ratio": 3.18
       },
       "trending_days": 1,
-      "first_seen": "2026-11-18T00:00:00.000Z"
-    },
-    {
-      "id": "n8n-io/n8n",
-      "name": "n8n",
-      "owner": "n8n-io",
-      "url": "https://github.com/n8n-io/n8n",
-      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "ai_summary": "n8n - Fair-code workflow automation platform with native AI capabilities. Combine visu... 使用 TypeScript 开发。",
-      "language": "TypeScript",
-      "stars": 210896,
-      "forks": 61561,
-      "stars_today": 315,
-      "stars_this_week": 0,
-      "category": "hot",
-      "tags": [
-        "AI",
-        "Skills"
-      ],
-      "security_score": 90,
-      "security_details": {
-        "author_age_days": 2910,
-        "repo_age_days": 2706,
-        "has_license": true,
-        "has_readme": true,
-        "issue_count": 1240,
-        "pr_count": 33002,
-        "star_fork_ratio": 3.43
-      },
-      "trending_days": 1,
-      "first_seen": "2026-11-18T00:00:00.000Z"
-    },
-    {
-      "id": "appwrite/appwrite",
-      "name": "appwrite",
-      "owner": "appwrite",
-      "url": "https://github.com/appwrite/appwrite",
-      "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
-      "ai_summary": "appwrite - The open-source cloud for agents & devs. Including Auth, Databases, Storage, Fun... 使用 TypeScript 开发。",
-      "language": "TypeScript",
-      "stars": 58147,
-      "forks": 5888,
-      "stars_today": 239,
-      "stars_this_week": 0,
-      "category": "hot",
-      "tags": [
-        "Skills",
-        "Agent"
-      ],
-      "security_score": 100,
-      "security_details": {
-        "author_age_days": 3600,
-        "repo_age_days": 2780,
-        "has_license": true,
-        "has_readme": true,
-        "issue_count": 732,
-        "pr_count": 9662,
-        "star_fork_ratio": 9.88
-      },
-      "trending_days": 1,
-      "first_seen": "2026-11-18T00:00:00.000Z"
+      "first_seen": "2026-11-19T00:00:00.000Z"
     }
   ],
   "stats": {
@@ -313,9 +308,9 @@
     "hot": 10,
     "gem": 0,
     "by_tag": {
-      "AI": 7,
-      "Skills": 10,
-      "Agent": 8
+      "Skills": 7,
+      "Agent": 6,
+      "AI": 7
     }
   }
 }

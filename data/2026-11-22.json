@@ -1,0 +1,318 @@
+{
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T14:55:09.524Z",
+  "projects": [
+    {
+      "id": "elementalsouls/Claude-BugHunter",
+      "name": "Claude-BugHunter",
+      "owner": "elementalsouls",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "ai_summary": "Claude-BugHunter - A Claude Code skill bundle for bug hunting and external red-team work - 82 skill... 使用 Python 开发。",
+      "language": "Python",
+      "stars": 17059,
+      "forks": 1923,
+      "stars_today": 1721,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills"
+      ],
+      "security_score": 95,
+      "security_details": {
+        "author_age_days": 2789,
+        "repo_age_days": 201,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 15,
+        "pr_count": 182,
+        "star_fork_ratio": 8.87
+      },
+      "trending_days": 6,
+      "first_seen": "2026-11-17T00:00:00.000Z"
+    },
+    {
+      "id": "firecrawl/firecrawl",
+      "name": "firecrawl",
+      "owner": "firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "ai_summary": "firecrawl - Knowledge infrastructure to make your agents smarter. Search, scrape and access ... 使用 TypeScript 开发。",
+      "language": "TypeScript",
+      "stars": 206690,
+      "forks": 10801,
+      "stars_today": 910,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 1271,
+        "repo_age_days": 950,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 914,
+        "pr_count": 4738,
+        "star_fork_ratio": 19.14
+      },
+      "trending_days": 4,
+      "first_seen": "2026-11-19T00:00:00.000Z"
+    },
+    {
+      "id": "obra/superpowers",
+      "name": "superpowers",
+      "owner": "obra",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "ai_summary": "superpowers - An agentic skills framework & software development methodology that works. 使用 Shell 开发。",
+      "language": "Shell",
+      "stars": 323895,
+      "forks": 28740,
+      "stars_today": 785,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 6525,
+        "repo_age_days": 408,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 362,
+        "pr_count": 1390,
+        "star_fork_ratio": 11.27
+      },
+      "trending_days": 6,
+      "first_seen": "2026-11-17T00:00:00.000Z"
+    },
+    {
+      "id": "HKUDS/CLI-Anything",
+      "name": "CLI-Anything",
+      "owner": "HKUDS",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "ai_summary": "CLI-Anything - \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything... 使用 Python 开发。",
+      "language": "Python",
+      "stars": 62519,
+      "forks": 5674,
+      "stars_today": 687,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 95,
+      "security_details": {
+        "author_age_days": 1469,
+        "repo_age_days": 259,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 285,
+        "pr_count": 475,
+        "star_fork_ratio": 11.02
+      },
+      "trending_days": 5,
+      "first_seen": "2026-11-18T00:00:00.000Z"
+    },
+    {
+      "id": "mvanhorn/last30days-skill",
+      "name": "last30days-skill",
+      "owner": "mvanhorn",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "ai_summary": "last30days-skill - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark... 使用 Python 开发。",
+      "language": "Python",
+      "stars": 72471,
+      "forks": 6409,
+      "stars_today": 673,
+      "stars_this_week": 4198,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 5870,
+        "repo_age_days": 302,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 16,
+        "pr_count": 1217,
+        "star_fork_ratio": 11.31
+      },
+      "trending_days": 6,
+      "first_seen": "2026-11-17T00:00:00.000Z"
+    },
+    {
+      "id": "zhouxiaoka/autoclip",
+      "name": "autoclip",
+      "owner": "zhouxiaoka",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+      "ai_summary": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+      "language": "Python",
+      "stars": 13235,
+      "forks": 2103,
+      "stars_today": 640,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "内容创作"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 2125,
+        "repo_age_days": 502,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 29,
+        "pr_count": 467,
+        "star_fork_ratio": 6.29
+      },
+      "trending_days": 3,
+      "first_seen": "2026-11-20T00:00:00.000Z"
+    },
+    {
+      "id": "mjmirza/app-store-compliance",
+      "name": "app-store-compliance",
+      "owner": "mjmirza",
+      "url": "https://github.com/mjmirza/app-store-compliance",
+      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "ai_summary": "app-store-compliance - Avoid common App Store and Google Play rejections. Open playbook and pre-submiss... 使用 Shell 开发。",
+      "language": "Shell",
+      "stars": 3753,
+      "forks": 226,
+      "stars_today": 617,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 3283,
+        "repo_age_days": 169,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 27,
+        "pr_count": 967,
+        "star_fork_ratio": 16.61
+      },
+      "trending_days": 4,
+      "first_seen": "2026-11-19T00:00:00.000Z"
+    },
+    {
+      "id": "toeverything/AFFiNE",
+      "name": "AFFiNE",
+      "owner": "toeverything",
+      "url": "https://github.com/toeverything/AFFiNE",
+      "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+      "ai_summary": "AFFiNE - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-ge... 使用 TypeScript 开发。",
+      "language": "TypeScript",
+      "stars": 76606,
+      "forks": 5608,
+      "stars_today": 537,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 2113,
+        "repo_age_days": 1574,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 842,
+        "pr_count": 10777,
+        "star_fork_ratio": 13.66
+      },
+      "trending_days": 3,
+      "first_seen": "2026-11-20T00:00:00.000Z"
+    },
+    {
+      "id": "google-labs-code/stitch-skills",
+      "name": "stitch-skills",
+      "owner": "google-labs-code",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "ai_summary": "stitch-skills - A library of Agent Skills designed to work with the Stitch MCP server. Each skil... 使用 TypeScript 开发。",
+      "language": "TypeScript",
+      "stars": 11763,
+      "forks": 1468,
+      "stars_today": 516,
+      "stars_this_week": 2431,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 85,
+      "security_details": {
+        "author_age_days": 999,
+        "repo_age_days": 309,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 27,
+        "pr_count": 76,
+        "star_fork_ratio": 8.01
+      },
+      "trending_days": 1,
+      "first_seen": "2026-11-22T00:00:00.000Z"
+    },
+    {
+      "id": "cathrynlavery/diagram-design",
+      "name": "diagram-design",
+      "owner": "cathrynlavery",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "ai_summary": "diagram-design - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory... 使用 HTML 开发。",
+      "language": "HTML",
+      "stars": 70113,
+      "forks": 4699,
+      "stars_today": 513,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 2753,
+        "repo_age_days": 219,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 44,
+        "pr_count": 376,
+        "star_fork_ratio": 14.92
+      },
+      "trending_days": 4,
+      "first_seen": "2026-11-19T00:00:00.000Z"
+    }
+  ],
+  "stats": {
+    "total": 10,
+    "hot": 10,
+    "gem": 0,
+    "by_tag": {
+      "AI": 7,
+      "Skills": 7,
+      "Agent": 6,
+      "内容创作": 1
+    }
+  }
+}

@@ -8595,6 +8595,320 @@
           "Agent": 5
         }
       }
+    },
+    {
+      "date": "2026-11-28",
+      "generated_at": "2026-11-28T15:50:41.872Z",
+      "projects": [
+        {
+          "id": "elementalsouls/Claude-BugHunter",
+          "name": "Claude-BugHunter",
+          "owner": "elementalsouls",
+          "url": "https://github.com/elementalsouls/Claude-BugHunter",
+          "description": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+          "ai_summary": "Claude-BugHunter - A Claude Code skill bundle for bug hunting and external red-team work - 85 skill... 使用 Python 开发。",
+          "language": "Python",
+          "stars": 26886,
+          "forks": 2768,
+          "stars_today": 1372,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2795,
+            "repo_age_days": 207,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 23,
+            "pr_count": 250,
+            "star_fork_ratio": 9.71
+          },
+          "trending_days": 12,
+          "first_seen": "2026-11-17T00:00:00.000Z"
+        },
+        {
+          "id": "mjmirza/app-store-compliance",
+          "name": "app-store-compliance",
+          "owner": "mjmirza",
+          "url": "https://github.com/mjmirza/app-store-compliance",
+          "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+          "ai_summary": "app-store-compliance - Avoid common App Store and Google Play rejections. Open playbook and pre-submiss... 使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 8351,
+          "forks": 649,
+          "stars_today": 907,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3289,
+            "repo_age_days": 175,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 38,
+            "pr_count": 1017,
+            "star_fork_ratio": 12.87
+          },
+          "trending_days": 10,
+          "first_seen": "2026-11-19T00:00:00.000Z"
+        },
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "superpowers - An agentic skills framework & software development methodology that works. 使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 328840,
+          "forks": 29244,
+          "stars_today": 809,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6531,
+            "repo_age_days": 414,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 377,
+            "pr_count": 1403,
+            "star_fork_ratio": 11.24
+          },
+          "trending_days": 12,
+          "first_seen": "2026-11-17T00:00:00.000Z"
+        },
+        {
+          "id": "firecrawl/firecrawl",
+          "name": "firecrawl",
+          "owner": "firecrawl",
+          "url": "https://github.com/firecrawl/firecrawl",
+          "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+          "ai_summary": "firecrawl - Knowledge infrastructure to make your agents smarter. Search, scrape and access ... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 212073,
+          "forks": 11182,
+          "stars_today": 717,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 1277,
+            "repo_age_days": 956,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 843,
+            "pr_count": 4871,
+            "star_fork_ratio": 18.97
+          },
+          "trending_days": 10,
+          "first_seen": "2026-11-19T00:00:00.000Z"
+        },
+        {
+          "id": "HKUDS/CLI-Anything",
+          "name": "CLI-Anything",
+          "owner": "HKUDS",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+          "ai_summary": "CLI-Anything - \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything... 使用 Python 开发。",
+          "language": "Python",
+          "stars": 67321,
+          "forks": 6201,
+          "stars_today": 561,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 1475,
+            "repo_age_days": 265,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 342,
+            "pr_count": 516,
+            "star_fork_ratio": 10.86
+          },
+          "trending_days": 11,
+          "first_seen": "2026-11-18T00:00:00.000Z"
+        },
+        {
+          "id": "mvanhorn/last30days-skill",
+          "name": "last30days-skill",
+          "owner": "mvanhorn",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+          "ai_summary": "last30days-skill - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark... 使用 Python 开发。",
+          "language": "Python",
+          "stars": 76680,
+          "forks": 6832,
+          "stars_today": 519,
+          "stars_this_week": 5072,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5876,
+            "repo_age_days": 308,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 14,
+            "pr_count": 1296,
+            "star_fork_ratio": 11.22
+          },
+          "trending_days": 12,
+          "first_seen": "2026-11-17T00:00:00.000Z"
+        },
+        {
+          "id": "zhouxiaoka/autoclip",
+          "name": "autoclip",
+          "owner": "zhouxiaoka",
+          "url": "https://github.com/zhouxiaoka/autoclip",
+          "description": "AutoClip｜The open-source OpusClip alternative — local-first AI clipping & MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。",
+          "ai_summary": "AutoClip｜The open-source OpusClip alternative — local-first AI clipping & MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Sh…",
+          "language": "Python",
+          "stars": 17949,
+          "forks": 2534,
+          "stars_today": 517,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2131,
+            "repo_age_days": 508,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 27,
+            "pr_count": 511,
+            "star_fork_ratio": 7.08
+          },
+          "trending_days": 9,
+          "first_seen": "2026-11-20T00:00:00.000Z"
+        },
+        {
+          "id": "cathrynlavery/diagram-design",
+          "name": "diagram-design",
+          "owner": "cathrynlavery",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+          "ai_summary": "diagram-design - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory... 使用 HTML 开发。",
+          "language": "HTML",
+          "stars": 74764,
+          "forks": 5078,
+          "stars_today": 499,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2759,
+            "repo_age_days": 225,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 38,
+            "pr_count": 384,
+            "star_fork_ratio": 14.72
+          },
+          "trending_days": 10,
+          "first_seen": "2026-11-19T00:00:00.000Z"
+        },
+        {
+          "id": "toeverything/AFFiNE",
+          "name": "AFFiNE",
+          "owner": "toeverything",
+          "url": "https://github.com/toeverything/AFFiNE",
+          "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+          "ai_summary": "AFFiNE - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-ge... 使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 79741,
+          "forks": 5883,
+          "stars_today": 495,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2119,
+            "repo_age_days": 1580,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 662,
+            "pr_count": 10833,
+            "star_fork_ratio": 13.55
+          },
+          "trending_days": 9,
+          "first_seen": "2026-11-20T00:00:00.000Z"
+        },
+        {
+          "id": "jingyaogong/minimind",
+          "name": "minimind",
+          "owner": "jingyaogong",
+          "url": "https://github.com/jingyaogong/minimind",
+          "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+          "ai_summary": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+          "language": "Python",
+          "stars": 72471,
+          "forks": 9496,
+          "stars_today": 391,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2447,
+            "repo_age_days": 854,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 73,
+            "pr_count": 211,
+            "star_fork_ratio": 7.63
+          },
+          "trending_days": 6,
+          "first_seen": "2026-11-23T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "AI": 7,
+          "Skills": 6,
+          "Agent": 5
+        }
+      }
     }
   ]
 }
